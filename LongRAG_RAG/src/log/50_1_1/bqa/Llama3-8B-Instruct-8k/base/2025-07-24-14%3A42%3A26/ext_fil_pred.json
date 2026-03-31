@@ -1,0 +1,200 @@
+{"question": "Can we say at least one of the following must always be true? (a) she will feel hydrated and (b) she doesn't eat too much sugar", "ext_fil_pred": "no", "input_len": 2041}
+{"question": "Can we say at least one of the following must always be true? (a) she won't feel hydrated and (b) she eats too much sugar", "ext_fil_pred": "no", "input_len": 1823}
+{"question": "Can we say at least one of the following must always be true? (a) she will feel hydrated and (b) she eats too much sugar", "ext_fil_pred": "no", "input_len": 2184}
+{"question": "Can we say at least one of the following must always be true? (a) she won't feel hydrated and (b) she doesn't eat too much sugar", "ext_fil_pred": "no", "input_len": 1810}
+{"question": "Can we say at least one of the following must always be true? (a) he will get good grades. and (b) he doesn't watch too much tv.", "ext_fil_pred": "no", "input_len": 1934}
+{"question": "Can we say at least one of the following must always be true? (a) he won't get good grades. and (b) he watches too much tv.", "ext_fil_pred": "no", "input_len": 1834}
+{"question": "Can we say at least one of the following must always be true? (a) he will get good grades. and (b) he watches too much tv.", "ext_fil_pred": "no", "input_len": 2001}
+{"question": "Can we say at least one of the following must always be true? (a) he won't get good grades. and (b) he doesn't watch too much tv.", "ext_fil_pred": "no", "input_len": 2098}
+{"question": "Can we say at least one of the following must always be true? (a) he will feel healthier and (b) he doesn't stay up late", "ext_fil_pred": "yes", "input_len": 1902}
+{"question": "Can we say at least one of the following must always be true? (a) he won't feel healthier and (b) he stays up late", "ext_fil_pred": "no", "input_len": 1599}
+{"question": "Can we say at least one of the following must always be true? (a) he will feel healthier and (b) he stays up late", "ext_fil_pred": "no", "input_len": 1733}
+{"question": "Can we say at least one of the following must always be true? (a) he won't feel healthier and (b) he doesn't stay up late", "ext_fil_pred": "no", "input_len": 1813}
+{"question": "Can we say at least one of the following must always be true? (a) he will feel refreshed and (b) he doesn't take on more tasks", "ext_fil_pred": "yes", "input_len": 1872}
+{"question": "Can we say at least one of the following must always be true? (a) he won't feel refreshed and (b) he takes on more tasks", "ext_fil_pred": "no", "input_len": 1918}
+{"question": "Can we say at least one of the following must always be true? (a) he will feel refreshed and (b) he takes on more tasks", "ext_fil_pred": "no", "input_len": 2053}
+{"question": "Can we say at least one of the following must always be true? (a) he won't feel refreshed and (b) he doesn't take on more tasks", "ext_fil_pred": "no", "input_len": 1707}
+{"question": "Can we say at least one of the following must always be true? (a) she will arrive on time. and (b) she doesn't take a cab.", "ext_fil_pred": "no", "input_len": 2025}
+{"question": "Can we say at least one of the following must always be true? (a) she won't arrive on time. and (b) she takes a cab.", "ext_fil_pred": "yes", "input_len": 2086}
+{"question": "Can we say at least one of the following must always be true? (a) she will arrive on time. and (b) she takes a cab.", "ext_fil_pred": "no", "input_len": 2004}
+{"question": "Can we say at least one of the following must always be true? (a) she won't arrive on time. and (b) she doesn't take a cab.", "ext_fil_pred": "no", "input_len": 2029}
+{"question": "Can we say at least one of the following must always be true? (a) she will become stronger and (b) she doesn't eat unhealthy food", "ext_fil_pred": "no", "input_len": 1742}
+{"question": "Can we say at least one of the following must always be true? (a) she won't become stronger and (b) she eats unhealthy food", "ext_fil_pred": "no", "input_len": 1957}
+{"question": "Can we say at least one of the following must always be true? (a) she will become stronger and (b) she eats unhealthy food", "ext_fil_pred": "no", "input_len": 1610}
+{"question": "Can we say at least one of the following must always be true? (a) she won't become stronger and (b) she doesn't eat unhealthy food", "ext_fil_pred": "no", "input_len": 2224}
+{"question": "Can we say at least one of the following must always be true? (a) he will get a ticket and (b) he doesn't drive safely", "ext_fil_pred": "Yes", "input_len": 1742}
+{"question": "Can we say at least one of the following must always be true? (a) he won't get a ticket and (b) he drives safely", "ext_fil_pred": "no", "input_len": 1706}
+{"question": "Can we say at least one of the following must always be true? (a) he will get a ticket and (b) he drives safely", "ext_fil_pred": "yes", "input_len": 1789}
+{"question": "Can we say at least one of the following must always be true? (a) he won't get a ticket and (b) he doesn't drive safely", "ext_fil_pred": "no", "input_len": 1776}
+{"question": "Can we say at least one of the following must always be true? (a) he becomes addicted to it and (b) he doesn't go outdoors more often", "ext_fil_pred": "no", "input_len": 1607}
+{"question": "Can we say at least one of the following must always be true? (a) he doesn't become addicted to it and (b) he goes outdoors more often", "ext_fil_pred": "no", "input_len": 1605}
+{"question": "Can we say at least one of the following must always be true? (a) he becomes addicted to it and (b) he goes outdoors more often", "ext_fil_pred": "no", "input_len": 2021}
+{"question": "Can we say at least one of the following must always be true? (a) he doesn't become addicted to it and (b) he doesn't go outdoors more often", "ext_fil_pred": "no", "input_len": 2006}
+{"question": "Can we say at least one of the following must always be true? (a) he will be more productive and (b) he doesn't keep his phone on", "ext_fil_pred": "no", "input_len": 1680}
+{"question": "Can we say at least one of the following must always be true? (a) he won't be more productive and (b) he keeps his phone on", "ext_fil_pred": "no", "input_len": 1886}
+{"question": "Can we say at least one of the following must always be true? (a) he will be more productive and (b) he keeps his phone on", "ext_fil_pred": "yes", "input_len": 1946}
+{"question": "Can we say at least one of the following must always be true? (a) he won't be more productive and (b) he doesn't keep his phone on", "ext_fil_pred": "no", "input_len": 1653}
+{"question": "Can we say at least one of the following must always be true? (a) he will help the environment and (b) he doesn't pollute the air", "ext_fil_pred": "yes", "input_len": 1577}
+{"question": "Can we say at least one of the following must always be true? (a) he won't help the environment and (b) he pollutes the air", "ext_fil_pred": "no", "input_len": 2009}
+{"question": "Can we say at least one of the following must always be true? (a) he will help the environment and (b) he pollutes the air", "ext_fil_pred": "no", "input_len": 1659}
+{"question": "Can we say at least one of the following must always be true? (a) he won't help the environment and (b) he doesn't pollute the air", "ext_fil_pred": "no", "input_len": 1914}
+{"question": "Can we say at least one of the following must always be true? (a) he has increased stress and (b) he doesn't meditate regularly", "ext_fil_pred": "no", "input_len": 2047}
+{"question": "Can we say at least one of the following must always be true? (a) he doesn't have increased stress and (b) he meditates regularly", "ext_fil_pred": "no", "input_len": 1653}
+{"question": "Can we say at least one of the following must always be true? (a) he has increased stress and (b) he meditates regularly", "ext_fil_pred": "no", "input_len": 1869}
+{"question": "Can we say at least one of the following must always be true? (a) he doesn't have increased stress and (b) he doesn't meditate regularly", "ext_fil_pred": "no", "input_len": 1950}
+{"question": "Can we say at least one of the following must always be true? (a) he will become exhausted and (b) he doesn't take breaks", "ext_fil_pred": "no", "input_len": 1868}
+{"question": "Can we say at least one of the following must always be true? (a) he won't become exhausted and (b) he takes breaks", "ext_fil_pred": "no", "input_len": 2022}
+{"question": "Can we say at least one of the following must always be true? (a) he will become exhausted and (b) he takes breaks", "ext_fil_pred": "no", "input_len": 1582}
+{"question": "Can we say at least one of the following must always be true? (a) he won't become exhausted and (b) he doesn't take breaks", "ext_fil_pred": "no", "input_len": 2082}
+{"question": "Can we say at least one of the following must always be true? (a) she will arrive quickly and (b) she doesn't climb the stairs", "ext_fil_pred": "no", "input_len": 1906}
+{"question": "Can we say at least one of the following must always be true? (a) she won't arrive quickly and (b) she climbs the stairs", "ext_fil_pred": "no", "input_len": 1996}
+{"question": "Can we say at least one of the following must always be true? (a) she will arrive quickly and (b) she climbs the stairs", "ext_fil_pred": "no", "input_len": 1858}
+{"question": "Can we say at least one of the following must always be true? (a) she won't arrive quickly and (b) she doesn't climb the stairs", "ext_fil_pred": "no", "input_len": 1631}
+{"question": "Can we say at least one of the following must always be true? (a) he will suffer from diseases and (b) he doesn't take care of his health", "ext_fil_pred": "no", "input_len": 1903}
+{"question": "Can we say at least one of the following must always be true? (a) he won't suffer from diseases and (b) he takes care of his health", "ext_fil_pred": "no", "input_len": 1592}
+{"question": "Can we say at least one of the following must always be true? (a) he will suffer from diseases and (b) he takes care of his health", "ext_fil_pred": "no", "input_len": 1531}
+{"question": "Can we say at least one of the following must always be true? (a) he won't suffer from diseases and (b) he doesn't take care of his health", "ext_fil_pred": "no", "input_len": 1587}
+{"question": "Can we say at least one of the following must always be true? (a) he will stay fit and (b) he doesn't eat unhealthy food", "ext_fil_pred": "no", "input_len": 1876}
+{"question": "Can we say at least one of the following must always be true? (a) he won't stay fit and (b) he eats unhealthy food", "ext_fil_pred": "no", "input_len": 1797}
+{"question": "Can we say at least one of the following must always be true? (a) he will stay fit and (b) he eats unhealthy food", "ext_fil_pred": "yes", "input_len": 1635}
+{"question": "Can we say at least one of the following must always be true? (a) he won't stay fit and (b) he doesn't eat unhealthy food", "ext_fil_pred": "no", "input_len": 2309}
+{"question": "Can we say at least one of the following must always be true? (a) he will feel sluggish. and (b) he doesn't eat organic food.", "ext_fil_pred": "Yes", "input_len": 1607}
+{"question": "Can we say at least one of the following must always be true? (a) he won't feel sluggish. and (b) he eats organic food.", "ext_fil_pred": "no", "input_len": 2083}
+{"question": "Can we say at least one of the following must always be true? (a) he will feel sluggish. and (b) he eats organic food.", "ext_fil_pred": "yes", "input_len": 1629}
+{"question": "Can we say at least one of the following must always be true? (a) he won't feel sluggish. and (b) he doesn't eat organic food.", "ext_fil_pred": "no", "input_len": 1750}
+{"question": "Can we say at least one of the following must always be true? (a) he will get a tan and (b) he doesn't stay inside for long hours", "ext_fil_pred": "no", "input_len": 1713}
+{"question": "Can we say at least one of the following must always be true? (a) he won't get a tan and (b) he stays inside for long hours", "ext_fil_pred": "no", "input_len": 1940}
+{"question": "Can we say at least one of the following must always be true? (a) he will get a tan and (b) he stays inside for long hours", "ext_fil_pred": "no", "input_len": 1867}
+{"question": "Can we say at least one of the following must always be true? (a) he won't get a tan and (b) he doesn't stay inside for long hours", "ext_fil_pred": "no", "input_len": 2106}
+{"question": "Can we say at least one of the following must always be true? (a) she will learn new skills and (b) she doesn't stay up late", "ext_fil_pred": "no", "input_len": 1701}
+{"question": "Can we say at least one of the following must always be true? (a) she won't learn new skills and (b) she stays up late", "ext_fil_pred": "no", "input_len": 1881}
+{"question": "Can we say at least one of the following must always be true? (a) she will learn new skills and (b) she stays up late", "ext_fil_pred": "no", "input_len": 1497}
+{"question": "Can we say at least one of the following must always be true? (a) she won't learn new skills and (b) she doesn't stay up late", "ext_fil_pred": "yes", "input_len": 1516}
+{"question": "Can we say at least one of the following must always be true? (a) it will remain fresh for a longer time and (b) he doesn't keep food outside", "ext_fil_pred": "yes", "input_len": 1589}
+{"question": "Can we say at least one of the following must always be true? (a) it won't remain fresh for a longer time and (b) he keeps food outside", "ext_fil_pred": "no", "input_len": 1538}
+{"question": "Can we say at least one of the following must always be true? (a) it will remain fresh for a longer time and (b) he keeps food outside", "ext_fil_pred": "yes", "input_len": 1607}
+{"question": "Can we say at least one of the following must always be true? (a) it won't remain fresh for a longer time and (b) he doesn't keep food outside", "ext_fil_pred": "Yes", "input_len": 1545}
+{"question": "Can we say at least one of the following must always be true? (a) she will get a ticket and (b) she doesn't drive safely", "ext_fil_pred": "yes", "input_len": 2034}
+{"question": "Can we say at least one of the following must always be true? (a) she won't get a ticket and (b) she drives safely", "ext_fil_pred": "no", "input_len": 1929}
+{"question": "Can we say at least one of the following must always be true? (a) she will get a ticket and (b) she drives safely", "ext_fil_pred": "yes", "input_len": 1866}
+{"question": "Can we say at least one of the following must always be true? (a) she won't get a ticket and (b) she doesn't drive safely", "ext_fil_pred": "no", "input_len": 2057}
+{"question": "Can we say at least one of the following must always be true? (a) he will frame it and (b) he will publish it.", "ext_fil_pred": "no", "input_len": 1768}
+{"question": "Can we say at least one of the following must always be true? (a) he won't frame it and (b) he will publish it.", "ext_fil_pred": "no", "input_len": 1585}
+{"question": "Can we say at least one of the following must always be true? (a) he will frame it and (b) he won't publish it.", "ext_fil_pred": "no", "input_len": 1632}
+{"question": "Can we say at least one of the following must always be true? (a) he won't frame it and (b) he won't publish it.", "ext_fil_pred": "no", "input_len": 1624}
+{"question": "Can we say at least one of the following must always be true? (a) she will go to the movies. and (b) she will go to the library.", "ext_fil_pred": "no", "input_len": 1653}
+{"question": "Can we say at least one of the following must always be true? (a) she won't go to the movies. and (b) she will go to the library.", "ext_fil_pred": "no", "input_len": 2132}
+{"question": "Can we say at least one of the following must always be true? (a) she will go to the movies. and (b) she won't go to the library.", "ext_fil_pred": "no", "input_len": 1831}
+{"question": "Can we say at least one of the following must always be true? (a) she won't go to the movies. and (b) she won't go to the library.", "ext_fil_pred": "no", "input_len": 2117}
+{"question": "Can we say at least one of the following must always be true? (a) his friends will join for a game and (b) her brother will join them.", "ext_fil_pred": "no", "input_len": 1687}
+{"question": "Can we say at least one of the following must always be true? (a) his friends won't join for a game and (b) her brother will join them.", "ext_fil_pred": "no", "input_len": 1818}
+{"question": "Can we say at least one of the following must always be true? (a) his friends will join for a game and (b) her brother won't join them.", "ext_fil_pred": "no", "input_len": 1653}
+{"question": "Can we say at least one of the following must always be true? (a) his friends won't join for a game and (b) her brother won't join them.", "ext_fil_pred": "no", "input_len": 1821}
+{"question": "Can we say at least one of the following must always be true? (a) he will take a break and (b) he will have lunch", "ext_fil_pred": "no", "input_len": 1955}
+{"question": "Can we say at least one of the following must always be true? (a) he won't take a break and (b) he will have lunch", "ext_fil_pred": "yes", "input_len": 1846}
+{"question": "Can we say at least one of the following must always be true? (a) he will take a break and (b) he won't have lunch", "ext_fil_pred": "yes", "input_len": 1704}
+{"question": "Can we say at least one of the following must always be true? (a) he won't take a break and (b) he won't have lunch", "ext_fil_pred": "no", "input_len": 1578}
+{"question": "Can we say at least one of the following must always be true? (a) his friends will join in  and (b) her family will join in", "ext_fil_pred": "no", "input_len": 2053}
+{"question": "Can we say at least one of the following must always be true? (a) his friends won't join in and (b) her family will join in", "ext_fil_pred": "no", "input_len": 2268}
+{"question": "Can we say at least one of the following must always be true? (a) his friends will join in  and (b) her family won't join in", "ext_fil_pred": "no", "input_len": 1732}
+{"question": "Can we say at least one of the following must always be true? (a) his friends won't join in and (b) her family won't join in", "ext_fil_pred": "no", "input_len": 1879}
+{"question": "Can we say at least one of the following must always be true? (a) she will get to the office on time. and (b) she will attend her classes.", "ext_fil_pred": "yes", "input_len": 1519}
+{"question": "Can we say at least one of the following must always be true? (a) she won't get to the office on time. and (b) she will attend her classes.", "ext_fil_pred": "no", "input_len": 1929}
+{"question": "Can we say at least one of the following must always be true? (a) she will get to the office on time. and (b) she won't attend her classes.", "ext_fil_pred": "no", "input_len": 1971}
+{"question": "Can we say at least one of the following must always be true? (a) she won't get to the office on time. and (b) she won't attend her classes.", "ext_fil_pred": "no", "input_len": 1639}
+{"question": "Can we say at least one of the following must always be true? (a) she will read a book and (b) she will play a game", "ext_fil_pred": "yes", "input_len": 1686}
+{"question": "Can we say at least one of the following must always be true? (a) she won't read a book and (b) she will play a game", "ext_fil_pred": "no", "input_len": 1764}
+{"question": "Can we say at least one of the following must always be true? (a) she will read a book and (b) she won't play a game", "ext_fil_pred": "yes", "input_len": 1653}
+{"question": "Can we say at least one of the following must always be true? (a) she won't read a book and (b) she won't play a game", "ext_fil_pred": "no", "input_len": 1842}
+{"question": "Can we say at least one of the following must always be true? (a) she will listen to the birds chirping  and (b) she will feel the sand between her toes", "ext_fil_pred": "no", "input_len": 1775}
+{"question": "Can we say at least one of the following must always be true? (a) she won't listen to the birds chirping and (b) she will feel the sand between her toes", "ext_fil_pred": "no", "input_len": 1645}
+{"question": "Can we say at least one of the following must always be true? (a) she will listen to the birds chirping  and (b) she won't feel the sand between her toes", "ext_fil_pred": "no", "input_len": 1867}
+{"question": "Can we say at least one of the following must always be true? (a) she won't listen to the birds chirping and (b) she won't feel the sand between her toes", "ext_fil_pred": "no", "input_len": 1859}
+{"question": "Can we say at least one of the following must always be true? (a) she will water the tree regularly and (b) he will prune the bush", "ext_fil_pred": "yes", "input_len": 1808}
+{"question": "Can we say at least one of the following must always be true? (a) she won't water the tree regularly and (b) he will prune the bush", "ext_fil_pred": "no", "input_len": 1951}
+{"question": "Can we say at least one of the following must always be true? (a) she will water the tree regularly and (b) he won't prune the bush", "ext_fil_pred": "no", "input_len": 2021}
+{"question": "Can we say at least one of the following must always be true? (a) she won't water the tree regularly and (b) he won't prune the bush", "ext_fil_pred": "no", "input_len": 2004}
+{"question": "Can we say at least one of the following must always be true? (a) she will enjoy the sunset  and (b) she will have a picnic", "ext_fil_pred": "no", "input_len": 2158}
+{"question": "Can we say at least one of the following must always be true? (a) she won't enjoy the sunset and (b) she will have a picnic", "ext_fil_pred": "no", "input_len": 1801}
+{"question": "Can we say at least one of the following must always be true? (a) she will enjoy the sunset  and (b) she won't have a picnic", "ext_fil_pred": "no", "input_len": 1745}
+{"question": "Can we say at least one of the following must always be true? (a) she won't enjoy the sunset and (b) she won't have a picnic", "ext_fil_pred": "no", "input_len": 1679}
+{"question": "Can we say at least one of the following must always be true? (a) they will complete their assignments. and (b) they will have fun.", "ext_fil_pred": "False", "input_len": 1488}
+{"question": "Can we say at least one of the following must always be true? (a) they won't complete their assignments. and (b) they will have fun.", "ext_fil_pred": "no", "input_len": 1852}
+{"question": "Can we say at least one of the following must always be true? (a) they will complete their assignments. and (b) they won't have fun.", "ext_fil_pred": "no", "input_len": 2029}
+{"question": "Can we say at least one of the following must always be true? (a) they won't complete their assignments. and (b) they won't have fun.", "ext_fil_pred": "no", "input_len": 1556}
+{"question": "Can we say at least one of the following must always be true? (a) he will have a salad for dinner  and (b) he will have a smoothie for dessert", "ext_fil_pred": "no", "input_len": 1863}
+{"question": "Can we say at least one of the following must always be true? (a) he won't have a salad for dinner and (b) he will have a smoothie for dessert", "ext_fil_pred": "no", "input_len": 1586}
+{"question": "Can we say at least one of the following must always be true? (a) he will have a salad for dinner  and (b) he won't have a smoothie for dessert", "ext_fil_pred": "no", "input_len": 1957}
+{"question": "Can we say at least one of the following must always be true? (a) he won't have a salad for dinner and (b) he won't have a smoothie for dessert", "ext_fil_pred": "no", "input_len": 2027}
+{"question": "Can we say at least one of the following must always be true? (a) he will watch a movie and (b) he will go shopping", "ext_fil_pred": "no", "input_len": 2015}
+{"question": "Can we say at least one of the following must always be true? (a) he won't watch a movie and (b) he will go shopping", "ext_fil_pred": "no", "input_len": 1564}
+{"question": "Can we say at least one of the following must always be true? (a) he will watch a movie and (b) he won't go shopping", "ext_fil_pred": "no", "input_len": 1849}
+{"question": "Can we say at least one of the following must always be true? (a) he won't watch a movie and (b) he won't go shopping", "ext_fil_pred": "no", "input_len": 2068}
+{"question": "Can we say at least one of the following must always be true? (a) she will feed the birds and (b) she will read a book", "ext_fil_pred": "yes", "input_len": 1886}
+{"question": "Can we say at least one of the following must always be true? (a) she won't feed the birds and (b) she will read a book", "ext_fil_pred": "no", "input_len": 1881}
+{"question": "Can we say at least one of the following must always be true? (a) she will feed the birds and (b) she won't read a book", "ext_fil_pred": "yes", "input_len": 1751}
+{"question": "Can we say at least one of the following must always be true? (a) she won't feed the birds and (b) she won't read a book", "ext_fil_pred": "no", "input_len": 1917}
+{"question": "Can we say at least one of the following must always be true? (a) she will get good grades. and (b) she will spend time with her friends.", "ext_fil_pred": "no", "input_len": 1540}
+{"question": "Can we say at least one of the following must always be true? (a) she won't get good grades. and (b) she will spend time with her friends.", "ext_fil_pred": "yes", "input_len": 1562}
+{"question": "Can we say at least one of the following must always be true? (a) she will get good grades. and (b) she won't spend time with her friends.", "ext_fil_pred": "yes", "input_len": 1813}
+{"question": "Can we say at least one of the following must always be true? (a) she won't get good grades. and (b) she won't spend time with her friends.", "ext_fil_pred": "no", "input_len": 1632}
+{"question": "Can we say at least one of the following must always be true? (a) Sarah will enjoy it and (b) she will appreciate it", "ext_fil_pred": "Yes", "input_len": 1764}
+{"question": "Can we say at least one of the following must always be true? (a) Sarah won't enjoy it and (b) she will appreciate it", "ext_fil_pred": "Yes", "input_len": 1932}
+{"question": "Can we say at least one of the following must always be true? (a) Sarah will enjoy it and (b) she won't appreciate it", "ext_fil_pred": "yes", "input_len": 1935}
+{"question": "Can we say at least one of the following must always be true? (a) Sarah won't enjoy it and (b) she won't appreciate it", "ext_fil_pred": "no", "input_len": 1675}
+{"question": "Can we say at least one of the following must always be true? (a) the tree will grow and bear fruits and (b) the flower will bloom and be admired", "ext_fil_pred": "no", "input_len": 2037}
+{"question": "Can we say at least one of the following must always be true? (a) the tree won't grow and bear fruits and (b) the flower will bloom and be admired", "ext_fil_pred": "no", "input_len": 2063}
+{"question": "Can we say at least one of the following must always be true? (a) the tree will grow and bear fruits and (b) the flower won't bloom and be admired", "ext_fil_pred": "no", "input_len": 1694}
+{"question": "Can we say at least one of the following must always be true? (a) the tree won't grow and bear fruits and (b) the flower won't bloom and be admired", "ext_fil_pred": "no", "input_len": 1934}
+{"question": "Can we say at least one of the following must always be true? (a) he will complete the race and (b) he will have improved his stamina", "ext_fil_pred": "yes", "input_len": 1506}
+{"question": "Can we say at least one of the following must always be true? (a) he won't complete the race and (b) he will have improved his stamina", "ext_fil_pred": "Yes", "input_len": 1965}
+{"question": "Can we say at least one of the following must always be true? (a) he will complete the race and (b) he won't have improved his stamina", "ext_fil_pred": "no", "input_len": 1854}
+{"question": "Can we say at least one of the following must always be true? (a) he won't complete the race and (b) he won't have improved his stamina", "ext_fil_pred": "no", "input_len": 1800}
+{"question": "Can we say at least one of the following must always be true? (a) he will put out the fire. and (b) she will investigate the crime.", "ext_fil_pred": "yes", "input_len": 1993}
+{"question": "Can we say at least one of the following must always be true? (a) he won't put out the fire. and (b) she will investigate the crime.", "ext_fil_pred": "no", "input_len": 1841}
+{"question": "Can we say at least one of the following must always be true? (a) he will put out the fire. and (b) she won't investigate the crime.", "ext_fil_pred": "yes", "input_len": 1992}
+{"question": "Can we say at least one of the following must always be true? (a) he won't put out the fire. and (b) she won't investigate the crime.", "ext_fil_pred": "no", "input_len": 2057}
+{"question": "Can we say at least one of the following must always be true? (a) her parents will join and (b) her friend will join", "ext_fil_pred": "yes", "input_len": 1736}
+{"question": "Can we say at least one of the following must always be true? (a) her parents won't join and (b) her friend will join", "ext_fil_pred": "no", "input_len": 2135}
+{"question": "Can we say at least one of the following must always be true? (a) her parents will join and (b) her friend won't join", "ext_fil_pred": "no", "input_len": 2430}
+{"question": "Can we say at least one of the following must always be true? (a) her parents won't join and (b) her friend won't join", "ext_fil_pred": "no", "input_len": 2243}
+{"question": "Can we say at least one of the following must always be true? (a) jenny doesn't take care of her health and (b) she doesn't indulge in unhealthy habits", "ext_fil_pred": "no", "input_len": 2146}
+{"question": "Can we say at least one of the following must always be true? (a) jenny takes care of her health and (b) she indulges in unhealthy habits", "ext_fil_pred": "no", "input_len": 2108}
+{"question": "Can we say at least one of the following must always be true? (a) jenny doesn't take care of her health and (b) she indulges in unhealthy habits", "ext_fil_pred": "no", "input_len": 1871}
+{"question": "Can we say at least one of the following must always be true? (a) jenny takes care of her health and (b) she doesn't indulge in unhealthy habits", "ext_fil_pred": "no", "input_len": 1706}
+{"question": "Can we say at least one of the following must always be true? (a) jill doesn't take a walk. and (b) she doesn't watch tv.", "ext_fil_pred": "no", "input_len": 2138}
+{"question": "Can we say at least one of the following must always be true? (a) jill takes a walk. and (b) she watches tv.", "ext_fil_pred": "yes", "input_len": 1740}
+{"question": "Can we say at least one of the following must always be true? (a) jill doesn't take a walk. and (b) she watches tv.", "ext_fil_pred": "no", "input_len": 1754}
+{"question": "Can we say at least one of the following must always be true? (a) jill takes a walk. and (b) she doesn't watch tv.", "ext_fil_pred": "no", "input_len": 1850}
+{"question": "Can we say at least one of the following must always be true? (a) linda doesn't turn off the lights and (b) she doesn't use a generator", "ext_fil_pred": "no", "input_len": 1763}
+{"question": "Can we say at least one of the following must always be true? (a) linda turns off the lights  and (b) she uses a generator", "ext_fil_pred": "no", "input_len": 1642}
+{"question": "Can we say at least one of the following must always be true? (a) linda doesn't turn off the lights and (b) she uses a generator", "ext_fil_pred": "no", "input_len": 1691}
+{"question": "Can we say at least one of the following must always be true? (a) linda turns off the lights  and (b) she doesn't use a generator", "ext_fil_pred": "no", "input_len": 1842}
+{"question": "Can we say at least one of the following must always be true? (a) jill doesn't read a lot and (b) she doesn't watch television", "ext_fil_pred": "no", "input_len": 1696}
+{"question": "Can we say at least one of the following must always be true? (a) jill reads a lot  and (b) she watches television", "ext_fil_pred": "no", "input_len": 1823}
+{"question": "Can we say at least one of the following must always be true? (a) jill doesn't read a lot and (b) she watches television", "ext_fil_pred": "no", "input_len": 1869}
+{"question": "Can we say at least one of the following must always be true? (a) jill reads a lot  and (b) she doesn't watch television", "ext_fil_pred": "no", "input_len": 2083}
+{"question": "Can we say at least one of the following must always be true? (a) john doesn't take a test and (b) he revises enough", "ext_fil_pred": "no", "input_len": 1838}
+{"question": "Can we say at least one of the following must always be true? (a) john takes a test  and (b) he does not revise enough", "ext_fil_pred": "no", "input_len": 1947}
+{"question": "Can we say at least one of the following must always be true? (a) john doesn't take a test and (b) he does not revise enough", "ext_fil_pred": "no", "input_len": 1842}
+{"question": "Can we say at least one of the following must always be true? (a) john takes a test  and (b) he revises enough", "ext_fil_pred": "yes", "input_len": 1604}
+{"question": "Can we say at least one of the following must always be true? (a) john doesn't drive carefully and (b) he doesn't speed up", "ext_fil_pred": "Yes", "input_len": 1956}
+{"question": "Can we say at least one of the following must always be true? (a) john drives carefully and (b) he speeds up", "ext_fil_pred": "no", "input_len": 1952}
+{"question": "Can we say at least one of the following must always be true? (a) john doesn't drive carefully and (b) he speeds up", "ext_fil_pred": "yes", "input_len": 1789}
+{"question": "Can we say at least one of the following must always be true? (a) john drives carefully and (b) he doesn't speed up", "ext_fil_pred": "no", "input_len": 1563}
+{"question": "Can we say at least one of the following must always be true? (a) jane doesn't send a letter and (b) he sends a letter", "ext_fil_pred": "no", "input_len": 1747}
+{"question": "Can we say at least one of the following must always be true? (a) jane sends a letter and (b) he doesn't send a letter", "ext_fil_pred": "no", "input_len": 1852}
+{"question": "Can we say at least one of the following must always be true? (a) jane doesn't send a letter and (b) he doesn't send a letter", "ext_fil_pred": "no", "input_len": 1598}
+{"question": "Can we say at least one of the following must always be true? (a) jane sends a letter and (b) he sends a letter", "ext_fil_pred": "no", "input_len": 1554}
+{"question": "Can we say at least one of the following must always be true? (a) sara didn't buy a car and (b) she didn't sell her car", "ext_fil_pred": "no", "input_len": 1897}
+{"question": "Can we say at least one of the following must always be true? (a) sara bought a car  and (b) she sold her car", "ext_fil_pred": "yes", "input_len": 2068}
+{"question": "Can we say at least one of the following must always be true? (a) sara didn't buy a car and (b) she sold her car", "ext_fil_pred": "no", "input_len": 1588}
+{"question": "Can we say at least one of the following must always be true? (a) sara bought a car  and (b) she didn't sell her car", "ext_fil_pred": "no", "input_len": 1843}
+{"question": "Can we say at least one of the following must always be true? (a) sarah doesn't take a risk. and (b) she doesn't play it safe.", "ext_fil_pred": "Yes", "input_len": 1607}
+{"question": "Can we say at least one of the following must always be true? (a) sarah takes a risk. and (b) she plays it safe.", "ext_fil_pred": "no", "input_len": 1609}
+{"question": "Can we say at least one of the following must always be true? (a) sarah doesn't take a risk. and (b) she plays it safe.", "ext_fil_pred": "Yes", "input_len": 2106}
+{"question": "Can we say at least one of the following must always be true? (a) sarah takes a risk. and (b) she doesn't play it safe.", "ext_fil_pred": "Yes", "input_len": 1690}
+{"question": "Can we say at least one of the following must always be true? (a) hannah doesn't take the bus and (b) she doesn't drive her own car", "ext_fil_pred": "no", "input_len": 1851}
+{"question": "Can we say at least one of the following must always be true? (a) hannah takes the bus  and (b) she drives her own car", "ext_fil_pred": "no", "input_len": 1863}
+{"question": "Can we say at least one of the following must always be true? (a) hannah doesn't take the bus and (b) she drives her own car", "ext_fil_pred": "no", "input_len": 1864}
+{"question": "Can we say at least one of the following must always be true? (a) hannah takes the bus  and (b) she doesn't drive her own car", "ext_fil_pred": "no", "input_len": 1815}

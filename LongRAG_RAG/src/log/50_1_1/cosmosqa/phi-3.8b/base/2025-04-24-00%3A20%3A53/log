@@ -1,0 +1,31 @@
+[2025-04-24 00:20:59][INFO] - ****************************** CONFIGURATION ******************************
+[2025-04-24 00:20:59][INFO] - MaxClients                     --> 1
+[2025-04-24 00:20:59][INFO] - dataset                        --> cosmosqa
+[2025-04-24 00:20:59][INFO] - ext                            --> False
+[2025-04-24 00:20:59][INFO] - ext_fil                        --> True
+[2025-04-24 00:20:59][INFO] - fil                            --> False
+[2025-04-24 00:20:59][INFO] - log_path                       --> 
+[2025-04-24 00:20:59][INFO] - lrag_model                     --> 
+[2025-04-24 00:20:59][INFO] - model                          --> phi-3.8b
+[2025-04-24 00:20:59][INFO] - r_path                         --> ../data/corpus/processed/50_1_1
+[2025-04-24 00:20:59][INFO] - raw_context_pred               --> False
+[2025-04-24 00:20:59][INFO] - raw_pred                       --> False
+[2025-04-24 00:20:59][INFO] - rb                             --> False
+[2025-04-24 00:20:59][INFO] - rl                             --> False
+[2025-04-24 00:20:59][INFO] - top_k1                         --> 100
+[2025-04-24 00:20:59][INFO] - top_k2                         --> 20
+[2025-04-24 00:20:59][INFO] - LongRAG model used: 
+[2025-04-24 00:20:59][INFO] - ****************************** CONFIGURATION ******************************
+[2025-04-24 00:20:59][DEBUG] - Starting new HTTPS connection (1): s3.amazonaws.com:443
+[2025-04-24 00:21:00][DEBUG] - https://s3.amazonaws.com:443 "HEAD /datasets.huggingface.co/datasets/datasets/csv/csv.py HTTP/11" 200 0
+[2025-04-24 00:21:00][DEBUG] - Attempting to acquire lock 22988450751376 on /public/home/ncu_418000240001/.cache/huggingface/datasets/_public_home_ncu_418000240001_.cache_huggingface_datasets_csv_default-2286f835214b84e9_0.0.0_eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d.lock
+[2025-04-24 00:21:00][DEBUG] - Lock 22988450751376 acquired on /public/home/ncu_418000240001/.cache/huggingface/datasets/_public_home_ncu_418000240001_.cache_huggingface_datasets_csv_default-2286f835214b84e9_0.0.0_eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d.lock
+[2025-04-24 00:21:00][DEBUG] - open file: /public/home/ncu_418000240001/.cache/huggingface/datasets/csv/default-2286f835214b84e9/0.0.0/eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d/dataset_info.json
+[2025-04-24 00:21:00][DEBUG] - Attempting to release lock 22988450751376 on /public/home/ncu_418000240001/.cache/huggingface/datasets/_public_home_ncu_418000240001_.cache_huggingface_datasets_csv_default-2286f835214b84e9_0.0.0_eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d.lock
+[2025-04-24 00:21:00][DEBUG] - Lock 22988450751376 released on /public/home/ncu_418000240001/.cache/huggingface/datasets/_public_home_ncu_418000240001_.cache_huggingface_datasets_csv_default-2286f835214b84e9_0.0.0_eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d.lock
+[2025-04-24 00:21:01][DEBUG] - Attempting to acquire lock 22987797904144 on /public/home/ncu_418000240001/.cache/huggingface/datasets/csv/default-2286f835214b84e9/0.0.0/eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d_builder.lock
+[2025-04-24 00:21:01][DEBUG] - Lock 22987797904144 acquired on /public/home/ncu_418000240001/.cache/huggingface/datasets/csv/default-2286f835214b84e9/0.0.0/eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d_builder.lock
+[2025-04-24 00:21:01][DEBUG] - open file: /public/home/ncu_418000240001/.cache/huggingface/datasets/csv/default-2286f835214b84e9/0.0.0/eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d/dataset_info.json
+[2025-04-24 00:21:01][DEBUG] - Attempting to release lock 22987797904144 on /public/home/ncu_418000240001/.cache/huggingface/datasets/csv/default-2286f835214b84e9/0.0.0/eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d_builder.lock
+[2025-04-24 00:21:01][DEBUG] - Lock 22987797904144 released on /public/home/ncu_418000240001/.cache/huggingface/datasets/csv/default-2286f835214b84e9/0.0.0/eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d_builder.lock
+[2025-04-24 00:21:08][WARNING] - You are not running the flash-attention implementation, expect numerical differences.

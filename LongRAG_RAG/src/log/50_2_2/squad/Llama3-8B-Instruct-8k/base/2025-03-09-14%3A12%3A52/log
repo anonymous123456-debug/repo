@@ -1,0 +1,518 @@
+[2025-03-09 14:13:00][INFO] - ****************************** CONFIGURATION ******************************
+[2025-03-09 14:13:00][INFO] - MaxClients                     --> 1
+[2025-03-09 14:13:00][INFO] - dataset                        --> squad
+[2025-03-09 14:13:00][INFO] - ext                            --> False
+[2025-03-09 14:13:00][INFO] - ext_fil                        --> True
+[2025-03-09 14:13:00][INFO] - fil                            --> False
+[2025-03-09 14:13:00][INFO] - log_path                       --> 
+[2025-03-09 14:13:00][INFO] - lrag_model                     --> 
+[2025-03-09 14:13:00][INFO] - model                          --> Llama3-8B-Instruct-8k
+[2025-03-09 14:13:00][INFO] - r_path                         --> ../data/corpus/processed/50_2_2
+[2025-03-09 14:13:00][INFO] - raw_context_pred               --> False
+[2025-03-09 14:13:00][INFO] - raw_pred                       --> False
+[2025-03-09 14:13:00][INFO] - rb                             --> False
+[2025-03-09 14:13:00][INFO] - rl                             --> False
+[2025-03-09 14:13:00][INFO] - top_k1                         --> 100
+[2025-03-09 14:13:00][INFO] - top_k2                         --> 10
+[2025-03-09 14:13:00][INFO] - LongRAG model used: 
+[2025-03-09 14:13:00][INFO] - ****************************** CONFIGURATION ******************************
+[2025-03-09 14:13:00][INFO] - Question: Brincourt made preparations to invade which state?
+[2025-03-09 14:13:09][INFO] - Question: There has been a double in the population of people born in which country?
+[2025-03-09 14:13:19][INFO] - Question: What did the Vijayanagara Empire promote to unify Indian culture?
+[2025-03-09 14:13:28][INFO] - Question: About how many police were said to have protected the torch in France?
+[2025-03-09 14:13:37][INFO] - Question: After the bearer of the torch disappeared into a warehouse, what road did the relay reappear on?
+[2025-03-09 14:13:48][INFO] - Question: Is there evidence to support a drop in self-esteem during adolescence?
+[2025-03-09 14:13:57][INFO] - Question: How many American Protestants supported independence in America?
+[2025-03-09 14:14:05][INFO] - Question: What is the driest season on average in St. John's?
+[2025-03-09 14:14:15][INFO] - Question: Who developed a comprehensive theory related to human emotional arousal?
+[2025-03-09 14:14:26][INFO] - Question: Which Olympics did Nagano host?
+[2025-03-09 14:14:34][INFO] - Question: Who else uses a closed distribution platform?
+[2025-03-09 14:14:44][INFO] - Question: Where is third rail situated in the street trams system?
+[2025-03-09 14:14:53][INFO] - Question: Which baseball stadium is found at Notre Dame?
+[2025-03-09 14:15:02][INFO] - Question: What does EPA stand for?
+[2025-03-09 14:15:12][INFO] - Question: What type of party system is the United States?
+[2025-03-09 14:15:22][INFO] - Question: What are challenged to an unpopular political party?
+[2025-03-09 14:15:31][INFO] - Question: What methods did people use before antibiotics to treat infections?
+[2025-03-09 14:15:41][INFO] - Question: How long should it take for an aircraft to be off the airport and in the air?
+[2025-03-09 14:15:51][INFO] - Question: What was an important destination for supply convoys from North America?
+[2025-03-09 14:15:59][INFO] - Question: Why was The Yale Report established?
+[2025-03-09 14:16:09][INFO] - Question: Who killed Brazelton?
+[2025-03-09 14:16:20][INFO] - Question: How many marks did the church lose?
+[2025-03-09 14:16:28][INFO] - Question: When did the Pictish tribe start to inhabit the islands?
+[2025-03-09 14:16:38][INFO] - Question: What did a study done by Elizabeth Loftus and John palmer show?
+[2025-03-09 14:16:50][INFO] - Question: What was the name of the single off the debut album that gave Kanye mainstream attention?
+[2025-03-09 14:17:00][INFO] - Question: Whose return to Apple resulted in the company's reorganization?
+[2025-03-09 14:17:08][INFO] - Question: Who in the generation following the "To Secure These Rights" findings sign legislation for affirmative action into law?
+[2025-03-09 14:17:19][INFO] - Question: The Rajpath was also known by what name?
+[2025-03-09 14:17:27][INFO] - Question: Who condemned Microsoft for requiring devices to have secure boot enabled by default?
+[2025-03-09 14:17:36][INFO] - Question: Who joined Beyonce on her On The Run Tour?
+[2025-03-09 14:17:46][INFO] - Question: The implications of identity and identity construction are discussed in what settings?
+[2025-03-09 14:17:57][INFO] - Question: Who captured Demetrius?
+[2025-03-09 14:18:05][INFO] - Question: Who gets to decide how long stoppage time can go on for?
+[2025-03-09 14:18:16][INFO] - Question: What is the most popular head dress worn?
+[2025-03-09 14:18:26][INFO] - Question: What is the longest river in Ireland?
+[2025-03-09 14:18:34][INFO] - Question: Who won the last election at Reichstag?
+[2025-03-09 14:18:42][INFO] - Question: Who was the US Secretary of Defense in 2002?
+[2025-03-09 14:18:50][INFO] - Question: What is necessary to explain a doctor's normality in sensory terms?
+[2025-03-09 14:19:01][INFO] - Question: On what days did Nanjing have to issue a Red Alert because of the severe air pollution?
+[2025-03-09 14:19:09][INFO] - Question: What is the name of the second largest bank found in Connecticut?
+[2025-03-09 14:19:19][INFO] - Question: What name had not been used for a Pope since the year 1605?
+[2025-03-09 14:19:28][INFO] - Question: On October 16, 2008, how long did UBS predict the United States' recession would last?
+[2025-03-09 14:19:36][INFO] - Question: What essential plan funtion is interrupted by triazines?
+[2025-03-09 14:19:44][INFO] - Question: 355 copper alloys have been proven to kill what percentage of bacteria?
+[2025-03-09 14:19:52][INFO] - Question: How old was Prince Chun?
+[2025-03-09 14:20:03][INFO] - Question: During the Yuan what existed between China and Tibet? 
+[2025-03-09 14:20:14][INFO] - Question: What was the name of the route that linked Germany,Switzerland , Netherlands, and England
+[2025-03-09 14:20:26][INFO] - Question: Underground electrolytic malfunctions in hydraulic elevators can result in the destruction of what? 
+[2025-03-09 14:20:34][INFO] - Question: Who performed the studies that found most homosexual people having different degrees of gender issues?
+[2025-03-09 14:20:42][INFO] - Question: Under which king were the heresy laws repealed in 1547?
+[2025-03-09 14:20:50][INFO] - Question: Why did the attack by the Rus go so well on the coast at the start?
+[2025-03-09 14:21:01][INFO] - Question: The results of which battle allowed the British to blockade French coasts?
+[2025-03-09 14:21:11][INFO] - Question: What have many apartment buildings  surrounding Wrigley Field built on their rooftops?
+[2025-03-09 14:21:21][INFO] - Question: Which color of lasers are widely available to the general public?
+[2025-03-09 14:21:31][INFO] - Question: What year did the first community health center in the US open?
+[2025-03-09 14:21:39][INFO] - Question: Why are antibiotics checked before use?
+[2025-03-09 14:21:49][INFO] - Question: Along with Libya, Morocco, Tunisia and Algeria, who was a founding member of the Arab Maghreb Union?
+[2025-03-09 14:21:58][INFO] - Question: How many professors have been disciplined according to the new Statement on Academic Freedom?
+[2025-03-09 14:22:06][INFO] - Question: Which country developed the 441-line system?
+[2025-03-09 14:22:13][INFO] - Question: When did two whisleblowers allege that Boutris  attempted to ground Southwest Airlines?
+[2025-03-09 14:22:23][INFO] - Question: What does LPC stand for?
+[2025-03-09 14:22:34][INFO] - Question: Name its political capital.
+[2025-03-09 14:22:45][INFO] - Question: Which scientist argued that Darwinism was atheism?
+[2025-03-09 14:22:54][INFO] - Question: What happened in Victoria's life on the day after the one year anniversary of Brown's death?
+[2025-03-09 14:23:03][INFO] - Question: What island separated from mainland Africa 66 million years ago?
+[2025-03-09 14:23:11][INFO] - Question: Who do not teach their faith to Israelis?
+[2025-03-09 14:23:18][INFO] - Question: What was the battle cry of the war?
+[2025-03-09 14:23:28][INFO] - Question: What is another term other than "large" that means a stack of mutiple thousands?
+[2025-03-09 14:23:37][INFO] - Question: How did the The Columbia Encyclopedia describe the Yuan dynasty?
+[2025-03-09 14:23:49][INFO] - Question: When did the English conquer the New Netherland colony?
+[2025-03-09 14:23:58][INFO] - Question: What type of industries are now dominant in Nanjing?
+[2025-03-09 14:24:09][INFO] - Question: The top 3 industries in Nanjing are?
+[2025-03-09 14:24:18][INFO] - Question: What types of retail offerings are found in Cork?
+[2025-03-09 14:24:30][INFO] - Question: Where did ArenaBowl XX take place?
+[2025-03-09 14:24:39][INFO] - Question: When did Chopin receive his first major endorsement from Robert Schumann?
+[2025-03-09 14:24:48][INFO] - Question: What religion spread during the Heian period?
+[2025-03-09 14:24:59][INFO] - Question: What Nobel prize winner has spent most of his life studying Hayek's capital theory despite being critical of the man?
+[2025-03-09 14:25:08][INFO] - Question: What plant did Dell close in Texas?
+[2025-03-09 14:25:17][INFO] - Question: When did Hosokibara create Nihon Manga-Shi?
+[2025-03-09 14:25:25][INFO] - Question: How many hours of bright sunshine does Nanjing get each year?
+[2025-03-09 14:25:33][INFO] - Question: Who was the first notable king of the Franks?
+[2025-03-09 14:25:42][INFO] - Question: Who was forced to retreat back to the Pusan Peninsula due to unpreparedness?
+[2025-03-09 14:25:50][INFO] - Question: Zeus was paired with which local god?
+[2025-03-09 14:25:59][INFO] - Question: What store was founded in Paris, in 1838, which sold a wide variety of products? 
+[2025-03-09 14:26:08][INFO] - Question: What group of scientists study tectonics?
+[2025-03-09 14:26:17][INFO] - Question: What is the main defense of human body against eye infections?
+[2025-03-09 14:26:26][INFO] - Question: Who was the first president of the American Psychological Association?
+[2025-03-09 14:26:32][INFO] - Question: What two hard rock songs are featured on Deep Purple's Machine Head album?
+[2025-03-09 14:26:41][INFO] - Question: Which which university is Fred Donner affiliated?
+[2025-03-09 14:26:49][INFO] - Question: Who called Madonna a dynamic entrepreneur?
+[2025-03-09 14:26:57][INFO] - Question: Which three states was Hyderabad state divided into?
+[2025-03-09 14:27:06][INFO] - Question: Waht country has the largest area of GM cotton on Earth?
+[2025-03-09 14:27:14][INFO] - Question: The Greek national basketball in 2012 held what ranking in Europe?
+[2025-03-09 14:27:21][INFO] - Question: Where did Destiny's Child get their name from?
+[2025-03-09 14:27:30][INFO] - Question: How many miles long is Liquid Telecoms Network?
+[2025-03-09 14:27:40][INFO] - Question: What year did Somalia receive its first fiber optic connection?
+[2025-03-09 14:27:47][INFO] - Question: What kingdom under the Spartocid dynasty consisted of Maeotians, Thracians, Crimean Scythians and Cimmerians?
+[2025-03-09 14:27:57][INFO] - Question: What did Bryan Lessard name after Beyoncé?
+[2025-03-09 14:28:07][INFO] - Question: What do a significant portion of boys remain in until marriage?
+[2025-03-09 14:28:15][INFO] - Question: Which agency regulates safety of pesticides in Canada?
+[2025-03-09 14:28:24][INFO] - Question: When was "Music" released?
+[2025-03-09 14:28:31][INFO] - Question: Who was signed to a contract at 8 years for $136 million?
+[2025-03-09 14:28:40][INFO] - Question: What is one thing, according to the text, that domesticated dogs use humans for?
+[2025-03-09 14:28:49][INFO] - Question: About how many students attend schools in the City University of New York system?
+[2025-03-09 14:28:57][INFO] - Question: What did Reagan wrongly believe Libya to be?
+[2025-03-09 14:29:06][INFO] - Question: Which war transformed many colleges, including Northwestern?
+[2025-03-09 14:29:14][INFO] - Question: In what borough is Silicon Alley located?
+[2025-03-09 14:29:23][INFO] - Question: Who are anthropologists working with along with other social scientists? 
+[2025-03-09 14:29:32][INFO] - Question: What do ecologists call the start of the food chain?
+[2025-03-09 14:29:42][INFO] - Question: What Mongolian word did Qing dynasty get it's name from?
+[2025-03-09 14:29:52][INFO] - Question: What singer criticized Carrie Underwood for winning a Country Music Award? 
+[2025-03-09 14:30:01][INFO] - Question: How many dimensions did Melzack and Casey describe pain in terms of?
+[2025-03-09 14:30:12][INFO] - Question: Who we responsible for the giant "Y" that is embedded on a mountain near the campus?
+[2025-03-09 14:30:20][INFO] - Question: On what date did Breeder Reactor I first make electricity?
+[2025-03-09 14:30:29][INFO] - Question: To the Romans who was the most powerful of the gods?
+[2025-03-09 14:30:38][INFO] - Question: On what date did the French begin the re-crossing of the Danube?
+[2025-03-09 14:30:49][INFO] - Question: In what year did Fascist Italy achieve full control of Somalia?
+[2025-03-09 14:30:57][INFO] - Question: What did Beyoncé sing at President Obama's second inauguration?
+[2025-03-09 14:31:05][INFO] - Question: From which period does BYU Museum of Paleontology hold many artifacts from?
+[2025-03-09 14:31:15][INFO] - Question: Which part of his body did Schwarzenegger work to develop with Coach Bennett?
+[2025-03-09 14:31:24][INFO] - Question: How many clubs where in the football league? 
+[2025-03-09 14:31:33][INFO] - Question: What type of arches do they love to use in Venice?
+[2025-03-09 14:31:43][INFO] - Question: What happens to a person whose autobiographic memory is damaged?
+[2025-03-09 14:31:54][INFO] - Question: What gossip did Prince Albert hear about their son?
+[2025-03-09 14:32:02][INFO] - Question: What caused Prince Albert's death?
+[2025-03-09 14:32:12][INFO] - Question: Who led the armies supporting British interests in central Europe?
+[2025-03-09 14:32:22][INFO] - Question: What English music group was an inspiration for Kanye West on his second album?
+[2025-03-09 14:32:31][INFO] - Question: Who wrote that a Soviet invasion of Japan was unlikely?
+[2025-03-09 14:32:41][INFO] - Question: What does Ward see as the purpose of interaction between monads?
+[2025-03-09 14:32:49][INFO] - Question: Besides customer problems, what other area is Comcast often criticized over?
+[2025-03-09 14:33:00][INFO] - Question: What issue has moved to the forefront in recent years?
+[2025-03-09 14:33:11][INFO] - Question: Who believe that the Ming dynasty did not exercise any direct political control over Tibet?
+[2025-03-09 14:33:21][INFO] - Question: Who was the person credited with the first in-flight space death?
+[2025-03-09 14:33:29][INFO] - Question: Where was the basic power in Rome to be found?
+[2025-03-09 14:33:40][INFO] - Question: Which Notre Dame alum from the College of Science won a Nobel Prize?
+[2025-03-09 14:33:49][INFO] - Question: Who is the other woman who earned the title?
+[2025-03-09 14:34:01][INFO] - Question: What is Musee national des arts asiatiques famous for housing?
+[2025-03-09 14:34:11][INFO] - Question: What is the second most visited art museum in Paris?
+[2025-03-09 14:34:20][INFO] - Question: What came with lesser lesser cost mobile conversion hardware or stationary hardware?
+[2025-03-09 14:34:31][INFO] - Question: What two architectural movements have come under criticism for their focus on individuality? 
+[2025-03-09 14:34:41][INFO] - Question: The video for what song failed to win an award for again in 2006, leading to an onstage outburst by Kanye?
+[2025-03-09 14:34:51][INFO] - Question: Which towns in Thuringia are known as mining towns?
+[2025-03-09 14:35:00][INFO] - Question: What's the abbreviation for Single/Double Summer Time?
+[2025-03-09 14:35:08][INFO] - Question: What month and day was the death of Prince Albert?
+[2025-03-09 14:35:16][INFO] - Question: Who told the media that Chinese diplomats were arranging a "peaceful show of strength"?
+[2025-03-09 14:35:26][INFO] - Question: At what altitude did the American dive bombers commence their attck on the Japanese carriers?
+[2025-03-09 14:35:35][INFO] - Question: Who was the son of Al-Hakam ibn Abi al-'As?
+[2025-03-09 14:35:44][INFO] - Question: What town did Victoria visit in the center of England on her trip with the Dutchess of kent and Conroy?
+[2025-03-09 14:35:54][INFO] - Question: When did the Bethnal Green disaster occur?
+[2025-03-09 14:36:02][INFO] - Question: What is another term for Western Iran?
+[2025-03-09 14:36:10][INFO] - Question: What does the term Jamahiriya mean in English?
+[2025-03-09 14:36:18][INFO] - Question: What does 'Articulata' mean?
+[2025-03-09 14:36:28][INFO] - Question: Whom did Sand's daughter Solange become engaged to?
+[2025-03-09 14:36:37][INFO] - Question: When did Mac OS X experience a large increase in malware attacks?
+[2025-03-09 14:36:44][INFO] - Question: After the Persians left Europe, the time period that followed was called what?
+[2025-03-09 14:36:54][INFO] - Question: What year did the export market for manodlins from Italy dry up?
+[2025-03-09 14:37:00][INFO] - Question: Destiny's Child got a star on the Hollywood Walk of Fame in what year?
+[2025-03-09 14:37:07][INFO] - Question: What was the name of the first oral contraceptive?
+[2025-03-09 14:37:17][INFO] - Question: How many men did he have?
+[2025-03-09 14:37:28][INFO] - Question: When did the FDA approve Enovid?
+[2025-03-09 14:37:39][INFO] - Question: What other tribe occasionally fought against the Lenape?
+[2025-03-09 14:37:47][INFO] - Question: What month in Plymouth has the lowest temperatures?
+[2025-03-09 14:37:58][INFO] - Question: What prominent business professor has been heavily influenced by Whitehead?
+[2025-03-09 14:38:08][INFO] - Question: What battle began when two armies collided in the town of Froschwiller?
+[2025-03-09 14:38:18][INFO] - Question: There are how many dorms for females at Notre Dame?
+[2025-03-09 14:38:27][INFO] - Question: What year did the Ministry of Education develope tai-lo?
+[2025-03-09 14:38:36][INFO] - Question: What was one of the names that was initially considered for Washington University in St. Louis?
+[2025-03-09 14:38:46][INFO] - Question: What was the name of the governing body headed by Gaddafi after the revolution?
+[2025-03-09 14:38:54][INFO] - Question: What empire beat the last Bahmani Sultanate?
+[2025-03-09 14:39:04][INFO] - Question: Can bacteria survive inside rocks under the sea level?
+[2025-03-09 14:39:14][INFO] - Question: When was the province of France canonically erected?
+[2025-03-09 14:39:22][INFO] - Question: What is the molecular make-up of hydrogen?
+[2025-03-09 14:39:29][INFO] - Question: When did the Second Boer War end?
+[2025-03-09 14:39:37][INFO] - Question: What are alternative names the Thar Desert is known by?
+[2025-03-09 14:39:47][INFO] - Question: What objects are notably bright in near IR?
+[2025-03-09 14:39:55][INFO] - Question: What device uses infrared LEDs to measure oxygen saturation?
+[2025-03-09 14:40:03][INFO] - Question: When was the University of Fribourg put into the Dominican Order's care?
+[2025-03-09 14:40:10][INFO] - Question: Who did Tsongkhapa send in his place to Nanjing?
+[2025-03-09 14:40:19][INFO] - Question: When did Madonna take voice lessons?
+[2025-03-09 14:40:27][INFO] - Question: What is the term for Jehovah's Witnesses' rejection of certain secular requirements and medical treatments?
+[2025-03-09 14:40:35][INFO] - Question: With Madonna's new video, Like A Prayer, the blasphemy that she portrayed in the video led to what consequences?
+[2025-03-09 14:40:44][INFO] - Question: What physicists in the field of quantum theory have been influenced by Whitehead?
+[2025-03-09 14:40:52][INFO] - Question: When was the "Stupid Motorist Law" passed?
+[2025-03-09 14:41:00][INFO] - Question: What are gravitational waves?
+[2025-03-09 14:41:11][INFO] - Question: Which of Elizabeth's sons served in the Falklands War?
+[2025-03-09 14:41:20][INFO] - Question: In northern Europe, which months have temperatures similar to Valencia's in January?
+[2025-03-09 14:41:30][INFO] - Question: What sort of airspace is the DCA designed to protect?
+[2025-03-09 14:41:39][INFO] - Question: What was the archiepiscopal palace during the Moorish period?
+[2025-03-09 14:41:47][INFO] - Question: When Hong Kong was a colony of Great Britain, which body was the highest court of appeal?
+[2025-03-09 14:41:58][INFO] - Question: How old was George Stinney when he was executed?
+[2025-03-09 14:42:07][INFO] - Question: Where did Bell's uncle live?
+[2025-03-09 14:42:14][INFO] - Question: What variety is the most common the the United States and the U.K.
+[2025-03-09 14:42:23][INFO] - Question: What did İbrahim Şinasi write in 1860?
+[2025-03-09 14:42:32][INFO] - Question: Who did Kerry visit Nicaragua with?
+[2025-03-09 14:42:41][INFO] - Question: The 360 earned 38 nominations and 12 wins from what organization in 2007?
+[2025-03-09 14:42:48][INFO] - Question: How many weeks did their single "Independent Women Part I" stay on top?
+[2025-03-09 14:42:56][INFO] - Question: Who oversaw Operation Starvation?
+[2025-03-09 14:43:04][INFO] - Question: Greek thought is predominately applying mathematics and what other method?
+[2025-03-09 14:43:13][INFO] - Question: How many inhabitants did Portugal have by 2007?
+[2025-03-09 14:43:21][INFO] - Question: How long is the run way in vaulting?
+[2025-03-09 14:43:31][INFO] - Question: Using 2010 data, how was BYU ranked as a university creating the most startup companies through campus research?
+[2025-03-09 14:43:40][INFO] - Question: What religion did Punjab become?
+[2025-03-09 14:43:51][INFO] - Question: Who is Aeneas' enemy throughout the Aeneid?
+[2025-03-09 14:44:01][INFO] - Question: For what purpose was Funafuti used during the Pacific War? 
+[2025-03-09 14:44:11][INFO] - Question: What demographic were most stores focusing on?
+[2025-03-09 14:44:22][INFO] - Question: Who started the invasion of the Parthian Empire?
+[2025-03-09 14:44:31][INFO] - Question: The tool that was invented to stain only a small fractions of neurons was called what?
+[2025-03-09 14:44:41][INFO] - Question: Which American Enlightenment sympathiser was known for his political activism and advances in physics?
+[2025-03-09 14:44:49][INFO] - Question: The rise of gun factories within Connecticut earn the state what name?
+[2025-03-09 14:44:59][INFO] - Question: What president authorized the creation of the intelligence service?
+[2025-03-09 14:45:07][INFO] - Question: When was the Patriot Act passed?
+[2025-03-09 14:45:16][INFO] - Question: Who did Goring refuse to work with in 1940 and 1941?
+[2025-03-09 14:45:26][INFO] - Question: Who authorized giving troops the ability to follow the North Korean forces north?
+[2025-03-09 14:45:34][INFO] - Question:  What was the real number of people that took part in the plebiscite that passed Napoleon's constitution?
+[2025-03-09 14:45:45][INFO] - Question: Which city did the king and queen stay in even with the bombing threats?
+[2025-03-09 14:45:55][INFO] - Question: Besides in treating human disease where else are antibiotics used?
+[2025-03-09 14:46:03][INFO] - Question: What century did Aretas III Philhellene reign?
+[2025-03-09 14:46:12][INFO] - Question: What company gave the most?
+[2025-03-09 14:46:21][INFO] - Question: What method of transportation is used to get to Oberhauser's base?
+[2025-03-09 14:46:31][INFO] - Question: When did Yugoslavia disintegrate?
+[2025-03-09 14:46:41][INFO] - Question: What religious group was in charge of Rome's sacred flame?
+[2025-03-09 14:46:49][INFO] - Question: What was the legal term for commoner?
+[2025-03-09 14:46:57][INFO] - Question: What did advanced ally technology showcase it could defend against?
+[2025-03-09 14:47:06][INFO] - Question: How many bridges over the Thames were struck?
+[2025-03-09 14:47:13][INFO] - Question: The Battersea Power Station took how many hits in two months?
+[2025-03-09 14:47:23][INFO] - Question: Are previous leaders a hendrence to the current government?
+[2025-03-09 14:47:33][INFO] - Question: Who could appoint staff to the kings?
+[2025-03-09 14:47:44][INFO] - Question: What was thought might maximize the odds of finding unique cluster patterns in groups?
+[2025-03-09 14:47:53][INFO] - Question: What was the trade name of amphetamine as a nasal decongestant?
+[2025-03-09 14:48:02][INFO] - Question: What may servo motors be used for?
+[2025-03-09 14:48:12][INFO] - Question: When did the role of dogs change to be more than guardians or walking companions?
+[2025-03-09 14:48:22][INFO] - Question: Who handed the torch to Lee Lai Shan, the first torchbearer?
+[2025-03-09 14:48:31][INFO] - Question: How many torchbearers carried the torch?
+[2025-03-09 14:48:42][INFO] - Question: What happened to the magazines after their run of Digimon?
+[2025-03-09 14:48:53][INFO] - Question: What music did post-punk end to reject?
+[2025-03-09 14:49:06][INFO] - Question: What led to bad investments by asset managers in over-priced credit assets?
+[2025-03-09 14:49:18][INFO] - Question: What are the top-selling form factors of the Mac platform today?
+[2025-03-09 14:49:27][INFO] - Question: What is the name of the most inexpensive Mac offered?
+[2025-03-09 14:49:36][INFO] - Question: Why do so many multinationals have their Latin American headquarters in Miami?
+[2025-03-09 14:49:47][INFO] - Question: What must be used for accurate measurement on the composition of gases at a high vacuums?
+[2025-03-09 14:49:57][INFO] - Question: What animal has held the title of Bermuda's only native land vertabrate?
+[2025-03-09 14:50:07][INFO] - Question: What was the first day that the new parliament met?
+[2025-03-09 14:50:15][INFO] - Question: What did the Art of Noise hope to accomplish?
+[2025-03-09 14:50:25][INFO] - Question: Who was the Duchess's suspected lover?
+[2025-03-09 14:50:34][INFO] - Question: When did Cork begin to see people from Russia and Lithuania immigrating to their city?
+[2025-03-09 14:50:41][INFO] - Question: After which revolutionary war hero and New Haven native was Black Rock Fort rechristened upon reconstruction in 1807?
+[2025-03-09 14:50:50][INFO] - Question: What does it mean to be a mutliracial?
+[2025-03-09 14:51:02][INFO] - Question: Who published A Theory of Justice? 
+[2025-03-09 14:51:10][INFO] - Question: What city in Venezuela had the first IUT?
+[2025-03-09 14:51:18][INFO] - Question: On what date did the Japanese leave the League of Nations?
+[2025-03-09 14:51:27][INFO] - Question: Where did Zhou travel with a Chinese delegation to convince Stalin to support China?
+[2025-03-09 14:51:35][INFO] - Question: What are resistant bacteria called in the media?
+[2025-03-09 14:51:44][INFO] - Question: Who was jealous of Athanasius's influence?
+[2025-03-09 14:51:54][INFO] - Question: Tito succeeded who as the President of Yugoslavia?
+[2025-03-09 14:52:01][INFO] - Question: Several groups from which type of metal were influenced by Queen?
+[2025-03-09 14:52:10][INFO] - Question: How many nurses per 10,000 persons are there in Hyderabad?
+[2025-03-09 14:52:17][INFO] - Question: In the late medieval period in Europe as what was cotton viewed?
+[2025-03-09 14:52:28][INFO] - Question: A symphony orchestra includes members of the string, woodwind, percussion and what other family of instruments?
+[2025-03-09 14:52:37][INFO] - Question: What is the current mayor of Richmond?
+[2025-03-09 14:52:45][INFO] - Question: What is an annelid's brain in a ring around?
+[2025-03-09 14:52:55][INFO] - Question: In what year was the first black Baptist minister elected to the city council?
+[2025-03-09 14:53:06][INFO] - Question: What was the grand total of German casualties and those missing in action?
+[2025-03-09 14:53:15][INFO] - Question: In which year was Ann Arbor chartered as a city?
+[2025-03-09 14:53:23][INFO] - Question: How many million square miles was the Umayyad caliphate at its largest size?
+[2025-03-09 14:53:33][INFO] - Question: What was the name of the waited that was promoted to Munshi?
+[2025-03-09 14:53:41][INFO] - Question: Who was promoted from waiter to Munshi?
+[2025-03-09 14:53:49][INFO] - Question: In what year were the Australian Democrats founded?
+[2025-03-09 14:53:58][INFO] - Question: Who returned as prime minister when Disraeli lost the general election in 1880?
+[2025-03-09 14:54:06][INFO] - Question: What element made Oasis unique among 1990s Britpop bands?
+[2025-03-09 14:54:14][INFO] - Question: How many octaves does Beyonce have?
+[2025-03-09 14:54:20][INFO] - Question: Which groups of researchers provided unorthodox structure for a research group?
+[2025-03-09 14:54:31][INFO] - Question: In which year was the Kingdom of Castile formed?
+[2025-03-09 14:54:42][INFO] - Question: What did Americo-liberians exclude tribes from?
+[2025-03-09 14:54:51][INFO] - Question: Beyonce's first album by herself was called what?
+[2025-03-09 14:55:01][INFO] - Question: For which country did George VI stop using the title Emperor but continue to use the title of King?
+[2025-03-09 14:55:12][INFO] - Question: How did Bell sign his letters?
+[2025-03-09 14:55:21][INFO] - Question: A shuttle astronauts prevents ebullism at 2 kPa with what item?
+[2025-03-09 14:55:30][INFO] - Question: Where were some of the best-known traditions first recorded?
+[2025-03-09 14:55:39][INFO] - Question: How many people completed the New York Marathon in 2006?
+[2025-03-09 14:55:48][INFO] - Question: Which CFL games require tie-breaking rounds continue until a winner results?
+[2025-03-09 14:55:59][INFO] - Question: After the second delay, when was the dispersal draft schedule to occur?
+[2025-03-09 14:56:08][INFO] - Question: What kind of things can annelids' sensors detect?
+[2025-03-09 14:56:17][INFO] - Question: What is another benefit of measuring sexuality on two scaless verses just the Kinsey scale?
+[2025-03-09 14:56:27][INFO] - Question: What is one way the government helps with the "Crush" of the rush hour riding of the subway system?
+[2025-03-09 14:56:35][INFO] - Question: Thinkers out of the Frankfurt School combined Marxian and what other perspective?
+[2025-03-09 14:56:44][INFO] - Question: How many Turkish Cypriots voted for the Annan Plan in 2004?
+[2025-03-09 14:56:52][INFO] - Question: In what year did Cyprus join the European Union?
+[2025-03-09 14:56:58][INFO] - Question: Which factors make Melbourne one of the moust vibrant destinations in Australia?
+[2025-03-09 14:57:07][INFO] - Question: What territory was conquered by the Köprülü Vizierate in 1669?
+[2025-03-09 14:57:18][INFO] - Question: What were the students dissatisfied by in Egypt?
+[2025-03-09 14:57:27][INFO] - Question: What nations were trying to drag Egypt into a war, according to King Hussein?
+[2025-03-09 14:57:37][INFO] - Question: What is the time limit for designating a species critical habitat after the species has been added to the endangered list?
+[2025-03-09 14:57:45][INFO] - Question: What color is uranium?
+[2025-03-09 14:57:53][INFO] - Question: Who was Nasser's contact in the armed forces, giving Nasser dossiers?
+[2025-03-09 14:58:04][INFO] - Question: How were the Japanese victories over the Russians views around the world?
+[2025-03-09 14:58:15][INFO] - Question: How many cities and towns in Somerset 
+[2025-03-09 14:58:24][INFO] - Question: What were the designations of the two redesigned 360 models and when did they come out?
+[2025-03-09 14:58:35][INFO] - Question: Who founded the city of London?
+[2025-03-09 14:58:43][INFO] - Question: What program did John Augustine Zahm come to co-direct at Nore Dame?
+[2025-03-09 14:58:53][INFO] - Question: Who created the New York kouros?
+[2025-03-09 14:59:01][INFO] - Question: What type of formations is it possible Sumerians invented?
+[2025-03-09 14:59:10][INFO] - Question: Artaxian coins called some Armenian kings what?
+[2025-03-09 14:59:18][INFO] - Question: In what year was Richmond's First Baptist Church founded?
+[2025-03-09 14:59:27][INFO] - Question: Who took over the territory and made it part of their empire?
+[2025-03-09 14:59:39][INFO] - Question: On what date did the oldest Catholic church open in Richmond?
+[2025-03-09 14:59:47][INFO] - Question: What Syrian group did Nasser crack down on?
+[2025-03-09 14:59:54][INFO] - Question: What is the discipline taught in mantiq courses?
+[2025-03-09 15:00:04][INFO] - Question: In what year did Faraday convert electrical energy into mechanical energy?
+[2025-03-09 15:00:11][INFO] - Question: In what year did Jaun de Bermudez first reach Bermuda?
+[2025-03-09 15:00:19][INFO] - Question: What is a notable brewery in Kent that owns hundreds of pubs?
+[2025-03-09 15:00:28][INFO] - Question: What party did Durkin run as?
+[2025-03-09 15:00:36][INFO] - Question: Along with business and government, what leaders did Eisenhower see meeting at the Council on Foreign Relations?
+[2025-03-09 15:00:46][INFO] - Question: How many helicopters were deployed?
+[2025-03-09 15:00:55][INFO] - Question: What FIFA ranking did Armenia hold in 2011?
+[2025-03-09 15:01:04][INFO] - Question: What became the administrative boundary between Israel and occupied territories?
+[2025-03-09 15:01:12][INFO] - Question: How long have bus tours been available to tourist of Myanmar ?
+[2025-03-09 15:01:20][INFO] - Question: Who had exponential larger naval forces?
+[2025-03-09 15:01:31][INFO] - Question: What is the German name of Operation Sea Lion?
+[2025-03-09 15:01:39][INFO] - Question: What items were shared among Christian and non- Christians?
+[2025-03-09 15:01:50][INFO] - Question: Which artist did Beyonce marry?
+[2025-03-09 15:02:01][INFO] - Question: What is one of the historical certain facts about Jesus?
+[2025-03-09 15:02:12][INFO] - Question: Where does Seattle rank in size of economy in 2010?
+[2025-03-09 15:02:21][INFO] - Question: Who brought forward a law that would given citizenship right to Italian allies of Rome?
+[2025-03-09 15:02:30][INFO] - Question: What is considered to be the end game of Gaius Gracchus?
+[2025-03-09 15:02:40][INFO] - Question: In contrast to what religion was Judaism acceptable in Rome?
+[2025-03-09 15:02:50][INFO] - Question: What does the potency of antibacterials depend upon?
+[2025-03-09 15:02:59][INFO] - Question: What class is the Hexapoda ranked?
+[2025-03-09 15:03:08][INFO] - Question: What was Paul Sheehy's job?
+[2025-03-09 15:03:17][INFO] - Question: Which editions of the Encyclopedie were less expensive and more accessible to the non-elite?
+[2025-03-09 15:03:28][INFO] - Question: Who tried to assassinate Queen Victoria while she was pregnant with her first child?
+[2025-03-09 15:03:37][INFO] - Question: As of 1910, who had published info available for gun designs?
+[2025-03-09 15:03:46][INFO] - Question: What is the purpose of the University of Washington Outreach?
+[2025-03-09 15:03:56][INFO] - Question: What is the average snowfall for the city?
+[2025-03-09 15:04:07][INFO] - Question: Poetry is usually differentiated from prose by what factor?
+[2025-03-09 15:04:19][INFO] - Question: What were the names of some of the early cultures located in Myanmar?
+[2025-03-09 15:04:28][INFO] - Question: When was the Kangxi Dictionary published?
+[2025-03-09 15:04:35][INFO] - Question: What was considered a problem in the Roman Republic during its last century?
+[2025-03-09 15:04:44][INFO] - Question: What did Kant portray space and time to be?
+[2025-03-09 15:04:54][INFO] - Question: Why was the spelling of McIntosh changed to Macintosh?
+[2025-03-09 15:05:04][INFO] - Question: Besides assimilation of British culture, what else did the British consider Indians to be?
+[2025-03-09 15:05:13][INFO] - Question: What is the Nickname given to North Carolina?
+[2025-03-09 15:05:21][INFO] - Question: What does the word "Israel" refer to?
+[2025-03-09 15:05:32][INFO] - Question: Where is the Uwharrie national Forest located?
+[2025-03-09 15:05:42][INFO] - Question: Where were surface-to-air missiles first developed?
+[2025-03-09 15:05:52][INFO] - Question: According to Heidegger, what can we do, in our thoughts?
+[2025-03-09 15:06:03][INFO] - Question: How does a US NPO apply for tax exempt status?
+[2025-03-09 15:06:14][INFO] - Question: Which religion was Madonna dedicated to?
+[2025-03-09 15:06:23][INFO] - Question: What is the name of Howard Dean's class at Yale?
+[2025-03-09 15:06:31][INFO] - Question: What is the most recent version of Unicode?
+[2025-03-09 15:06:40][INFO] - Question: What is another name for an exposure index rating?
+[2025-03-09 15:06:47][INFO] - Question: How did Gaddafi's father earn a living?
+[2025-03-09 15:06:57][INFO] - Question: What is the predominant language in Asace?
+[2025-03-09 15:07:05][INFO] - Question: How many published reports of American volumes existed in 1910?
+[2025-03-09 15:07:16][INFO] - Question: What happens if the wrestler doesn't break a hold?
+[2025-03-09 15:07:26][INFO] - Question: How might a wrestler attempt to break a submission hold?
+[2025-03-09 15:07:35][INFO] - Question: What did Pliny the Elder observe about diamonds?
+[2025-03-09 15:07:47][INFO] - Question: What type of theologians did the World Council of Churches decide to include in their committees?
+[2025-03-09 15:07:56][INFO] - Question: In what year did Bell open his own school?
+[2025-03-09 15:08:05][INFO] - Question: The ethnic cleansing perpetrated by the Serbs against Bosnia-Herzegovina was conducted with what ultimate goal in mind?
+[2025-03-09 15:08:17][INFO] - Question: What day did Nintendo unveil the new systems?
+[2025-03-09 15:08:24][INFO] - Question: What rule did George III and George IV believe a Catholic emancipation bill would violate?
+[2025-03-09 15:08:34][INFO] - Question: Who were allowed "temporary entry" into Yugoslav territory?
+[2025-03-09 15:08:43][INFO] - Question: When a state adds reservations to a treaty, other parties to the treaty can respond to those reservations in what ways?
+[2025-03-09 15:08:54][INFO] - Question: What year was Harold Evans appointed to editor of The Times?
+[2025-03-09 15:09:03][INFO] - Question: What case determined that some implementation of affirmative action was unconstitutional?
+[2025-03-09 15:09:13][INFO] - Question: What are some of the every day tasks that a manager of a team has to deal with?
+[2025-03-09 15:09:23][INFO] - Question: How much did advertisers spend for a 30 second ad spot during American Idol in its seventh season? 
+[2025-03-09 15:09:29][INFO] - Question: What entity serves as the largest employer in New Haven?
+[2025-03-09 15:09:37][INFO] - Question: The somerset level is the only area left  to commercially grow what 
+[2025-03-09 15:09:46][INFO] - Question: The data interpretation of environmental anthropology can be used to prevent what type of exploitation?
+[2025-03-09 15:09:54][INFO] - Question: What type of songs does Hard Candy have?
+[2025-03-09 15:10:03][INFO] - Question: What is the enzyme called that performs transcription?
+[2025-03-09 15:10:11][INFO] - Question: WWhat's the first thing to happen when the switch is activated?
+[2025-03-09 15:10:19][INFO] - Question: Once activatated, what is the only way to deactivate it?
+[2025-03-09 15:10:30][INFO] - Question: On what day did the U.S. and its allies declar war on Japan?
+[2025-03-09 15:10:39][INFO] - Question: What rules did a German derivatives dealer say could be quite legally circumvented through swaps?
+[2025-03-09 15:10:49][INFO] - Question: What may be a risk negative tactic?
+[2025-03-09 15:11:00][INFO] - Question: What victorious uprising is celebrated in the Jewish festival Hanukkah?
+[2025-03-09 15:11:10][INFO] - Question: Assumptions of how the universe works are difficult to see precisely because of what?
+[2025-03-09 15:11:19][INFO] - Question: Neoptera can be divided into what kind of "based" group?
+[2025-03-09 15:11:30][INFO] - Question: Who believed Christ's atonement only extended to the elect?
+[2025-03-09 15:11:38][INFO] - Question: Venus de Milo belongs to which period?
+[2025-03-09 15:11:47][INFO] - Question: What encourages child labour across the globe?
+[2025-03-09 15:11:57][INFO] - Question: What type of teaching is provided at Indian madaris?
+[2025-03-09 15:12:08][INFO] - Question: What year was Freddie Mercury's final public appearance with Queen?
+[2025-03-09 15:12:18][INFO] - Question: 4 minutes became Madonna's which number one single in the UK?
+[2025-03-09 15:12:28][INFO] - Question: What is a willow's flower comprised of?
+[2025-03-09 15:12:37][INFO] - Question: At what harbor did a Russian fleet attacked a Ottoman force?
+[2025-03-09 15:12:46][INFO] - Question: Which group was considered "a substitute aristocracy that was both all-powerful and without real power" according to Tocqueville?
+[2025-03-09 15:12:55][INFO] - Question: What language is modern standard Italian derived from?
+[2025-03-09 15:13:03][INFO] - Question: Which website had mentions of the Carrefour boycott removed by the government?
+[2025-03-09 15:13:13][INFO] - Question: When did El Cid die?
+[2025-03-09 15:13:22][INFO] - Question: Planck's work disproved what assumption?
+[2025-03-09 15:13:31][INFO] - Question: Was Portugal on the side of France or Britain?
+[2025-03-09 15:13:41][INFO] - Question: what did Al-Farabi say expanded to fill available space
+[2025-03-09 15:13:49][INFO] - Question: In what work did Ferguson explain how humans advanced from a hunting and gathering society to a commercial and civil society without "signing" a social contract?
+[2025-03-09 15:13:58][INFO] - Question: In what year did Ferguson publish An Essay on the History of Civil Society?
+[2025-03-09 15:14:08][INFO] - Question: What can people owning both a PC and 360 do?
+[2025-03-09 15:14:16][INFO] - Question: When was the CPI first released?
+[2025-03-09 15:14:25][INFO] - Question: What was the decision regarding the motion to re-count the votes, after each House finalized their debates?
+[2025-03-09 15:14:36][INFO] - Question: What covers an annelid's exterior?
+[2025-03-09 15:14:45][INFO] - Question: When were the Houston Astros formed?
+[2025-03-09 15:14:54][INFO] - Question: What was the name of the venue where Brian May collapsed?
+[2025-03-09 15:15:03][INFO] - Question: When did Samo become the ruler of the first known Slav state?
+[2025-03-09 15:15:15][INFO] - Question: What independent agency operates San Diego International Airport?
+[2025-03-09 15:15:23][INFO] - Question: In what year did Zhang Lu's rebellion end?
+[2025-03-09 15:15:30][INFO] - Question: The San Carlos Museum has art from who, among others?
+[2025-03-09 15:15:39][INFO] - Question: For which vocation did Popper complete his university examinations?
+[2025-03-09 15:15:48][INFO] - Question: Where was the Wettin dynasty from?
+[2025-03-09 15:15:58][INFO] - Question: What is treated as being conservative and confucian?
+[2025-03-09 15:16:07][INFO] - Question: Who was the pastor of the earliest Baptist church?
+[2025-03-09 15:16:15][INFO] - Question: Where did Gaddafi attend college for a time?
+[2025-03-09 15:16:24][INFO] - Question: Who studied the history of science?
+[2025-03-09 15:16:35][INFO] - Question: Why did Gaddafi drop out of college?
+[2025-03-09 15:16:43][INFO] - Question: What was the occupation of John Cabot?
+[2025-03-09 15:16:53][INFO] - Question: Who put down the rebellions?
+[2025-03-09 15:17:04][INFO] - Question: What nullified patent claims of EDVAC designers?
+[2025-03-09 15:17:14][INFO] - Question: If people's nutritional status and health changes, what could this affect in their daily routine?
+[2025-03-09 15:17:25][INFO] - Question: Why are Eiji Yoshikawa's books popular?
+[2025-03-09 15:17:37][INFO] - Question: What does the NIBRS collect information on?
+[2025-03-09 15:17:48][INFO] - Question: What date was the U.S. Army created?
+[2025-03-09 15:17:57][INFO] - Question: The Act of Union unified Canada into a territory by what name?
+[2025-03-09 15:18:05][INFO] - Question: Who was assassinated on September 22, 189 AD?
+[2025-03-09 15:18:14][INFO] - Question: What are mushairas?
+[2025-03-09 15:18:23][INFO] - Question: What were Egyptians herding in the early BCE period?
+[2025-03-09 15:18:31][INFO] - Question: What is the full name of the organization known by the acronym AIA?
+[2025-03-09 15:18:39][INFO] - Question: Who was the outreach director of HRTR?
+[2025-03-09 15:18:49][INFO] - Question: What year did Dr. Rowan Williams apologize to the Freemasons?
+[2025-03-09 15:18:56][INFO] - Question: What material has an absorption rate of only 0.01%?
+[2025-03-09 15:19:05][INFO] - Question: Which Ratchet & Clank title debuted at E3 2007?
+[2025-03-09 15:19:14][INFO] - Question: Queen's Greatest Hits II has sold how many copies worldwide?
+[2025-03-09 15:19:23][INFO] - Question: What did the query starter believe to be the ultimate difficulty in accepting  the a virgin conception of Mary ?
+[2025-03-09 15:19:34][INFO] - Question: Who removed James Bond from active service?
+[2025-03-09 15:19:42][INFO] - Question: Which country did Frédéric go to first after setting out for Western Europe?
+[2025-03-09 15:19:51][INFO] - Question: Which 1962 US Supreme Court ruling forced states to realign their voting districts to reflect census findings? 
+[2025-03-09 15:20:01][INFO] - Question: Can you pin point certain areas of the brain to certain memories. 
+[2025-03-09 15:20:11][INFO] - Question: What is a constant-voltage source?
+[2025-03-09 15:20:20][INFO] - Question: What two fields began to grow apart?
+[2025-03-09 15:20:28][INFO] - Question: What was the verdict?
+[2025-03-09 15:20:39][INFO] - Question: What contradiction is found in this Psalm?
+[2025-03-09 15:20:51][INFO] - Question: Who was the only non-abusive father mentioned?
+[2025-03-09 15:21:02][INFO] - Question: Who invaded northern England?
+[2025-03-09 15:21:10][INFO] - Question: Who commissioned the change of the typeface of The Times in 1931?
+[2025-03-09 15:21:20][INFO] - Question: What did Rutherford hope to convince members about the persecution from the outside world?
+[2025-03-09 15:21:31][INFO] - Question: Which string instrument often played the basso continuo parts?
+[2025-03-09 15:21:41][INFO] - Question: Who owned the building at 29 East 32nd Street between 1890 and 1917?
+[2025-03-09 15:21:50][INFO] - Question: How much does Hormuud Telecom gross per year?
+[2025-03-09 15:21:57][INFO] - Question: In 2005, what country used increased health risks as rationalization for getting rid of DST?
+[2025-03-09 15:22:06][INFO] - Question: Are communication services in Somalia mainly located in the public or private sector?
+[2025-03-09 15:22:16][INFO] - Question: How did Gaddafi deal with peer pressure regarding his cultural background?
+[2025-03-09 15:22:27][INFO] - Question: What types of media increases as internet connectivity and access increases?
+[2025-03-09 15:22:34][INFO] - Question: How many stadiums have been closed down since Premier League started?
+[2025-03-09 15:22:42][INFO] - Question: What is the economic output of Hyderabad?
+[2025-03-09 15:22:51][INFO] - Question: Who is the author of the biodiversity research paper?
+[2025-03-09 15:22:59][INFO] - Question: What was the American colonists' anti-tax slogan?
+[2025-03-09 15:23:06][INFO] - Question: What style of comics did Japan have a long history with prior to World War II?
+[2025-03-09 15:23:17][INFO] - Question: What problem did the Iraqi forces have?
+[2025-03-09 15:23:26][INFO] - Question: How many people died of cholera in London in 1848?
+[2025-03-09 15:23:34][INFO] - Question: What type of study is used to simulate lighting designs?
+[2025-03-09 15:23:42][INFO] - Question: What instrument was all of Chopin's compositions written for?
+[2025-03-09 15:23:50][INFO] - Question: How long ago do some paleontologists believe that animals first appeared?
+[2025-03-09 15:23:58][INFO] - Question: What helps reduce resource usage?
+[2025-03-09 15:24:07][INFO] - Question: What group did Hayek form with three other people?
+[2025-03-09 15:24:15][INFO] - Question: What did Elizabeth do to diffuse hostile public sentiment?
+[2025-03-09 15:24:27][INFO] - Question: Facial grimacing and guarding indicate what?
+[2025-03-09 15:24:35][INFO] - Question: What was the look of the dollar based on?
+[2025-03-09 15:24:43][INFO] - Question: What type of practice guided the Ottoman state in its responsibilities?
+[2025-03-09 15:24:52][INFO] - Question: When was it announced that Beyonce was  a co-owner in Tidal?
+[2025-03-09 15:25:01][INFO] - Question: In 1940 how many people were sleeping in the Underground stations?
+[2025-03-09 15:25:09][INFO] - Question: What is quicker, a bipolar n-p-n transistor or a p-n-p transistor?
+[2025-03-09 15:25:18][INFO] - Question: What was the profession of Lange?
+[2025-03-09 15:25:26][INFO] - Question: What military unit was charged with intercepting Napoleon?
+[2025-03-09 15:25:34][INFO] - Question: What should non-lethal weapons properly be called?
+[2025-03-09 15:25:42][INFO] - Question: How does Alvin Plantinga describe faith?
+[2025-03-09 15:25:51][INFO] - Question: What are KUOW and KPLU radio stations?
+[2025-03-09 15:26:00][INFO] - Question: On what day did Kanye do an interview about President Obama pushing policies in Washington?
+[2025-03-09 15:26:08][INFO] - Question: How did Hayek wish to be referred to after his 1984 award?
+[2025-03-09 15:26:17][INFO] - Question: What type of people did Kanye state had more power than Black people?
+[2025-03-09 15:26:25][INFO] - Question: How was the public sphere defined?
+[2025-03-09 15:26:37][INFO] - Question: What does NESA stand for?
+[2025-03-09 15:26:46][INFO] - Question: How large in square kilometers is Greater Hyderabad?
+[2025-03-09 15:26:53][INFO] - Question: `Why does thermosphere past the Karman line vary so greatly?
+[2025-03-09 15:27:02][INFO] - Question: What popular styles practice improvisation and ad libitum ornamentation?
+[2025-03-09 15:27:12][INFO] - Question: What kind of prediction does the assumption that black body radiation is thermal lead to?
+[2025-03-09 15:27:22][INFO] - Question: What were the Manchus accused of being afraid of?
+[2025-03-09 15:27:33][INFO] - Question: What else did the Chinese want from the British?
+[2025-03-09 15:27:42][INFO] - Question: What were the British and French concerned about?
+[2025-03-09 15:27:53][INFO] - Question: What age can an infabt recall steps in an order?
+[2025-03-09 15:28:02][INFO] - Question: Who wrote Kitab al-Tasrif?
+[2025-03-09 15:28:11][INFO] - Question: Who governs Northwestern?
+[2025-03-09 15:28:22][INFO] - Question: What were the names of the three buildings constructed after Busch Hall?
+[2025-03-09 15:28:32][INFO] - Question: What inferior versions of movies are available for piracy during the theatrical run of a movie called?
+[2025-03-09 15:28:43][INFO] - Question: What are early Greek philosophers known as?
+[2025-03-09 15:28:51][INFO] - Question: What was Hanssen arrested for?
+[2025-03-09 15:29:03][INFO] - Question: Who was Cardigan under fire from when advancing on the Valley of Balaclava?
+[2025-03-09 15:29:12][INFO] - Question: When did Madonna have nude photos taken of her in New York?
+[2025-03-09 15:29:20][INFO] - Question: How high had cotton revenues risen by the time of the American Civil War?
+[2025-03-09 15:29:30][INFO] - Question: Who made an effort to organize a strong defense against the French?
+[2025-03-09 15:29:39][INFO] - Question: During which period did regional differences in Romanesque architecture become even more pronounced?
+[2025-03-09 15:29:48][INFO] - Question: What general was considered a potential Republican presidential candidate in 1948?

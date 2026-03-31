@@ -1,0 +1,53 @@
+api:
+  zp_key: ""
+  openai_key: ""
+  openai_base_url: ""
+  lanchain_api_key: ""
+
+model_path:
+  emb_model: "../multilingual-e5-large"
+  rerank_model: "../rerank"
+  chatglm3-6b-8k: "../THUDM/chatglm3-6b"
+  chatglm3-6b-32k: "../chatglm3-6b-32k"
+  longalign-7b-64k: "THUDM/LongAlign-7B-64k"
+  vicuna-v1.5-7b-16k: "lmsys/vicuna-7b-v1.5"
+  llama2-13b-chat-longlora: "Yukang/Llama-2-13b-chat-longlora-32k-sft"
+  qwen1.5-7b-chat-32k: "Qwen/Qwen-7B-Chat"
+  llama3-8b-instruct-8k: "../../servy/llama3-8b"
+  llama3-70b-8k: "meta-llama/Llama-3-70B-Instruct"
+  longrag-chatglm3-32k: ""
+  longrag-qwen1.5-32k: ""
+  longrag-vicuna-v1.5-16k: ""
+  longrag-llama3-8k: ""
+  longrag-llama2-4k: ""
+  deepseek: "/share/home/ncu_418000240001/deepseekR1"
+  qwen-1.5b: "/share/home/ncu_418000240001/qwen-1.5b"
+  smollm2-1.7b: "/share/home/ncu_418000240001/smolLM2-1.7b"
+  phi-3.8b: "/share/home/ncu_418000240001/phi-3.8b"
+  qwen2.5-7b: "/share/home/ncu_418000240001/qwen2.5-7b"
+  misral: "/share/home/ncu_418000240001/mistral"
+model_maxlen:
+  gpt-3.5-turbo-16k: 15000
+  gpt-3.5-turbo-0125: 15000
+  glm-4: 7000
+  chatglm3-6b-8k: 7000
+  chatglm3-6b-32k: 30000
+  longalign-7b-64k: 60000
+  vicuna-v1.5-7b-16k: 15000
+  llama2-13b-chat-longlora: 30000
+  qwen1.5-7b-chat-32k: 30000
+  llama3-8b-instruct-8k: 7000
+  longrag-chatglm3-32k: 30000
+  longrag-qwen1.5-32k: 30000
+  longrag-vicuna-v1.5-16k: 15000
+  longrag-llama3-8k: 7000
+  longrag-llama2-32k: 30000
+  llama3-70b-8k: 7000
+  deepseek: 30000
+  longrag-llama2-4k: 3500
+  longrag-llama2-13b-4k: 3500
+  qwen-1.5b: 30000
+  smollm2-1.7b: 8000
+  phi-3.8b: 8000
+  qwen2.5-7b: 30000
+  misral: 30000

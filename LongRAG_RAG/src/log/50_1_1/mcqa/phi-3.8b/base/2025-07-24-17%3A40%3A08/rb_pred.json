@@ -1,0 +1,200 @@
+{"question": "Based on the context, what conclusion would be deemed most suitable?", "rb_pred": "B", "input_len": 7488}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "choice_2", "input_len": 7084}
+{"question": "Based on the context, what conclusion would be deemed most suitable?", "rb_pred": "B", "input_len": 7302}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6972}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "B", "input_len": 6960}
+{"question": "Based on the context, what conclusion would be deemed most suitable?", "rb_pred": "B", "input_len": 7406}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6978}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_4", "input_len": 6522}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "break", "input_len": 6474}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "C", "input_len": 7036}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6705}
+{"question": "Considering the provided context, what conclusion would be deemed most suitable?", "rb_pred": "D", "input_len": 7424}
+{"question": "Based on the context, what conclusion would be deemed most suitable?", "rb_pred": "B", "input_len": 7395}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_3", "input_len": 6406}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "choice_4", "input_len": 7036}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "he will take a break", "input_len": 6511}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 7047}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "choice_3", "input_len": 6919}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6918}
+{"question": "Considering the provided context, what conclusion would be deemed most suitable?", "rb_pred": "choice_4", "input_len": 7448}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "choice_4", "input_len": 7198}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_3", "input_len": 6536}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "choice_2", "input_len": 6966}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6983}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_3", "input_len": 6543}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "C", "input_len": 7086}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_3", "input_len": 6528}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "B", "input_len": 6968}
+{"question": "Based on the context, what conclusion would be deemed most suitable?", "rb_pred": "B", "input_len": 7590}
+{"question": "Based on the context, what conclusion would be deemed most suitable?", "rb_pred": "B", "input_len": 7469}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_2", "input_len": 6531}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 7095}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6927}
+{"question": "Based on the context, what conclusion would be deemed most suitable?", "rb_pred": "B", "input_len": 7397}
+{"question": "Considering the provided context, what conclusion would be deemed most suitable?", "rb_pred": "D", "input_len": 7188}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "choice_3", "input_len": 6971}
+{"question": "Considering the provided context, what conclusion would be deemed most suitable?", "rb_pred": "choice_4", "input_len": 7252}
+{"question": "Based on the context, what conclusion would be deemed most suitable?", "rb_pred": "B", "input_len": 7358}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "choice_2", "input_len": 7060}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6739}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6963}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_4", "input_len": 6502}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "choice_2", "input_len": 7115}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6938}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_2", "input_len": 6524}
+{"question": "Considering the provided context, what conclusion would be deemed most suitable?", "rb_pred": "D", "input_len": 7308}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6943}
+{"question": "Considering the provided context, what conclusion would be deemed most suitable?", "rb_pred": "choice_4", "input_len": 7500}
+{"question": "Considering the provided context, what conclusion would be deemed most suitable?", "rb_pred": "choice_4", "input_len": 7249}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_3", "input_len": 6625}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_3", "input_len": 6344}
+{"question": "Considering the provided context, what conclusion would be deemed most suitable?", "rb_pred": "D", "input_len": 7366}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6975}
+{"question": "Based on the context, what conclusion would be deemed most suitable?", "rb_pred": "B", "input_len": 7646}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_3", "input_len": 6633}
+{"question": "Considering the provided context, what conclusion would be deemed most suitable?", "rb_pred": "D", "input_len": 7401}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6799}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "B", "input_len": 7239}
+{"question": "Considering the provided context, what conclusion would be deemed most suitable?", "rb_pred": "D", "input_len": 7193}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "choice_2", "input_len": 6903}
+{"question": "Based on the context, what conclusion would be deemed most suitable?", "rb_pred": "B", "input_len": 7140}
+{"question": "Based on the context, what conclusion would be deemed most suitable?", "rb_pred": "B", "input_len": 7066}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "C", "input_len": 6784}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "C", "input_len": 6749}
+{"question": "Considering the provided context, what conclusion would be deemed most suitable?", "rb_pred": "D", "input_len": 7128}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6702}
+{"question": "Considering the provided context, what conclusion would be deemed most suitable?", "rb_pred": "D", "input_len": 7100}
+{"question": "Based on the context, what conclusion would be deemed most suitable?", "rb_pred": "B", "input_len": 7214}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "choice_3", "input_len": 6962}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "choice_2", "input_len": 7073}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_2", "input_len": 6233}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "C", "input_len": 6820}
+{"question": "Based on the context, what conclusion would be deemed most suitable?", "rb_pred": "B", "input_len": 7093}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "choice_2", "input_len": 7051}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6507}
+{"question": "Considering the provided context, what conclusion would be deemed most suitable?", "rb_pred": "choice_4", "input_len": 7200}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6582}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6672}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_3", "input_len": 6342}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6662}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6814}
+{"question": "Based on the context, what conclusion would be deemed most suitable?", "rb_pred": "B", "input_len": 7418}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6871}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6443}
+{"question": "Considering the provided context, what conclusion would be deemed most suitable?", "rb_pred": "D", "input_len": 6863}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_2", "input_len": 6306}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "choice_3", "input_len": 7210}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "choice_3", "input_len": 7435}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6935}
+{"question": "Based on the context, what conclusion would be deemed most suitable?", "rb_pred": "B", "input_len": 7457}
+{"question": "Based on the context, what conclusion would be deemed most suitable?", "rb_pred": "B", "input_len": 7134}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6520}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 7024}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "choice_3", "input_len": 7170}
+{"question": "Considering the provided context, what conclusion would be deemed most suitable?", "rb_pred": "choice_4", "input_len": 7213}
+{"question": "Based on the context, what conclusion would be deemed most suitable?", "rb_pred": "B", "input_len": 7428}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 7192}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6710}
+{"question": "Considering the provided context, what conclusion would be deemed most suitable?", "rb_pred": "choice_4", "input_len": 7164}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "choice_3", "input_len": 6848}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "B", "input_len": 6735}
+{"question": "Based on the context, what conclusion would be deemed most suitable?", "rb_pred": "B", "input_len": 7106}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6626}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "C", "input_len": 6714}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "B", "input_len": 6678}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_2", "input_len": 6245}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6553}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "B", "input_len": 6903}
+{"question": "Considering the provided context, what conclusion would be deemed most suitable?", "rb_pred": "D", "input_len": 6910}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6570}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_2", "input_len": 6306}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_3", "input_len": 6186}
+{"question": "Considering the provided context, what conclusion would be deemed most suitable?", "rb_pred": "D", "input_len": 6909}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6469}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_3", "input_len": 6139}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "C", "input_len": 6671}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_3", "input_len": 6153}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "choice_2", "input_len": 6840}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "choice_3", "input_len": 6762}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_3", "input_len": 6075}
+{"question": "Considering the provided context, what conclusion would be deemed most suitable?", "rb_pred": "D", "input_len": 6843}
+{"question": "Considering the provided context, what conclusion would be deemed most suitable?", "rb_pred": "D", "input_len": 6995}
+{"question": "Based on the context, what conclusion would be deemed most suitable?", "rb_pred": "B", "input_len": 6900}
+{"question": "Based on the context, what conclusion would be deemed most suitable?", "rb_pred": "B", "input_len": 7035}
+{"question": "Considering the provided context, what conclusion would be deemed most suitable?", "rb_pred": "D", "input_len": 6878}
+{"question": "Based on the context, what conclusion would be deemed most suitable?", "rb_pred": "B", "input_len": 6996}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "C", "input_len": 6605}
+{"question": "Considering the provided context, what conclusion would be deemed most suitable?", "rb_pred": "choice_4", "input_len": 6892}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6468}
+{"question": "Based on the context, what conclusion would be deemed most suitable?", "rb_pred": "B", "input_len": 7085}
+{"question": "Based on the context, what conclusion would be deemed most suitable?", "rb_pred": "B", "input_len": 6959}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6570}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6448}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "choice_3", "input_len": 6755}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "choice_4", "input_len": 6695}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "B", "input_len": 6629}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6492}
+{"question": "Considering the provided context, what conclusion would be deemed most suitable?", "rb_pred": "choice_4", "input_len": 6869}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_2", "input_len": 6182}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6511}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "choice_3", "input_len": 6676}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_2", "input_len": 6130}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_2", "input_len": 6181}
+{"question": "Considering the provided context, what conclusion would be deemed most suitable?", "rb_pred": "choice_4", "input_len": 6968}
+{"question": "Based on the context, what conclusion would be deemed most suitable?", "rb_pred": "B", "input_len": 7404}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "B", "input_len": 6885}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "choice_3", "input_len": 6740}
+{"question": "Considering the provided context, what conclusion would be deemed most suitable?", "rb_pred": "choice_4", "input_len": 6935}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6501}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_2", "input_len": 6113}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6507}
+{"question": "Based on the context, what conclusion would be deemed most suitable?", "rb_pred": "B", "input_len": 7010}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "choice_3", "input_len": 6701}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_3", "input_len": 6102}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_2", "input_len": 6120}
+{"question": "Considering the provided context, what conclusion would be deemed most suitable?", "rb_pred": "choice_4", "input_len": 6897}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_2", "input_len": 6103}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6617}
+{"question": "Based on the context, what conclusion would be deemed most suitable?", "rb_pred": "B", "input_len": 7040}
+{"question": "Based on the context, what conclusion would be deemed most suitable?", "rb_pred": "B", "input_len": 7026}
+{"question": "Based on the context, what conclusion would be deemed most suitable?", "rb_pred": "B", "input_len": 7156}
+{"question": "Based on the context, what conclusion would be deemed most suitable?", "rb_pred": "B", "input_len": 7076}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "choice_3", "input_len": 6713}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "choice_3", "input_len": 6638}
+{"question": "Considering the provided context, what conclusion would be deemed most suitable?", "rb_pred": "choice_4", "input_len": 6851}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "C", "input_len": 6615}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_2", "input_len": 6187}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "choice_2", "input_len": 6724}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_2", "input_len": 6052}
+{"question": "Considering the provided context, what conclusion would be deemed most suitable?", "rb_pred": "choice_4", "input_len": 6977}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "choice_3", "input_len": 6626}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_3", "input_len": 6192}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6693}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "C", "input_len": 6609}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_2", "input_len": 6160}
+{"question": "Considering the provided context, what conclusion would be deemed most suitable?", "rb_pred": "choice_4", "input_len": 6876}
+{"question": "Considering the provided context, what conclusion would be deemed most suitable?", "rb_pred": "choice_4", "input_len": 6915}
+{"question": "Based on the context, what conclusion would be deemed most suitable?", "rb_pred": "B", "input_len": 6933}
+{"question": "Based on the context, what conclusion would be deemed most suitable?", "rb_pred": "B", "input_len": 7077}
+{"question": "Based on the context, what conclusion would be deemed most suitable?", "rb_pred": "B", "input_len": 6884}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_2", "input_len": 6055}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_3", "input_len": 6087}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "choice_3", "input_len": 6826}
+{"question": "Based on the context, what conclusion would be deemed most suitable?", "rb_pred": "B", "input_len": 6997}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_2", "input_len": 6115}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6735}
+{"question": "Considering the provided context, what conclusion would be deemed most suitable?", "rb_pred": "D", "input_len": 7041}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "C", "input_len": 6817}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_2", "input_len": 6122}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6833}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "choice_3", "input_len": 6950}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6623}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_3", "input_len": 6217}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "he will take a break", "input_len": 6576}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_2", "input_len": 6115}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6738}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "B", "input_len": 6629}
+{"question": "Considering the provided context, what conclusion would be deemed most suitable?", "rb_pred": "D", "input_len": 6922}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "C", "input_len": 6832}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "choice_3", "input_len": 6923}

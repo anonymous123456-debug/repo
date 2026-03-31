@@ -1,0 +1,35 @@
+[2025-03-25 18:54:36][INFO] - ****************************** CONFIGURATION ******************************
+[2025-03-25 18:54:36][INFO] - MaxClients                     --> 1
+[2025-03-25 18:54:36][INFO] - dataset                        --> cosmosqa
+[2025-03-25 18:54:36][INFO] - ext                            --> False
+[2025-03-25 18:54:36][INFO] - ext_fil                        --> True
+[2025-03-25 18:54:36][INFO] - fil                            --> False
+[2025-03-25 18:54:36][INFO] - log_path                       --> 
+[2025-03-25 18:54:36][INFO] - lrag_model                     --> 
+[2025-03-25 18:54:36][INFO] - model                          --> Llama3-8B-Instruct-8k
+[2025-03-25 18:54:36][INFO] - r_path                         --> ../data/corpus/processed/50_1_1
+[2025-03-25 18:54:36][INFO] - raw_context_pred               --> False
+[2025-03-25 18:54:36][INFO] - raw_pred                       --> False
+[2025-03-25 18:54:36][INFO] - rb                             --> False
+[2025-03-25 18:54:36][INFO] - rl                             --> False
+[2025-03-25 18:54:36][INFO] - top_k1                         --> 100
+[2025-03-25 18:54:36][INFO] - top_k2                         --> 20
+[2025-03-25 18:54:36][INFO] - LongRAG model used: 
+[2025-03-25 18:54:36][INFO] - ****************************** CONFIGURATION ******************************
+[2025-03-25 18:54:36][DEBUG] - Starting new HTTPS connection (1): s3.amazonaws.com:443
+[2025-03-25 18:54:37][DEBUG] - https://s3.amazonaws.com:443 "HEAD /datasets.huggingface.co/datasets/datasets/csv/csv.py HTTP/11" 200 0
+[2025-03-25 18:54:37][DEBUG] - Attempting to acquire lock 23326559821520 on /public/home/ncu_418000240001/.cache/huggingface/datasets/_public_home_ncu_418000240001_.cache_huggingface_datasets_csv_default-2286f835214b84e9_0.0.0_eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d.lock
+[2025-03-25 18:54:38][DEBUG] - Lock 23326559821520 acquired on /public/home/ncu_418000240001/.cache/huggingface/datasets/_public_home_ncu_418000240001_.cache_huggingface_datasets_csv_default-2286f835214b84e9_0.0.0_eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d.lock
+[2025-03-25 18:54:38][DEBUG] - Attempting to release lock 23326559821520 on /public/home/ncu_418000240001/.cache/huggingface/datasets/_public_home_ncu_418000240001_.cache_huggingface_datasets_csv_default-2286f835214b84e9_0.0.0_eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d.lock
+[2025-03-25 18:54:38][DEBUG] - Lock 23326559821520 released on /public/home/ncu_418000240001/.cache/huggingface/datasets/_public_home_ncu_418000240001_.cache_huggingface_datasets_csv_default-2286f835214b84e9_0.0.0_eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d.lock
+[2025-03-25 18:54:38][DEBUG] - Attempting to acquire lock 23326559498640 on /public/home/ncu_418000240001/.cache/huggingface/datasets/csv/default-2286f835214b84e9/0.0.0/eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d_builder.lock
+[2025-03-25 18:54:38][DEBUG] - Lock 23326559498640 acquired on /public/home/ncu_418000240001/.cache/huggingface/datasets/csv/default-2286f835214b84e9/0.0.0/eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d_builder.lock
+[2025-03-25 18:54:38][DEBUG] - open file: /public/home/ncu_418000240001/.cache/huggingface/datasets/csv/default-2286f835214b84e9/0.0.0/eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d.incomplete/csv-train-00000-00000-of-NNNNN.arrow
+[2025-03-25 18:54:40][DEBUG] - Attempting to acquire lock 23326558685200 on /public/home/ncu_418000240001/.cache/huggingface/datasets/csv/default-2286f835214b84e9/0.0.0/eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d.incomplete_info.lock
+[2025-03-25 18:54:40][DEBUG] - Lock 23326558685200 acquired on /public/home/ncu_418000240001/.cache/huggingface/datasets/csv/default-2286f835214b84e9/0.0.0/eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d.incomplete_info.lock
+[2025-03-25 18:54:40][DEBUG] - open file: /public/home/ncu_418000240001/.cache/huggingface/datasets/csv/default-2286f835214b84e9/0.0.0/eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d.incomplete/dataset_info.json
+[2025-03-25 18:54:40][DEBUG] - Attempting to release lock 23326558685200 on /public/home/ncu_418000240001/.cache/huggingface/datasets/csv/default-2286f835214b84e9/0.0.0/eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d.incomplete_info.lock
+[2025-03-25 18:54:40][DEBUG] - Lock 23326558685200 released on /public/home/ncu_418000240001/.cache/huggingface/datasets/csv/default-2286f835214b84e9/0.0.0/eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d.incomplete_info.lock
+[2025-03-25 18:54:40][DEBUG] - Attempting to release lock 23326559498640 on /public/home/ncu_418000240001/.cache/huggingface/datasets/csv/default-2286f835214b84e9/0.0.0/eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d_builder.lock
+[2025-03-25 18:54:40][DEBUG] - Lock 23326559498640 released on /public/home/ncu_418000240001/.cache/huggingface/datasets/csv/default-2286f835214b84e9/0.0.0/eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d_builder.lock
+[2025-03-25 18:54:40][INFO] - Question: In the future , will this person go to see other bands play ?

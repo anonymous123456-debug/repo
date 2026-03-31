@@ -1,0 +1,218 @@
+[2025-03-25 18:59:02][INFO] - ****************************** CONFIGURATION ******************************
+[2025-03-25 18:59:02][INFO] - MaxClients                     --> 1
+[2025-03-25 18:59:02][INFO] - dataset                        --> sciq
+[2025-03-25 18:59:02][INFO] - ext                            --> False
+[2025-03-25 18:59:02][INFO] - ext_fil                        --> True
+[2025-03-25 18:59:02][INFO] - fil                            --> False
+[2025-03-25 18:59:02][INFO] - log_path                       --> 
+[2025-03-25 18:59:02][INFO] - lrag_model                     --> 
+[2025-03-25 18:59:02][INFO] - model                          --> Llama3-8B-Instruct-8k
+[2025-03-25 18:59:02][INFO] - r_path                         --> ../data/corpus/processed/50_1_1
+[2025-03-25 18:59:02][INFO] - raw_context_pred               --> False
+[2025-03-25 18:59:02][INFO] - raw_pred                       --> False
+[2025-03-25 18:59:02][INFO] - rb                             --> False
+[2025-03-25 18:59:02][INFO] - rl                             --> False
+[2025-03-25 18:59:02][INFO] - top_k1                         --> 100
+[2025-03-25 18:59:02][INFO] - top_k2                         --> 20
+[2025-03-25 18:59:02][INFO] - LongRAG model used: 
+[2025-03-25 18:59:02][INFO] - ****************************** CONFIGURATION ******************************
+[2025-03-25 18:59:02][INFO] - Question: Which type of energy is the energy of anything in motion?
+[2025-03-25 18:59:16][INFO] - Question: What is it called when the soils of the arctic tundra remain in a perennially frozen state?
+[2025-03-25 18:59:28][INFO] - Question: Binding of acetylcholine to receptors on the muscle fiber leads to a?
+[2025-03-25 18:59:43][INFO] - Question: Ice masses, acquifers, and the deep ocean are examples of water what?
+[2025-03-25 18:59:54][INFO] - Question: Potential differences from various voltage sources are necessary in order to create electrical fields, which result in what flow of charge?
+[2025-03-25 19:00:07][INFO] - Question: The pituitary gland is called the “master gland” of what system?
+[2025-03-25 19:00:20][INFO] - Question: What are interferons?
+[2025-03-25 19:00:32][INFO] - Question: The average length of a woman’s menstrual cycle is what?
+[2025-03-25 19:00:44][INFO] - Question: What continuously monitors and repairs its genetic material?
+[2025-03-25 19:00:59][INFO] - Question: What is the chemical formula for a glucose molecule?
+[2025-03-25 19:01:10][INFO] - Question: What is the main difference between prokaryotic or eukaryotic cells ?
+[2025-03-25 19:01:24][INFO] - Question: What was diorite commonly used for in ancient civilizations?
+[2025-03-25 19:01:35][INFO] - Question: What do you call the horizontal stems of a strawberry plant that run over the ground surface?
+[2025-03-25 19:01:46][INFO] - Question: All combustion reactions are what type of reactions?
+[2025-03-25 19:01:58][INFO] - Question: Human metabolism is the conversion of food into heat transfer, work, and this?
+[2025-03-25 19:02:08][INFO] - Question: Sudden changes in geologic and climatic conditions can spur what process?
+[2025-03-25 19:02:21][INFO] - Question: What basic units are neither created nor destroyed during a chemical change, but are instead rearranged?
+[2025-03-25 19:02:32][INFO] - Question: Which type of tides are created when the sun and moon's tides match?
+[2025-03-25 19:02:45][INFO] - Question: The geometry of the bf 3 molecule is called what?
+[2025-03-25 19:02:57][INFO] - Question: Why does the body react to a loss of chloride ions?
+[2025-03-25 19:03:12][INFO] - Question: What pigment is required for photosynthesis to occur?
+[2025-03-25 19:03:24][INFO] - Question: Microwave ovens use radiation to provide food with what kind of energy?
+[2025-03-25 19:03:35][INFO] - Question: What two types of juices help digestion within the small intestine?
+[2025-03-25 19:03:46][INFO] - Question: What does temperature measure?
+[2025-03-25 19:04:01][INFO] - Question: What is the term for the basic contractile unit of the muscle?
+[2025-03-25 19:04:12][INFO] - Question: When iron and sulfur are mixed together in a certain ratio and heated, what do they become?
+[2025-03-25 19:04:24][INFO] - Question: The coccyx, or tailbone, results from the fusion of four small what?
+[2025-03-25 19:04:36][INFO] - Question: What term describes a specific statement that is thought to be never violated by the entire natural universe?
+[2025-03-25 19:04:48][INFO] - Question: How does the sun generate energy?
+[2025-03-25 19:05:00][INFO] - Question: How many types of major tissues do modern plants have?
+[2025-03-25 19:05:11][INFO] - Question: Resemblance to other species can serve as protection to what category of species?
+[2025-03-25 19:05:23][INFO] - Question: What type of energy is useful to humans because it's ease of transport and conversion to other forms of energy?
+[2025-03-25 19:05:36][INFO] - Question: The electric and magnetic fields are closely related and propagate as what?
+[2025-03-25 19:05:45][INFO] - Question: In neurons, what often involves gated sodium channels?
+[2025-03-25 19:06:00][INFO] - Question: Water leaves ponds and lakes through evaporation and also as what?
+[2025-03-25 19:06:13][INFO] - Question: What is found inside the pores of spongy bone?
+[2025-03-25 19:06:24][INFO] - Question: What is another term for dry ice?
+[2025-03-25 19:06:36][INFO] - Question: The vertebrate endoskeleton is made of bone and what tough, flexible tissue?
+[2025-03-25 19:06:51][INFO] - Question: Mammals generally lack a cloaca and have a separate opening for the what?
+[2025-03-25 19:07:04][INFO] - Question: Which stage has already been completed by the time sea urchin eggs are released from the female?
+[2025-03-25 19:07:19][INFO] - Question: What plant hormone allows plants to curve in a specific direction?
+[2025-03-25 19:07:30][INFO] - Question: What kind of harm does a corrosive substance cause?
+[2025-03-25 19:07:44][INFO] - Question: What do we call structures that are similar in related organisms because they were inherited from a common ancestor?
+[2025-03-25 19:07:55][INFO] - Question: What gland is located at the base of the brain and secretes the hormone melatonin?
+[2025-03-25 19:08:06][INFO] - Question: When volcanoes erupt, what from the mantle is released as carbon dioxide into the air?
+[2025-03-25 19:08:18][INFO] - Question: When the energy of the earthquake reaches shore, it forms a huge wave called?
+[2025-03-25 19:08:29][INFO] - Question: What may have developed to help our ancestors distinguish between ripe and unripe fruits?
+[2025-03-25 19:08:41][INFO] - Question: What term refers to a wall or partition that divides the heart into chambers?
+[2025-03-25 19:08:53][INFO] - Question: What are the smallest type of blood vessels?
+[2025-03-25 19:09:07][INFO] - Question: What are made in the first step of the scientific method?
+[2025-03-25 19:09:17][INFO] - Question: What leads to the buildup of electric charges on objects?
+[2025-03-25 19:09:32][INFO] - Question: Where part of the atmosphere is the uppermost mantle?
+[2025-03-25 19:09:44][INFO] - Question: A plant is composed of two main types of tissue: meristematic tissue and what other kind of tissue?
+[2025-03-25 19:09:55][INFO] - Question: What change the physical properties of solvents?
+[2025-03-25 19:10:09][INFO] - Question: What orbits an atoms' nucleus?
+[2025-03-25 19:10:20][INFO] - Question: What layer of soil, essential for farming, has the highest proportion of organic material?
+[2025-03-25 19:10:34][INFO] - Question: Saturated hydrocarbons get their name because they are saturated with what atoms?
+[2025-03-25 19:10:48][INFO] - Question: Snippet 2: one of the reasons the periodic table is so useful is because its structure allows us to qualitatively determine how some properties of the elements vary versus their position on the periodic table. the variation of properties versus position on the periodic table is called what?
+[2025-03-25 19:10:59][INFO] - Question: What is the term for physicians and scientists who research and develop vaccines and treat and study conditions ranging from allergies to aids?
+[2025-03-25 19:11:11][INFO] - Question: Plants and fungi cells have what basic cell structure, which animals do not have?
+[2025-03-25 19:11:22][INFO] - Question: What structure shows the bonding between atoms, with dots representing available electrons?
+[2025-03-25 19:11:35][INFO] - Question: How do we describe chemical reactions?
+[2025-03-25 19:11:49][INFO] - Question: What is the medical process of removing wastes and excess water from the blood by diffusion and ultrafiltration called?
+[2025-03-25 19:12:00][INFO] - Question: What is the basis of the classification of protists?
+[2025-03-25 19:12:14][INFO] - Question: What is the atomic number?
+[2025-03-25 19:12:29][INFO] - Question: What is the middle layer that hair pass through before exiting at the surface of the skin?
+[2025-03-25 19:12:43][INFO] - Question: What is the most widely accepted theory explaining how muscle fibers contract?
+[2025-03-25 19:12:55][INFO] - Question: What is the climate of a small area called?
+[2025-03-25 19:13:05][INFO] - Question: Lying with their mouths open, a behavior called gaping, probably serves what function for crocodiles?
+[2025-03-25 19:13:17][INFO] - Question: Darwin found that, since all species are related to each other and some of them evolve together, so they develop similar what?
+[2025-03-25 19:13:32][INFO] - Question: What type of craniates have backbones?
+[2025-03-25 19:13:46][INFO] - Question: A voltaic cell uses what type of reaction to generate an electric current
+[2025-03-25 19:14:01][INFO] - Question: Resistance to pesticides in a population of insects is an example of what?
+[2025-03-25 19:14:13][INFO] - Question: What do you call the force identified by a north and south pole?
+[2025-03-25 19:14:24][INFO] - Question: Because the solute is moving down the concentration gradient, and no input of energy is required, facilitated diffusion is considered what type of transport?
+[2025-03-25 19:14:39][INFO] - Question: How many chromosomes do bacterial dna have?
+[2025-03-25 19:14:50][INFO] - Question: Competition between members of the same species is known as?
+[2025-03-25 19:15:04][INFO] - Question: Defecating, urination, and even childbirth involve cooperation between the diaphragm and these?
+[2025-03-25 19:15:15][INFO] - Question: Alpha particles, beta particles, and gamma particles are major types of what?
+[2025-03-25 19:15:28][INFO] - Question: Name the 3 ocean zones.
+[2025-03-25 19:15:43][INFO] - Question: The process by which leaves collect sunlight and make food is called this?
+[2025-03-25 19:15:53][INFO] - Question: Which scientist was responsible for the theory of evolution by natural selection?
+[2025-03-25 19:16:08][INFO] - Question: What is the term for the fast-moving air currents high in the troposphere?
+[2025-03-25 19:16:19][INFO] - Question: What is the term for the gases that surround a planet?
+[2025-03-25 19:16:29][INFO] - Question: Ciliary muscles control the shape of the lens, which bends light and focuses it on what?
+[2025-03-25 19:16:42][INFO] - Question: Red-green colorblindness is an example of what kind of trait?
+[2025-03-25 19:16:56][INFO] - Question: What term is used to describe when a liquid is the temperature at which its equilibrium vapor pressure is equal to the pressure exerted on the liquid by its gaseous surroundings?
+[2025-03-25 19:17:08][INFO] - Question: What do you call the folded layers of rock where geologists look for oil?
+[2025-03-25 19:17:19][INFO] - Question: Scientists goal is develop nuclear fusion power plants, where the energy from fusion of hydrogen nuclei can be converted to what?
+[2025-03-25 19:17:31][INFO] - Question: The oxygen atom in a water molecule pull the electrons away from the hydrogen atoms which leads to an unequal distribution of what?
+[2025-03-25 19:17:44][INFO] - Question: What influence does the  horizontal motion of a projectile have on free fall?
+[2025-03-25 19:17:54][INFO] - Question: Varicella zoster virus causes what two illnesses?
+[2025-03-25 19:18:07][INFO] - Question: What organs are the main organs of the urinary system?
+[2025-03-25 19:18:18][INFO] - Question: What do you call a substance that is not an acid or a base?
+[2025-03-25 19:18:32][INFO] - Question: Positive charge is mostly found in what part of an atom?
+[2025-03-25 19:18:46][INFO] - Question: What happens when forces of evolution work over a long period of time?
+[2025-03-25 19:18:58][INFO] - Question: What does a solar power plant turn sunlight into?
+[2025-03-25 19:19:13][INFO] - Question: Traits inherited in mendelian patterns are either?
+[2025-03-25 19:19:25][INFO] - Question: In biology, what is required for ecosystems to survive?
+[2025-03-25 19:19:39][INFO] - Question: Compared to red light, blue light has a shorter what?
+[2025-03-25 19:19:54][INFO] - Question: What are the structural and functional units of the kidney called?
+[2025-03-25 19:20:05][INFO] - Question: Genetic traits are characteristics encoded in what?
+[2025-03-25 19:20:15][INFO] - Question: Whan an alkene is aquired by an alkyl halide in an organic reaction, what kind of reaction is this?
+[2025-03-25 19:20:25][INFO] - Question: Lava flows from a volcano and hardens into what?
+[2025-03-25 19:20:36][INFO] - Question: What type of gas is used to fill glass tubes of lighted signs?
+[2025-03-25 19:20:50][INFO] - Question: What is said to occur when both traits appear in a heterozygous offspring?
+[2025-03-25 19:21:02][INFO] - Question: What is responsible for our sense of balance?
+[2025-03-25 19:21:17][INFO] - Question: An electrical motor changes electrical energy into what?
+[2025-03-25 19:21:31][INFO] - Question: What is another term for the voice box?
+[2025-03-25 19:21:42][INFO] - Question: What sac, which was sitting on top of the flat embryo, envelops the embryo as it folds?
+[2025-03-25 19:21:54][INFO] - Question: What makes organic compounds ubiquitous is the chemistry of their what?
+[2025-03-25 19:22:06][INFO] - Question: B cells and t cells are examples of what type of cells?
+[2025-03-25 19:22:17][INFO] - Question: Called the powerhouses of the cell, what organelles are the site of cellular energy production?
+[2025-03-25 19:22:29][INFO] - Question: As an erythrocyte matures in the red bone marrow, it extrudes its nucleus and most of its other what?
+[2025-03-25 19:22:40][INFO] - Question: What is the ph of pure water?
+[2025-03-25 19:22:51][INFO] - Question: Water droplets form when the air reaches 100-percent what?
+[2025-03-25 19:23:01][INFO] - Question: What is the process by which plants make their own food called?
+[2025-03-25 19:23:15][INFO] - Question: What type of feeders are sponges?
+[2025-03-25 19:23:30][INFO] - Question: What holds homologs together as the spindle forms for the first meiotic division?
+[2025-03-25 19:23:43][INFO] - Question: How many chambers does the stomach of a crocodile have?
+[2025-03-25 19:23:55][INFO] - Question: Some soil water can flow through easily. what kind of soil is this?
+[2025-03-25 19:24:08][INFO] - Question: Regulation of the reproductive system is a process that requires the action of hormones from which gland?
+[2025-03-25 19:24:20][INFO] - Question: What is the process in which a layer of a second metal is deposited on the metal electrode that acts as the cathode during electrolysis?
+[2025-03-25 19:24:31][INFO] - Question: How are bacteria cells similar to our cells?
+[2025-03-25 19:24:44][INFO] - Question: Kinetic energy of moving particles of matter, measured by their temperatures are known as:
+[2025-03-25 19:24:57][INFO] - Question: The common carotid artery gives rise to the external and internal carotid arteries. the external carotid artery remains superficial and gives rise to many arteries of this?
+[2025-03-25 19:25:08][INFO] - Question: What's the most common disorder from having an extra chromosome?
+[2025-03-25 19:25:22][INFO] - Question: What type of numerical figure is important in considering the precision and accuracy of a number?
+[2025-03-25 19:25:37][INFO] - Question: Like a thick cap covering the brain, the dura mater is a tough outer covering. the name comes from the latin for?
+[2025-03-25 19:25:49][INFO] - Question: What kind of muscle is responsible for hollow organs contracting?
+[2025-03-25 19:26:03][INFO] - Question: What important process takes place in specialized tissue inside plant leaves?
+[2025-03-25 19:26:14][INFO] - Question: What kind of biome or climate might you find very close to the earth's poles, as well as up on high mountains?
+[2025-03-25 19:26:27][INFO] - Question: What do young female meerkats act as in colonies?
+[2025-03-25 19:26:39][INFO] - Question: What helps treat bacterial infections in people?
+[2025-03-25 19:26:53][INFO] - Question: What is the process in which one cell divides to form two new cells called?
+[2025-03-25 19:27:05][INFO] - Question: Group 15 of the periodic table is also called which group?
+[2025-03-25 19:27:16][INFO] - Question: Conversely, very large forces are created by liquids and solids when they try to expand but are constrained from doing so—which is equivalent to compressing them to less than their normal volume. this often occurs when a contained material warms up, since most materials expand when they do this?
+[2025-03-25 19:27:28][INFO] - Question: The vitamins and minerals contained in all of the food we consume are important for all of our organ systems. however, there are certain nutrients that affect this?
+[2025-03-25 19:27:43][INFO] - Question: Because atoms are always electrically neutral, for each added proton, one of what is also added?
+[2025-03-25 19:27:54][INFO] - Question: What type of charge do electrons have?
+[2025-03-25 19:28:05][INFO] - Question: Which process is glycolysis in during cellular respiration?
+[2025-03-25 19:28:20][INFO] - Question: Within the chloroplast, synthesis of what takes place in the fluid inside the inner membrane called the stroma?
+[2025-03-25 19:28:32][INFO] - Question: What term is given to flatworms because they lack a body cavity?
+[2025-03-25 19:28:44][INFO] - Question: The fujita scale measures the intensity of what weather event, based on wind speed and damage?
+[2025-03-25 19:28:55][INFO] - Question: It may seem as though burning destroys matter, but the same amount of what, still exists after a campfire as before?
+[2025-03-25 19:29:07][INFO] - Question: What is the fan-like superior region that forms the largest part of the hip bone and is united to the sacrum at the largely immobile sacroiliac joint?
+[2025-03-25 19:29:19][INFO] - Question: What are the male gametes called?
+[2025-03-25 19:29:30][INFO] - Question: In a ketone, two of which kind of groups are attached to the carbonyl carbon atom?
+[2025-03-25 19:29:42][INFO] - Question: What is polyisoprene better known as?
+[2025-03-25 19:29:53][INFO] - Question: Segmented worms have a digestive,nervous and what type of system?
+[2025-03-25 19:30:04][INFO] - Question: What is only effective if ventilation is matched to blood flow through alveolar capillaries?
+[2025-03-25 19:30:19][INFO] - Question: What forces the fetus out of the uterus?
+[2025-03-25 19:30:32][INFO] - Question: Specific scents are often associated with what?
+[2025-03-25 19:30:44][INFO] - Question: Which electromagnetic radiation is used to kill cancer cells?
+[2025-03-25 19:30:57][INFO] - Question: What weather phenomenon increases the rate of weathering in rock and soil?
+[2025-03-25 19:31:11][INFO] - Question: What system in both males and females consists of structures that produce reproductive cells, or gametes, and secrete sex hormone?
+[2025-03-25 19:31:26][INFO] - Question: Electrical potential energy can be described by the equation pe = qv, where q is the electric charge and v is what?
+[2025-03-25 19:31:37][INFO] - Question: Ecologists already use the abilities of many prokaryotes to carry out bioremediation of soils and what else?
+[2025-03-25 19:31:52][INFO] - Question: Milk is usually subjected to what process, where high temperatures denature the proteins in bacteria so they cannot carry out functions needed to grow and multiply?
+[2025-03-25 19:32:05][INFO] - Question: How are valuable metabolites recovered?
+[2025-03-25 19:32:20][INFO] - Question: What is the only planet that is known to support life?
+[2025-03-25 19:32:31][INFO] - Question: What is an isotope that is radioactive called?
+[2025-03-25 19:32:43][INFO] - Question: What creatures evolved from a lobe-finned lungfish ancestor?
+[2025-03-25 19:32:56][INFO] - Question: In dioecious animals, females generally produce what contribution to reproduction?
+[2025-03-25 19:33:07][INFO] - Question: Integral proteins penetrate the hydrophobic interior of the what?
+[2025-03-25 19:33:20][INFO] - Question: Average speed is equal to distance divided by what?
+[2025-03-25 19:33:31][INFO] - Question: Leaving tampons in for too long can put you at risk of what syndrome?
+[2025-03-25 19:33:41][INFO] - Question: In artificial passive immunization, which items from an immune animal are injected into a nonimmune animal?
+[2025-03-25 19:33:53][INFO] - Question: What is the ring of hooks tapeworms use to attach themselves?
+[2025-03-25 19:34:06][INFO] - Question: Amplification that occurs in which cells often requires signal transduction pathways involving second messengers?
+[2025-03-25 19:34:19][INFO] - Question: What is the term for the force applied to a wheel and axle?
+[2025-03-25 19:34:30][INFO] - Question: Who is said to have dropped two objects of different masses from the tower of pisa?
+[2025-03-25 19:34:40][INFO] - Question: What happens to gas solubility as the temperature increases?
+[2025-03-25 19:34:52][INFO] - Question: What type of cells are gametes?
+[2025-03-25 19:35:07][INFO] - Question: What physical property of matter reflects how closely packed the particles of matter are?
+[2025-03-25 19:35:18][INFO] - Question: Synaptic connections can change over time depending on what?
+[2025-03-25 19:35:33][INFO] - Question: Each hemisphere of the brain contains regions called what that are involved in different functions?
+[2025-03-25 19:35:46][INFO] - Question: Metamorphic rocks form when an existing rock is changed by heat or what?
+[2025-03-25 19:35:57][INFO] - Question: What is it called when body’s internal environment is stable?
+[2025-03-25 19:36:09][INFO] - Question: Human evolution shows that evolutionary changes typically occur at what pace?
+[2025-03-25 19:36:20][INFO] - Question: What happens to the level of relative humidity in the evening as air temperature declines?
+[2025-03-25 19:36:33][INFO] - Question: When light strikes the rods and cones, they hyperpolarize, shutting off their release of what?
+[2025-03-25 19:36:47][INFO] - Question: In desert cactus, thorns that protect the water held in a large, barrel-shaped stem are an example of what?
+[2025-03-25 19:37:02][INFO] - Question: Name the law that determines as to which rock layers are younger or older than others.
+[2025-03-25 19:37:13][INFO] - Question: What are the primary producers in the ocean?
+[2025-03-25 19:37:29][INFO] - Question: What are the devices placed in electric circuits where charge can build up, which store energy when charged and release it when they discharge?
+[2025-03-25 19:37:41][INFO] - Question: What is the term for a  very rapid motor response that is not directed by the brain?
+[2025-03-25 19:37:52][INFO] - Question: What do most species of monkeys have that no apes or humans do?
+[2025-03-25 19:38:04][INFO] - Question: What is the process of small molecules passing through the plasma membrane called?
+[2025-03-25 19:38:15][INFO] - Question: The long mouth-tube that some insects  use to suck up the nectar of the flower is called what?
+[2025-03-25 19:38:27][INFO] - Question: The elements in group 2 are called what?
+[2025-03-25 19:38:38][INFO] - Question: What is the largest artery in the body called?
+[2025-03-25 19:38:50][INFO] - Question: What is approximately the average stroke volume in humans?
+[2025-03-25 19:39:06][INFO] - Question: Liverworts are small plants that grow close  to what?
+[2025-03-25 19:39:18][INFO] - Question: What consists of all the biotic and abiotic factors in an area and their interactions?
+[2025-03-25 19:39:32][INFO] - Question: What contains more calcium than any other organ?
+[2025-03-25 19:39:43][INFO] - Question: What is it called when an egg develops into an individual without being fertilized?
+[2025-03-25 19:39:58][INFO] - Question: Insulin is made up of how many polypeptide chains?
+[2025-03-25 19:40:12][INFO] - Question: What term is used to describe large numbers of species that go extinct in a short amount of time?
+[2025-03-25 19:40:23][INFO] - Question: Does air temperature increase or decrease as it rises higher in the atmosphere?

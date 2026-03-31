@@ -1,0 +1,53 @@
+[2025-03-06 17:52:30][INFO] - ****************************** CONFIGURATION ******************************
+[2025-03-06 17:52:30][INFO] - MaxClients                     --> 1
+[2025-03-06 17:52:30][INFO] - dataset                        --> 2wikimultihopqa
+[2025-03-06 17:52:30][INFO] - ext                            --> True
+[2025-03-06 17:52:30][INFO] - ext_fil                        --> True
+[2025-03-06 17:52:30][INFO] - fil                            --> True
+[2025-03-06 17:52:30][INFO] - log_path                       --> 
+[2025-03-06 17:52:30][INFO] - lrag_model                     --> 
+[2025-03-06 17:52:30][INFO] - model                          --> Llama3-8B-Instruct-8k
+[2025-03-06 17:52:30][INFO] - r_path                         --> ../data/corpus/processed/200_2_2
+[2025-03-06 17:52:30][INFO] - raw_pred                       --> True
+[2025-03-06 17:52:30][INFO] - rb                             --> True
+[2025-03-06 17:52:30][INFO] - rl                             --> True
+[2025-03-06 17:52:30][INFO] - top_k1                         --> 100
+[2025-03-06 17:52:30][INFO] - top_k2                         --> 7
+[2025-03-06 17:52:30][INFO] - LongRAG model used: 
+[2025-03-06 17:52:30][INFO] - ****************************** CONFIGURATION ******************************
+[2025-03-06 17:52:30][INFO] - Question: Are The Patriots (Film) and Kungajakt both from the same country?
+[2025-03-06 17:52:48][INFO] - Question: Which film was released earlier, The Passing Of The Third Floor Back or The Patriots (Film)?
+[2025-03-06 17:52:59][INFO] - Question: Are both Unifi Mobile and Opening Day Partners located in the same country?
+[2025-03-06 17:53:11][INFO] - Question: Where was the place of death of the director of film Afternoon Of The Bulls?
+[2025-03-06 17:53:22][INFO] - Question: Are both Giuseppe Barison and Hal Willner from the same country?
+[2025-03-06 17:53:34][INFO] - Question: Are both Corine Van Der Zijden and Nathaniel O'Brien from the same country?
+[2025-03-06 17:53:46][INFO] - Question: What is the date of death of John Of Eltham, Earl Of Cornwall's father?
+[2025-03-06 17:53:56][INFO] - Question: Are the movies Eves On Skis and Under The Doctor, from the same country?
+[2025-03-06 17:54:07][INFO] - Question: Do Yassine Idmbarek and Steffie Van Der Peet share the same nationality?
+[2025-03-06 17:54:18][INFO] - Question: Which film has more directors, Mauvaise Graine or The Hunger Games: Mockingjay – Part 2?
+[2025-03-06 17:54:29][INFO] - Question: Which film came out first, Rome & Jewel or The Hunger Games: Catching Fire?
+[2025-03-06 17:54:41][INFO] - Question: Where did the director of film Coast Guard (Film) die?
+[2025-03-06 17:54:54][INFO] - Question: Where did Saskia Noorman-Den Uyl's father die?
+[2025-03-06 17:55:07][INFO] - Question: Are Charles Du Bois De Vroylande and Kirsten Christensen of the same nationality?
+[2025-03-06 17:55:17][INFO] - Question: Are Native Nod and Atlantic Brass Quintet both from the same country?
+[2025-03-06 17:55:30][INFO] - Question: Where was the place of death of the director of film Fighting Coast Guard?
+[2025-03-06 17:55:42][INFO] - Question: Do both films: Mandela And De Klerk and The Bride Came C.O.D. have the directors from the same country?
+[2025-03-06 17:55:52][INFO] - Question: Do Harmen De Hoop and M. D. Bright have the same nationality?
+[2025-03-06 17:56:05][INFO] - Question: Did the movies The Fire Trap and Spider-Man 3, originate from the same country?
+[2025-03-06 17:56:19][INFO] - Question: Which film whose director is younger, Mandela And De Klerk or The Bride Came C.O.D.?
+[2025-03-06 17:56:33][INFO] - Question: What is the date of birth of the director of film Mandela And De Klerk?
+[2025-03-06 17:56:43][INFO] - Question: What is the date of death of the director of film Mandela And De Klerk?
+[2025-03-06 17:56:53][INFO] - Question: Are A. J. De Klerk and Frank Madden (Politician) both from the same country?
+[2025-03-06 17:57:04][INFO] - Question: Where was the place of death of John Of Eltham, Earl Of Cornwall's father?
+[2025-03-06 17:57:14][INFO] - Question: Who was born first out of Thomas Blinkhorn and Grazia Maria Pinto?
+[2025-03-06 17:57:27][INFO] - Question: Where did Saskia Noorman-Den Uyl's father graduate from?
+[2025-03-06 17:57:41][INFO] - Question: Who was born first out of Peter De Klerk and Steven Posner?
+[2025-03-06 17:57:57][INFO] - Question: Are both bands, The Palace Guard and Vital Information, from the same country?
+[2025-03-06 17:58:06][INFO] - Question: Which film has the director died later, Mandela And De Klerk or Sangam (1964 Urdu Film)?
+[2025-03-06 17:58:16][INFO] - Question: When did the director of film Come Back To The Five And Dime, Jimmy Dean, Jimmy Dean (Film) die?
+[2025-03-06 17:58:28][INFO] - Question: What is the date of birth of the director of film Come Back To The Five And Dime, Jimmy Dean, Jimmy Dean (Film)?
+[2025-03-06 17:58:39][INFO] - Question: Where was the performer of song Son Of Your Father born?
+[2025-03-06 17:58:53][INFO] - Question: Are Spider-Man: Far From Home and Dangerous Liaisons (2012 Film) both from the same country?
+[2025-03-06 17:59:06][INFO] - Question: Are both Deutscher Olymp and The Fortress (Alberta) located in the same country?
+[2025-03-06 17:59:19][INFO] - Question: Who died first, Günter Gerhard Lange or Hans Dirk De Vries Reilingh?
+[2025-03-06 17:59:32][INFO] - Question: Which film was released earlier, The Dark Knight Rises or Weighed But Found Wanting?

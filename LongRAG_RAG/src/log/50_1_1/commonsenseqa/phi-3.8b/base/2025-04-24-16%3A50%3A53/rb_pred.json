@@ -1,0 +1,200 @@
+{"question": "The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change?", "rb_pred": "E.avoid", "input_len": 5309}
+{"question": "Sammy wanted to go to where the people were.  Where might he go?", "rb_pred": "B.populated areas", "input_len": 6546}
+{"question": "To locate a choker not located in a jewelry box or boutique where would you go?", "rb_pred": "B.neck", "input_len": 6589}
+{"question": "Google Maps and other highway and street GPS services have replaced what?", "rb_pred": "D.atlas", "input_len": 6436}
+{"question": "The fox walked from the city into the forest, what was it looking for?", "rb_pred": "C.natural habitat", "input_len": 6276}
+{"question": "What home entertainment equipment requires cable?", "rb_pred": "D.television", "input_len": 7069}
+{"question": "The only baggage the woman checked was a drawstring bag, where was she heading with it?", "rb_pred": "E.airport", "input_len": 6601}
+{"question": "The forgotten leftovers had gotten quite old, he found it covered in mold in the back of his what?", "rb_pred": "A.tattered", "input_len": 6519}
+{"question": "What do people use to absorb extra ink from a fountain pen?", "rb_pred": "E.blotter", "input_len": 6981}
+{"question": "Where is a business restaurant likely to be located?", "rb_pred": "C.mall", "input_len": 6983}
+{"question": "Where do you put your grapes just before checking out?", "rb_pred": "B.grocery cart", "input_len": 6359}
+{"question": "Before getting a divorce, what did the wife feel who was doing all the work?", "rb_pred": "D.tears", "input_len": 6678}
+{"question": "Johnny sat on a bench and relaxed after doing a lot of work on his hobby.  Where is he?", "rb_pred": "C.garden", "input_len": 6868}
+{"question": "James was cooling off two quickly.  He would die if he didn't find some way to stop what?", "rb_pred": "A.loss of heat", "input_len": 6956}
+{"question": "Of all the rooms in a house it was his favorite, the aromas always drew him to the what?", "rb_pred": "C.kitchen", "input_len": 6491}
+{"question": "Bill is stuck in marsh when a man comes up to him peaking Cajun, where is he?", "rb_pred": "D.louisiana", "input_len": 7003}
+{"question": "What is it called when you slowly cook using a grill?", "rb_pred": "E.barbeque", "input_len": 6731}
+{"question": "What type of person typically contracts illness?", "rb_pred": "C", "input_len": 7061}
+{"question": "Where would you expect to find a pizzeria while shopping?", "rb_pred": "C", "input_len": 7259}
+{"question": "When eating everything on the tasting menu, what does one tend to feel?", "rb_pred": "E", "input_len": 7021}
+{"question": "What does playing soccer for a long time lead to?", "rb_pred": "E.getting tired", "input_len": 7664}
+{"question": "Which entrance would you use if you do not want to use the back entrance?", "rb_pred": "E. microphone (when used in a way that only allows the speaker to hear their own voice)", "input_len": 6301}
+{"question": "You can share files with someone if you have a connection to a what?", "rb_pred": "D.computer network", "input_len": 6688}
+{"question": "The accelerator was controller via a hand throttle, and the foot pedals controlled the steering in the small what?", "rb_pred": "A", "input_len": 6120}
+{"question": "Sean was lying about the body, but he was very scared.  He constantly worried about what?", "rb_pred": "B.non-native English speaker", "input_len": 6782}
+{"question": "The drug kingpin told his man to run errands, this was code to go to all the dealers to do what they had?", "rb_pred": "D.take money", "input_len": 5996}
+{"question": "Though he could've kept going his body appreciated the rest, it had been constantly what during the day?", "rb_pred": "A.refreshed", "input_len": 6673}
+{"question": "Too many people want exotic snakes.  The demand is driving what to carry them?", "rb_pred": "D.ballpark or beach boardwalk", "input_len": 6661}
+{"question": "Joe suffered many consequences from stabbing a stranger to death.   Among them, the family of the victim did something to him. What was that?", "rb_pred": "E.law suit", "input_len": 7127}
+{"question": "To prevent any glare during the big football game he made sure to clean the dust of his what?", "rb_pred": "A", "input_len": 6442}
+{"question": "I have something in my head I want to share, what ways can I do that?", "rb_pred": "C.speak information", "input_len": 6686}
+{"question": "He wanted a house that was gated off from other places, where should he start looking?", "rb_pred": "D.suburbs", "input_len": 6917}
+{"question": "Where in Southern Europe would you find many canals?", "rb_pred": "D.venice", "input_len": 6985}
+{"question": "What would a camper need to do before he or she can start cooking food?", "rb_pred": "C.pack or bag", "input_len": 6417}
+{"question": "What could happen to a paper if you leave it outside even if it does not move?", "rb_pred": "A", "input_len": 6746}
+{"question": "Mark's semen was very thick, but after his vasectomy it was also what?", "rb_pred": "C.thin", "input_len": 6756}
+{"question": "What is a great place to lay in the sun?", "rb_pred": "D", "input_len": 6235}
+{"question": "Where would you find a seafood restaurant in the east coast of North America?", "rb_pred": "B", "input_len": 6840}
+{"question": "The president is the leader of what institution?", "rb_pred": "B.white house", "input_len": 6764}
+{"question": "Sitting to close while watching TV can cause what sort of pain?", "rb_pred": "D", "input_len": 7219}
+{"question": "Where is a bald eagle safe?", "rb_pred": "D", "input_len": 7039}
+{"question": "The game promised it was free, but the child's parents soon found themselves doing what for microtransactions?", "rb_pred": "D.paying", "input_len": 6630}
+{"question": "What kind of driving leads to accidents?", "rb_pred": "D.illegal", "input_len": 6975}
+{"question": "What is eating too much dinner likely to result in?", "rb_pred": "C.stomach ache", "input_len": 7629}
+{"question": "What is a person chatting with friends likely hoping to accomplish?", "rb_pred": "E.social bonding", "input_len": 7458}
+{"question": "Jame's bare feet were burned as he walked, because the sunshine had made the surface hot.  Where might he have been?", "rb_pred": "D.street", "input_len": 6723}
+{"question": "A fox was thirsty searching for water during the drought, where was he?", "rb_pred": "D.lake", "input_len": 6183}
+{"question": "What might be the result of a season of successful skiing?", "rb_pred": "E.healthy body", "input_len": 7233}
+{"question": "The sensor would just the distance then set off an alarm, the installation expert explained it was called a what kind of sensor?", "rb_pred": "D.proximity", "input_len": 5471}
+{"question": "The man was eating lunch, but rushed when he looked at his watch, why did he rush?", "rb_pred": "B.late for work", "input_len": 6503}
+{"question": "The evacuation became mandatory, so what came on the TV?", "rb_pred": "E.optional", "input_len": 6291}
+{"question": "The person gave a good hands on what to show how to do the work?", "rb_pred": "A.cleaning agents", "input_len": 6355}
+{"question": "Where would you see some people doing jumping jacks?", "rb_pred": "D.bus stop", "input_len": 6451}
+{"question": "The body guard was good at his duties, he made the person who hired him what?", "rb_pred": "C.feel safe", "input_len": 5651}
+{"question": "Learning languages is difficult.  Even in a full immersion environment you're likely to make mistakes, mistakes will cause misinterpretation, which will be uncomfortable, which will cause what?,", "rb_pred": "D.misunderstandings", "input_len": 7491}
+{"question": "Jim enjoyed killing people, but he did it too often and the cops found out.  What might the cops do to him?", "rb_pred": "D.get arrested", "input_len": 7009}
+{"question": "Where is there usually a fiddle playing?", "rb_pred": "C.orchestra", "input_len": 7276}
+{"question": "What is the only was to recover from exhaustion?", "rb_pred": "B.have rest", "input_len": 7034}
+{"question": "What would you do if you want to be able to earn money?", "rb_pred": "A", "input_len": 7164}
+{"question": "What is a grumpy person likely to have?", "rb_pred": "B", "input_len": 7415}
+{"question": "What do drugs do?", "rb_pred": "A.lower i.q", "input_len": 7372}
+{"question": "A beaver can destroy a machines functionality if they build their dam in this?", "rb_pred": "E.lake or river", "input_len": 6594}
+{"question": "They decided to hash things out over drinks, after enough booze they were able to get close on a few things and what?", "rb_pred": "A.reach tentative agreement", "input_len": 6047}
+{"question": "Where could a fungus grow and not be disturbed by sunlight?", "rb_pred": "E.fallen tree", "input_len": 6949}
+{"question": "Can you name a good reason for attending school?", "rb_pred": "A", "input_len": 7318}
+{"question": "What state south of Kentucky and north of Alabama will you find people playing the fiddle?", "rb_pred": "E.bow and strings", "input_len": 7008}
+{"question": "Though she made the cut years ago, its figurative scars would never what?", "rb_pred": "D", "input_len": 7012}
+{"question": "What does sex often make happen in people?", "rb_pred": "D. cloud judgment", "input_len": 7150}
+{"question": "Where would you see people in uniform playing with a ball?", "rb_pred": "E.sporting event", "input_len": 7357}
+{"question": "What kind of place could have a seafood restaurant?", "rb_pred": "B.coastal cities", "input_len": 6798}
+{"question": "Who was the head of the branch yelling at?", "rb_pred": "C", "input_len": 8000}
+{"question": "He made another call, he did this all day hoping people would what well to his offer?", "rb_pred": "C.respond", "input_len": 6309}
+{"question": "She needs to visit a bookshop after buying the latest fashion, where should she look?", "rb_pred": "A.specialty clothing stores like Levi's or Gap", "input_len": 7018}
+{"question": "Where could you see an advertisement while reading news?", "rb_pred": "D.web page", "input_len": 7403}
+{"question": "What is required to be good at playing tennis?", "rb_pred": "D.tennis court", "input_len": 7011}
+{"question": "What state is the John Davis  Lodge toll road found in?", "rb_pred": "A", "input_len": 7176}
+{"question": "The man went to clown college, he had always want to run away with the what?", "rb_pred": "A", "input_len": 7167}
+{"question": "Jamie wanted to reduce her waist size, but all of her efforts failed miserably.  She continued to do what?", "rb_pred": "C.dispare", "input_len": 5902}
+{"question": "James felt himself losing consciousness.  He was frightened.  He didn't want this.  He was scared of what?", "rb_pred": "B.boredom", "input_len": 6863}
+{"question": "If someone is aloof and self-important, what is their experience when meeting people?", "rb_pred": "D.being bored", "input_len": 7050}
+{"question": "He was receiving workman's compensation, he had tripped over a metal rod while building where?", "rb_pred": "B.construction site", "input_len": 6701}
+{"question": "John and James spent most of their time communicating with each other on their project.  The time required to communicate slowed their what?", "rb_pred": "C.progress", "input_len": 6694}
+{"question": "When you play around with your dog they will have?", "rb_pred": "B.playing", "input_len": 6767}
+{"question": "Where would a person keep a book while it's being read?", "rb_pred": "A.desk", "input_len": 6186}
+{"question": "The student needed to  get some new pencils, where did he go?", "rb_pred": "D.cabinet", "input_len": 6691}
+{"question": "She loved buying products, she was driven by her what to shop more than any practical needs?", "rb_pred": "A", "input_len": 7031}
+{"question": "How does getting paid feel?", "rb_pred": "B.satisfaction", "input_len": 6866}
+{"question": "The fat man refused to accept what was possible, he complained that he what the simplest activities?", "rb_pred": "A.exhaustion\n\nFrom a physiological perspective, rest is essential for the body to repair and rebuild muscles after strenuous activities like a marathon or a physically demanding job. It allows the body to recover, reducing fatigue and preventing injuries.\n\nFrom a psychological perspective, rest can also help in reducing stress and improving mental well-being. After a long and tiring activity, taking time to rest and recuperate can help Billy regain his focus, motivation, and overall mental health.\n\nFrom a social perspective, if Billy is part of a team or group, his need for rest might also affect the team's performance. By taking the time to rest, he ensures that he can contribute effectively to the team's goals in the long run.\n\nFrom a productivity perspective, rest is crucial for maintaining high levels of performance. Without adequate rest, Billy's productivity and efficiency may decline, affecting his ability to complete tasks and meet deadlines.\n\nIn summary, the best answer to the question is A.exhaustion, as it encompasses the physiological, psychological, social, and productivity aspects of Billy's need for rest after a long and tiring activity.", "input_len": 6886}
+{"question": "Where can meat last a long time?", "rb_pred": "E.freezer", "input_len": 6286}
+{"question": "What group of musicians will include someone playing the cello?", "rb_pred": "B.symphony", "input_len": 7099}
+{"question": "Where do bees congregate with red flowerS?", "rb_pred": "D.rose garden", "input_len": 6648}
+{"question": "What is someone who gets angry after getting drunk likely to participate in?", "rb_pred": "A", "input_len": 7696}
+{"question": "The teacher told all the students that listening was key, it was the main way they would gain what?", "rb_pred": "C.knowledge", "input_len": 7418}
+{"question": "Stanley had a dream that was very vivid and scary. He had trouble telling it from what?", "rb_pred": "E.awake", "input_len": 6876}
+{"question": "The city's community garden was demolished for yet another what?", "rb_pred": "D.parking lot", "input_len": 6222}
+{"question": "WHat do cats get into when they are ripping things apart?", "rb_pred": "D", "input_len": 7253}
+{"question": "What is a good result of losing weight?", "rb_pred": "A", "input_len": 6991}
+{"question": "A person lived in my what?", "rb_pred": "C.building", "input_len": 6394}
+{"question": "The skin was cut while chopping onions, where was this skin likely cut?", "rb_pred": "B.finger", "input_len": 6606}
+{"question": "What might you feel after doing housework for hours?", "rb_pred": "D.relaxing", "input_len": 7411}
+{"question": "The accountant used a calculator regularly, he kept one at home and one at the what?", "rb_pred": "A.desk drawer", "input_len": 6973}
+{"question": "At the end of your meal what will a waiter do?", "rb_pred": "E.present bill", "input_len": 6960}
+{"question": "If you aren't glad, unhappy or gloomy, what illness may you have?", "rb_pred": "A.depressed", "input_len": 6965}
+{"question": "You can hear testimony of how spirituality changes lives when you do what?", "rb_pred": "B.appear in court", "input_len": 7477}
+{"question": "It was a great rest, she had never felt this much what in the morning?", "rb_pred": "D.relaxing", "input_len": 6766}
+{"question": "Which region has the most famous temple?", "rb_pred": "A", "input_len": 7706}
+{"question": "Where would you find a bee gathering pollen?", "rb_pred": "D.field of flowers", "input_len": 6717}
+{"question": "Where would you put a folding chair if you do not plan to use it and you do not have any large doors in your house?", "rb_pred": "D.closet", "input_len": 6337}
+{"question": "If you're speaking to a lawyer about getting a divorce, what relationship status are you trying to end?", "rb_pred": "A.being married", "input_len": 6951}
+{"question": "How do geese normally get from place to place?", "rb_pred": "C.fly", "input_len": 6651}
+{"question": "John was punching and punching at the wall but succeeded only in bloodying his knuckles. This was bad.  He would be unable to hold his tools if he injured what?", "rb_pred": "E.hands", "input_len": 6682}
+{"question": "Though it stayed strictly indoors, the small dog felt like it had all the space in the world in the what?", "rb_pred": "B.dog park", "input_len": 6148}
+{"question": "WHat leads to someone's death when they are very depressed?", "rb_pred": "A", "input_len": 6637}
+{"question": "She was sick and staying in bed the day of the event, unfortunately this meant she was what?", "rb_pred": "D", "input_len": 7103}
+{"question": "Where would a lizard surprise a person?", "rb_pred": "D.garden", "input_len": 7312}
+{"question": "They were getting together for the big game, he wasn't hosting but made sure to bring pretty of food with him over to where?", "rb_pred": "B.friend's house", "input_len": 5917}
+{"question": "Who is likely yo have a caring heart?", "rb_pred": "A.person", "input_len": 7087}
+{"question": "I'm looking for alcohol and fried foods, any suggestions?", "rb_pred": "A", "input_len": 6139}
+{"question": "If I had a jar which was likely to spoil if left out, where would I want to put it?", "rb_pred": "E.refrigerator", "input_len": 6452}
+{"question": "Sam went to Paris where he ordered a blowfish at a sushi place.  Where was Sam?", "rb_pred": "B.france", "input_len": 6679}
+{"question": "What will happen to skin pinched in something?", "rb_pred": "B.feel pressure", "input_len": 6654}
+{"question": "Sally lost her kite because she wasn't careful.  She thought that there was more string on the spool, but it slipped out of her fingers when she reached the what?.", "rb_pred": "C.hobby shop", "input_len": 6667}
+{"question": "The man uses grooming before a job interview, what is he trying to portray?", "rb_pred": "A", "input_len": 7051}
+{"question": "Where would there be many people sitting in chair and listening to religious speech?", "rb_pred": "E.church", "input_len": 6869}
+{"question": "Where is a tabby cat likely to be happiest?", "rb_pred": "B. home", "input_len": 6657}
+{"question": "East coast areas such as Florida are found where?", "rb_pred": "C", "input_len": 6817}
+{"question": "To learn must have the right book, to work efficiently what must one have?", "rb_pred": "A.improve yourself", "input_len": 6627}
+{"question": "What is a mobile launching platform found in the ocean?", "rb_pred": "C.aircraft carrier", "input_len": 6224}
+{"question": "There weren't potatoes but actually a snake in his what?", "rb_pred": "A. cage", "input_len": 6237}
+{"question": "What could listening to music cause you to be?", "rb_pred": "C.relaxation", "input_len": 6949}
+{"question": "If you want to make a big splash in a river with a rock, from where should you throw it?", "rb_pred": "B.ground", "input_len": 6179}
+{"question": "What is committing perjury likely to lead to?", "rb_pred": "D.go to jail", "input_len": 6794}
+{"question": "The new play was the go to performance of the year, all the crowds would stand and what?", "rb_pred": "A", "input_len": 6097}
+{"question": "\"There are 10 apples on an apple tree.  Three fall off.  Now there are X apples.\"  What is this an example of?", "rb_pred": "A. ashtray", "input_len": 6070}
+{"question": "Where are people likely to find food?", "rb_pred": "B.supermarket", "input_len": 6878}
+{"question": "What might a kid do with his friend before going to play?", "rb_pred": "E", "input_len": 7557}
+{"question": "What is a person who is well educated?", "rb_pred": "B.knowledgable", "input_len": 6999}
+{"question": "Ben was an alcoholic and was in an accident.  Because of his mistake, he spent 8 years somewhere. Where was he?", "rb_pred": "A", "input_len": 7077}
+{"question": "Where do you buy tickets at a ticket booth for games/", "rb_pred": "C.metro station", "input_len": 6842}
+{"question": "A soccer field that is not contained in a building would be where?", "rb_pred": "D.stadium", "input_len": 7103}
+{"question": "Letters are sometimes delivered by hand through one of these.", "rb_pred": "C. front door", "input_len": 6490}
+{"question": "John came to see Sam and Sam kicked him out.  Sam didn't like company.  He prefered what?", "rb_pred": "C.solitude", "input_len": 6382}
+{"question": "If somebody likes temperatures cool, they might have more than one electric fan where?", "rb_pred": "A", "input_len": 6752}
+{"question": "Sky diving scared him, once they jumped out of the plane he began losing consciousness while what?", "rb_pred": "D", "input_len": 6342}
+{"question": "The president had to make a decision regarding the hate attack on his country, what did he do?", "rb_pred": "A", "input_len": 6522}
+{"question": "What's it called when you have seen something through an eyepiece?", "rb_pred": "A.eye", "input_len": 6592}
+{"question": "He had done a great job with the scary decorations, they were completely what?", "rb_pred": "C.halloween", "input_len": 5996}
+{"question": "If you did well on the test, you might get an A as a what?", "rb_pred": "D.school grade", "input_len": 6991}
+{"question": "If you tell you boss your suffering from boredom they'll likely tell you to get back to what?", "rb_pred": "E.work", "input_len": 6876}
+{"question": "What is a good result of jogging?", "rb_pred": "C. improved health", "input_len": 7201}
+{"question": "What is done to wood to attach something to it?", "rb_pred": "A", "input_len": 6577}
+{"question": "Where is a fox likely to be caught?", "rb_pred": "C. grassy field", "input_len": 6438}
+{"question": "Where do you put a new dining table?", "rb_pred": "E.house", "input_len": 6995}
+{"question": "Sometimes fighting inflation isn't even what, because it is so negligible?", "rb_pred": "B.not noticeable", "input_len": 6620}
+{"question": "What is likely to have more than one level in a city?", "rb_pred": "E.building", "input_len": 6478}
+{"question": "Where is likely to have a lot of fire extinguishers?", "rb_pred": "B.hospital", "input_len": 6130}
+{"question": "Where would someone learn to play an upright piano?", "rb_pred": "C. music class", "input_len": 6444}
+{"question": "What is necessary for learning by yourself?", "rb_pred": "B.patience", "input_len": 7643}
+{"question": "John and Jane were a couple.  They were dating for a while and wanted to be together for even longer. For this reason, they did what?", "rb_pred": "B.plan to marry", "input_len": 6468}
+{"question": "What emotion does getting paid lead to?", "rb_pred": "C.happiness", "input_len": 7488}
+{"question": "Who is likely going in to a market?", "rb_pred": "B.food", "input_len": 6953}
+{"question": "What is a characteristic of thin glass?", "rb_pred": "A. break easily", "input_len": 6848}
+{"question": "What do you get for not moving your car during the required time?", "rb_pred": "E.ticket", "input_len": 6822}
+{"question": "Bob's feet hurt from running barefoot on the hot pavement.  I lost his shoes, didn't know where they landed, and had to run from the corner store to his home.  About where did he run?", "rb_pred": "D.city block", "input_len": 6900}
+{"question": "Where would you be able to hear a bassoon played in an unpleasing fashion?", "rb_pred": "C", "input_len": 7068}
+{"question": "John loved competing because he was very competitive.  He liked being about to divide people into what categories?", "rb_pred": "A", "input_len": 6631}
+{"question": "The game was on sale.  I got it then because it was usually what?", "rb_pred": "A.rain", "input_len": 6646}
+{"question": "What could a massive building be if it is not constructed well?", "rb_pred": "A.insubstantial", "input_len": 7093}
+{"question": "Where could a printer be used by thousands of people?", "rb_pred": "A.school", "input_len": 7331}
+{"question": "What could prevent someone from buying chistmas presents?", "rb_pred": "B.lack of money", "input_len": 7032}
+{"question": "What is the hope of playing sports without competition?", "rb_pred": "B", "input_len": 7479}
+{"question": "They moved out of the city to have a master bedroom, what kind of home did they seek?", "rb_pred": "A.large house", "input_len": 6725}
+{"question": "What could you add a line to?", "rb_pred": "A. box office", "input_len": 6357}
+{"question": "Joe bought a ficus.  He thought it would look good in what part of his home?", "rb_pred": "A", "input_len": 6595}
+{"question": "Sarah wanted to by a new rug.  Ink spilled onto her old one.  Really, she didn't know what that thing had an inkwell in the first place.  What piece of furniture might have been on her run?", "rb_pred": "B.bedroom", "input_len": 6820}
+{"question": "When people discover something new while chatting with friends, why are they likely to continue talking?", "rb_pred": "E.learning about", "input_len": 7551}
+{"question": "How can one's views change after learning about science?", "rb_pred": "E.see things differently", "input_len": 7941}
+{"question": "Traveling underwater has many dangers, such as low visibility causing what?", "rb_pred": "A", "input_len": 7134}
+{"question": "Where are people likely to stand at an intersection?", "rb_pred": "C.street corner", "input_len": 6725}
+{"question": "Janet knew she was dying from her injuries because she could feel herself doing what?", "rb_pred": "E. stop breathing", "input_len": 7312}
+{"question": "An expressway can suffer from traffic, this traffic gets worse the closer you get to any what?", "rb_pred": "C", "input_len": 7117}
+{"question": "Where are there more telephone booths?", "rb_pred": "D.train station", "input_len": 6823}
+{"question": "John moved away from his family.  He was a bit upset that he had to do it, but he needed the job.  Still, he would have preferred it if the job were what?", "rb_pred": "B.stay here", "input_len": 6125}
+{"question": "James complained that Alexa's electric guitar was too loud and he couldn't get any work done at home,  so she decided that she should get an acoustic guitar.  Where might she look for one?", "rb_pred": "B.boredom", "input_len": 7135}
+{"question": "What can someone feeling happiness fall into?", "rb_pred": "C.laughter", "input_len": 7521}
+{"question": "How might a person address someone who is leaving?", "rb_pred": "B. wave goodbye", "input_len": 6828}
+{"question": "What does a chef do when working in the evening?", "rb_pred": "D.prepare food\n\nThe context of the question suggests that the person is likely in a kitchen setting, possibly a chef or cook, who would be preparing food during the evening. The other options do not directly relate to the primary task of food preparation in a kitchen setting.", "input_len": 7269}
+{"question": "What would happen to a person if his or her money is stolen?", "rb_pred": "B.feel satisfied", "input_len": 6277}
+{"question": "The people in class were instructed to brainstorm ideas, how would they use their minds for this?", "rb_pred": "D.think creatively", "input_len": 6624}
+{"question": "Someone lacking immortality will one day be?", "rb_pred": "B.mortal", "input_len": 7163}
+{"question": "After his mother saw his report card he knew he was going to be doing housework, what could have prevented this?", "rb_pred": "A.sneezing", "input_len": 6553}
+{"question": "Glass that hasn't been treated to be extra strong is what?", "rb_pred": "B.fragile", "input_len": 6922}
+{"question": "If you've thrown a rod you've done damage to what?", "rb_pred": "C.engine", "input_len": 6640}
+{"question": "What enables most people to transport themselves?", "rb_pred": "B.own cars", "input_len": 6910}
+{"question": "What do people in the same family often share?", "rb_pred": "B.names", "input_len": 7220}
+{"question": "What is an area with no grass where I can get things to sell at a roadside stand?", "rb_pred": "B.rest area", "input_len": 6586}
+{"question": "Where do kids find fish in their backyards?", "rb_pred": "C.pond", "input_len": 7002}
+{"question": "Where must one wear a white shoe?", "rb_pred": "C. living room", "input_len": 6843}
+{"question": "James chose to not to print the cards, because he wanted to be more personal. What type of cards did he choose, instead?", "rb_pred": "B.hand written", "input_len": 7083}
+{"question": "They checked the weather one more time during the flight, they were on their way to paradise and wanted it to what?", "rb_pred": "E.surprise us", "input_len": 5828}

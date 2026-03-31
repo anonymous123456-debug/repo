@@ -1,0 +1,200 @@
+{"question": "In the future , will this person go to see other bands play ?", "rb_pred": "B.This person likes music and likes to see the show , they will see other bands play .", "input_len": 1224}
+{"question": "Why might have the temp agency tell me I am not needed at that position ?", "rb_pred": "A. The company hiring the temp workers might have had a change of mind.", "input_len": 1292}
+{"question": "What may have caused the radio to erupt with dispatch tones ?", "rb_pred": "D.", "input_len": 872}
+{"question": "Why did I chit chat with my old manager ?", "rb_pred": "D. Because I enjoy talking to him .", "input_len": 1262}
+{"question": "Why did I burst into tears ?", "rb_pred": "B. Because I had an intense emotional response to the new development.", "input_len": 1206}
+{"question": "What is n't working properly ?", "rb_pred": "A. None of the above choices.", "input_len": 1473}
+{"question": "Why did they discuss crepes ?", "rb_pred": "A. Because Thea's mom is Serbian.", "input_len": 1414}
+{"question": "How did Leslie 's throwing out of her back help to solidify your marriage ?", "rb_pred": "D.We were able to spend time together just talking and that helped us to connect better", "input_len": 1305}
+{"question": "Why is this person disappointed that they misread the label on the package ?", "rb_pred": "C. The person ordered a package of pornographic material and anticipated its arrival.", "input_len": 1430}
+{"question": "Why is this person disappointed that they misread the label on the package ?", "rb_pred": "D. The misread label made the person think the package contains something forbidden, the truth was dull.", "input_len": 1434}
+{"question": "What may have been the reason for you and your roommate wanting a mellow night ?", "rb_pred": "B. I was burnt out from too much work.", "input_len": 1310}
+{"question": "Why has it been roughly a month since my last post ?", "rb_pred": "D. Because I 've been busy with other things .", "input_len": 1448}
+{"question": "What may happen if you go the Panic At The Disco concert ?", "rb_pred": "A", "input_len": 1213}
+{"question": "Why would n't I have the balls to tell her that ?", "rb_pred": "D. It is her favorite church and I do n't want to hurt her feelings .", "input_len": 1457}
+{"question": "What kind of person is this New York City police officer ?", "rb_pred": "C.aggressive and menacing", "input_len": 1204}
+{"question": "What was this New York City police officer doing before the incident ?", "rb_pred": "A. He was walking or standing on street.", "input_len": 1308}
+{"question": "What was this New York City police officer doing before the incident ?", "rb_pred": "D. He was on foot.", "input_len": 1305}
+{"question": "What may be true about him as a DJ ?", "rb_pred": "A. His music is average.", "input_len": 1154}
+{"question": "What might I continue to do after this ?", "rb_pred": "A", "input_len": 1380}
+{"question": "what may have happened before this event ?", "rb_pred": "D. The cars were in the drive so we left the pickup truck , with its load , at end of drive", "input_len": 1462}
+{"question": "what may have happened before this event ?", "rb_pred": "C.We did n't check   weather to know if we should move the vehicles around to protect the load", "input_len": 1461}
+{"question": "What type of person might I be ?", "rb_pred": "B", "input_len": 1535}
+{"question": "Why did the writer put it on pause and forget about it ?", "rb_pred": "B.He started doing something else and never came back to it .", "input_len": 1355}
+{"question": "What may be true about this vehicle ?", "rb_pred": "B.This vehicle just left the factory .", "input_len": 1386}
+{"question": "What may be true about this vehicle ?", "rb_pred": "B. It's in working condition.", "input_len": 1388}
+{"question": "Why might we have an early anniversary celebration ?", "rb_pred": "A", "input_len": 1256}
+{"question": "Why do even my dreams reference Buffy ?", "rb_pred": "B. I am a huge fan of Joss Whedon's work.", "input_len": 1442}
+{"question": "Why do even my dreams reference Buffy ?", "rb_pred": "C. I love the TV show Buffy the Vampire Slayer .", "input_len": 1437}
+{"question": "Why are they upset about Sarah Palin being on Youtube ?", "rb_pred": "A.They are tired of all the politics around Sarah Palin .", "input_len": 1446}
+{"question": "Why is Saturday night Live making fun of Sarah Palin ?", "rb_pred": "C. Sarah Palin is great to make fun of.", "input_len": 1224}
+{"question": "Why are they upset about Sarah Palin being on Youtube ?", "rb_pred": "B. None of the above choices .", "input_len": 1447}
+{"question": "What may happen when night strikes with the two figures ?", "rb_pred": "B.They would have a conversation .", "input_len": 1440}
+{"question": "What may be true about the girls ?", "rb_pred": "B.They were cordial.", "input_len": 1493}
+{"question": "Why ca n't I stop spending so much time in front of the computer to change my character ?", "rb_pred": "A", "input_len": 1199}
+{"question": "Why ca n't I stop spending so much time in front of the computer to change my character ?", "rb_pred": "D. I'm going to college for computer programming, so I have to work on the computer a lot.", "input_len": 1199}
+{"question": "Why did the writer dry shave their legs ?", "rb_pred": "A", "input_len": 1309}
+{"question": "What 's a possible reason the writer filled a glass with cola ?", "rb_pred": "A. The door was locked .", "input_len": 1359}
+{"question": "What is probably true about the narrator ?", "rb_pred": "C.They are a fan of metal music", "input_len": 1333}
+{"question": "What is probably true about the narrator ?", "rb_pred": "A. They are a fan of Sulphur", "input_len": 1334}
+{"question": "What may be true about your new house 's porch ?", "rb_pred": "B.It lacked some features.", "input_len": 1308}
+{"question": "What 's a possible reason the writer knitted the band on too tightly ?", "rb_pred": "C. Because she is inexperienced.", "input_len": 1255}
+{"question": "Why can I make people believe that I ' m not as pathetic and horrible as I am ?", "rb_pred": "C. Because I am persuasive .", "input_len": 1200}
+{"question": "What sort of behavior type do they tend to possess ?", "rb_pred": "D.They tend to be a very shy person", "input_len": 1314}
+{"question": "What sort of behavior type do they tend to possess ?", "rb_pred": "B.They tend to avoid sitting near the front", "input_len": 1314}
+{"question": "What must they decided to do before attending the Rosenbaum event ?", "rb_pred": "B.They must purchase tickets", "input_len": 1325}
+{"question": "What may have cause social skills to be a thing of the past ?", "rb_pred": "D. Humans are growing attached to technology.", "input_len": 992}
+{"question": "What may have caused you to have no idea on what to do ?", "rb_pred": "C. I lacked a companion in that situation .", "input_len": 1297}
+{"question": "What happened after I got to the starting area ?", "rb_pred": "B. I started a race using Jake's bike.", "input_len": 1329}
+{"question": "What happened after I got to the starting area ?", "rb_pred": "D. I didn't perform as well as usual at biking.", "input_len": 1331}
+{"question": "What may happen during one of your visits to Conneticut ?", "rb_pred": "D. I would rekindle old relationships.", "input_len": 1293}
+{"question": "What may happen during one of your visits to Conneticut ?", "rb_pred": "D. I'd eat some amazing food.", "input_len": 1293}
+{"question": "What may have happened before this story ?", "rb_pred": "C. The narrator was lied to by a co worker", "input_len": 1439}
+{"question": "Why does it matter that the stools are made from predominantly recycled material ?", "rb_pred": "A.That is an important factor for people who care about the environment and want to reuse materials so that we do n't run out of resources on our planet", "input_len": 1000}
+{"question": "What is the likely reason the man texts the narrator that he hates them ?", "rb_pred": "A. The narrator would n't mess around with him", "input_len": 1213}
+{"question": "Why is it their 5th wedding anniversary ?", "rb_pred": "A", "input_len": 1152}
+{"question": "Why am I feeling this way ?", "rb_pred": "B.", "input_len": 1505}
+{"question": "Why did the girl smile when the writer told her he liked her ?", "rb_pred": "C. Because the girl likes the writer as well.", "input_len": 1414}
+{"question": "Why does it have a display that gives you real time information on your fuel consumption ?", "rb_pred": "A", "input_len": 955}
+{"question": "What does the writer possibly mean when they say they acquired a baby ?", "rb_pred": "D.They adopted a baby .", "input_len": 1483}
+{"question": "What may be true about your lanyard ?", "rb_pred": "C. It came with my new phone.", "input_len": 1342}
+{"question": "What is probably true about the narrator ?", "rb_pred": "D.They like Disney", "input_len": 1309}
+{"question": "What is probably true about the narrator ?", "rb_pred": "B.They went to disneyland", "input_len": 1312}
+{"question": "What did the writer talk about all night ?", "rb_pred": "A", "input_len": 1523}
+{"question": "Why did the writer catch up with a couple classmates they had n't seen in years ?", "rb_pred": "D. Because they like those people and wanted to talk to them .", "input_len": 1163}
+{"question": "Why did the watermelon smash against the fence ?", "rb_pred": "B. Because someone threw it hard against the fence .", "input_len": 1271}
+{"question": "What happened after the police showed up ?", "rb_pred": "D.he kept his cool because he realized that he did not appear to be a mob guy and they would not suspect him of doing anything for them but being their friend", "input_len": 1403}
+{"question": "Why do you and Mickey not spend time together anymore ?", "rb_pred": "A", "input_len": 1078}
+{"question": "What may have caused you to stop on your way to the parade ?", "rb_pred": "A", "input_len": 1155}
+{"question": "Why did my mate Ian give me a piggy back ?", "rb_pred": "B. Because I got kidnapped.", "input_len": 1239}
+{"question": "What kind of work do they like to do ?", "rb_pred": "D. Working outside trimming trees .", "input_len": 1374}
+{"question": "What kind of work do they like to do ?", "rb_pred": "A.They like to garden and take care of trees .", "input_len": 1378}
+{"question": "What will happen after they are done cleaning the garden and trimming trees ?", "rb_pred": "B. Their yard will stay nice and look great .", "input_len": 1290}
+{"question": "What will happen after they are done cleaning the garden and trimming trees ?", "rb_pred": "B.They will love the time they spent outside and plant more.", "input_len": 1292}
+{"question": "What will happen since he is so mad at her ?", "rb_pred": "C. He will break up with her.", "input_len": 1400}
+{"question": "Why was I a lazy bum ?", "rb_pred": "A", "input_len": 1162}
+{"question": "What may have caused the fire to not reach the gasoline ?", "rb_pred": "C. No one knows what prevented it from getting there .", "input_len": 1015}
+{"question": "Why did I get a cute t - shirt from a classmate and a wild fern scented candle from a woman ?", "rb_pred": "A. It is my birthday and I got nice gifts from friends .", "input_len": 1172}
+{"question": "Why did I get a cute t - shirt from a classmate and a wild fern scented candle from a woman ?", "rb_pred": "A. It is my birthday and I got unpleasant gifts from friends .", "input_len": 1166}
+{"question": "What may have been your reason for staying behind ?", "rb_pred": "A", "input_len": 1461}
+{"question": "What may be your reason for wanting to hunt with your nephews ?", "rb_pred": "D. I think the youth attracts good fortune.", "input_len": 1078}
+{"question": "What may he feel if the man did not let go of his arm ?", "rb_pred": "B.He would feel angry .", "input_len": 1349}
+{"question": "What may he feel if the man did not let go of his arm ?", "rb_pred": "D. He would feel annoyed.", "input_len": 1348}
+{"question": "Why did the man grabbed his arm ?", "rb_pred": "B. The man wanted to get his attention .", "input_len": 1362}
+{"question": "Why might I be so distressed at having such a stingy little role in the play ?", "rb_pred": "C. Because I did n't have much in my life I enjoyed other than being in a play .", "input_len": 1227}
+{"question": "Why do I have kids too now ?", "rb_pred": "B. Because I wanted to start a family .", "input_len": 1514}
+{"question": "Why is this preson going to the Opening of the Space frontier ?", "rb_pred": "D.He did not want to see how to live on a Lunar Colony .", "input_len": 1445}
+{"question": "Does this person love to figure out mazes ?", "rb_pred": "A. He loves the idea of finding his way to the exhibit for the Space Frontier .", "input_len": 1309}
+{"question": "Why is this preson going to the Opening of the Space frontier ?", "rb_pred": "D. None of the above choices.", "input_len": 1445}
+{"question": "What may have caused you to hang out with Martha ?", "rb_pred": "B.We both had free time at the same time .", "input_len": 1072}
+{"question": "What genre of story is being narrated here ?", "rb_pred": "C. The story being narrated here might be a fantasy fiction .", "input_len": 1600}
+{"question": "Why did you have so many corn on the cobs ?", "rb_pred": "A", "input_len": 1195}
+{"question": "How does Chloe likely feel about going home ?", "rb_pred": "D. Anxious", "input_len": 1373}
+{"question": "How does Chloe likely feel about going home ?", "rb_pred": "C.Scared", "input_len": 1373}
+{"question": "Why does Chloe feel sick ?", "rb_pred": "A. The taxi ride", "input_len": 1274}
+{"question": "Why must a library staff member want a meal outdoors ?", "rb_pred": "C. Because they spend a lot of time indoors.", "input_len": 1241}
+{"question": "What 's a possible reason why the writer ca n't sleep in a big bed by herself ?", "rb_pred": "A. She feels lonely in it .", "input_len": 1208}
+{"question": "What might I do with the dough balls once formed ?", "rb_pred": "B. I might bake them in the oven.", "input_len": 1390}
+{"question": "What may happen if life was like it was when I grew up in the early 70 's ?", "rb_pred": "D. None of the above choices.", "input_len": 1431}
+{"question": "What might be true about the modern Cartoon Network ?", "rb_pred": "B. The quality of it is starting to detiriorate", "input_len": 1224}
+{"question": "What will happen if I do n't get home in time to make the sandwiches for Teenager No . 2 ?", "rb_pred": "C. None of the above choices.", "input_len": 1178}
+{"question": "What will I do after I make the sandwiches but before I go to work ?", "rb_pred": "D. I will take a nap.", "input_len": 1144}
+{"question": "What may have caused you to feel guilty ?", "rb_pred": "B. I did the wrong thing in that situation.", "input_len": 1272}
+{"question": "Where might have this 20 HP hackmaster characters come from ?", "rb_pred": "B. The characters might have come from someone using a hack.", "input_len": 1432}
+{"question": "What may have caused Rikki to put her hand over the boy 's mouth ?", "rb_pred": "D. The boy was trying to attack her .", "input_len": 1262}
+{"question": "Why did they rearrange the store ?", "rb_pred": "B. She wanted her items in a more prominent position so they would sell.", "input_len": 1421}
+{"question": "Why did they rearrange the store ?", "rb_pred": "A.It was time to do some spring cleaning and get rid of older merchandise .", "input_len": 1422}
+{"question": "what may have happened before this discussion ?", "rb_pred": "A. My smallest puppy died", "input_len": 1600}
+{"question": "What may   happen after I leave work today ?", "rb_pred": "D. I will not be coming back", "input_len": 1485}
+{"question": "What may   happen after I leave work today ?", "rb_pred": "A. I will be ready to start new job", "input_len": 1487}
+{"question": "What may be causing the drive to keep disconnecting ?", "rb_pred": "A. It is n't interacting well with different hardware .", "input_len": 1109}
+{"question": "What may have been your reason for getting your blood drawn ?", "rb_pred": "C. It was for a diagnostic test .", "input_len": 949}
+{"question": "Why am I afraid of losing my friends ?", "rb_pred": "A. Because I care a lot about my friendships.", "input_len": 1340}
+{"question": "Why might we emphasize having a recyclable shell ?", "rb_pred": "B", "input_len": 1284}
+{"question": "What may have caused the washer to die ?", "rb_pred": "A.It had been having issues for a while now and it was done .", "input_len": 940}
+{"question": "Does she like the book she had to read ?", "rb_pred": "D. None of the above choices.", "input_len": 1474}
+{"question": "What may have caused her to refuse the $ 350 million ear mark for a bridge ?", "rb_pred": "A. She did n't want to pay for it .", "input_len": 1029}
+{"question": "Why did they drink whiskey while in line ?", "rb_pred": "A. Because they needed to get outrageously drunk .", "input_len": 1353}
+{"question": "Why did the writer press many key combinations ?", "rb_pred": "C. Because they wanted to turn off the computer.", "input_len": 1431}
+{"question": "What might be the reason for my sarcasm in referring to my city as fair ?", "rb_pred": "A", "input_len": 1391}
+{"question": "What may be the reason for you wanting to fix your cell ?", "rb_pred": "C. It's essential to my life.", "input_len": 1156}
+{"question": "Why might I joke about pregnancy brain ?", "rb_pred": "C. I might be pregnant and experiencing memory issues currently .", "input_len": 1212}
+{"question": "What will you do now that the graduation festivities are over ?", "rb_pred": "B", "input_len": 1193}
+{"question": "What is probably true about this story ?", "rb_pred": "B. The narrator has been pulled over by a police officer", "input_len": 1374}
+{"question": "What is probably true about this story ?", "rb_pred": "B. The narrator is in a car", "input_len": 1370}
+{"question": "Why did Lulu try to save you , what was her motive ?", "rb_pred": "C. She saw me differently to how I saw myself and she saved me so I could do all those things she believed I was capable of doing", "input_len": 1087}
+{"question": "Why are so many people contradicting themselves at these church events ?", "rb_pred": "A. They have wildly different opinions on what the Bible means.", "input_len": 1190}
+{"question": "Why are so many people contradicting themselves at these church events ?", "rb_pred": "C. It is n't out of ill will , it 's just respectful arguments", "input_len": 1195}
+{"question": "Why would he need to test his blood sugar ?", "rb_pred": "D. Because his tester was in the trailer.", "input_len": 1151}
+{"question": "What did Wes ' mom forget at home ?", "rb_pred": "A. A charger for her camera", "input_len": 1470}
+{"question": "What 's the possible reason that the instructor crashed his car ?", "rb_pred": "B.He is a careless driver .", "input_len": 1295}
+{"question": "Why did the writer stop in at the bakery ?", "rb_pred": "D. Because they really like sweets from this bakery .", "input_len": 1257}
+{"question": "Why did the writer almost kiss Frankee twice ?", "rb_pred": "D. Because she is attracted to him .", "input_len": 1200}
+{"question": "Why did Sinead want to prove that she was n't succeeding on her looks alone ?", "rb_pred": "D", "input_len": 989}
+{"question": "Why did the writer ride a camel to the beach ?", "rb_pred": "A. They thought it would be a fun thing to do.", "input_len": 1050}
+{"question": "Why did the grandmother respond this way to the question ?", "rb_pred": "D. She was legitimately fearful of her impending death.", "input_len": 1550}
+{"question": "What may be your reason for wanting to rewatch that episode of The Office ?", "rb_pred": "D.", "input_len": 1142}
+{"question": "Why did my mom buy this DVD ?", "rb_pred": "A.She wants to enjoy rock music .", "input_len": 1347}
+{"question": "Why did my mom say three words to me ?", "rb_pred": "A.She was so surprised .", "input_len": 1559}
+{"question": "Why did my mom buy this DVD ?", "rb_pred": "A.She is a fan of this musician.", "input_len": 1348}
+{"question": "Why did my mom say three words to me ?", "rb_pred": "D. None of the above choices.", "input_len": 1562}
+{"question": "What am I talking about ?", "rb_pred": "A. The music in this movie described characters well.", "input_len": 1458}
+{"question": "What am I talking about ?", "rb_pred": "C. The music for this movie was well chosen.", "input_len": 1458}
+{"question": "What was Harvey Dent 's transportation ?", "rb_pred": "A. a male horse.", "input_len": 1313}
+{"question": "What may be the reason for you thinking that the game is stupid ?", "rb_pred": "C. It 's buggy .", "input_len": 1261}
+{"question": "What may have sent you into a mad rage ?", "rb_pred": "C. I was stuck somewhere.", "input_len": 1327}
+{"question": "Why does it baffle me how everyone seems to like her ?", "rb_pred": "D. Because I do n't think she 's likable .", "input_len": 1519}
+{"question": "Why does the girl have an ipod on her list ?", "rb_pred": "B. Because she probably wants to receive one as a gift .", "input_len": 1466}
+{"question": "What is probably true ?", "rb_pred": "D. The narrator is trying to bake bread", "input_len": 1495}
+{"question": "Why might have my attitudes about children changed over the years ?", "rb_pred": "A", "input_len": 1295}
+{"question": "Why was the car overheating ?", "rb_pred": "D. Because there was something wrong with it mechanically.", "input_len": 1249}
+{"question": "Why should you stop yourself from asking \" What If ? \"", "rb_pred": "A.You 'll get stuck trying to make sense out of everything .", "input_len": 1475}
+{"question": "What 's a possible reason the writer never got a chance to go to Comic Con ?", "rb_pred": "D. None of the above choices.", "input_len": 1170}
+{"question": "Why are you unable to have him stay with you ?", "rb_pred": "D.He prefers my friend with whom he is staying so whenever I come to play with him he seems to be disinterested in me", "input_len": 1398}
+{"question": "Why would someone season the dough with salt ?", "rb_pred": "D. Because that improves the flavor.", "input_len": 1166}
+{"question": "What 's a possible reason they have n't seen each other in a few years ?", "rb_pred": "B", "input_len": 945}
+{"question": "What 's a possible reason the writer always changes their hair ?", "rb_pred": "A", "input_len": 1285}
+{"question": "What may be your reason for not hanging acrylic in the kitchen ?", "rb_pred": "A.", "input_len": 1089}
+{"question": "What may have caused you to review the topics ?", "rb_pred": "D. Some things needed to be revised.", "input_len": 1313}
+{"question": "What will I do after she warns me about the risks of amputation if I do n't listen to my doctor ?", "rb_pred": "D", "input_len": 1162}
+{"question": "What will I do after she warns me about the risks of amputation if I do n't listen to my doctor ?", "rb_pred": "D. I will use my crutches to walk around everywhere until I get better.", "input_len": 1164}
+{"question": "Why did n't I want to use my crutches before she chastened me ?", "rb_pred": "A. The crutches make walking around very awkward and miserable .", "input_len": 1278}
+{"question": "What may have caused you to flat - out ignore them ?", "rb_pred": "C.They kept sending me letters.", "input_len": 1256}
+{"question": "What will happen after the ceremony ?", "rb_pred": "A. They will eat at a banquet with all of their loved ones.", "input_len": 1482}
+{"question": "What will happen after the ceremony ?", "rb_pred": "D. They will exchange rings with each other.", "input_len": 1479}
+{"question": "What 's a possible reason Glyn got chips and curry sauce for lunch ?", "rb_pred": "A. Because they enjoy the taste of it.", "input_len": 1326}
+{"question": "What may be a problem that people across all nations are facing ?", "rb_pred": "D. Obesity is becoming a big issue.", "input_len": 1236}
+{"question": "What may have caused you to start a fantasy football team ?", "rb_pred": "C. A colleague invited me to try it .", "input_len": 919}
+{"question": "Why do you think you decide to hold her gaze while you were angry ?", "rb_pred": "C. I wanted her to see that I was angry because my anger made it hard for me to try and be polite", "input_len": 1334}
+{"question": "What may have caused you to almost crash during the bike event ?", "rb_pred": "C. I was in an accident with another person.", "input_len": 1220}
+{"question": "What may be true about the Greeks ?", "rb_pred": "A.They had integrated into modern culture .", "input_len": 1439}
+{"question": "What may have caused you to become tired after you met with your clients ?", "rb_pred": "D. I had a heart attack when I had to push L in a wheelchair.", "input_len": 1242}
+{"question": "Why did the writer feel fantastic after the gym ?", "rb_pred": "B. Because it 's a good feeling to finish a good workout .", "input_len": 1380}
+{"question": "What is probably true about the narrator ?", "rb_pred": "C.They feel that they are immature", "input_len": 1413}
+{"question": "What is probably true about the narrator ?", "rb_pred": "C.They feel that they were an unruly child", "input_len": 1416}
+{"question": "Where is the narrator ?", "rb_pred": "A. college dorm", "input_len": 1595}
+{"question": "What is probably true about the narrator ?", "rb_pred": "D.They are starting college", "input_len": 1367}
+{"question": "What is probably true about the narrator ?", "rb_pred": "D. They are a student", "input_len": 1367}
+{"question": "What might be the reason that the gas price went up a third in a year ?", "rb_pred": "D. The supply of the oil may have gone up in the year.", "input_len": 1003}
+{"question": "Who had nachos with the writer at Cozymels ?", "rb_pred": "D. None of the above choices.", "input_len": 1526}
+{"question": "What may be true about the narrator ?", "rb_pred": "D.That they feel they need to exercise", "input_len": 1355}
+{"question": "What may be the reason for you having a hard time in the dog park ?", "rb_pred": "B. I felt insecure about my weight.", "input_len": 1098}
+{"question": "Why did we keep in contact ?", "rb_pred": "B.Because everything came out good .", "input_len": 1290}
+{"question": "Why did Matthew call his cousins to go to the pool ?", "rb_pred": "D. Matthew wanted someone to swim with him since he was bored at Grandma 's house", "input_len": 1289}
+{"question": "Why did Matthew call his cousins to go to the pool ?", "rb_pred": "B. Matthew's grandma had a pool and he needed someone to swim with", "input_len": 1287}
+{"question": "What did Matthew do after swimming ?", "rb_pred": "D. None of the above choices.", "input_len": 1423}
+{"question": "What did Matthew do after swimming ?", "rb_pred": "C. None of the above choices.", "input_len": 1423}
+{"question": "What 's a possible reason someone almost knocked the TV off the wall ?", "rb_pred": "B.He is careless .", "input_len": 1279}
+{"question": "Why did Dan and I break up ?", "rb_pred": "D. None of the above choices.", "input_len": 1298}
+{"question": "Why are two friends coming over today ?", "rb_pred": "A. Because two summers ago we were fan of the same band.", "input_len": 1390}
+{"question": "Why does Ayano have such a fear of cars ?", "rb_pred": "B", "input_len": 1277}
+{"question": "What may have caused your prius to go \" boom ? \"", "rb_pred": "A. Parts might need to be replaced .", "input_len": 1259}
+{"question": "Does Courtney know that she is having a party ?", "rb_pred": "D. None of the above choices.", "input_len": 1430}
+{"question": "Why did the writer not want to rush like a jerk in the morning ?", "rb_pred": "D. Because when the writer came home , gas was $ 3.89 .", "input_len": 1283}
+{"question": "What happened as this pain continued ?", "rb_pred": "B", "input_len": 1439}
+{"question": "When must have I moved to the US from Europe ?", "rb_pred": "A", "input_len": 1452}
+{"question": "why did they want to jump ?", "rb_pred": "B. because of the appropriate height for lift - off .", "input_len": 1246}
+{"question": "Why is the information in the book different to what was presented by your professor ?", "rb_pred": "D. Most academics tend to interpret literature differently and therefore present it differently", "input_len": 1218}
+{"question": "Why did you not post her submission when she submitted it a while ago ?", "rb_pred": "B", "input_len": 1340}
+{"question": "What is probably true ?", "rb_pred": "A. The date highlighted was special", "input_len": 1489}
+{"question": "What is probably true ?", "rb_pred": "B.He wanted to remind himself of the date", "input_len": 1492}

@@ -1,0 +1,5 @@
+{"question": "Based on the context, what conclusion would be deemed most suitable?", "rb_pred": "choice_2", "input_len": 1410}
+{"question": "Taking into account the context provided, what conclusion would be most appropriate?", "rb_pred": "choice_2", "input_len": 1332}
+{"question": "In light of the context provided, what conclusion can be considered the most appropriate?", "rb_pred": "choice_4", "input_len": 1313}
+{"question": "What would be the most appropriate conclusion based on the given context?", "rb_pred": "choice_4", "input_len": 1256}
+{"question": "Considering the provided context, what conclusion would be deemed most suitable?", "rb_pred": "choice_3", "input_len": 1378}

@@ -1,0 +1,18 @@
+[2025-03-06 17:28:10][INFO] - ****************************** CONFIGURATION ******************************
+[2025-03-06 17:28:10][INFO] - MaxClients                     --> 1
+[2025-03-06 17:28:10][INFO] - dataset                        --> 2wikimultihopqa
+[2025-03-06 17:28:10][INFO] - ext                            --> True
+[2025-03-06 17:28:10][INFO] - ext_fil                        --> True
+[2025-03-06 17:28:10][INFO] - fil                            --> True
+[2025-03-06 17:28:10][INFO] - log_path                       --> 
+[2025-03-06 17:28:10][INFO] - lrag_model                     --> 
+[2025-03-06 17:28:10][INFO] - model                          --> Llama3-8B-Instruct-8k
+[2025-03-06 17:28:10][INFO] - r_path                         --> ../data/corpus/processed/200_2_2
+[2025-03-06 17:28:10][INFO] - raw_pred                       --> True
+[2025-03-06 17:28:10][INFO] - rb                             --> True
+[2025-03-06 17:28:10][INFO] - rl                             --> True
+[2025-03-06 17:28:10][INFO] - top_k1                         --> 100
+[2025-03-06 17:28:10][INFO] - top_k2                         --> 7
+[2025-03-06 17:28:10][INFO] - LongRAG model used: 
+[2025-03-06 17:28:10][INFO] - ****************************** CONFIGURATION ******************************
+[2025-03-06 17:28:10][INFO] - Question: Are The Patriots (Film) and Kungajakt both from the same country?

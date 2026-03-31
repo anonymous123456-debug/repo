@@ -1,0 +1,28 @@
+[2025-11-20 11:17:38][INFO] - ****************************** CONFIGURATION ******************************
+[2025-11-20 11:17:38][INFO] - MaxClients                     --> 1
+[2025-11-20 11:17:38][INFO] - dataset                        --> winograd
+[2025-11-20 11:17:38][INFO] - ext                            --> False
+[2025-11-20 11:17:38][INFO] - ext_fil                        --> False
+[2025-11-20 11:17:38][INFO] - fil                            --> False
+[2025-11-20 11:17:38][INFO] - log_path                       --> 
+[2025-11-20 11:17:38][INFO] - lrag_model                     --> 
+[2025-11-20 11:17:38][INFO] - model                          --> misral
+[2025-11-20 11:17:38][INFO] - r_path                         --> ../data/corpus/processed/50_1_1
+[2025-11-20 11:17:38][INFO] - raw_context_pred               --> False
+[2025-11-20 11:17:38][INFO] - raw_pred                       --> False
+[2025-11-20 11:17:38][INFO] - rb                             --> True
+[2025-11-20 11:17:38][INFO] - rl                             --> False
+[2025-11-20 11:17:38][INFO] - top_k1                         --> 100
+[2025-11-20 11:17:38][INFO] - top_k2                         --> 20
+[2025-11-20 11:17:38][INFO] - LongRAG model used: 
+[2025-11-20 11:17:38][INFO] - ****************************** CONFIGURATION ******************************
+[2025-11-20 11:17:38][DEBUG] - Attempting to acquire lock 22962930500560 on /public/home/ncu_418000240001/.cache/huggingface/datasets/_public_home_ncu_418000240001_.cache_huggingface_datasets_winograd_default_0.0.0_6f80fe44e26dfc81.lock
+[2025-11-20 11:17:38][DEBUG] - Lock 22962930500560 acquired on /public/home/ncu_418000240001/.cache/huggingface/datasets/_public_home_ncu_418000240001_.cache_huggingface_datasets_winograd_default_0.0.0_6f80fe44e26dfc81.lock
+[2025-11-20 11:17:38][DEBUG] - open file: /public/home/ncu_418000240001/.cache/huggingface/datasets/winograd/default/0.0.0/6f80fe44e26dfc81/dataset_info.json
+[2025-11-20 11:17:38][DEBUG] - Attempting to release lock 22962930500560 on /public/home/ncu_418000240001/.cache/huggingface/datasets/_public_home_ncu_418000240001_.cache_huggingface_datasets_winograd_default_0.0.0_6f80fe44e26dfc81.lock
+[2025-11-20 11:17:38][DEBUG] - Lock 22962930500560 released on /public/home/ncu_418000240001/.cache/huggingface/datasets/_public_home_ncu_418000240001_.cache_huggingface_datasets_winograd_default_0.0.0_6f80fe44e26dfc81.lock
+[2025-11-20 11:17:38][DEBUG] - Attempting to acquire lock 22962500060048 on /public/home/ncu_418000240001/.cache/huggingface/datasets/winograd/default/0.0.0/6f80fe44e26dfc81_builder.lock
+[2025-11-20 11:17:38][DEBUG] - Lock 22962500060048 acquired on /public/home/ncu_418000240001/.cache/huggingface/datasets/winograd/default/0.0.0/6f80fe44e26dfc81_builder.lock
+[2025-11-20 11:17:38][DEBUG] - open file: /public/home/ncu_418000240001/.cache/huggingface/datasets/winograd/default/0.0.0/6f80fe44e26dfc81/dataset_info.json
+[2025-11-20 11:17:38][DEBUG] - Attempting to release lock 22962500060048 on /public/home/ncu_418000240001/.cache/huggingface/datasets/winograd/default/0.0.0/6f80fe44e26dfc81_builder.lock
+[2025-11-20 11:17:38][DEBUG] - Lock 22962500060048 released on /public/home/ncu_418000240001/.cache/huggingface/datasets/winograd/default/0.0.0/6f80fe44e26dfc81_builder.lock

@@ -1,0 +1,30 @@
+[2025-04-18 19:15:44][INFO] - ****************************** CONFIGURATION ******************************
+[2025-04-18 19:15:44][INFO] - MaxClients                     --> 1
+[2025-04-18 19:15:44][INFO] - dataset                        --> cosmosqa
+[2025-04-18 19:15:44][INFO] - ext                            --> False
+[2025-04-18 19:15:44][INFO] - ext_fil                        --> False
+[2025-04-18 19:15:44][INFO] - fil                            --> False
+[2025-04-18 19:15:44][INFO] - log_path                       --> 
+[2025-04-18 19:15:44][INFO] - lrag_model                     --> 
+[2025-04-18 19:15:44][INFO] - model                          --> smolLM2-1.7b
+[2025-04-18 19:15:44][INFO] - r_path                         --> ../data/corpus/processed/50_1_1
+[2025-04-18 19:15:44][INFO] - raw_context_pred               --> False
+[2025-04-18 19:15:44][INFO] - raw_pred                       --> False
+[2025-04-18 19:15:44][INFO] - rb                             --> True
+[2025-04-18 19:15:44][INFO] - rl                             --> False
+[2025-04-18 19:15:44][INFO] - top_k1                         --> 100
+[2025-04-18 19:15:44][INFO] - top_k2                         --> 20
+[2025-04-18 19:15:44][INFO] - LongRAG model used: 
+[2025-04-18 19:15:44][INFO] - ****************************** CONFIGURATION ******************************
+[2025-04-18 19:15:44][DEBUG] - Starting new HTTPS connection (1): s3.amazonaws.com:443
+[2025-04-18 19:15:45][DEBUG] - https://s3.amazonaws.com:443 "HEAD /datasets.huggingface.co/datasets/datasets/csv/csv.py HTTP/11" 200 0
+[2025-04-18 19:15:45][DEBUG] - Attempting to acquire lock 23212873679632 on /public/home/ncu_418000240001/.cache/huggingface/datasets/_public_home_ncu_418000240001_.cache_huggingface_datasets_csv_default-2286f835214b84e9_0.0.0_eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d.lock
+[2025-04-18 19:15:45][DEBUG] - Lock 23212873679632 acquired on /public/home/ncu_418000240001/.cache/huggingface/datasets/_public_home_ncu_418000240001_.cache_huggingface_datasets_csv_default-2286f835214b84e9_0.0.0_eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d.lock
+[2025-04-18 19:15:45][DEBUG] - open file: /public/home/ncu_418000240001/.cache/huggingface/datasets/csv/default-2286f835214b84e9/0.0.0/eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d/dataset_info.json
+[2025-04-18 19:15:45][DEBUG] - Attempting to release lock 23212873679632 on /public/home/ncu_418000240001/.cache/huggingface/datasets/_public_home_ncu_418000240001_.cache_huggingface_datasets_csv_default-2286f835214b84e9_0.0.0_eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d.lock
+[2025-04-18 19:15:45][DEBUG] - Lock 23212873679632 released on /public/home/ncu_418000240001/.cache/huggingface/datasets/_public_home_ncu_418000240001_.cache_huggingface_datasets_csv_default-2286f835214b84e9_0.0.0_eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d.lock
+[2025-04-18 19:15:45][DEBUG] - Attempting to acquire lock 23212716638800 on /public/home/ncu_418000240001/.cache/huggingface/datasets/csv/default-2286f835214b84e9/0.0.0/eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d_builder.lock
+[2025-04-18 19:15:45][DEBUG] - Lock 23212716638800 acquired on /public/home/ncu_418000240001/.cache/huggingface/datasets/csv/default-2286f835214b84e9/0.0.0/eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d_builder.lock
+[2025-04-18 19:15:45][DEBUG] - open file: /public/home/ncu_418000240001/.cache/huggingface/datasets/csv/default-2286f835214b84e9/0.0.0/eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d/dataset_info.json
+[2025-04-18 19:15:45][DEBUG] - Attempting to release lock 23212716638800 on /public/home/ncu_418000240001/.cache/huggingface/datasets/csv/default-2286f835214b84e9/0.0.0/eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d_builder.lock
+[2025-04-18 19:15:45][DEBUG] - Lock 23212716638800 released on /public/home/ncu_418000240001/.cache/huggingface/datasets/csv/default-2286f835214b84e9/0.0.0/eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d_builder.lock

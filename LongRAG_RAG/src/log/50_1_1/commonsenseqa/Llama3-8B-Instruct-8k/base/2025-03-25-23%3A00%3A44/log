@@ -1,0 +1,228 @@
+[2025-03-25 23:00:59][INFO] - ****************************** CONFIGURATION ******************************
+[2025-03-25 23:00:59][INFO] - MaxClients                     --> 1
+[2025-03-25 23:00:59][INFO] - dataset                        --> commonsenseqa
+[2025-03-25 23:00:59][INFO] - ext                            --> False
+[2025-03-25 23:00:59][INFO] - ext_fil                        --> True
+[2025-03-25 23:00:59][INFO] - fil                            --> False
+[2025-03-25 23:00:59][INFO] - log_path                       --> 
+[2025-03-25 23:00:59][INFO] - lrag_model                     --> 
+[2025-03-25 23:00:59][INFO] - model                          --> Llama3-8B-Instruct-8k
+[2025-03-25 23:00:59][INFO] - r_path                         --> ../data/corpus/processed/50_1_1
+[2025-03-25 23:00:59][INFO] - raw_context_pred               --> False
+[2025-03-25 23:00:59][INFO] - raw_pred                       --> False
+[2025-03-25 23:00:59][INFO] - rb                             --> False
+[2025-03-25 23:00:59][INFO] - rl                             --> False
+[2025-03-25 23:00:59][INFO] - top_k1                         --> 100
+[2025-03-25 23:00:59][INFO] - top_k2                         --> 20
+[2025-03-25 23:00:59][INFO] - LongRAG model used: 
+[2025-03-25 23:00:59][INFO] - ****************************** CONFIGURATION ******************************
+[2025-03-25 23:01:00][DEBUG] - Attempting to acquire lock 22602276427920 on /public/home/ncu_418000240001/.cache/huggingface/datasets/_public_home_ncu_418000240001_.cache_huggingface_datasets_commonsenseqa_default_0.0.0_54e35741336969b6.lock
+[2025-03-25 23:01:00][DEBUG] - Lock 22602276427920 acquired on /public/home/ncu_418000240001/.cache/huggingface/datasets/_public_home_ncu_418000240001_.cache_huggingface_datasets_commonsenseqa_default_0.0.0_54e35741336969b6.lock
+[2025-03-25 23:01:00][DEBUG] - open file: /public/home/ncu_418000240001/.cache/huggingface/datasets/commonsenseqa/default/0.0.0/54e35741336969b6/dataset_info.json
+[2025-03-25 23:01:00][DEBUG] - Attempting to release lock 22602276427920 on /public/home/ncu_418000240001/.cache/huggingface/datasets/_public_home_ncu_418000240001_.cache_huggingface_datasets_commonsenseqa_default_0.0.0_54e35741336969b6.lock
+[2025-03-25 23:01:00][DEBUG] - Lock 22602276427920 released on /public/home/ncu_418000240001/.cache/huggingface/datasets/_public_home_ncu_418000240001_.cache_huggingface_datasets_commonsenseqa_default_0.0.0_54e35741336969b6.lock
+[2025-03-25 23:01:00][DEBUG] - Attempting to acquire lock 22602275962064 on /public/home/ncu_418000240001/.cache/huggingface/datasets/commonsenseqa/default/0.0.0/54e35741336969b6_builder.lock
+[2025-03-25 23:01:00][DEBUG] - Lock 22602275962064 acquired on /public/home/ncu_418000240001/.cache/huggingface/datasets/commonsenseqa/default/0.0.0/54e35741336969b6_builder.lock
+[2025-03-25 23:01:00][DEBUG] - open file: /public/home/ncu_418000240001/.cache/huggingface/datasets/commonsenseqa/default/0.0.0/54e35741336969b6/dataset_info.json
+[2025-03-25 23:01:00][DEBUG] - Attempting to release lock 22602275962064 on /public/home/ncu_418000240001/.cache/huggingface/datasets/commonsenseqa/default/0.0.0/54e35741336969b6_builder.lock
+[2025-03-25 23:01:00][DEBUG] - Lock 22602275962064 released on /public/home/ncu_418000240001/.cache/huggingface/datasets/commonsenseqa/default/0.0.0/54e35741336969b6_builder.lock
+[2025-03-25 23:01:00][INFO] - Question: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change?
+[2025-03-25 23:01:16][INFO] - Question: Sammy wanted to go to where the people were.  Where might he go?
+[2025-03-25 23:01:30][INFO] - Question: To locate a choker not located in a jewelry box or boutique where would you go?
+[2025-03-25 23:01:45][INFO] - Question: Google Maps and other highway and street GPS services have replaced what?
+[2025-03-25 23:01:57][INFO] - Question: The fox walked from the city into the forest, what was it looking for?
+[2025-03-25 23:02:12][INFO] - Question: What home entertainment equipment requires cable?
+[2025-03-25 23:02:26][INFO] - Question: The only baggage the woman checked was a drawstring bag, where was she heading with it?
+[2025-03-25 23:02:40][INFO] - Question: The forgotten leftovers had gotten quite old, he found it covered in mold in the back of his what?
+[2025-03-25 23:02:54][INFO] - Question: What do people use to absorb extra ink from a fountain pen?
+[2025-03-25 23:03:07][INFO] - Question: Where is a business restaurant likely to be located?
+[2025-03-25 23:03:21][INFO] - Question: Where do you put your grapes just before checking out?
+[2025-03-25 23:03:36][INFO] - Question: Before getting a divorce, what did the wife feel who was doing all the work?
+[2025-03-25 23:03:51][INFO] - Question: Johnny sat on a bench and relaxed after doing a lot of work on his hobby.  Where is he?
+[2025-03-25 23:04:05][INFO] - Question: James was cooling off two quickly.  He would die if he didn't find some way to stop what?
+[2025-03-25 23:04:20][INFO] - Question: Of all the rooms in a house it was his favorite, the aromas always drew him to the what?
+[2025-03-25 23:04:34][INFO] - Question: Bill is stuck in marsh when a man comes up to him peaking Cajun, where is he?
+[2025-03-25 23:04:47][INFO] - Question: What is it called when you slowly cook using a grill?
+[2025-03-25 23:04:59][INFO] - Question: What type of person typically contracts illness?
+[2025-03-25 23:05:14][INFO] - Question: Where would you expect to find a pizzeria while shopping?
+[2025-03-25 23:05:29][INFO] - Question: When eating everything on the tasting menu, what does one tend to feel?
+[2025-03-25 23:05:43][INFO] - Question: What does playing soccer for a long time lead to?
+[2025-03-25 23:05:58][INFO] - Question: Which entrance would you use if you do not want to use the back entrance?
+[2025-03-25 23:06:10][INFO] - Question: You can share files with someone if you have a connection to a what?
+[2025-03-25 23:06:25][INFO] - Question: The accelerator was controller via a hand throttle, and the foot pedals controlled the steering in the small what?
+[2025-03-25 23:06:39][INFO] - Question: Sean was lying about the body, but he was very scared.  He constantly worried about what?
+[2025-03-25 23:06:53][INFO] - Question: The drug kingpin told his man to run errands, this was code to go to all the dealers to do what they had?
+[2025-03-25 23:07:08][INFO] - Question: Though he could've kept going his body appreciated the rest, it had been constantly what during the day?
+[2025-03-25 23:07:21][INFO] - Question: Too many people want exotic snakes.  The demand is driving what to carry them?
+[2025-03-25 23:07:35][INFO] - Question: Joe suffered many consequences from stabbing a stranger to death.   Among them, the family of the victim did something to him. What was that?
+[2025-03-25 23:07:50][INFO] - Question: To prevent any glare during the big football game he made sure to clean the dust of his what?
+[2025-03-25 23:08:04][INFO] - Question: I have something in my head I want to share, what ways can I do that?
+[2025-03-25 23:08:19][INFO] - Question: He wanted a house that was gated off from other places, where should he start looking?
+[2025-03-25 23:08:33][INFO] - Question: Where in Southern Europe would you find many canals?
+[2025-03-25 23:08:49][INFO] - Question: What would a camper need to do before he or she can start cooking food?
+[2025-03-25 23:09:03][INFO] - Question: What could happen to a paper if you leave it outside even if it does not move?
+[2025-03-25 23:09:18][INFO] - Question: Mark's semen was very thick, but after his vasectomy it was also what?
+[2025-03-25 23:09:30][INFO] - Question: What is a great place to lay in the sun?
+[2025-03-25 23:09:45][INFO] - Question: Where would you find a seafood restaurant in the east coast of North America?
+[2025-03-25 23:09:59][INFO] - Question: The president is the leader of what institution?
+[2025-03-25 23:10:13][INFO] - Question: Sitting to close while watching TV can cause what sort of pain?
+[2025-03-25 23:10:26][INFO] - Question: Where is a bald eagle safe?
+[2025-03-25 23:10:40][INFO] - Question: The game promised it was free, but the child's parents soon found themselves doing what for microtransactions?
+[2025-03-25 23:10:55][INFO] - Question: What kind of driving leads to accidents?
+[2025-03-25 23:11:09][INFO] - Question: What is eating too much dinner likely to result in?
+[2025-03-25 23:11:24][INFO] - Question: What is a person chatting with friends likely hoping to accomplish?
+[2025-03-25 23:11:38][INFO] - Question: Jame's bare feet were burned as he walked, because the sunshine had made the surface hot.  Where might he have been?
+[2025-03-25 23:11:51][INFO] - Question: A fox was thirsty searching for water during the drought, where was he?
+[2025-03-25 23:12:05][INFO] - Question: What might be the result of a season of successful skiing?
+[2025-03-25 23:12:20][INFO] - Question: The sensor would just the distance then set off an alarm, the installation expert explained it was called a what kind of sensor?
+[2025-03-25 23:12:32][INFO] - Question: The man was eating lunch, but rushed when he looked at his watch, why did he rush?
+[2025-03-25 23:12:44][INFO] - Question: The evacuation became mandatory, so what came on the TV?
+[2025-03-25 23:12:56][INFO] - Question: The person gave a good hands on what to show how to do the work?
+[2025-03-25 23:13:11][INFO] - Question: Where would you see some people doing jumping jacks?
+[2025-03-25 23:13:26][INFO] - Question: The body guard was good at his duties, he made the person who hired him what?
+[2025-03-25 23:13:39][INFO] - Question: Learning languages is difficult.  Even in a full immersion environment you're likely to make mistakes, mistakes will cause misinterpretation, which will be uncomfortable, which will cause what?,
+[2025-03-25 23:13:54][INFO] - Question: Jim enjoyed killing people, but he did it too often and the cops found out.  What might the cops do to him?
+[2025-03-25 23:14:08][INFO] - Question: Where is there usually a fiddle playing?
+[2025-03-25 23:14:23][INFO] - Question: What is the only was to recover from exhaustion?
+[2025-03-25 23:14:38][INFO] - Question: What would you do if you want to be able to earn money?
+[2025-03-25 23:14:52][INFO] - Question: What is a grumpy person likely to have?
+[2025-03-25 23:15:08][INFO] - Question: What do drugs do?
+[2025-03-25 23:15:22][INFO] - Question: A beaver can destroy a machines functionality if they build their dam in this?
+[2025-03-25 23:15:37][INFO] - Question: They decided to hash things out over drinks, after enough booze they were able to get close on a few things and what?
+[2025-03-25 23:15:52][INFO] - Question: Where could a fungus grow and not be disturbed by sunlight?
+[2025-03-25 23:16:06][INFO] - Question: Can you name a good reason for attending school?
+[2025-03-25 23:16:21][INFO] - Question: What state south of Kentucky and north of Alabama will you find people playing the fiddle?
+[2025-03-25 23:16:34][INFO] - Question: Though she made the cut years ago, its figurative scars would never what?
+[2025-03-25 23:16:49][INFO] - Question: What does sex often make happen in people?
+[2025-03-25 23:17:04][INFO] - Question: Where would you see people in uniform playing with a ball?
+[2025-03-25 23:17:18][INFO] - Question: What kind of place could have a seafood restaurant?
+[2025-03-25 23:17:30][INFO] - Question: Who was the head of the branch yelling at?
+[2025-03-25 23:17:46][INFO] - Question: He made another call, he did this all day hoping people would what well to his offer?
+[2025-03-25 23:17:59][INFO] - Question: She needs to visit a bookshop after buying the latest fashion, where should she look?
+[2025-03-25 23:18:14][INFO] - Question: Where could you see an advertisement while reading news?
+[2025-03-25 23:18:29][INFO] - Question: What is required to be good at playing tennis?
+[2025-03-25 23:18:43][INFO] - Question: What state is the John Davis  Lodge toll road found in?
+[2025-03-25 23:18:55][INFO] - Question: The man went to clown college, he had always want to run away with the what?
+[2025-03-25 23:19:10][INFO] - Question: Jamie wanted to reduce her waist size, but all of her efforts failed miserably.  She continued to do what?
+[2025-03-25 23:19:24][INFO] - Question: James felt himself losing consciousness.  He was frightened.  He didn't want this.  He was scared of what?
+[2025-03-25 23:19:39][INFO] - Question: If someone is aloof and self-important, what is their experience when meeting people?
+[2025-03-25 23:19:54][INFO] - Question: He was receiving workman's compensation, he had tripped over a metal rod while building where?
+[2025-03-25 23:20:08][INFO] - Question: John and James spent most of their time communicating with each other on their project.  The time required to communicate slowed their what?
+[2025-03-25 23:20:23][INFO] - Question: When you play around with your dog they will have?
+[2025-03-25 23:20:36][INFO] - Question: Where would a person keep a book while it's being read?
+[2025-03-25 23:20:50][INFO] - Question: The student needed to  get some new pencils, where did he go?
+[2025-03-25 23:21:05][INFO] - Question: She loved buying products, she was driven by her what to shop more than any practical needs?
+[2025-03-25 23:21:20][INFO] - Question: How does getting paid feel?
+[2025-03-25 23:21:35][INFO] - Question: The fat man refused to accept what was possible, he complained that he what the simplest activities?
+[2025-03-25 23:21:49][INFO] - Question: Where can meat last a long time?
+[2025-03-25 23:22:04][INFO] - Question: What group of musicians will include someone playing the cello?
+[2025-03-25 23:22:16][INFO] - Question: Where do bees congregate with red flowerS?
+[2025-03-25 23:22:30][INFO] - Question: What is someone who gets angry after getting drunk likely to participate in?
+[2025-03-25 23:22:44][INFO] - Question: The teacher told all the students that listening was key, it was the main way they would gain what?
+[2025-03-25 23:22:59][INFO] - Question: Stanley had a dream that was very vivid and scary. He had trouble telling it from what?
+[2025-03-25 23:23:14][INFO] - Question: The city's community garden was demolished for yet another what?
+[2025-03-25 23:23:25][INFO] - Question: WHat do cats get into when they are ripping things apart?
+[2025-03-25 23:23:40][INFO] - Question: What is a good result of losing weight?
+[2025-03-25 23:23:54][INFO] - Question: A person lived in my what?
+[2025-03-25 23:24:09][INFO] - Question: The skin was cut while chopping onions, where was this skin likely cut?
+[2025-03-25 23:24:24][INFO] - Question: What might you feel after doing housework for hours?
+[2025-03-25 23:24:38][INFO] - Question: The accountant used a calculator regularly, he kept one at home and one at the what?
+[2025-03-25 23:24:52][INFO] - Question: At the end of your meal what will a waiter do?
+[2025-03-25 23:25:06][INFO] - Question: If you aren't glad, unhappy or gloomy, what illness may you have?
+[2025-03-25 23:25:21][INFO] - Question: You can hear testimony of how spirituality changes lives when you do what?
+[2025-03-25 23:25:36][INFO] - Question: It was a great rest, she had never felt this much what in the morning?
+[2025-03-25 23:25:51][INFO] - Question: Which region has the most famous temple?
+[2025-03-25 23:26:05][INFO] - Question: Where would you find a bee gathering pollen?
+[2025-03-25 23:26:19][INFO] - Question: Where would you put a folding chair if you do not plan to use it and you do not have any large doors in your house?
+[2025-03-25 23:26:33][INFO] - Question: If you're speaking to a lawyer about getting a divorce, what relationship status are you trying to end?
+[2025-03-25 23:26:46][INFO] - Question: How do geese normally get from place to place?
+[2025-03-25 23:27:01][INFO] - Question: John was punching and punching at the wall but succeeded only in bloodying his knuckles. This was bad.  He would be unable to hold his tools if he injured what?
+[2025-03-25 23:27:15][INFO] - Question: Though it stayed strictly indoors, the small dog felt like it had all the space in the world in the what?
+[2025-03-25 23:27:29][INFO] - Question: WHat leads to someone's death when they are very depressed?
+[2025-03-25 23:27:43][INFO] - Question: She was sick and staying in bed the day of the event, unfortunately this meant she was what?
+[2025-03-25 23:27:58][INFO] - Question: Where would a lizard surprise a person?
+[2025-03-25 23:28:12][INFO] - Question: They were getting together for the big game, he wasn't hosting but made sure to bring pretty of food with him over to where?
+[2025-03-25 23:28:27][INFO] - Question: Who is likely yo have a caring heart?
+[2025-03-25 23:28:42][INFO] - Question: I'm looking for alcohol and fried foods, any suggestions?
+[2025-03-25 23:28:57][INFO] - Question: If I had a jar which was likely to spoil if left out, where would I want to put it?
+[2025-03-25 23:29:10][INFO] - Question: Sam went to Paris where he ordered a blowfish at a sushi place.  Where was Sam?
+[2025-03-25 23:29:23][INFO] - Question: What will happen to skin pinched in something?
+[2025-03-25 23:29:38][INFO] - Question: Sally lost her kite because she wasn't careful.  She thought that there was more string on the spool, but it slipped out of her fingers when she reached the what?.
+[2025-03-25 23:29:50][INFO] - Question: The man uses grooming before a job interview, what is he trying to portray?
+[2025-03-25 23:30:04][INFO] - Question: Where would there be many people sitting in chair and listening to religious speech?
+[2025-03-25 23:30:18][INFO] - Question: Where is a tabby cat likely to be happiest?
+[2025-03-25 23:30:33][INFO] - Question: East coast areas such as Florida are found where?
+[2025-03-25 23:30:47][INFO] - Question: To learn must have the right book, to work efficiently what must one have?
+[2025-03-25 23:31:02][INFO] - Question: What is a mobile launching platform found in the ocean?
+[2025-03-25 23:31:17][INFO] - Question: There weren't potatoes but actually a snake in his what?
+[2025-03-25 23:31:31][INFO] - Question: What could listening to music cause you to be?
+[2025-03-25 23:31:46][INFO] - Question: If you want to make a big splash in a river with a rock, from where should you throw it?
+[2025-03-25 23:31:59][INFO] - Question: What is committing perjury likely to lead to?
+[2025-03-25 23:32:14][INFO] - Question: The new play was the go to performance of the year, all the crowds would stand and what?
+[2025-03-25 23:32:29][INFO] - Question: "There are 10 apples on an apple tree.  Three fall off.  Now there are X apples."  What is this an example of?
+[2025-03-25 23:32:43][INFO] - Question: Where are people likely to find food?
+[2025-03-25 23:32:58][INFO] - Question: What might a kid do with his friend before going to play?
+[2025-03-25 23:33:13][INFO] - Question: What is a person who is well educated?
+[2025-03-25 23:33:28][INFO] - Question: Ben was an alcoholic and was in an accident.  Because of his mistake, he spent 8 years somewhere. Where was he?
+[2025-03-25 23:33:42][INFO] - Question: Where do you buy tickets at a ticket booth for games/
+[2025-03-25 23:33:57][INFO] - Question: A soccer field that is not contained in a building would be where?
+[2025-03-25 23:34:11][INFO] - Question: Letters are sometimes delivered by hand through one of these.
+[2025-03-25 23:34:25][INFO] - Question: John came to see Sam and Sam kicked him out.  Sam didn't like company.  He prefered what?
+[2025-03-25 23:34:37][INFO] - Question: If somebody likes temperatures cool, they might have more than one electric fan where?
+[2025-03-25 23:34:49][INFO] - Question: Sky diving scared him, once they jumped out of the plane he began losing consciousness while what?
+[2025-03-25 23:35:03][INFO] - Question: The president had to make a decision regarding the hate attack on his country, what did he do?
+[2025-03-25 23:35:18][INFO] - Question: What's it called when you have seen something through an eyepiece?
+[2025-03-25 23:35:30][INFO] - Question: He had done a great job with the scary decorations, they were completely what?
+[2025-03-25 23:35:45][INFO] - Question: If you did well on the test, you might get an A as a what?
+[2025-03-25 23:36:00][INFO] - Question: If you tell you boss your suffering from boredom they'll likely tell you to get back to what?
+[2025-03-25 23:36:14][INFO] - Question: What is a good result of jogging?
+[2025-03-25 23:36:28][INFO] - Question: What is done to wood to attach something to it?
+[2025-03-25 23:36:42][INFO] - Question: Where is a fox likely to be caught?
+[2025-03-25 23:36:57][INFO] - Question: Where do you put a new dining table?
+[2025-03-25 23:37:11][INFO] - Question: Sometimes fighting inflation isn't even what, because it is so negligible?
+[2025-03-25 23:37:26][INFO] - Question: What is likely to have more than one level in a city?
+[2025-03-25 23:37:40][INFO] - Question: Where is likely to have a lot of fire extinguishers?
+[2025-03-25 23:37:55][INFO] - Question: Where would someone learn to play an upright piano?
+[2025-03-25 23:38:09][INFO] - Question: What is necessary for learning by yourself?
+[2025-03-25 23:38:24][INFO] - Question: John and Jane were a couple.  They were dating for a while and wanted to be together for even longer. For this reason, they did what?
+[2025-03-25 23:38:39][INFO] - Question: What emotion does getting paid lead to?
+[2025-03-25 23:38:53][INFO] - Question: Who is likely going in to a market?
+[2025-03-25 23:39:07][INFO] - Question: What is a characteristic of thin glass?
+[2025-03-25 23:39:21][INFO] - Question: What do you get for not moving your car during the required time?
+[2025-03-25 23:39:34][INFO] - Question: Bob's feet hurt from running barefoot on the hot pavement.  I lost his shoes, didn't know where they landed, and had to run from the corner store to his home.  About where did he run?
+[2025-03-25 23:39:48][INFO] - Question: Where would you be able to hear a bassoon played in an unpleasing fashion?
+[2025-03-25 23:40:02][INFO] - Question: John loved competing because he was very competitive.  He liked being about to divide people into what categories?
+[2025-03-25 23:40:15][INFO] - Question: The game was on sale.  I got it then because it was usually what?
+[2025-03-25 23:40:27][INFO] - Question: What could a massive building be if it is not constructed well?
+[2025-03-25 23:40:41][INFO] - Question: Where could a printer be used by thousands of people?
+[2025-03-25 23:40:56][INFO] - Question: What could prevent someone from buying chistmas presents?
+[2025-03-25 23:41:10][INFO] - Question: What is the hope of playing sports without competition?
+[2025-03-25 23:41:25][INFO] - Question: They moved out of the city to have a master bedroom, what kind of home did they seek?
+[2025-03-25 23:41:39][INFO] - Question: What could you add a line to?
+[2025-03-25 23:41:54][INFO] - Question: Joe bought a ficus.  He thought it would look good in what part of his home?
+[2025-03-25 23:42:08][INFO] - Question: Sarah wanted to by a new rug.  Ink spilled onto her old one.  Really, she didn't know what that thing had an inkwell in the first place.  What piece of furniture might have been on her run?
+[2025-03-25 23:42:22][INFO] - Question: When people discover something new while chatting with friends, why are they likely to continue talking?
+[2025-03-25 23:42:37][INFO] - Question: How can one's views change after learning about science?
+[2025-03-25 23:42:51][INFO] - Question: Traveling underwater has many dangers, such as low visibility causing what?
+[2025-03-25 23:43:05][INFO] - Question: Where are people likely to stand at an intersection?
+[2025-03-25 23:43:20][INFO] - Question: Janet knew she was dying from her injuries because she could feel herself doing what?
+[2025-03-25 23:43:35][INFO] - Question: An expressway can suffer from traffic, this traffic gets worse the closer you get to any what?
+[2025-03-25 23:43:48][INFO] - Question: Where are there more telephone booths?
+[2025-03-25 23:44:03][INFO] - Question: John moved away from his family.  He was a bit upset that he had to do it, but he needed the job.  Still, he would have preferred it if the job were what?
+[2025-03-25 23:44:17][INFO] - Question: James complained that Alexa's electric guitar was too loud and he couldn't get any work done at home,  so she decided that she should get an acoustic guitar.  Where might she look for one?
+[2025-03-25 23:44:32][INFO] - Question: What can someone feeling happiness fall into?
+[2025-03-25 23:44:47][INFO] - Question: How might a person address someone who is leaving?
+[2025-03-25 23:45:02][INFO] - Question: What does a chef do when working in the evening?
+[2025-03-25 23:45:15][INFO] - Question: What would happen to a person if his or her money is stolen?
+[2025-03-25 23:45:30][INFO] - Question: The people in class were instructed to brainstorm ideas, how would they use their minds for this?
+[2025-03-25 23:45:45][INFO] - Question: Someone lacking immortality will one day be?
+[2025-03-25 23:45:56][INFO] - Question: After his mother saw his report card he knew he was going to be doing housework, what could have prevented this?
+[2025-03-25 23:46:11][INFO] - Question: Glass that hasn't been treated to be extra strong is what?
+[2025-03-25 23:46:24][INFO] - Question: If you've thrown a rod you've done damage to what?
+[2025-03-25 23:46:36][INFO] - Question: What enables most people to transport themselves?
+[2025-03-25 23:46:51][INFO] - Question: What do people in the same family often share?
+[2025-03-25 23:47:05][INFO] - Question: What is an area with no grass where I can get things to sell at a roadside stand?
+[2025-03-25 23:47:20][INFO] - Question: Where do kids find fish in their backyards?
+[2025-03-25 23:47:35][INFO] - Question: Where must one wear a white shoe?
+[2025-03-25 23:47:49][INFO] - Question: James chose to not to print the cards, because he wanted to be more personal. What type of cards did he choose, instead?
+[2025-03-25 23:48:03][INFO] - Question: They checked the weather one more time during the flight, they were on their way to paradise and wanted it to what?

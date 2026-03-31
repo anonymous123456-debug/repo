@@ -1,0 +1,5 @@
+{"question": "Can we say at least one of the following must always be true? (a) she will feel hydrated and (b) she doesn't eat too much sugar", "ext_fil_pred": "no", "input_len": 1890}
+{"question": "Can we say at least one of the following must always be true? (a) she won't feel hydrated and (b) she eats too much sugar", "ext_fil_pred": "yes", "input_len": 2266}
+{"question": "Can we say at least one of the following must always be true? (a) she will feel hydrated and (b) she eats too much sugar", "ext_fil_pred": "no", "input_len": 1981}
+{"question": "Can we say at least one of the following must always be true? (a) she won't feel hydrated and (b) she doesn't eat too much sugar", "ext_fil_pred": "no", "input_len": 2223}
+{"question": "Can we say at least one of the following must always be true? (a) he will get good grades. and (b) he doesn't watch too much tv.", "ext_fil_pred": "no", "input_len": 1906}

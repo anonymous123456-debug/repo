@@ -1,0 +1,28 @@
+[2025-04-10 16:38:39][INFO] - ****************************** CONFIGURATION ******************************
+[2025-04-10 16:38:39][INFO] - MaxClients                     --> 1
+[2025-04-10 16:38:39][INFO] - dataset                        --> commonsenseqa
+[2025-04-10 16:38:39][INFO] - ext                            --> False
+[2025-04-10 16:38:39][INFO] - ext_fil                        --> True
+[2025-04-10 16:38:39][INFO] - fil                            --> False
+[2025-04-10 16:38:39][INFO] - log_path                       --> 
+[2025-04-10 16:38:39][INFO] - lrag_model                     --> 
+[2025-04-10 16:38:39][INFO] - model                          --> deepseek
+[2025-04-10 16:38:39][INFO] - r_path                         --> ../data/corpus/processed/50_1_1
+[2025-04-10 16:38:39][INFO] - raw_context_pred               --> False
+[2025-04-10 16:38:39][INFO] - raw_pred                       --> False
+[2025-04-10 16:38:39][INFO] - rb                             --> False
+[2025-04-10 16:38:39][INFO] - rl                             --> False
+[2025-04-10 16:38:39][INFO] - top_k1                         --> 100
+[2025-04-10 16:38:39][INFO] - top_k2                         --> 20
+[2025-04-10 16:38:39][INFO] - LongRAG model used: 
+[2025-04-10 16:38:39][INFO] - ****************************** CONFIGURATION ******************************
+[2025-04-10 16:38:39][DEBUG] - Attempting to acquire lock 22617399752848 on /public/home/ncu_418000240001/.cache/huggingface/datasets/_public_home_ncu_418000240001_.cache_huggingface_datasets_commonsenseqa_default_0.0.0_54e35741336969b6.lock
+[2025-04-10 16:38:39][DEBUG] - Lock 22617399752848 acquired on /public/home/ncu_418000240001/.cache/huggingface/datasets/_public_home_ncu_418000240001_.cache_huggingface_datasets_commonsenseqa_default_0.0.0_54e35741336969b6.lock
+[2025-04-10 16:38:39][DEBUG] - open file: /public/home/ncu_418000240001/.cache/huggingface/datasets/commonsenseqa/default/0.0.0/54e35741336969b6/dataset_info.json
+[2025-04-10 16:38:39][DEBUG] - Attempting to release lock 22617399752848 on /public/home/ncu_418000240001/.cache/huggingface/datasets/_public_home_ncu_418000240001_.cache_huggingface_datasets_commonsenseqa_default_0.0.0_54e35741336969b6.lock
+[2025-04-10 16:38:39][DEBUG] - Lock 22617399752848 released on /public/home/ncu_418000240001/.cache/huggingface/datasets/_public_home_ncu_418000240001_.cache_huggingface_datasets_commonsenseqa_default_0.0.0_54e35741336969b6.lock
+[2025-04-10 16:38:39][DEBUG] - Attempting to acquire lock 22617399271632 on /public/home/ncu_418000240001/.cache/huggingface/datasets/commonsenseqa/default/0.0.0/54e35741336969b6_builder.lock
+[2025-04-10 16:38:39][DEBUG] - Lock 22617399271632 acquired on /public/home/ncu_418000240001/.cache/huggingface/datasets/commonsenseqa/default/0.0.0/54e35741336969b6_builder.lock
+[2025-04-10 16:38:39][DEBUG] - open file: /public/home/ncu_418000240001/.cache/huggingface/datasets/commonsenseqa/default/0.0.0/54e35741336969b6/dataset_info.json
+[2025-04-10 16:38:39][DEBUG] - Attempting to release lock 22617399271632 on /public/home/ncu_418000240001/.cache/huggingface/datasets/commonsenseqa/default/0.0.0/54e35741336969b6_builder.lock
+[2025-04-10 16:38:39][DEBUG] - Lock 22617399271632 released on /public/home/ncu_418000240001/.cache/huggingface/datasets/commonsenseqa/default/0.0.0/54e35741336969b6_builder.lock

@@ -1,0 +1,500 @@
+{"question": "Brincourt made preparations to invade which state?", "raw_pred": "Normandy", "input_len": 64}
+{"question": "There has been a double in the population of people born in which country?", "raw_pred": "India", "input_len": 69}
+{"question": "What did the Vijayanagara Empire promote to unify Indian culture?", "raw_pred": "Hinduism.", "input_len": 67}
+{"question": "About how many police were said to have protected the torch in France?", "raw_pred": "1000", "input_len": 68}
+{"question": "After the bearer of the torch disappeared into a warehouse, what road did the relay reappear on?", "raw_pred": "The passage is not provided.", "input_len": 74}
+{"question": "Is there evidence to support a drop in self-esteem during adolescence?", "raw_pred": "Yes", "input_len": 67}
+{"question": "How many American Protestants supported independence in America?", "raw_pred": "About 20%", "input_len": 64}
+{"question": "What is the driest season on average in St. John's?", "raw_pred": "February", "input_len": 68}
+{"question": "Who developed a comprehensive theory related to human emotional arousal?", "raw_pred": "Robert Plutchik", "input_len": 65}
+{"question": "Which Olympics did Nagano host?", "raw_pred": "1998", "input_len": 61}
+{"question": "Who else uses a closed distribution platform?", "raw_pred": "Spotify", "input_len": 62}
+{"question": "Where is third rail situated in the street trams system?", "raw_pred": "Between the rails.", "input_len": 66}
+{"question": "Which baseball stadium is found at Notre Dame?", "raw_pred": "None", "input_len": 63}
+{"question": "What does EPA stand for?", "raw_pred": "Environmental Protection Agency", "input_len": 60}
+{"question": "What type of party system is the United States?", "raw_pred": "Two-party system", "input_len": 64}
+{"question": "What are challenged to an unpopular political party?", "raw_pred": "Elected officials.", "input_len": 63}
+{"question": "What methods did people use before antibiotics to treat infections?", "raw_pred": "Bloodletting, applying poultices, and using herbal remedies.", "input_len": 65}
+{"question": "How long should it take for an aircraft to be off the airport and in the air?", "raw_pred": "Taxiing to the runway takes 2-5 minutes. Takeoff is usually completed within 10-30 seconds.", "input_len": 72}
+{"question": "What was an important destination for supply convoys from North America?", "raw_pred": "Iceland", "input_len": 67}
+{"question": "Why was The Yale Report established?", "raw_pred": "The Yale Report was established to defend the classical curriculum.", "input_len": 61}
+{"question": "Who killed Brazelton?", "raw_pred": "There is no passage provided.", "input_len": 60}
+{"question": "How many marks did the church lose?", "raw_pred": "0", "input_len": 62}
+{"question": "When did the Pictish tribe start to inhabit the islands?", "raw_pred": "There is no information in the given passages about the Pictish tribe inhabiting the islands.", "input_len": 67}
+{"question": "What did a study done by Elizabeth Loftus and John palmer show?", "raw_pred": "False memory can be created.", "input_len": 69}
+{"question": "What was the name of the single off the debut album that gave Kanye mainstream attention?", "raw_pred": "Through the Wire", "input_len": 71}
+{"question": "Whose return to Apple resulted in the company's reorganization?", "raw_pred": "John Sculley", "input_len": 67}
+{"question": "Who in the generation following the \"To Secure These Rights\" findings sign legislation for affirmative action into law?", "raw_pred": "Lyndon B. Johnson", "input_len": 75}
+{"question": "The Rajpath was also known by what name?", "raw_pred": "King's Way", "input_len": 64}
+{"question": "Who condemned Microsoft for requiring devices to have secure boot enabled by default?", "raw_pred": "The Linux Foundation.", "input_len": 68}
+{"question": "Who joined Beyonce on her On The Run Tour?", "raw_pred": "Jay-Z", "input_len": 65}
+{"question": "The implications of identity and identity construction are discussed in what settings?", "raw_pred": "Social and cultural contexts.", "input_len": 67}
+{"question": "Who captured Demetrius?", "raw_pred": "Lysander", "input_len": 60}
+{"question": "Who gets to decide how long stoppage time can go on for?", "raw_pred": "The referee", "input_len": 68}
+{"question": "What is the most popular head dress worn?", "raw_pred": "There is no information in the given passage to determine the most popular head dress worn.", "input_len": 63}
+{"question": "What is the longest river in Ireland?", "raw_pred": "The River Shannon", "input_len": 62}
+{"question": "Who won the last election at Reichstag?", "raw_pred": "No information provided", "input_len": 63}
+{"question": "Who was the US Secretary of Defense in 2002?", "raw_pred": "Donald Rumsfeld", "input_len": 66}
+{"question": "What is necessary to explain a doctor's normality in sensory terms?", "raw_pred": "A sense of smell.", "input_len": 68}
+{"question": "On what days did Nanjing have to issue a Red Alert because of the severe air pollution?", "raw_pred": "I do not have the passages.", "input_len": 73}
+{"question": "What is the name of the second largest bank found in Connecticut?", "raw_pred": "Bank of America", "input_len": 67}
+{"question": "What name had not been used for a Pope since the year 1605?", "raw_pred": "Urban", "input_len": 70}
+{"question": "On October 16, 2008, how long did UBS predict the United States' recession would last?", "raw_pred": "18 months", "input_len": 77}
+{"question": "What essential plan funtion is interrupted by triazines?", "raw_pred": "Photosynthesis", "input_len": 65}
+{"question": "355 copper alloys have been proven to kill what percentage of bacteria?", "raw_pred": "65", "input_len": 68}
+{"question": "How old was Prince Chun?", "raw_pred": "I cannot answer that question as I do not see any given passages.", "input_len": 60}
+{"question": "During the Yuan what existed between China and Tibet? ", "raw_pred": "A tributary system.", "input_len": 65}
+{"question": "What was the name of the route that linked Germany,Switzerland , Netherlands, and England", "raw_pred": "The Hanseatic League", "input_len": 73}
+{"question": "Underground electrolytic malfunctions in hydraulic elevators can result in the destruction of what? ", "raw_pred": "Cables", "input_len": 72}
+{"question": "Who performed the studies that found most homosexual people having different degrees of gender issues?", "raw_pred": "Freud", "input_len": 70}
+{"question": "Under which king were the heresy laws repealed in 1547?", "raw_pred": "Edward VI", "input_len": 68}
+{"question": "Why did the attack by the Rus go so well on the coast at the start?", "raw_pred": "The Rus were able to navigate the coast using the sun, which was in their favor.", "input_len": 71}
+{"question": "The results of which battle allowed the British to blockade French coasts?", "raw_pred": "The Battle of Trafalgar", "input_len": 68}
+{"question": "What have many apartment buildings  surrounding Wrigley Field built on their rooftops?", "raw_pred": "Observation decks.", "input_len": 71}
+{"question": "Which color of lasers are widely available to the general public?", "raw_pred": "Red", "input_len": 66}
+{"question": "What year did the first community health center in the US open?", "raw_pred": "1965", "input_len": 67}
+{"question": "Why are antibiotics checked before use?", "raw_pred": "To ensure they are effective against the specific infection and to check for potential allergic reactions or interactions with other medications.", "input_len": 61}
+{"question": "Along with Libya, Morocco, Tunisia and Algeria, who was a founding member of the Arab Maghreb Union?", "raw_pred": "Mauritania", "input_len": 77}
+{"question": "How many professors have been disciplined according to the new Statement on Academic Freedom?", "raw_pred": "0", "input_len": 69}
+{"question": "Which country developed the 441-line system?", "raw_pred": "China", "input_len": 63}
+{"question": "When did two whisleblowers allege that Boutris  attempted to ground Southwest Airlines?", "raw_pred": "There is no information about two whistleblowers alleging that Boutris attempted to ground Southwest Airlines in the provided passage.", "input_len": 73}
+{"question": "What does LPC stand for?", "raw_pred": "Linear Programming Compiler", "input_len": 60}
+{"question": "Name its political capital.", "raw_pred": "I'm ready to answer the question.", "input_len": 59}
+{"question": "Which scientist argued that Darwinism was atheism?", "raw_pred": "Lord Kelvin", "input_len": 64}
+{"question": "What happened in Victoria's life on the day after the one year anniversary of Brown's death?", "raw_pred": "She went to the police station to file a complaint.", "input_len": 73}
+{"question": "What island separated from mainland Africa 66 million years ago?", "raw_pred": "Madagascar.", "input_len": 66}
+{"question": "Who do not teach their faith to Israelis?", "raw_pred": "The Druze.", "input_len": 63}
+{"question": "What was the battle cry of the war?", "raw_pred": "No answer provided.", "input_len": 63}
+{"question": "What is another term other than \"large\" that means a stack of mutiple thousands?", "raw_pred": "Mass", "input_len": 72}
+{"question": "How did the The Columbia Encyclopedia describe the Yuan dynasty?", "raw_pred": "A Mongol khanate established by Kublai Khan, the grandson of Genghis Khan, in China in 1271.", "input_len": 65}
+{"question": "When did the English conquer the New Netherland colony?", "raw_pred": "1664", "input_len": 66}
+{"question": "What type of industries are now dominant in Nanjing?", "raw_pred": "Manufacturing and high-tech industries.", "input_len": 65}
+{"question": "The top 3 industries in Nanjing are?", "raw_pred": "I don't have any information about the top 3 industries in Nanjing.", "input_len": 64}
+{"question": "What types of retail offerings are found in Cork?", "raw_pred": "Department stores, convenience stores, grocery stores, and specialty stores.", "input_len": 64}
+{"question": "Where did ArenaBowl XX take place?", "raw_pred": "Orlando, Florida.", "input_len": 63}
+{"question": "When did Chopin receive his first major endorsement from Robert Schumann?", "raw_pred": "1845", "input_len": 68}
+{"question": "What religion spread during the Heian period?", "raw_pred": "Buddhism", "input_len": 63}
+{"question": "What Nobel prize winner has spent most of his life studying Hayek's capital theory despite being critical of the man?", "raw_pred": "Paul Samuelson", "input_len": 77}
+{"question": "What plant did Dell close in Texas?", "raw_pred": "Semiconductor plant", "input_len": 62}
+{"question": "When did Hosokibara create Nihon Manga-Shi?", "raw_pred": "1957", "input_len": 68}
+{"question": "How many hours of bright sunshine does Nanjing get each year?", "raw_pred": "1,954", "input_len": 67}
+{"question": "Who was the first notable king of the Franks?", "raw_pred": "Clovis.", "input_len": 65}
+{"question": "Who was forced to retreat back to the Pusan Peninsula due to unpreparedness?", "raw_pred": "North Korean forces", "input_len": 71}
+{"question": "Zeus was paired with which local god?", "raw_pred": "Poseidon", "input_len": 62}
+{"question": "What store was founded in Paris, in 1838, which sold a wide variety of products? ", "raw_pred": "Le Bon Marché", "input_len": 75}
+{"question": "What group of scientists study tectonics?", "raw_pred": "Geologists", "input_len": 64}
+{"question": "What is the main defense of human body against eye infections?", "raw_pred": "The tears.", "input_len": 66}
+{"question": "Who was the first president of the American Psychological Association?", "raw_pred": "G. Stanley Hall", "input_len": 65}
+{"question": "What two hard rock songs are featured on Deep Purple's Machine Head album?", "raw_pred": "Smoke on the Water, Highway Star", "input_len": 69}
+{"question": "Which which university is Fred Donner affiliated?", "raw_pred": "University of Chicago", "input_len": 63}
+{"question": "Who called Madonna a dynamic entrepreneur?", "raw_pred": "Bloomberg", "input_len": 61}
+{"question": "Which three states was Hyderabad state divided into?", "raw_pred": "Andhra Pradesh, Mysore, and Bombay", "input_len": 63}
+{"question": "Waht country has the largest area of GM cotton on Earth?", "raw_pred": "China", "input_len": 67}
+{"question": "The Greek national basketball in 2012 held what ranking in Europe?", "raw_pred": "2nd", "input_len": 68}
+{"question": "Where did Destiny's Child get their name from?", "raw_pred": "Beyoncé's father, Mathew Knowles, named the group after a candy called \"Chappelle's Show\" had a sketch about a girl group called \"Destiny's Child\", and he also named the group after the phrase \"Destiny's Child\" from the Bible, which means a group of people who are chosen for a special purpose.", "input_len": 64}
+{"question": "How many miles long is Liquid Telecoms Network?", "raw_pred": "No information is available in the given passages to answer the question.", "input_len": 64}
+{"question": "What year did Somalia receive its first fiber optic connection?", "raw_pred": "2000", "input_len": 65}
+{"question": "What kingdom under the Spartocid dynasty consisted of Maeotians, Thracians, Crimean Scythians and Cimmerians?", "raw_pred": "Bosporan", "input_len": 82}
+{"question": "What did Bryan Lessard name after Beyoncé?", "raw_pred": "Beyoncé's baby.", "input_len": 64}
+{"question": "What do a significant portion of boys remain in until marriage?", "raw_pred": "Their parents' home.", "input_len": 66}
+{"question": "Which agency regulates safety of pesticides in Canada?", "raw_pred": "Health Canada's Pest Management Regulatory Agency (PMRA) regulates the safety of pesticides in Canada.", "input_len": 63}
+{"question": "When was \"Music\" released?", "raw_pred": "I need the passages to answer the question.", "input_len": 61}
+{"question": "Who was signed to a contract at 8 years for $136 million?", "raw_pred": "LeBron James", "input_len": 69}
+{"question": "What is one thing, according to the text, that domesticated dogs use humans for?", "raw_pred": "Food.", "input_len": 72}
+{"question": "About how many students attend schools in the City University of New York system?", "raw_pred": "over 270,000", "input_len": 69}
+{"question": "What did Reagan wrongly believe Libya to be?", "raw_pred": "A Soviet client state.", "input_len": 63}
+{"question": "Which war transformed many colleges, including Northwestern?", "raw_pred": "World War II", "input_len": 63}
+{"question": "In what borough is Silicon Alley located?", "raw_pred": "Manhattan", "input_len": 62}
+{"question": "Who are anthropologists working with along with other social scientists? ", "raw_pred": "Other social scientists.", "input_len": 67}
+{"question": "What do ecologists call the start of the food chain?", "raw_pred": "Producer", "input_len": 66}
+{"question": "What Mongolian word did Qing dynasty get it's name from?", "raw_pred": "Qing", "input_len": 67}
+{"question": "What singer criticized Carrie Underwood for winning a Country Music Award? ", "raw_pred": "Miranda Lambert", "input_len": 68}
+{"question": "How many dimensions did Melzack and Casey describe pain in terms of?", "raw_pred": "Two", "input_len": 69}
+{"question": "Who we responsible for the giant \"Y\" that is embedded on a mountain near the campus?", "raw_pred": "The 1932 Class of Stanford University.", "input_len": 73}
+{"question": "On what date did Breeder Reactor I first make electricity?", "raw_pred": "December 20, 1951", "input_len": 67}
+{"question": "To the Romans who was the most powerful of the gods?", "raw_pred": "Jupiter.", "input_len": 66}
+{"question": "On what date did the French begin the re-crossing of the Danube?", "raw_pred": "April 12, 1809", "input_len": 70}
+{"question": "In what year did Fascist Italy achieve full control of Somalia?", "raw_pred": "1925", "input_len": 67}
+{"question": "What did Beyoncé sing at President Obama's second inauguration?", "raw_pred": "At Last", "input_len": 66}
+{"question": "From which period does BYU Museum of Paleontology hold many artifacts from?", "raw_pred": "Paleogene and Pleistocene", "input_len": 68}
+{"question": "Which part of his body did Schwarzenegger work to develop with Coach Bennett?", "raw_pred": "His back.", "input_len": 71}
+{"question": "How many clubs where in the football league? ", "raw_pred": "12", "input_len": 64}
+{"question": "What type of arches do they love to use in Venice?", "raw_pred": "No answer is given in the passages.", "input_len": 67}
+{"question": "What happens to a person whose autobiographic memory is damaged?", "raw_pred": "They may have difficulty recalling their personal experiences, learning from them, and forming a sense of self.", "input_len": 66}
+{"question": "What gossip did Prince Albert hear about their son?", "raw_pred": "There is no information given in the passages about Prince Albert hearing gossip about their son.", "input_len": 64}
+{"question": "What caused Prince Albert's death?", "raw_pred": "Typhoid fever.", "input_len": 61}
+{"question": "Who led the armies supporting British interests in central Europe?", "raw_pred": "Duke of Marlborough", "input_len": 65}
+{"question": "What English music group was an inspiration for Kanye West on his second album?", "raw_pred": "Radiohead", "input_len": 69}
+{"question": "Who wrote that a Soviet invasion of Japan was unlikely?", "raw_pred": "Joseph Stalin", "input_len": 65}
+{"question": "What does Ward see as the purpose of interaction between monads?", "raw_pred": "The purpose of interaction between monads is to provide a framework for functional programming that allows for the composition of computations that may fail or produce side effects, while still maintaining referential transparency.", "input_len": 67}
+{"question": "Besides customer problems, what other area is Comcast often criticized over?", "raw_pred": "Customer service.", "input_len": 67}
+{"question": "What issue has moved to the forefront in recent years?", "raw_pred": "Climate change", "input_len": 65}
+{"question": "Who believe that the Ming dynasty did not exercise any direct political control over Tibet?", "raw_pred": "The Mongols", "input_len": 70}
+{"question": "Who was the person credited with the first in-flight space death?", "raw_pred": "Yuri Gagarin", "input_len": 67}
+{"question": "Where was the basic power in Rome to be found?", "raw_pred": "The Roman Senate", "input_len": 65}
+{"question": "Which Notre Dame alum from the College of Science won a Nobel Prize?", "raw_pred": "John Mather", "input_len": 68}
+{"question": "Who is the other woman who earned the title?", "raw_pred": "I couldn't find any information about the title being referred to.", "input_len": 64}
+{"question": "What is Musee national des arts asiatiques famous for housing?", "raw_pred": "The Guimet Museum.", "input_len": 67}
+{"question": "What is the second most visited art museum in Paris?", "raw_pred": "Musée d'Orsay", "input_len": 65}
+{"question": "What came with lesser lesser cost mobile conversion hardware or stationary hardware?", "raw_pred": "Mobile", "input_len": 67}
+{"question": "What two architectural movements have come under criticism for their focus on individuality? ", "raw_pred": "Art Nouveau and Art Deco", "input_len": 70}
+{"question": "The video for what song failed to win an award for again in 2006, leading to an onstage outburst by Kanye?", "raw_pred": "Touch It", "input_len": 80}
+{"question": "Which towns in Thuringia are known as mining towns?", "raw_pred": "Erfurt, Sondershausen, and Suhl are known as mining towns in Thuringia.", "input_len": 66}
+{"question": "What's the abbreviation for Single/Double Summer Time?", "raw_pred": "SDT", "input_len": 65}
+{"question": "What month and day was the death of Prince Albert?", "raw_pred": "December 14", "input_len": 65}
+{"question": "Who told the media that Chinese diplomats were arranging a \"peaceful show of strength\"?", "raw_pred": "The U.S. Defense Secretary", "input_len": 72}
+{"question": "At what altitude did the American dive bombers commence their attck on the Japanese carriers?", "raw_pred": "20,000 feet", "input_len": 71}
+{"question": "Who was the son of Al-Hakam ibn Abi al-'As?", "raw_pred": "'Abd al-Rahman ibn al-Hakam", "input_len": 71}
+{"question": "What town did Victoria visit in the center of England on her trip with the Dutchess of kent and Conroy?", "raw_pred": "I couldn't find the answer in the given passage.", "input_len": 77}
+{"question": "When did the Bethnal Green disaster occur?", "raw_pred": "March 3, 1943", "input_len": 63}
+{"question": "What is another term for Western Iran?", "raw_pred": "Persia", "input_len": 62}
+{"question": "What does the term Jamahiriya mean in English?", "raw_pred": "State of the Masses", "input_len": 66}
+{"question": "What does 'Articulata' mean?", "raw_pred": "A subphylum of arthropods, including arachnids, crustaceans, and insects.", "input_len": 64}
+{"question": "Whom did Sand's daughter Solange become engaged to?", "raw_pred": "Sand's daughter Solange became engaged to the son of the Duke of Orléans.", "input_len": 66}
+{"question": "When did Mac OS X experience a large increase in malware attacks?", "raw_pred": "2005", "input_len": 67}
+{"question": "After the Persians left Europe, the time period that followed was called what?", "raw_pred": "The Dark Ages.", "input_len": 70}
+{"question": "What year did the export market for manodlins from Italy dry up?", "raw_pred": "1620", "input_len": 70}
+{"question": "Destiny's Child got a star on the Hollywood Walk of Fame in what year?", "raw_pred": "2005", "input_len": 70}
+{"question": "What was the name of the first oral contraceptive?", "raw_pred": "The Pill", "input_len": 64}
+{"question": "How many men did he have?", "raw_pred": "2", "input_len": 61}
+{"question": "When did the FDA approve Enovid?", "raw_pred": "1960", "input_len": 62}
+{"question": "What other tribe occasionally fought against the Lenape?", "raw_pred": "Iroquois, Wampanoag, and the Huron", "input_len": 64}
+{"question": "What month in Plymouth has the lowest temperatures?", "raw_pred": "February", "input_len": 63}
+{"question": "What prominent business professor has been heavily influenced by Whitehead?", "raw_pred": "Peter Drucker", "input_len": 66}
+{"question": "What battle began when two armies collided in the town of Froschwiller?", "raw_pred": "The Battle of Froschwiller.", "input_len": 71}
+{"question": "There are how many dorms for females at Notre Dame?", "raw_pred": "11", "input_len": 66}
+{"question": "What year did the Ministry of Education develope tai-lo?", "raw_pred": "1985", "input_len": 66}
+{"question": "What was one of the names that was initially considered for Washington University in St. Louis?", "raw_pred": "Missouri University.", "input_len": 72}
+{"question": "What was the name of the governing body headed by Gaddafi after the revolution?", "raw_pred": "General People's Committee", "input_len": 70}
+{"question": "What empire beat the last Bahmani Sultanate?", "raw_pred": "Adil Shahi", "input_len": 64}
+{"question": "Can bacteria survive inside rocks under the sea level?", "raw_pred": "Yes", "input_len": 64}
+{"question": "When was the province of France canonically erected?", "raw_pred": "987", "input_len": 64}
+{"question": "What is the molecular make-up of hydrogen?", "raw_pred": "H2", "input_len": 63}
+{"question": "When did the Second Boer War end?", "raw_pred": "1902", "input_len": 63}
+{"question": "What are alternative names the Thar Desert is known by?", "raw_pred": "Cholistan Desert, Great Indian Desert", "input_len": 66}
+{"question": "What objects are notably bright in near IR?", "raw_pred": "Stars, planets, and some types of galaxies.", "input_len": 63}
+{"question": "What device uses infrared LEDs to measure oxygen saturation?", "raw_pred": "Pulse oximeter", "input_len": 64}
+{"question": "When was the University of Fribourg put into the Dominican Order's care?", "raw_pred": "1235", "input_len": 70}
+{"question": "Who did Tsongkhapa send in his place to Nanjing?", "raw_pred": "Je Tsongkhapa sent his brother Chöjé Drakpa Jungne in his place to Nanjing.", "input_len": 68}
+{"question": "When did Madonna take voice lessons?", "raw_pred": "I am unable to verify the passage.", "input_len": 61}
+{"question": "What is the term for Jehovah's Witnesses' rejection of certain secular requirements and medical treatments?", "raw_pred": "Blood transfusions", "input_len": 72}
+{"question": "With Madonna's new video, Like A Prayer, the blasphemy that she portrayed in the video led to what consequences?", "raw_pred": "The Vatican condemned it.", "input_len": 78}
+{"question": "What physicists in the field of quantum theory have been influenced by Whitehead?", "raw_pred": "David Bohm and John Wheeler", "input_len": 69}
+{"question": "When was the \"Stupid Motorist Law\" passed?", "raw_pred": "I am unable to verify the information on the \"Stupid Motorist Law\".", "input_len": 66}
+{"question": "What are gravitational waves?", "raw_pred": "Ripples in the fabric of spacetime.", "input_len": 59}
+{"question": "Which of Elizabeth's sons served in the Falklands War?", "raw_pred": "Prince Andrew, Prince Edward", "input_len": 66}
+{"question": "In northern Europe, which months have temperatures similar to Valencia's in January?", "raw_pred": "February, March, April", "input_len": 69}
+{"question": "What sort of airspace is the DCA designed to protect?", "raw_pred": "The nation's capital area.", "input_len": 66}
+{"question": "What was the archiepiscopal palace during the Moorish period?", "raw_pred": "Alcázar of Córdoba", "input_len": 68}
+{"question": "When Hong Kong was a colony of Great Britain, which body was the highest court of appeal?", "raw_pred": "Privy Council", "input_len": 73}
+{"question": "How old was George Stinney when he was executed?", "raw_pred": "14", "input_len": 66}
+{"question": "Where did Bell's uncle live?", "raw_pred": "I couldn't find any information about Bell's uncle in the provided passages.", "input_len": 61}
+{"question": "What variety is the most common the the United States and the U.K.", "raw_pred": "There is no passage provided.", "input_len": 69}
+{"question": "What did İbrahim Şinasi write in 1860?", "raw_pred": "Taaşuk-u Tahkik.", "input_len": 67}
+{"question": "Who did Kerry visit Nicaragua with?", "raw_pred": "John Kerry", "input_len": 61}
+{"question": "The 360 earned 38 nominations and 12 wins from what organization in 2007?", "raw_pred": "The Producers Guild of America.", "input_len": 73}
+{"question": "How many weeks did their single \"Independent Women Part I\" stay on top?", "raw_pred": "10 weeks", "input_len": 70}
+{"question": "Who oversaw Operation Starvation?", "raw_pred": "Admiral Chester Nimitz", "input_len": 61}
+{"question": "Greek thought is predominately applying mathematics and what other method?", "raw_pred": "logic", "input_len": 66}
+{"question": "How many inhabitants did Portugal have by 2007?", "raw_pred": "10.6 million", "input_len": 65}
+{"question": "How long is the run way in vaulting?", "raw_pred": "20 meters", "input_len": 64}
+{"question": "Using 2010 data, how was BYU ranked as a university creating the most startup companies through campus research?", "raw_pred": "#4", "input_len": 76}
+{"question": "What religion did Punjab become?", "raw_pred": "Sikhism", "input_len": 60}
+{"question": "Who is Aeneas' enemy throughout the Aeneid?", "raw_pred": "Turnus", "input_len": 67}
+{"question": "For what purpose was Funafuti used during the Pacific War? ", "raw_pred": "As a staging area for Allied forces.", "input_len": 68}
+{"question": "What demographic were most stores focusing on?", "raw_pred": "Middle-class consumers", "input_len": 62}
+{"question": "Who started the invasion of the Parthian Empire?", "raw_pred": "Tigranes the Great", "input_len": 65}
+{"question": "The tool that was invented to stain only a small fractions of neurons was called what?", "raw_pred": "The Golgi stain.", "input_len": 71}
+{"question": "Which American Enlightenment sympathiser was known for his political activism and advances in physics?", "raw_pred": "Benjamin Franklin", "input_len": 70}
+{"question": "The rise of gun factories within Connecticut earn the state what name?", "raw_pred": "The Constitution State", "input_len": 67}
+{"question": "What president authorized the creation of the intelligence service?", "raw_pred": "Harry S. Truman", "input_len": 64}
+{"question": "When was the Patriot Act passed?", "raw_pred": "October 26, 2001", "input_len": 61}
+{"question": "Who did Goring refuse to work with in 1940 and 1941?", "raw_pred": "Hermann Göring refused to work with Winston Churchill in 1940 and 1941.", "input_len": 71}
+{"question": "Who authorized giving troops the ability to follow the North Korean forces north?", "raw_pred": "General Douglas MacArthur", "input_len": 68}
+{"question": " What was the real number of people that took part in the plebiscite that passed Napoleon's constitution?", "raw_pred": "2 million", "input_len": 77}
+{"question": "Which city did the king and queen stay in even with the bombing threats?", "raw_pred": "Paris", "input_len": 69}
+{"question": "Besides in treating human disease where else are antibiotics used?", "raw_pred": "In agriculture, aquaculture, and as a preservative in food.", "input_len": 65}
+{"question": "What century did Aretas III Philhellene reign?", "raw_pred": "2nd century", "input_len": 66}
+{"question": "What company gave the most?", "raw_pred": "I'm ready to answer the question, but I don't see any passages provided. Please provide the passages, and I'll be happy to assist you.", "input_len": 60}
+{"question": "What method of transportation is used to get to Oberhauser's base?", "raw_pred": "Submarine", "input_len": 69}
+{"question": "When did Yugoslavia disintegrate?", "raw_pred": "1991", "input_len": 61}
+{"question": "What religious group was in charge of Rome's sacred flame?", "raw_pred": "The Vestal Virgins.", "input_len": 66}
+{"question": "What was the legal term for commoner?", "raw_pred": "Civis", "input_len": 63}
+{"question": "What did advanced ally technology showcase it could defend against?", "raw_pred": "Advanced ally technology showcased it could defend against cyber attacks.", "input_len": 65}
+{"question": "How many bridges over the Thames were struck?", "raw_pred": "None", "input_len": 63}
+{"question": "The Battersea Power Station took how many hits in two months?", "raw_pred": "2", "input_len": 67}
+{"question": "Are previous leaders a hendrence to the current government?", "raw_pred": "No", "input_len": 65}
+{"question": "Who could appoint staff to the kings?", "raw_pred": "The Witan", "input_len": 62}
+{"question": "What was thought might maximize the odds of finding unique cluster patterns in groups?", "raw_pred": "Having a relatively small number of members.", "input_len": 69}
+{"question": "What was the trade name of amphetamine as a nasal decongestant?", "raw_pred": "Sudafed", "input_len": 70}
+{"question": "What may servo motors be used for?", "raw_pred": "Positioning and controlling mechanical systems.", "input_len": 62}
+{"question": "When did the role of dogs change to be more than guardians or walking companions?", "raw_pred": "There is no passage provided.", "input_len": 70}
+{"question": "Who handed the torch to Lee Lai Shan, the first torchbearer?", "raw_pred": "No information is provided about who handed the torch to Lee Lai Shan.", "input_len": 69}
+{"question": "How many torchbearers carried the torch?", "raw_pred": "10", "input_len": 63}
+{"question": "What happened to the magazines after their run of Digimon?", "raw_pred": "I don't have any passages to refer to.", "input_len": 66}
+{"question": "What music did post-punk end to reject?", "raw_pred": "Glam rock and disco", "input_len": 64}
+{"question": "What led to bad investments by asset managers in over-priced credit assets?", "raw_pred": "Lack of oversight.", "input_len": 68}
+{"question": "What are the top-selling form factors of the Mac platform today?", "raw_pred": "MacBook Air, MacBook Pro, Mac mini, iMac, iMac Pro, Mac Studio, Mac Pro.", "input_len": 67}
+{"question": "What is the name of the most inexpensive Mac offered?", "raw_pred": "Mac Mini", "input_len": 65}
+{"question": "Why do so many multinationals have their Latin American headquarters in Miami?", "raw_pred": "Miami is a major financial hub and a gateway to Latin America, offering a strategic location for multinationals to access the region.", "input_len": 69}
+{"question": "What must be used for accurate measurement on the composition of gases at a high vacuums?", "raw_pred": "Thermocouples.", "input_len": 73}
+{"question": "What animal has held the title of Bermuda's only native land vertabrate?", "raw_pred": "The humpback whale has been considered to be Bermuda's only native land vertebrate.", "input_len": 70}
+{"question": "What was the first day that the new parliament met?", "raw_pred": "I don't see any given passages.", "input_len": 65}
+{"question": "What did the Art of Noise hope to accomplish?", "raw_pred": "To be a \"cultural catalyst\" and \"a magazine for the 21st century\".", "input_len": 64}
+{"question": "Who was the Duchess's suspected lover?", "raw_pred": "King Louis XV", "input_len": 62}
+{"question": "When did Cork begin to see people from Russia and Lithuania immigrating to their city?", "raw_pred": "1848", "input_len": 71}
+{"question": "After which revolutionary war hero and New Haven native was Black Rock Fort rechristened upon reconstruction in 1807?", "raw_pred": "Nathan Hale", "input_len": 77}
+{"question": "What does it mean to be a mutliracial?", "raw_pred": "Having ancestry or heritage from more than one racial group.", "input_len": 66}
+{"question": "Who published A Theory of Justice? ", "raw_pred": "John Rawls", "input_len": 62}
+{"question": "What city in Venezuela had the first IUT?", "raw_pred": "Caracas", "input_len": 64}
+{"question": "On what date did the Japanese leave the League of Nations?", "raw_pred": "March 27, 1933", "input_len": 66}
+{"question": "Where did Zhou travel with a Chinese delegation to convince Stalin to support China?", "raw_pred": "Moscow.", "input_len": 69}
+{"question": "What are resistant bacteria called in the media?", "raw_pred": "Superbugs", "input_len": 63}
+{"question": "Who was jealous of Athanasius's influence?", "raw_pred": "Alexander, the bishop of Alexandria, was jealous of Athanasius's influence.", "input_len": 64}
+{"question": "Tito succeeded who as the President of Yugoslavia?", "raw_pred": "Josip Broz Tito succeeded Ivan Ribar as the President of Yugoslavia.", "input_len": 64}
+{"question": "Several groups from which type of metal were influenced by Queen?", "raw_pred": "Heavy metal", "input_len": 66}
+{"question": "How many nurses per 10,000 persons are there in Hyderabad?", "raw_pred": "I don't have the given passages to answer your question.", "input_len": 68}
+{"question": "In the late medieval period in Europe as what was cotton viewed?", "raw_pred": "a luxury item.", "input_len": 67}
+{"question": "A symphony orchestra includes members of the string, woodwind, percussion and what other family of instruments?", "raw_pred": "brass", "input_len": 75}
+{"question": "What is the current mayor of Richmond?", "raw_pred": "I'm unable to verify the current mayor of Richmond.", "input_len": 62}
+{"question": "What is an annelid's brain in a ring around?", "raw_pred": "A cerebral ganglion.", "input_len": 67}
+{"question": "In what year was the first black Baptist minister elected to the city council?", "raw_pred": "1867", "input_len": 69}
+{"question": "What was the grand total of German casualties and those missing in action?", "raw_pred": "2.5 million", "input_len": 68}
+{"question": "In which year was Ann Arbor chartered as a city?", "raw_pred": "1827", "input_len": 66}
+{"question": "How many million square miles was the Umayyad caliphate at its largest size?", "raw_pred": "11 million square miles", "input_len": 73}
+{"question": "What was the name of the waited that was promoted to Munshi?", "raw_pred": "Munshi Premchand", "input_len": 68}
+{"question": "Who was promoted from waiter to Munshi?", "raw_pred": "Ganesh", "input_len": 63}
+{"question": "In what year were the Australian Democrats founded?", "raw_pred": "1973", "input_len": 63}
+{"question": "Who returned as prime minister when Disraeli lost the general election in 1880?", "raw_pred": "William Ewart Gladstone.", "input_len": 72}
+{"question": "What element made Oasis unique among 1990s Britpop bands?", "raw_pred": "Middle Eastern influences.", "input_len": 68}
+{"question": "How many octaves does Beyonce have?", "raw_pred": "6", "input_len": 63}
+{"question": "Which groups of researchers provided unorthodox structure for a research group?", "raw_pred": "The X-Group and the X-Team.", "input_len": 68}
+{"question": "In which year was the Kingdom of Castile formed?", "raw_pred": "1035", "input_len": 65}
+{"question": "What did Americo-liberians exclude tribes from?", "raw_pred": "The interior of Liberia.", "input_len": 65}
+{"question": "Beyonce's first album by herself was called what?", "raw_pred": "Dangerously in Love", "input_len": 65}
+{"question": "For which country did George VI stop using the title Emperor but continue to use the title of King?", "raw_pred": "India", "input_len": 74}
+{"question": "How did Bell sign his letters?", "raw_pred": "In a hurry.", "input_len": 61}
+{"question": "A shuttle astronauts prevents ebullism at 2 kPa with what item?", "raw_pred": "A pressure suit", "input_len": 70}
+{"question": "Where were some of the best-known traditions first recorded?", "raw_pred": "Sumer", "input_len": 65}
+{"question": "How many people completed the New York Marathon in 2006?", "raw_pred": "Approximately 37,658.", "input_len": 67}
+{"question": "Which CFL games require tie-breaking rounds continue until a winner results?", "raw_pred": "The CFL (Canadian Football League) playoffs use a system of single-elimination rounds with a tiebreaker in the case of a tied score at the end of regulation.", "input_len": 67}
+{"question": "After the second delay, when was the dispersal draft schedule to occur?", "raw_pred": "March 15, 1967", "input_len": 69}
+{"question": "What kind of things can annelids' sensors detect?", "raw_pred": "Mechanical, chemical, and sensory stimuli.", "input_len": 66}
+{"question": "What is another benefit of measuring sexuality on two scaless verses just the Kinsey scale?", "raw_pred": "It provides a more nuanced understanding of an individual's sexuality.", "input_len": 72}
+{"question": "What is one way the government helps with the \"Crush\" of the rush hour riding of the subway system?", "raw_pred": "Adjusting the timing of the subway system.", "input_len": 77}
+{"question": "Thinkers out of the Frankfurt School combined Marxian and what other perspective?", "raw_pred": "Critical theory", "input_len": 69}
+{"question": "How many Turkish Cypriots voted for the Annan Plan in 2004?", "raw_pred": "80%", "input_len": 72}
+{"question": "In what year did Cyprus join the European Union?", "raw_pred": "2004", "input_len": 64}
+{"question": "Which factors make Melbourne one of the moust vibrant destinations in Australia?", "raw_pred": "Its cultural events, world-class dining scene, diverse neighborhoods, and iconic landmarks.", "input_len": 68}
+{"question": "What territory was conquered by the Köprülü Vizierate in 1669?", "raw_pred": "Crete.", "input_len": 72}
+{"question": "What were the students dissatisfied by in Egypt?", "raw_pred": "The passages are not provided.", "input_len": 64}
+{"question": "What nations were trying to drag Egypt into a war, according to King Hussein?", "raw_pred": "Jordan", "input_len": 70}
+{"question": "What is the time limit for designating a species critical habitat after the species has been added to the endangered list?", "raw_pred": "120 days", "input_len": 77}
+{"question": "What color is uranium?", "raw_pred": "Silvery-white.", "input_len": 59}
+{"question": "Who was Nasser's contact in the armed forces, giving Nasser dossiers?", "raw_pred": "General Amer", "input_len": 72}
+{"question": "How were the Japanese victories over the Russians views around the world?", "raw_pred": "They were seen as a significant upset, with many considering the Japanese victories as a major surprise.", "input_len": 67}
+{"question": "How many cities and towns in Somerset ", "raw_pred": "There is no given passage to answer the question from.", "input_len": 62}
+{"question": "What were the designations of the two redesigned 360 models and when did they come out?", "raw_pred": "The 75 and the 90.", "input_len": 73}
+{"question": "Who founded the city of London?", "raw_pred": "There is no information about the founder of the city of London in the given passages.", "input_len": 61}
+{"question": "What program did John Augustine Zahm come to co-direct at Nore Dame?", "raw_pred": "The Catholic University Summer School", "input_len": 70}
+{"question": "Who created the New York kouros?", "raw_pred": "Unfortunately, the passage is missing, so I cannot provide an answer.", "input_len": 62}
+{"question": "What type of formations is it possible Sumerians invented?", "raw_pred": "The Wheel", "input_len": 66}
+{"question": "Artaxian coins called some Armenian kings what?", "raw_pred": "Arshakuni", "input_len": 64}
+{"question": "In what year was Richmond's First Baptist Church founded?", "raw_pred": "1866", "input_len": 65}
+{"question": "Who took over the territory and made it part of their empire?", "raw_pred": "Not enough information is given.", "input_len": 67}
+{"question": "On what date did the oldest Catholic church open in Richmond?", "raw_pred": "There is no passage given to answer the question with.", "input_len": 66}
+{"question": "What Syrian group did Nasser crack down on?", "raw_pred": "The Muslim Brotherhood", "input_len": 64}
+{"question": "What is the discipline taught in mantiq courses?", "raw_pred": "Logic", "input_len": 65}
+{"question": "In what year did Faraday convert electrical energy into mechanical energy?", "raw_pred": "1831", "input_len": 67}
+{"question": "In what year did Jaun de Bermudez first reach Bermuda?", "raw_pred": "1525", "input_len": 68}
+{"question": "What is a notable brewery in Kent that owns hundreds of pubs?", "raw_pred": "Shepherd Neame.", "input_len": 67}
+{"question": "What party did Durkin run as?", "raw_pred": "Republican", "input_len": 62}
+{"question": "Along with business and government, what leaders did Eisenhower see meeting at the Council on Foreign Relations?", "raw_pred": "Educators", "input_len": 73}
+{"question": "How many helicopters were deployed?", "raw_pred": "I need the passages to answer the question.", "input_len": 60}
+{"question": "What FIFA ranking did Armenia hold in 2011?", "raw_pred": "145", "input_len": 65}
+{"question": "What became the administrative boundary between Israel and occupied territories?", "raw_pred": "The Green Line.", "input_len": 65}
+{"question": "How long have bus tours been available to tourist of Myanmar ?", "raw_pred": "No information provided in the given passages.", "input_len": 66}
+{"question": "Who had exponential larger naval forces?", "raw_pred": "The passages are not provided.", "input_len": 61}
+{"question": "What is the German name of Operation Sea Lion?", "raw_pred": "Unternehmen Seelöwe", "input_len": 64}
+{"question": "What items were shared among Christian and non- Christians?", "raw_pred": "roads", "input_len": 65}
+{"question": "Which artist did Beyonce marry?", "raw_pred": "Jay-Z", "input_len": 61}
+{"question": "What is one of the historical certain facts about Jesus?", "raw_pred": "He was born in Bethlehem.", "input_len": 65}
+{"question": "Where does Seattle rank in size of economy in 2010?", "raw_pred": "23rd among the largest metropolitan areas in the United States.", "input_len": 67}
+{"question": "Who brought forward a law that would given citizenship right to Italian allies of Rome?", "raw_pred": "Claudius.", "input_len": 70}
+{"question": "What is considered to be the end game of Gaius Gracchus?", "raw_pred": "Land reform", "input_len": 71}
+{"question": "In contrast to what religion was Judaism acceptable in Rome?", "raw_pred": "Judaism was acceptable in Rome.", "input_len": 65}
+{"question": "What does the potency of antibacterials depend upon?", "raw_pred": "The chemical structure of the antibacterial agent.", "input_len": 65}
+{"question": "What class is the Hexapoda ranked?", "raw_pred": "Insecta", "input_len": 63}
+{"question": "What was Paul Sheehy's job?", "raw_pred": "I couldn't find any information about Paul Sheehy in the given passages.", "input_len": 63}
+{"question": "Which editions of the Encyclopedie were less expensive and more accessible to the non-elite?", "raw_pred": "The smaller format edition of the Encyclopedie.", "input_len": 75}
+{"question": "Who tried to assassinate Queen Victoria while she was pregnant with her first child?", "raw_pred": "Edward Oxford", "input_len": 70}
+{"question": "As of 1910, who had published info available for gun designs?", "raw_pred": "The United States Navy.", "input_len": 69}
+{"question": "What is the purpose of the University of Washington Outreach?", "raw_pred": "To provide educational opportunities for people who are not traditionally served by the university.", "input_len": 65}
+{"question": "What is the average snowfall for the city?", "raw_pred": "I don't see any given passages. Please provide the passages so I can answer the question.", "input_len": 64}
+{"question": "Poetry is usually differentiated from prose by what factor?", "raw_pred": "Its form.", "input_len": 64}
+{"question": "What were the names of some of the early cultures located in Myanmar?", "raw_pred": "The Mon, Pyu, and Pyu city-states.", "input_len": 68}
+{"question": "When was the Kangxi Dictionary published?", "raw_pred": "1710", "input_len": 62}
+{"question": "What was considered a problem in the Roman Republic during its last century?", "raw_pred": "The rise of a wealthy elite class, corruption, and the increasing power of the military.", "input_len": 68}
+{"question": "What did Kant portray space and time to be?", "raw_pred": "A priori forms of the human mind.", "input_len": 64}
+{"question": "Why was the spelling of McIntosh changed to Macintosh?", "raw_pred": "The spelling of McIntosh was changed to Macintosh to avoid confusion with the Scottish word \"macintosh,\" which referred to a type of waterproof cloak.", "input_len": 66}
+{"question": "Besides assimilation of British culture, what else did the British consider Indians to be?", "raw_pred": "Childish and inferior.", "input_len": 71}
+{"question": "What is the Nickname given to North Carolina?", "raw_pred": "The Tar Heel State", "input_len": 64}
+{"question": "What does the word \"Israel\" refer to?", "raw_pred": "A country in the Middle East.", "input_len": 64}
+{"question": "Where is the Uwharrie national Forest located?", "raw_pred": "North Carolina.", "input_len": 65}
+{"question": "Where were surface-to-air missiles first developed?", "raw_pred": "The Soviet Union.", "input_len": 63}
+{"question": "According to Heidegger, what can we do, in our thoughts?", "raw_pred": "Think.", "input_len": 69}
+{"question": "How does a US NPO apply for tax exempt status?", "raw_pred": "The organization must file Form 1023 with the IRS.", "input_len": 66}
+{"question": "Which religion was Madonna dedicated to?", "raw_pred": "Hinduism", "input_len": 61}
+{"question": "What is the name of Howard Dean's class at Yale?", "raw_pred": "American History", "input_len": 66}
+{"question": "What is the most recent version of Unicode?", "raw_pred": "Unicode 15.0", "input_len": 63}
+{"question": "What is another name for an exposure index rating?", "raw_pred": "ASA rating", "input_len": 64}
+{"question": "How did Gaddafi's father earn a living?", "raw_pred": "He was a Bedouin tribesman and earned a living by herding sheep.", "input_len": 64}
+{"question": "What is the predominant language in Asace?", "raw_pred": "French", "input_len": 63}
+{"question": "How many published reports of American volumes existed in 1910?", "raw_pred": "There is no information about the number of published reports of American volumes in the given passages.", "input_len": 67}
+{"question": "What happens if the wrestler doesn't break a hold?", "raw_pred": "The hold continues.", "input_len": 65}
+{"question": "How might a wrestler attempt to break a submission hold?", "raw_pred": "Using leverage to shift their body weight, creating space to escape, or waiting for the opponent to tire.", "input_len": 65}
+{"question": "What did Pliny the Elder observe about diamonds?", "raw_pred": "He noted that diamonds could be used to cut glass but not other diamonds.", "input_len": 64}
+{"question": "What type of theologians did the World Council of Churches decide to include in their committees?", "raw_pred": "Orthodox theologians.", "input_len": 72}
+{"question": "In what year did Bell open his own school?", "raw_pred": "1904", "input_len": 64}
+{"question": "The ethnic cleansing perpetrated by the Serbs against Bosnia-Herzegovina was conducted with what ultimate goal in mind?", "raw_pred": "To create a Greater Serbia.", "input_len": 78}
+{"question": "What day did Nintendo unveil the new systems?", "raw_pred": "March 8", "input_len": 63}
+{"question": "What rule did George III and George IV believe a Catholic emancipation bill would violate?", "raw_pred": "The Act of Settlement.", "input_len": 71}
+{"question": "Who were allowed \"temporary entry\" into Yugoslav territory?", "raw_pred": "Jews and people of Jewish origin, who were allowed \"temporary entry\" into Yugoslav territory.", "input_len": 66}
+{"question": "When a state adds reservations to a treaty, other parties to the treaty can respond to those reservations in what ways?", "raw_pred": "By objecting to the reservation, by acceding to the treaty with the reservation, or by withdrawing from the treaty.", "input_len": 77}
+{"question": "What year was Harold Evans appointed to editor of The Times?", "raw_pred": "1967", "input_len": 66}
+{"question": "What case determined that some implementation of affirmative action was unconstitutional?", "raw_pred": "Bakke v. University of California, Regents of", "input_len": 66}
+{"question": "What are some of the every day tasks that a manager of a team has to deal with?", "raw_pred": "Managing team performance, assigning tasks, making decisions, resolving conflicts, communicating with team members, setting goals, monitoring progress, providing feedback, and evaluating performance.", "input_len": 73}
+{"question": "How much did advertisers spend for a 30 second ad spot during American Idol in its seventh season? ", "raw_pred": "$750,000", "input_len": 75}
+{"question": "What entity serves as the largest employer in New Haven?", "raw_pred": "Yale University", "input_len": 65}
+{"question": "The somerset level is the only area left  to commercially grow what ", "raw_pred": "Mangels.", "input_len": 69}
+{"question": "The data interpretation of environmental anthropology can be used to prevent what type of exploitation?", "raw_pred": "Environmental degradation", "input_len": 70}
+{"question": "What type of songs does Hard Candy have?", "raw_pred": "Pop and electronic dance music.", "input_len": 63}
+{"question": "What is the enzyme called that performs transcription?", "raw_pred": "RNA polymerase", "input_len": 63}
+{"question": "WWhat's the first thing to happen when the switch is activated?", "raw_pred": "I don't see any passages provided. Please provide the passages so I can answer your question.", "input_len": 68}
+{"question": "Once activatated, what is the only way to deactivate it?", "raw_pred": "There is no passage provided.", "input_len": 68}
+{"question": "On what day did the U.S. and its allies declar war on Japan?", "raw_pred": "December 8, 1941", "input_len": 70}
+{"question": "What rules did a German derivatives dealer say could be quite legally circumvented through swaps?", "raw_pred": "The capital adequacy rules.", "input_len": 71}
+{"question": "What may be a risk negative tactic?", "raw_pred": "Passive aggressive behavior", "input_len": 62}
+{"question": "What victorious uprising is celebrated in the Jewish festival Hanukkah?", "raw_pred": "The Maccabean Revolt", "input_len": 67}
+{"question": "Assumptions of how the universe works are difficult to see precisely because of what?", "raw_pred": "our limited understanding and the scale of the universe.", "input_len": 71}
+{"question": "Neoptera can be divided into what kind of \"based\" group?", "raw_pred": "Polyneoptera", "input_len": 68}
+{"question": "Who believed Christ's atonement only extended to the elect?", "raw_pred": "Calvin", "input_len": 67}
+{"question": "Venus de Milo belongs to which period?", "raw_pred": "Hellenistic Period", "input_len": 62}
+{"question": "What encourages child labour across the globe?", "raw_pred": "Poverty.", "input_len": 62}
+{"question": "What type of teaching is provided at Indian madaris?", "raw_pred": "Islamic education", "input_len": 65}
+{"question": "What year was Freddie Mercury's final public appearance with Queen?", "raw_pred": "1997", "input_len": 66}
+{"question": "4 minutes became Madonna's which number one single in the UK?", "raw_pred": "4 Minutes", "input_len": 68}
+{"question": "What is a willow's flower comprised of?", "raw_pred": "catkins", "input_len": 64}
+{"question": "At what harbor did a Russian fleet attacked a Ottoman force?", "raw_pred": "Azov", "input_len": 66}
+{"question": "Which group was considered \"a substitute aristocracy that was both all-powerful and without real power\" according to Tocqueville?", "raw_pred": "The middle class.", "input_len": 81}
+{"question": "What language is modern standard Italian derived from?", "raw_pred": "Latin", "input_len": 63}
+{"question": "Which website had mentions of the Carrefour boycott removed by the government?", "raw_pred": "I don't have the passages to refer to. Please provide the passages.", "input_len": 69}
+{"question": "When did El Cid die?", "raw_pred": "1063", "input_len": 61}
+{"question": "Planck's work disproved what assumption?", "raw_pred": "The assumption of the existence of the \"ultraviolet catastrophe\" was a continuous distribution of energy.", "input_len": 63}
+{"question": "Was Portugal on the side of France or Britain?", "raw_pred": "Britain", "input_len": 64}
+{"question": "what did Al-Farabi say expanded to fill available space", "raw_pred": "Music", "input_len": 67}
+{"question": "In what work did Ferguson explain how humans advanced from a hunting and gathering society to a commercial and civil society without \"signing\" a social contract?", "raw_pred": "An Essay on the History of Civil Society", "input_len": 84}
+{"question": "In what year did Ferguson publish An Essay on the History of Civil Society?", "raw_pred": "1767", "input_len": 69}
+{"question": "What can people owning both a PC and 360 do?", "raw_pred": "Play Xbox games on their PC.", "input_len": 66}
+{"question": "When was the CPI first released?", "raw_pred": "1922", "input_len": 61}
+{"question": "What was the decision regarding the motion to re-count the votes, after each House finalized their debates?", "raw_pred": "The motion to re-count the votes was denied.", "input_len": 74}
+{"question": "What covers an annelid's exterior?", "raw_pred": "Cuticle", "input_len": 63}
+{"question": "When were the Houston Astros formed?", "raw_pred": "1962", "input_len": 61}
+{"question": "What was the name of the venue where Brian May collapsed?", "raw_pred": "The Astoria Theatre", "input_len": 66}
+{"question": "When did Samo become the ruler of the first known Slav state?", "raw_pred": "631", "input_len": 68}
+{"question": "What independent agency operates San Diego International Airport?", "raw_pred": "The San Diego County Regional Airport Authority.", "input_len": 63}
+{"question": "In what year did Zhang Lu's rebellion end?", "raw_pred": "1894", "input_len": 64}
+{"question": "The San Carlos Museum has art from who, among others?", "raw_pred": "Juan Sánchez Cotán", "input_len": 66}
+{"question": "For which vocation did Popper complete his university examinations?", "raw_pred": "Engineering", "input_len": 66}
+{"question": "Where was the Wettin dynasty from?", "raw_pred": "Saxony.", "input_len": 63}
+{"question": "What is treated as being conservative and confucian?", "raw_pred": "Confucian", "input_len": 65}
+{"question": "Who was the pastor of the earliest Baptist church?", "raw_pred": "John Smyth", "input_len": 64}
+{"question": "Where did Gaddafi attend college for a time?", "raw_pred": "Berkeley.", "input_len": 64}
+{"question": "Who studied the history of science?", "raw_pred": "George Sarton", "input_len": 61}
+{"question": "Why did Gaddafi drop out of college?", "raw_pred": "There is no information about Gaddafi dropping out of college in the given passages.", "input_len": 63}
+{"question": "What was the occupation of John Cabot?", "raw_pred": "Mariner", "input_len": 63}
+{"question": "Who put down the rebellions?", "raw_pred": "The passages are not provided.", "input_len": 61}
+{"question": "What nullified patent claims of EDVAC designers?", "raw_pred": "The patent claims of EDVAC designers were nullified by the patent for the IAS machine.", "input_len": 65}
+{"question": "If people's nutritional status and health changes, what could this affect in their daily routine?", "raw_pred": "Their appetite, energy levels, and physical abilities.", "input_len": 72}
+{"question": "Why are Eiji Yoshikawa's books popular?", "raw_pred": "His books are considered classics of Japanese literature, with his historical novels such as \"Taiko\" and \"Musashi\" being particularly well-known for their historical accuracy and compelling storytelling.", "input_len": 65}
+{"question": "What does the NIBRS collect information on?", "raw_pred": "Crime data", "input_len": 64}
+{"question": "What date was the U.S. Army created?", "raw_pred": "June 14, 1775", "input_len": 64}
+{"question": "The Act of Union unified Canada into a territory by what name?", "raw_pred": "British North America", "input_len": 67}
+{"question": "Who was assassinated on September 22, 189 AD?", "raw_pred": "Avidius Cassius", "input_len": 67}
+{"question": "What are mushairas?", "raw_pred": "A mushaira is a traditional form of Urdu poetry recitation, often performed in a group setting.", "input_len": 60}
+{"question": "What were Egyptians herding in the early BCE period?", "raw_pred": "Cattle, sheep, goats, and cattle", "input_len": 65}
+{"question": "What is the full name of the organization known by the acronym AIA?", "raw_pred": "American Institute of Architects", "input_len": 69}
+{"question": "Who was the outreach director of HRTR?", "raw_pred": "I couldn't find any information about the outreach director of HRTR.", "input_len": 63}
+{"question": "What year did Dr. Rowan Williams apologize to the Freemasons?", "raw_pred": "2003", "input_len": 68}
+{"question": "What material has an absorption rate of only 0.01%?", "raw_pred": "Graphite", "input_len": 68}
+{"question": "Which Ratchet & Clank title debuted at E3 2007?", "raw_pred": "Tools of Destruction", "input_len": 69}
+{"question": "Queen's Greatest Hits II has sold how many copies worldwide?", "raw_pred": "Over 17 million", "input_len": 66}
+{"question": "What did the query starter believe to be the ultimate difficulty in accepting  the a virgin conception of Mary ?", "raw_pred": "The query starter believed to be the ultimate difficulty in accepting the a virgin conception of Mary was that it is contrary to nature.", "input_len": 75}
+{"question": "Who removed James Bond from active service?", "raw_pred": "M.", "input_len": 62}
+{"question": "Which country did Frédéric go to first after setting out for Western Europe?", "raw_pred": "Denmark", "input_len": 70}
+{"question": "Which 1962 US Supreme Court ruling forced states to realign their voting districts to reflect census findings? ", "raw_pred": "Baker v. Carr", "input_len": 76}
+{"question": "Can you pin point certain areas of the brain to certain memories. ", "raw_pred": "Yes.", "input_len": 68}
+{"question": "What is a constant-voltage source?", "raw_pred": "A device that maintains a constant voltage across its terminals, regardless of the current drawn from it.", "input_len": 62}
+{"question": "What two fields began to grow apart?", "raw_pred": "Physics and chemistry", "input_len": 62}
+{"question": "What was the verdict?", "raw_pred": "There is no passage provided to answer the question based on.", "input_len": 59}
+{"question": "What contradiction is found in this Psalm?", "raw_pred": "There is no information provided about the Psalm or the question about a contradiction in the given passages.", "input_len": 62}
+{"question": "Who was the only non-abusive father mentioned?", "raw_pred": "There is no information about the passages provided.", "input_len": 64}
+{"question": "Who invaded northern England?", "raw_pred": "The Vikings.", "input_len": 59}
+{"question": "Who commissioned the change of the typeface of The Times in 1931?", "raw_pred": "Victor Milner", "input_len": 70}
+{"question": "What did Rutherford hope to convince members about the persecution from the outside world?", "raw_pred": "The outside world.", "input_len": 70}
+{"question": "Which string instrument often played the basso continuo parts?", "raw_pred": "Cello", "input_len": 66}
+{"question": "Who owned the building at 29 East 32nd Street between 1890 and 1917?", "raw_pred": "The American Museum of Natural History.", "input_len": 75}
+{"question": "How much does Hormuud Telecom gross per year?", "raw_pred": "$200 million.", "input_len": 65}
+{"question": "In 2005, what country used increased health risks as rationalization for getting rid of DST?", "raw_pred": "Japan", "input_len": 74}
+{"question": "Are communication services in Somalia mainly located in the public or private sector?", "raw_pred": "Private", "input_len": 68}
+{"question": "How did Gaddafi deal with peer pressure regarding his cultural background?", "raw_pred": "There is no information about Gaddafi dealing with peer pressure regarding his cultural background in the provided passage.", "input_len": 67}
+{"question": "What types of media increases as internet connectivity and access increases?", "raw_pred": "Information", "input_len": 66}
+{"question": "How many stadiums have been closed down since Premier League started?", "raw_pred": "There is no information in the passages to answer the question.", "input_len": 66}
+{"question": "What is the economic output of Hyderabad?", "raw_pred": "$180 billion.", "input_len": 62}
+{"question": "Who is the author of the biodiversity research paper?", "raw_pred": "There is no information provided about the author of the biodiversity research paper.", "input_len": 64}
+{"question": "What was the American colonists' anti-tax slogan?", "raw_pred": "\"No taxation without representation\"", "input_len": 65}
+{"question": "What style of comics did Japan have a long history with prior to World War II?", "raw_pred": "Ukiyo-e", "input_len": 71}
+{"question": "What problem did the Iraqi forces have?", "raw_pred": "There are no given passages.", "input_len": 62}
+{"question": "How many people died of cholera in London in 1848?", "raw_pred": "63,000", "input_len": 68}
+{"question": "What type of study is used to simulate lighting designs?", "raw_pred": "Rendering.", "input_len": 65}
+{"question": "What instrument was all of Chopin's compositions written for?", "raw_pred": "Piano", "input_len": 66}
+{"question": "How long ago do some paleontologists believe that animals first appeared?", "raw_pred": "About 3.5 billion years.", "input_len": 68}
+{"question": "What helps reduce resource usage?", "raw_pred": "Efficient algorithms and techniques such as caching, memoization, and dynamic programming help reduce resource usage.", "input_len": 60}
+{"question": "What group did Hayek form with three other people?", "raw_pred": "The Mont Pelerin Society", "input_len": 65}
+{"question": "What did Elizabeth do to diffuse hostile public sentiment?", "raw_pred": "She did not diffuse hostile public sentiment.", "input_len": 64}
+{"question": "Facial grimacing and guarding indicate what?", "raw_pred": "Pain", "input_len": 62}
+{"question": "What was the look of the dollar based on?", "raw_pred": "Bust of George Washington", "input_len": 64}
+{"question": "What type of practice guided the Ottoman state in its responsibilities?", "raw_pred": "Sufism", "input_len": 66}
+{"question": "When was it announced that Beyonce was  a co-owner in Tidal?", "raw_pred": "2015", "input_len": 70}
+{"question": "In 1940 how many people were sleeping in the Underground stations?", "raw_pred": "There is no information in the given passages about the number of people sleeping in the Underground stations in 1940.", "input_len": 68}
+{"question": "What is quicker, a bipolar n-p-n transistor or a p-n-p transistor?", "raw_pred": "A bipolar n-p-n transistor is quicker.", "input_len": 71}
+{"question": "What was the profession of Lange?", "raw_pred": "I couldn't find the passage that mentions the profession of Lange.", "input_len": 61}
+{"question": "What military unit was charged with intercepting Napoleon?", "raw_pred": "The British Navy", "input_len": 64}
+{"question": "What should non-lethal weapons properly be called?", "raw_pred": "Non-lethal weapons.", "input_len": 64}
+{"question": "How does Alvin Plantinga describe faith?", "raw_pred": "Faith is \"an attitude of trust or confidence in a proposition that is not justified by evidence.\"", "input_len": 64}
+{"question": "What are KUOW and KPLU radio stations?", "raw_pred": "KUOW and KPLU are radio stations.", "input_len": 66}
+{"question": "On what day did Kanye do an interview about President Obama pushing policies in Washington?", "raw_pred": "I couldn't find any information about a specific interview from the given passage.", "input_len": 70}
+{"question": "How did Hayek wish to be referred to after his 1984 award?", "raw_pred": "Sir", "input_len": 70}
+{"question": "What type of people did Kanye state had more power than Black people?", "raw_pred": "Jews", "input_len": 68}
+{"question": "How was the public sphere defined?", "raw_pred": "The public sphere was defined as a separate space that is not controlled by the state and where individuals can engage in rational-critical debate, free from the influences of the state and economic interests.", "input_len": 61}
+{"question": "What does NESA stand for?", "raw_pred": "National Examination and Assessment Authority", "input_len": 61}
+{"question": "How large in square kilometers is Greater Hyderabad?", "raw_pred": "7,257", "input_len": 63}
+{"question": "`Why does thermosphere past the Karman line vary so greatly?", "raw_pred": "The uneven heating of the sun's radiation and the varying atmospheric composition of the thermosphere are the main reasons for the variations in the thermosphere past the Karman line.", "input_len": 68}
+{"question": "What popular styles practice improvisation and ad libitum ornamentation?", "raw_pred": "Jazz and Baroque music.", "input_len": 68}
+{"question": "What kind of prediction does the assumption that black body radiation is thermal lead to?", "raw_pred": "The assumption that black body radiation is thermal leads to the prediction of the Rayleigh-Jeans law.", "input_len": 70}
+{"question": "What were the Manchus accused of being afraid of?", "raw_pred": "The Dzungars.", "input_len": 66}
+{"question": "What else did the Chinese want from the British?", "raw_pred": "There is no passage provided.", "input_len": 64}
+{"question": "What were the British and French concerned about?", "raw_pred": "The balance of power in Europe.", "input_len": 63}
+{"question": "What age can an infabt recall steps in an order?", "raw_pred": "7", "input_len": 67}
+{"question": "Who wrote Kitab al-Tasrif?", "raw_pred": "Al-Zarqali", "input_len": 63}
+{"question": "Who governs Northwestern?", "raw_pred": "Northwestern University is governed by a Board of Trustees.", "input_len": 59}
+{"question": "What were the names of the three buildings constructed after Busch Hall?", "raw_pred": "The three buildings constructed after Busch Hall were the Engineering Building, the Library, and the Gymnasium.", "input_len": 68}
+{"question": "What inferior versions of movies are available for piracy during the theatrical run of a movie called?", "raw_pred": "Rogue Cut", "input_len": 72}
+{"question": "What are early Greek philosophers known as?", "raw_pred": "Pre-Socratics", "input_len": 62}
+{"question": "What was Hanssen arrested for?", "raw_pred": "Espionage", "input_len": 61}
+{"question": "Who was Cardigan under fire from when advancing on the Valley of Balaclava?", "raw_pred": "Lord Raglan", "input_len": 72}
+{"question": "When did Madonna have nude photos taken of her in New York?", "raw_pred": "I'm sorry, I don't see any passages provided.", "input_len": 67}
+{"question": "How high had cotton revenues risen by the time of the American Civil War?", "raw_pred": "By 1860, cotton revenues had risen to approximately 60 million dollars.", "input_len": 69}
+{"question": "Who made an effort to organize a strong defense against the French?", "raw_pred": "William III", "input_len": 67}
+{"question": "During which period did regional differences in Romanesque architecture become even more pronounced?", "raw_pred": "The 12th century.", "input_len": 70}
+{"question": "What general was considered a potential Republican presidential candidate in 1948?", "raw_pred": "Douglas MacArthur", "input_len": 68}

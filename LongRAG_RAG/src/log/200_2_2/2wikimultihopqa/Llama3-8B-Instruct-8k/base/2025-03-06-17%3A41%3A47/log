@@ -1,0 +1,27 @@
+[2025-03-06 17:41:57][INFO] - ****************************** CONFIGURATION ******************************
+[2025-03-06 17:41:57][INFO] - MaxClients                     --> 1
+[2025-03-06 17:41:57][INFO] - dataset                        --> 2wikimultihopqa
+[2025-03-06 17:41:57][INFO] - ext                            --> True
+[2025-03-06 17:41:57][INFO] - ext_fil                        --> True
+[2025-03-06 17:41:57][INFO] - fil                            --> True
+[2025-03-06 17:41:57][INFO] - log_path                       --> 
+[2025-03-06 17:41:57][INFO] - lrag_model                     --> 
+[2025-03-06 17:41:57][INFO] - model                          --> Llama3-8B-Instruct-8k
+[2025-03-06 17:41:57][INFO] - r_path                         --> ../data/corpus/processed/200_2_2
+[2025-03-06 17:41:57][INFO] - raw_pred                       --> True
+[2025-03-06 17:41:57][INFO] - rb                             --> True
+[2025-03-06 17:41:57][INFO] - rl                             --> True
+[2025-03-06 17:41:57][INFO] - top_k1                         --> 100
+[2025-03-06 17:41:57][INFO] - top_k2                         --> 7
+[2025-03-06 17:41:57][INFO] - LongRAG model used: 
+[2025-03-06 17:41:57][INFO] - ****************************** CONFIGURATION ******************************
+[2025-03-06 17:41:57][INFO] - Question: Are The Patriots (Film) and Kungajakt both from the same country?
+[2025-03-06 17:42:33][INFO] - Question: Which film was released earlier, The Passing Of The Third Floor Back or The Patriots (Film)?
+[2025-03-06 17:42:51][INFO] - Question: Are both Unifi Mobile and Opening Day Partners located in the same country?
+[2025-03-06 17:43:09][INFO] - Question: Where was the place of death of the director of film Afternoon Of The Bulls?
+[2025-03-06 17:43:23][INFO] - Question: Are both Giuseppe Barison and Hal Willner from the same country?
+[2025-03-06 17:43:43][INFO] - Question: Are both Corine Van Der Zijden and Nathaniel O'Brien from the same country?
+[2025-03-06 17:43:59][INFO] - Question: What is the date of death of John Of Eltham, Earl Of Cornwall's father?
+[2025-03-06 17:44:12][INFO] - Question: Are the movies Eves On Skis and Under The Doctor, from the same country?
+[2025-03-06 17:44:25][INFO] - Question: Do Yassine Idmbarek and Steffie Van Der Peet share the same nationality?
+[2025-03-06 17:44:39][INFO] - Question: Which film has more directors, Mauvaise Graine or The Hunger Games: Mockingjay – Part 2?

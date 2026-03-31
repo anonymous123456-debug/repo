@@ -1,0 +1,230 @@
+[2025-03-25 23:01:34][INFO] - ****************************** CONFIGURATION ******************************
+[2025-03-25 23:01:34][INFO] - MaxClients                     --> 1
+[2025-03-25 23:01:34][INFO] - dataset                        --> cosmosqa
+[2025-03-25 23:01:34][INFO] - ext                            --> False
+[2025-03-25 23:01:34][INFO] - ext_fil                        --> True
+[2025-03-25 23:01:34][INFO] - fil                            --> False
+[2025-03-25 23:01:34][INFO] - log_path                       --> 
+[2025-03-25 23:01:34][INFO] - lrag_model                     --> 
+[2025-03-25 23:01:34][INFO] - model                          --> Llama3-8B-Instruct-8k
+[2025-03-25 23:01:34][INFO] - r_path                         --> ../data/corpus/processed/50_1_1
+[2025-03-25 23:01:34][INFO] - raw_context_pred               --> False
+[2025-03-25 23:01:34][INFO] - raw_pred                       --> False
+[2025-03-25 23:01:34][INFO] - rb                             --> False
+[2025-03-25 23:01:34][INFO] - rl                             --> False
+[2025-03-25 23:01:34][INFO] - top_k1                         --> 100
+[2025-03-25 23:01:34][INFO] - top_k2                         --> 20
+[2025-03-25 23:01:34][INFO] - LongRAG model used: 
+[2025-03-25 23:01:34][INFO] - ****************************** CONFIGURATION ******************************
+[2025-03-25 23:01:34][DEBUG] - Starting new HTTPS connection (1): s3.amazonaws.com:443
+[2025-03-25 23:01:35][DEBUG] - https://s3.amazonaws.com:443 "HEAD /datasets.huggingface.co/datasets/datasets/csv/csv.py HTTP/11" 200 0
+[2025-03-25 23:01:35][DEBUG] - Attempting to acquire lock 23365254802192 on /public/home/ncu_418000240001/.cache/huggingface/datasets/_public_home_ncu_418000240001_.cache_huggingface_datasets_csv_default-2286f835214b84e9_0.0.0_eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d.lock
+[2025-03-25 23:01:35][DEBUG] - Lock 23365254802192 acquired on /public/home/ncu_418000240001/.cache/huggingface/datasets/_public_home_ncu_418000240001_.cache_huggingface_datasets_csv_default-2286f835214b84e9_0.0.0_eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d.lock
+[2025-03-25 23:01:35][DEBUG] - open file: /public/home/ncu_418000240001/.cache/huggingface/datasets/csv/default-2286f835214b84e9/0.0.0/eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d/dataset_info.json
+[2025-03-25 23:01:35][DEBUG] - Attempting to release lock 23365254802192 on /public/home/ncu_418000240001/.cache/huggingface/datasets/_public_home_ncu_418000240001_.cache_huggingface_datasets_csv_default-2286f835214b84e9_0.0.0_eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d.lock
+[2025-03-25 23:01:35][DEBUG] - Lock 23365254802192 released on /public/home/ncu_418000240001/.cache/huggingface/datasets/_public_home_ncu_418000240001_.cache_huggingface_datasets_csv_default-2286f835214b84e9_0.0.0_eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d.lock
+[2025-03-25 23:01:35][DEBUG] - Attempting to acquire lock 23365254007376 on /public/home/ncu_418000240001/.cache/huggingface/datasets/csv/default-2286f835214b84e9/0.0.0/eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d_builder.lock
+[2025-03-25 23:01:35][DEBUG] - Lock 23365254007376 acquired on /public/home/ncu_418000240001/.cache/huggingface/datasets/csv/default-2286f835214b84e9/0.0.0/eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d_builder.lock
+[2025-03-25 23:01:35][DEBUG] - open file: /public/home/ncu_418000240001/.cache/huggingface/datasets/csv/default-2286f835214b84e9/0.0.0/eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d/dataset_info.json
+[2025-03-25 23:01:35][DEBUG] - Attempting to release lock 23365254007376 on /public/home/ncu_418000240001/.cache/huggingface/datasets/csv/default-2286f835214b84e9/0.0.0/eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d_builder.lock
+[2025-03-25 23:01:35][DEBUG] - Lock 23365254007376 released on /public/home/ncu_418000240001/.cache/huggingface/datasets/csv/default-2286f835214b84e9/0.0.0/eea64c71ca8b46dd3f537ed218fc9bf495d5707789152eb2764f5c78fa66d59d_builder.lock
+[2025-03-25 23:01:35][INFO] - Question: In the future , will this person go to see other bands play ?
+[2025-03-25 23:01:50][INFO] - Question: Why might have the temp agency tell me I am not needed at that position ?
+[2025-03-25 23:02:04][INFO] - Question: What may have caused the radio to erupt with dispatch tones ?
+[2025-03-25 23:02:18][INFO] - Question: Why did I chit chat with my old manager ?
+[2025-03-25 23:02:30][INFO] - Question: Why did I burst into tears ?
+[2025-03-25 23:02:45][INFO] - Question: What is n't working properly ?
+[2025-03-25 23:02:59][INFO] - Question: Why did they discuss crepes ?
+[2025-03-25 23:03:13][INFO] - Question: How did Leslie 's throwing out of her back help to solidify your marriage ?
+[2025-03-25 23:03:25][INFO] - Question: Why is this person disappointed that they misread the label on the package ?
+[2025-03-25 23:03:39][INFO] - Question: Why is this person disappointed that they misread the label on the package ?
+[2025-03-25 23:03:39][INFO] - Question: What may have been the reason for you and your roommate wanting a mellow night ?
+[2025-03-25 23:03:53][INFO] - Question: Why has it been roughly a month since my last post ?
+[2025-03-25 23:04:08][INFO] - Question: What may happen if you go the Panic At The Disco concert ?
+[2025-03-25 23:04:22][INFO] - Question: Why would n't I have the balls to tell her that ?
+[2025-03-25 23:04:36][INFO] - Question: What kind of person is this New York City police officer ?
+[2025-03-25 23:04:51][INFO] - Question: What was this New York City police officer doing before the incident ?
+[2025-03-25 23:05:05][INFO] - Question: What was this New York City police officer doing before the incident ?
+[2025-03-25 23:05:05][INFO] - Question: What may be true about him as a DJ ?
+[2025-03-25 23:05:19][INFO] - Question: What might I continue to do after this ?
+[2025-03-25 23:05:34][INFO] - Question: what may have happened before this event ?
+[2025-03-25 23:05:48][INFO] - Question: what may have happened before this event ?
+[2025-03-25 23:05:48][INFO] - Question: What type of person might I be ?
+[2025-03-25 23:06:02][INFO] - Question: Why did the writer put it on pause and forget about it ?
+[2025-03-25 23:06:17][INFO] - Question: What may be true about this vehicle ?
+[2025-03-25 23:06:31][INFO] - Question: What may be true about this vehicle ?
+[2025-03-25 23:06:31][INFO] - Question: Why might we have an early anniversary celebration ?
+[2025-03-25 23:06:45][INFO] - Question: Why do even my dreams reference Buffy ?
+[2025-03-25 23:06:59][INFO] - Question: Why do even my dreams reference Buffy ?
+[2025-03-25 23:06:59][INFO] - Question: Why are they upset about Sarah Palin being on Youtube ?
+[2025-03-25 23:07:13][INFO] - Question: Why is Saturday night Live making fun of Sarah Palin ?
+[2025-03-25 23:07:28][INFO] - Question: Why are they upset about Sarah Palin being on Youtube ?
+[2025-03-25 23:07:28][INFO] - Question: What may happen when night strikes with the two figures ?
+[2025-03-25 23:07:42][INFO] - Question: What may be true about the girls ?
+[2025-03-25 23:07:56][INFO] - Question: Why ca n't I stop spending so much time in front of the computer to change my character ?
+[2025-03-25 23:08:09][INFO] - Question: Why ca n't I stop spending so much time in front of the computer to change my character ?
+[2025-03-25 23:08:09][INFO] - Question: Why did the writer dry shave their legs ?
+[2025-03-25 23:08:23][INFO] - Question: What 's a possible reason the writer filled a glass with cola ?
+[2025-03-25 23:08:37][INFO] - Question: What is probably true about the narrator ?
+[2025-03-25 23:08:52][INFO] - Question: What is probably true about the narrator ?
+[2025-03-25 23:08:52][INFO] - Question: What may be true about your new house 's porch ?
+[2025-03-25 23:09:06][INFO] - Question: What 's a possible reason the writer knitted the band on too tightly ?
+[2025-03-25 23:09:21][INFO] - Question: Why can I make people believe that I ' m not as pathetic and horrible as I am ?
+[2025-03-25 23:09:35][INFO] - Question: What sort of behavior type do they tend to possess ?
+[2025-03-25 23:09:49][INFO] - Question: What sort of behavior type do they tend to possess ?
+[2025-03-25 23:09:49][INFO] - Question: What must they decided to do before attending the Rosenbaum event ?
+[2025-03-25 23:10:03][INFO] - Question: What may have cause social skills to be a thing of the past ?
+[2025-03-25 23:10:17][INFO] - Question: What may have caused you to have no idea on what to do ?
+[2025-03-25 23:10:32][INFO] - Question: What happened after I got to the starting area ?
+[2025-03-25 23:10:46][INFO] - Question: What happened after I got to the starting area ?
+[2025-03-25 23:10:46][INFO] - Question: What may happen during one of your visits to Conneticut ?
+[2025-03-25 23:11:00][INFO] - Question: What may happen during one of your visits to Conneticut ?
+[2025-03-25 23:11:00][INFO] - Question: What may have happened before this story ?
+[2025-03-25 23:11:15][INFO] - Question: Why does it matter that the stools are made from predominantly recycled material ?
+[2025-03-25 23:11:27][INFO] - Question: What is the likely reason the man texts the narrator that he hates them ?
+[2025-03-25 23:11:41][INFO] - Question: Why is it their 5th wedding anniversary ?
+[2025-03-25 23:11:52][INFO] - Question: Why am I feeling this way ?
+[2025-03-25 23:12:07][INFO] - Question: Why did the girl smile when the writer told her he liked her ?
+[2025-03-25 23:12:21][INFO] - Question: Why does it have a display that gives you real time information on your fuel consumption ?
+[2025-03-25 23:12:35][INFO] - Question: What does the writer possibly mean when they say they acquired a baby ?
+[2025-03-25 23:12:47][INFO] - Question: What may be true about your lanyard ?
+[2025-03-25 23:12:59][INFO] - Question: What is probably true about the narrator ?
+[2025-03-25 23:12:59][INFO] - Question: What is probably true about the narrator ?
+[2025-03-25 23:13:00][INFO] - Question: What did the writer talk about all night ?
+[2025-03-25 23:13:14][INFO] - Question: Why did the writer catch up with a couple classmates they had n't seen in years ?
+[2025-03-25 23:13:28][INFO] - Question: Why did the watermelon smash against the fence ?
+[2025-03-25 23:13:40][INFO] - Question: What happened after the police showed up ?
+[2025-03-25 23:13:54][INFO] - Question: Why do you and Mickey not spend time together anymore ?
+[2025-03-25 23:14:06][INFO] - Question: What may have caused you to stop on your way to the parade ?
+[2025-03-25 23:14:21][INFO] - Question: Why did my mate Ian give me a piggy back ?
+[2025-03-25 23:14:35][INFO] - Question: What kind of work do they like to do ?
+[2025-03-25 23:14:47][INFO] - Question: What kind of work do they like to do ?
+[2025-03-25 23:14:47][INFO] - Question: What will happen after they are done cleaning the garden and trimming trees ?
+[2025-03-25 23:15:01][INFO] - Question: What will happen after they are done cleaning the garden and trimming trees ?
+[2025-03-25 23:15:01][INFO] - Question: What will happen since he is so mad at her ?
+[2025-03-25 23:15:16][INFO] - Question: Why was I a lazy bum ?
+[2025-03-25 23:15:30][INFO] - Question: What may have caused the fire to not reach the gasoline ?
+[2025-03-25 23:15:44][INFO] - Question: Why did I get a cute t - shirt from a classmate and a wild fern scented candle from a woman ?
+[2025-03-25 23:15:58][INFO] - Question: Why did I get a cute t - shirt from a classmate and a wild fern scented candle from a woman ?
+[2025-03-25 23:15:58][INFO] - Question: What may have been your reason for staying behind ?
+[2025-03-25 23:16:13][INFO] - Question: What may be your reason for wanting to hunt with your nephews ?
+[2025-03-25 23:16:27][INFO] - Question: What may he feel if the man did not let go of his arm ?
+[2025-03-25 23:16:41][INFO] - Question: What may he feel if the man did not let go of his arm ?
+[2025-03-25 23:16:41][INFO] - Question: Why did the man grabbed his arm ?
+[2025-03-25 23:16:56][INFO] - Question: Why might I be so distressed at having such a stingy little role in the play ?
+[2025-03-25 23:17:10][INFO] - Question: Why do I have kids too now ?
+[2025-03-25 23:17:24][INFO] - Question: Why is this preson going to the Opening of the Space frontier ?
+[2025-03-25 23:17:39][INFO] - Question: Does this person love to figure out mazes ?
+[2025-03-25 23:17:53][INFO] - Question: Why is this preson going to the Opening of the Space frontier ?
+[2025-03-25 23:17:53][INFO] - Question: What may have caused you to hang out with Martha ?
+[2025-03-25 23:18:08][INFO] - Question: What genre of story is being narrated here ?
+[2025-03-25 23:18:19][INFO] - Question: Why did you have so many corn on the cobs ?
+[2025-03-25 23:18:34][INFO] - Question: How does Chloe likely feel about going home ?
+[2025-03-25 23:18:48][INFO] - Question: How does Chloe likely feel about going home ?
+[2025-03-25 23:18:48][INFO] - Question: Why does Chloe feel sick ?
+[2025-03-25 23:19:02][INFO] - Question: Why must a library staff member want a meal outdoors ?
+[2025-03-25 23:19:16][INFO] - Question: What 's a possible reason why the writer ca n't sleep in a big bed by herself ?
+[2025-03-25 23:19:31][INFO] - Question: What might I do with the dough balls once formed ?
+[2025-03-25 23:19:45][INFO] - Question: What may happen if life was like it was when I grew up in the early 70 's ?
+[2025-03-25 23:19:59][INFO] - Question: What might be true about the modern Cartoon Network ?
+[2025-03-25 23:20:12][INFO] - Question: What will happen if I do n't get home in time to make the sandwiches for Teenager No . 2 ?
+[2025-03-25 23:20:24][INFO] - Question: What will I do after I make the sandwiches but before I go to work ?
+[2025-03-25 23:20:36][INFO] - Question: What may have caused you to feel guilty ?
+[2025-03-25 23:20:51][INFO] - Question: Where might have this 20 HP hackmaster characters come from ?
+[2025-03-25 23:21:05][INFO] - Question: What may have caused Rikki to put her hand over the boy 's mouth ?
+[2025-03-25 23:21:19][INFO] - Question: Why did they rearrange the store ?
+[2025-03-25 23:21:33][INFO] - Question: Why did they rearrange the store ?
+[2025-03-25 23:21:33][INFO] - Question: what may have happened before this discussion ?
+[2025-03-25 23:21:46][INFO] - Question: What may   happen after I leave work today ?
+[2025-03-25 23:22:00][INFO] - Question: What may   happen after I leave work today ?
+[2025-03-25 23:22:00][INFO] - Question: What may be causing the drive to keep disconnecting ?
+[2025-03-25 23:22:12][INFO] - Question: What may have been your reason for getting your blood drawn ?
+[2025-03-25 23:22:27][INFO] - Question: Why am I afraid of losing my friends ?
+[2025-03-25 23:22:41][INFO] - Question: Why might we emphasize having a recyclable shell ?
+[2025-03-25 23:22:55][INFO] - Question: What may have caused the washer to die ?
+[2025-03-25 23:23:09][INFO] - Question: Does she like the book she had to read ?
+[2025-03-25 23:23:24][INFO] - Question: What may have caused her to refuse the $ 350 million ear mark for a bridge ?
+[2025-03-25 23:23:38][INFO] - Question: Why did they drink whiskey while in line ?
+[2025-03-25 23:23:50][INFO] - Question: Why did the writer press many key combinations ?
+[2025-03-25 23:24:05][INFO] - Question: What might be the reason for my sarcasm in referring to my city as fair ?
+[2025-03-25 23:24:19][INFO] - Question: What may be the reason for you wanting to fix your cell ?
+[2025-03-25 23:24:32][INFO] - Question: Why might I joke about pregnancy brain ?
+[2025-03-25 23:24:46][INFO] - Question: What will you do now that the graduation festivities are over ?
+[2025-03-25 23:25:01][INFO] - Question: What is probably true about this story ?
+[2025-03-25 23:25:14][INFO] - Question: What is probably true about this story ?
+[2025-03-25 23:25:14][INFO] - Question: Why did Lulu try to save you , what was her motive ?
+[2025-03-25 23:25:28][INFO] - Question: Why are so many people contradicting themselves at these church events ?
+[2025-03-25 23:25:42][INFO] - Question: Why are so many people contradicting themselves at these church events ?
+[2025-03-25 23:25:42][INFO] - Question: Why would he need to test his blood sugar ?
+[2025-03-25 23:25:57][INFO] - Question: What did Wes ' mom forget at home ?
+[2025-03-25 23:26:11][INFO] - Question: What 's the possible reason that the instructor crashed his car ?
+[2025-03-25 23:26:25][INFO] - Question: Why did the writer stop in at the bakery ?
+[2025-03-25 23:26:36][INFO] - Question: Why did the writer almost kiss Frankee twice ?
+[2025-03-25 23:26:49][INFO] - Question: Why did Sinead want to prove that she was n't succeeding on her looks alone ?
+[2025-03-25 23:27:03][INFO] - Question: Why did the writer ride a camel to the beach ?
+[2025-03-25 23:27:17][INFO] - Question: Why did the grandmother respond this way to the question ?
+[2025-03-25 23:27:32][INFO] - Question: What may be your reason for wanting to rewatch that episode of The Office ?
+[2025-03-25 23:27:46][INFO] - Question: Why did my mom buy this DVD ?
+[2025-03-25 23:28:00][INFO] - Question: Why did my mom say three words to me ?
+[2025-03-25 23:28:15][INFO] - Question: Why did my mom buy this DVD ?
+[2025-03-25 23:28:15][INFO] - Question: Why did my mom say three words to me ?
+[2025-03-25 23:28:15][INFO] - Question: What am I talking about ?
+[2025-03-25 23:28:27][INFO] - Question: What am I talking about ?
+[2025-03-25 23:28:27][INFO] - Question: What was Harvey Dent 's transportation ?
+[2025-03-25 23:28:38][INFO] - Question: What may be the reason for you thinking that the game is stupid ?
+[2025-03-25 23:28:52][INFO] - Question: What may have sent you into a mad rage ?
+[2025-03-25 23:29:06][INFO] - Question: Why does it baffle me how everyone seems to like her ?
+[2025-03-25 23:29:21][INFO] - Question: Why does the girl have an ipod on her list ?
+[2025-03-25 23:29:35][INFO] - Question: What is probably true ?
+[2025-03-25 23:29:50][INFO] - Question: Why might have my attitudes about children changed over the years ?
+[2025-03-25 23:30:04][INFO] - Question: Why was the car overheating ?
+[2025-03-25 23:30:16][INFO] - Question: Why should you stop yourself from asking " What If ? "
+[2025-03-25 23:30:31][INFO] - Question: What 's a possible reason the writer never got a chance to go to Comic Con ?
+[2025-03-25 23:30:45][INFO] - Question: Why are you unable to have him stay with you ?
+[2025-03-25 23:30:57][INFO] - Question: Why would someone season the dough with salt ?
+[2025-03-25 23:31:08][INFO] - Question: What 's a possible reason they have n't seen each other in a few years ?
+[2025-03-25 23:31:20][INFO] - Question: What 's a possible reason the writer always changes their hair ?
+[2025-03-25 23:31:34][INFO] - Question: What may be your reason for not hanging acrylic in the kitchen ?
+[2025-03-25 23:31:48][INFO] - Question: What may have caused you to review the topics ?
+[2025-03-25 23:32:02][INFO] - Question: What will I do after she warns me about the risks of amputation if I do n't listen to my doctor ?
+[2025-03-25 23:32:17][INFO] - Question: What will I do after she warns me about the risks of amputation if I do n't listen to my doctor ?
+[2025-03-25 23:32:17][INFO] - Question: Why did n't I want to use my crutches before she chastened me ?
+[2025-03-25 23:32:31][INFO] - Question: What may have caused you to flat - out ignore them ?
+[2025-03-25 23:32:45][INFO] - Question: What will happen after the ceremony ?
+[2025-03-25 23:32:59][INFO] - Question: What will happen after the ceremony ?
+[2025-03-25 23:32:59][INFO] - Question: What 's a possible reason Glyn got chips and curry sauce for lunch ?
+[2025-03-25 23:33:14][INFO] - Question: What may be a problem that people across all nations are facing ?
+[2025-03-25 23:33:28][INFO] - Question: What may have caused you to start a fantasy football team ?
+[2025-03-25 23:33:42][INFO] - Question: Why do you think you decide to hold her gaze while you were angry ?
+[2025-03-25 23:33:56][INFO] - Question: What may have caused you to almost crash during the bike event ?
+[2025-03-25 23:34:10][INFO] - Question: What may be true about the Greeks ?
+[2025-03-25 23:34:25][INFO] - Question: What may have caused you to become tired after you met with your clients ?
+[2025-03-25 23:34:39][INFO] - Question: Why did the writer feel fantastic after the gym ?
+[2025-03-25 23:34:53][INFO] - Question: What is probably true about the narrator ?
+[2025-03-25 23:34:53][INFO] - Question: What is probably true about the narrator ?
+[2025-03-25 23:34:53][INFO] - Question: Where is the narrator ?
+[2025-03-25 23:35:08][INFO] - Question: What is probably true about the narrator ?
+[2025-03-25 23:35:08][INFO] - Question: What is probably true about the narrator ?
+[2025-03-25 23:35:08][INFO] - Question: What might be the reason that the gas price went up a third in a year ?
+[2025-03-25 23:35:22][INFO] - Question: Who had nachos with the writer at Cozymels ?
+[2025-03-25 23:35:36][INFO] - Question: What may be true about the narrator ?
+[2025-03-25 23:35:51][INFO] - Question: What may be the reason for you having a hard time in the dog park ?
+[2025-03-25 23:36:05][INFO] - Question: Why did we keep in contact ?
+[2025-03-25 23:36:19][INFO] - Question: Why did Matthew call his cousins to go to the pool ?
+[2025-03-25 23:36:34][INFO] - Question: Why did Matthew call his cousins to go to the pool ?
+[2025-03-25 23:36:34][INFO] - Question: What did Matthew do after swimming ?
+[2025-03-25 23:36:48][INFO] - Question: What did Matthew do after swimming ?
+[2025-03-25 23:36:48][INFO] - Question: What 's a possible reason someone almost knocked the TV off the wall ?
+[2025-03-25 23:37:02][INFO] - Question: Why did Dan and I break up ?
+[2025-03-25 23:37:16][INFO] - Question: Why are two friends coming over today ?
+[2025-03-25 23:37:30][INFO] - Question: Why does Ayano have such a fear of cars ?
+[2025-03-25 23:37:43][INFO] - Question: What may have caused your prius to go " boom ? "
+[2025-03-25 23:37:57][INFO] - Question: Does Courtney know that she is having a party ?
+[2025-03-25 23:38:10][INFO] - Question: Why did the writer not want to rush like a jerk in the morning ?
+[2025-03-25 23:38:24][INFO] - Question: What happened as this pain continued ?
+[2025-03-25 23:38:38][INFO] - Question: When must have I moved to the US from Europe ?
+[2025-03-25 23:38:53][INFO] - Question: why did they want to jump ?
+[2025-03-25 23:39:07][INFO] - Question: Why is the information in the book different to what was presented by your professor ?
+[2025-03-25 23:39:21][INFO] - Question: Why did you not post her submission when she submitted it a while ago ?
+[2025-03-25 23:39:35][INFO] - Question: What is probably true ?
+[2025-03-25 23:39:36][INFO] - Question: What is probably true ?

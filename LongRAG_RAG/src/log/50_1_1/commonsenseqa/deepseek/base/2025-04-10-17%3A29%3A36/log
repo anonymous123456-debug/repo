@@ -1,0 +1,69 @@
+[2025-04-10 17:29:40][INFO] - ****************************** CONFIGURATION ******************************
+[2025-04-10 17:29:40][INFO] - MaxClients                     --> 1
+[2025-04-10 17:29:40][INFO] - dataset                        --> commonsenseqa
+[2025-04-10 17:29:40][INFO] - ext                            --> False
+[2025-04-10 17:29:40][INFO] - ext_fil                        --> True
+[2025-04-10 17:29:40][INFO] - fil                            --> False
+[2025-04-10 17:29:40][INFO] - log_path                       --> 
+[2025-04-10 17:29:40][INFO] - lrag_model                     --> 
+[2025-04-10 17:29:40][INFO] - model                          --> deepseek
+[2025-04-10 17:29:40][INFO] - r_path                         --> ../data/corpus/processed/50_1_1
+[2025-04-10 17:29:40][INFO] - raw_context_pred               --> False
+[2025-04-10 17:29:40][INFO] - raw_pred                       --> False
+[2025-04-10 17:29:40][INFO] - rb                             --> False
+[2025-04-10 17:29:40][INFO] - rl                             --> False
+[2025-04-10 17:29:40][INFO] - top_k1                         --> 100
+[2025-04-10 17:29:40][INFO] - top_k2                         --> 20
+[2025-04-10 17:29:40][INFO] - LongRAG model used: 
+[2025-04-10 17:29:40][INFO] - ****************************** CONFIGURATION ******************************
+[2025-04-10 17:29:41][DEBUG] - Attempting to acquire lock 23199088104144 on /public/home/ncu_418000240001/.cache/huggingface/datasets/_public_home_ncu_418000240001_.cache_huggingface_datasets_commonsenseqa_default_0.0.0_54e35741336969b6.lock
+[2025-04-10 17:29:41][DEBUG] - Lock 23199088104144 acquired on /public/home/ncu_418000240001/.cache/huggingface/datasets/_public_home_ncu_418000240001_.cache_huggingface_datasets_commonsenseqa_default_0.0.0_54e35741336969b6.lock
+[2025-04-10 17:29:41][DEBUG] - open file: /public/home/ncu_418000240001/.cache/huggingface/datasets/commonsenseqa/default/0.0.0/54e35741336969b6/dataset_info.json
+[2025-04-10 17:29:41][DEBUG] - Attempting to release lock 23199088104144 on /public/home/ncu_418000240001/.cache/huggingface/datasets/_public_home_ncu_418000240001_.cache_huggingface_datasets_commonsenseqa_default_0.0.0_54e35741336969b6.lock
+[2025-04-10 17:29:41][DEBUG] - Lock 23199088104144 released on /public/home/ncu_418000240001/.cache/huggingface/datasets/_public_home_ncu_418000240001_.cache_huggingface_datasets_commonsenseqa_default_0.0.0_54e35741336969b6.lock
+[2025-04-10 17:29:41][DEBUG] - Attempting to acquire lock 23199031346384 on /public/home/ncu_418000240001/.cache/huggingface/datasets/commonsenseqa/default/0.0.0/54e35741336969b6_builder.lock
+[2025-04-10 17:29:41][DEBUG] - Lock 23199031346384 acquired on /public/home/ncu_418000240001/.cache/huggingface/datasets/commonsenseqa/default/0.0.0/54e35741336969b6_builder.lock
+[2025-04-10 17:29:41][DEBUG] - open file: /public/home/ncu_418000240001/.cache/huggingface/datasets/commonsenseqa/default/0.0.0/54e35741336969b6/dataset_info.json
+[2025-04-10 17:29:41][DEBUG] - Attempting to release lock 23199031346384 on /public/home/ncu_418000240001/.cache/huggingface/datasets/commonsenseqa/default/0.0.0/54e35741336969b6_builder.lock
+[2025-04-10 17:29:41][DEBUG] - Lock 23199031346384 released on /public/home/ncu_418000240001/.cache/huggingface/datasets/commonsenseqa/default/0.0.0/54e35741336969b6_builder.lock
+[2025-04-10 17:29:41][DEBUG] - Starting new HTTP connection (1): 10.149.9.36:9310
+[2025-04-10 17:30:33][DEBUG] - http://10.149.9.36:9310 "POST /llm HTTP/11" 200 4111
+[2025-04-10 17:30:33][INFO] - Backing off pred(...) for 0.6s (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:30:34][INFO] - Backing off pred(...) for 0.1s (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:30:34][INFO] - Backing off pred(...) for 1.1s (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:30:35][INFO] - Backing off pred(...) for 1.8s (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:30:37][INFO] - Backing off pred(...) for 11.8s (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:30:49][INFO] - Backing off pred(...) for 21.7s (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:31:10][INFO] - Backing off pred(...) for 57.1s (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:32:07][INFO] - Backing off pred(...) for 11.1s (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:32:19][INFO] - Backing off pred(...) for 94.7s (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:33:53][ERROR] - Giving up pred(...) after 10 tries (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:33:53][INFO] - Backing off pred(...) for 0.0s (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:33:53][INFO] - Backing off pred(...) for 0.4s (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:33:54][INFO] - Backing off pred(...) for 2.0s (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:33:56][INFO] - Backing off pred(...) for 0.2s (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:33:56][INFO] - Backing off pred(...) for 3.2s (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:33:59][INFO] - Backing off pred(...) for 20.8s (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:34:20][INFO] - Backing off pred(...) for 34.9s (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:34:55][INFO] - Backing off pred(...) for 28.2s (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:35:23][INFO] - Backing off pred(...) for 110.2s (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:37:13][ERROR] - Giving up pred(...) after 10 tries (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:37:14][INFO] - Backing off pred(...) for 0.8s (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:37:15][INFO] - Backing off pred(...) for 0.0s (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:37:15][INFO] - Backing off pred(...) for 3.2s (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:37:18][INFO] - Backing off pred(...) for 5.6s (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:37:23][INFO] - Backing off pred(...) for 5.4s (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:37:29][INFO] - Backing off pred(...) for 5.0s (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:37:34][INFO] - Backing off pred(...) for 61.3s (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:38:35][INFO] - Backing off pred(...) for 43.1s (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:39:18][INFO] - Backing off pred(...) for 23.7s (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:39:42][INFO] - Backing off pred(...) for 49.5s (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:40:31][INFO] - Backing off pred(...) for 2.3s (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:40:34][ERROR] - Giving up pred(...) after 12 tries (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:40:34][INFO] - Backing off pred(...) for 0.6s (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:40:34][INFO] - Backing off pred(...) for 1.6s (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:40:36][INFO] - Backing off pred(...) for 2.9s (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:40:39][INFO] - Backing off pred(...) for 4.3s (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:40:43][INFO] - Backing off pred(...) for 15.6s (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:40:59][INFO] - Backing off pred(...) for 12.1s (TypeError: '>' not supported between instances of 'int' and 'NoneType')
+[2025-04-10 17:41:11][INFO] - Backing off pred(...) for 35.3s (TypeError: '>' not supported between instances of 'int' and 'NoneType')

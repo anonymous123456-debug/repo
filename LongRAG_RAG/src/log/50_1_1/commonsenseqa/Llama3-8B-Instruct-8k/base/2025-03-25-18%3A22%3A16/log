@@ -1,0 +1,37 @@
+[2025-03-25 18:22:27][INFO] - ****************************** CONFIGURATION ******************************
+[2025-03-25 18:22:27][INFO] - MaxClients                     --> 1
+[2025-03-25 18:22:27][INFO] - dataset                        --> commonsenseqa
+[2025-03-25 18:22:27][INFO] - ext                            --> False
+[2025-03-25 18:22:27][INFO] - ext_fil                        --> True
+[2025-03-25 18:22:27][INFO] - fil                            --> False
+[2025-03-25 18:22:27][INFO] - log_path                       --> 
+[2025-03-25 18:22:27][INFO] - lrag_model                     --> 
+[2025-03-25 18:22:27][INFO] - model                          --> Llama3-8B-Instruct-8k
+[2025-03-25 18:22:27][INFO] - r_path                         --> ../data/corpus/processed/50_1_1
+[2025-03-25 18:22:27][INFO] - raw_context_pred               --> False
+[2025-03-25 18:22:27][INFO] - raw_pred                       --> False
+[2025-03-25 18:22:27][INFO] - rb                             --> False
+[2025-03-25 18:22:27][INFO] - rl                             --> False
+[2025-03-25 18:22:27][INFO] - top_k1                         --> 100
+[2025-03-25 18:22:27][INFO] - top_k2                         --> 20
+[2025-03-25 18:22:27][INFO] - LongRAG model used: 
+[2025-03-25 18:22:27][INFO] - ****************************** CONFIGURATION ******************************
+[2025-03-25 18:22:27][DEBUG] - Attempting to acquire lock 23358362266960 on /public/home/ncu_418000240001/.cache/huggingface/datasets/_public_home_ncu_418000240001_.cache_huggingface_datasets_commonsenseqa_default_0.0.0_54e35741336969b6.lock
+[2025-03-25 18:22:27][DEBUG] - Lock 23358362266960 acquired on /public/home/ncu_418000240001/.cache/huggingface/datasets/_public_home_ncu_418000240001_.cache_huggingface_datasets_commonsenseqa_default_0.0.0_54e35741336969b6.lock
+[2025-03-25 18:22:27][DEBUG] - Attempting to release lock 23358362266960 on /public/home/ncu_418000240001/.cache/huggingface/datasets/_public_home_ncu_418000240001_.cache_huggingface_datasets_commonsenseqa_default_0.0.0_54e35741336969b6.lock
+[2025-03-25 18:22:27][DEBUG] - Lock 23358362266960 released on /public/home/ncu_418000240001/.cache/huggingface/datasets/_public_home_ncu_418000240001_.cache_huggingface_datasets_commonsenseqa_default_0.0.0_54e35741336969b6.lock
+[2025-03-25 18:22:28][DEBUG] - Attempting to acquire lock 23357886315792 on /public/home/ncu_418000240001/.cache/huggingface/datasets/commonsenseqa/default/0.0.0/54e35741336969b6_builder.lock
+[2025-03-25 18:22:28][DEBUG] - Lock 23357886315792 acquired on /public/home/ncu_418000240001/.cache/huggingface/datasets/commonsenseqa/default/0.0.0/54e35741336969b6_builder.lock
+[2025-03-25 18:22:28][DEBUG] - Starting new HTTPS connection (1): storage.googleapis.com:443
+[2025-03-25 18:22:29][DEBUG] - https://storage.googleapis.com:443 "HEAD /huggingface-nlp/cache/datasets/commonsenseqa/default/0.0.0/dataset_info.json HTTP/11" 404 0
+[2025-03-25 18:22:30][DEBUG] - open file: /public/home/ncu_418000240001/.cache/huggingface/datasets/commonsenseqa/default/0.0.0/54e35741336969b6.incomplete/commonsenseqa-train-00000-00000-of-NNNNN.arrow
+[2025-03-25 18:22:30][DEBUG] - open file: /public/home/ncu_418000240001/.cache/huggingface/datasets/commonsenseqa/default/0.0.0/54e35741336969b6.incomplete/commonsenseqa-validation-00000-00000-of-NNNNN.arrow
+[2025-03-25 18:22:30][DEBUG] - open file: /public/home/ncu_418000240001/.cache/huggingface/datasets/commonsenseqa/default/0.0.0/54e35741336969b6.incomplete/commonsenseqa-test-00000-00000-of-NNNNN.arrow
+[2025-03-25 18:22:30][DEBUG] - Attempting to acquire lock 23357889156304 on /public/home/ncu_418000240001/.cache/huggingface/datasets/commonsenseqa/default/0.0.0/54e35741336969b6.incomplete_info.lock
+[2025-03-25 18:22:30][DEBUG] - Lock 23357889156304 acquired on /public/home/ncu_418000240001/.cache/huggingface/datasets/commonsenseqa/default/0.0.0/54e35741336969b6.incomplete_info.lock
+[2025-03-25 18:22:30][DEBUG] - open file: /public/home/ncu_418000240001/.cache/huggingface/datasets/commonsenseqa/default/0.0.0/54e35741336969b6.incomplete/dataset_info.json
+[2025-03-25 18:22:30][DEBUG] - Attempting to release lock 23357889156304 on /public/home/ncu_418000240001/.cache/huggingface/datasets/commonsenseqa/default/0.0.0/54e35741336969b6.incomplete_info.lock
+[2025-03-25 18:22:30][DEBUG] - Lock 23357889156304 released on /public/home/ncu_418000240001/.cache/huggingface/datasets/commonsenseqa/default/0.0.0/54e35741336969b6.incomplete_info.lock
+[2025-03-25 18:22:30][DEBUG] - Attempting to release lock 23357886315792 on /public/home/ncu_418000240001/.cache/huggingface/datasets/commonsenseqa/default/0.0.0/54e35741336969b6_builder.lock
+[2025-03-25 18:22:30][DEBUG] - Lock 23357886315792 released on /public/home/ncu_418000240001/.cache/huggingface/datasets/commonsenseqa/default/0.0.0/54e35741336969b6_builder.lock
+[2025-03-25 18:22:30][INFO] - Question: The sanctions against the school were a punishing blow, and they seemed to what the efforts the school had made to change?

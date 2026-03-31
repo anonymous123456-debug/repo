@@ -1,0 +1,517 @@
+[2025-03-06 20:06:25][INFO] - ****************************** CONFIGURATION ******************************
+[2025-03-06 20:06:25][INFO] - MaxClients                     --> 1
+[2025-03-06 20:06:25][INFO] - dataset                        --> hotpotqa
+[2025-03-06 20:06:25][INFO] - ext                            --> False
+[2025-03-06 20:06:25][INFO] - ext_fil                        --> False
+[2025-03-06 20:06:25][INFO] - fil                            --> False
+[2025-03-06 20:06:25][INFO] - log_path                       --> 
+[2025-03-06 20:06:25][INFO] - lrag_model                     --> 
+[2025-03-06 20:06:25][INFO] - model                          --> Llama3-8B-Instruct-8k
+[2025-03-06 20:06:25][INFO] - r_path                         --> ../data/corpus/processed/200_2_2
+[2025-03-06 20:06:25][INFO] - raw_pred                       --> False
+[2025-03-06 20:06:25][INFO] - rb                             --> True
+[2025-03-06 20:06:25][INFO] - rl                             --> False
+[2025-03-06 20:06:25][INFO] - top_k1                         --> 100
+[2025-03-06 20:06:25][INFO] - top_k2                         --> 7
+[2025-03-06 20:06:25][INFO] - LongRAG model used: 
+[2025-03-06 20:06:25][INFO] - ****************************** CONFIGURATION ******************************
+[2025-03-06 20:06:25][INFO] - Question: Computer Blue is from the soundtrack taken from thealbum directed by whom?
+[2025-03-06 20:06:26][INFO] - Question: Were Days of the New and Wax on Radio both formed in 1995?
+[2025-03-06 20:06:27][INFO] - Question: A Massacre Foretold is based on a real massacre of ho many people?
+[2025-03-06 20:06:27][INFO] - Question: How many people are listed in the 2010 census as being part of one of the groups that help make up the culture of Minnesota?
+[2025-03-06 20:06:28][INFO] - Question: Which involved more illegal activity, Border or All in This Tea?
+[2025-03-06 20:06:28][INFO] - Question: T. K. Kurien was the Executive Vice Chairman of a corporation headquartered in what city?
+[2025-03-06 20:06:29][INFO] - Question: My Neck, My Back was a song by the rapper of what nationality?
+[2025-03-06 20:06:29][INFO] - Question: Who was the drummer for the recording of "The Man Who Sold the World" released in the US in 1970?
+[2025-03-06 20:06:30][INFO] - Question: The fourth female British act in history to have her first album debut at number one makes a guest appearance on the 29th studio album by what artist?
+[2025-03-06 20:06:31][INFO] - Question: Defector is a song by a band that formed in which year ?
+[2025-03-06 20:06:32][INFO] - Question: The artist who released the album Xposed is based in which city?
+[2025-03-06 20:06:33][INFO] - Question: How many albums has the artist who released his second studio album on October 15, 1987 sold?
+[2025-03-06 20:06:33][INFO] - Question: For which foundation is the 47th U.S. Vice President's chief of staff a former president?
+[2025-03-06 20:06:34][INFO] - Question: How many people does the arena across the street from HarborCenter seat?
+[2025-03-06 20:06:34][INFO] - Question: The organisation Keep Sydney Open is best know for its opposition to laws intriduced in what year?
+[2025-03-06 20:06:35][INFO] - Question: Colby J. Cooper, is the Chief Operating Officer of the Hix Snedeker Companies, a national-level commercial real estate development firm, he served as Chief of Staff to former Secretary of State Condoleezza Rice, an American political scientist and diplomat, at the Hoover Institution, at which location?
+[2025-03-06 20:06:35][INFO] - Question: How many people of staff does the college where Craig D. Heyer played have?
+[2025-03-06 20:06:36][INFO] - Question: Robert J. Barham was the secretary of Department of Wildlife and Fisheries under the politician who was the vice chairman of what group?
+[2025-03-06 20:06:37][INFO] - Question: Mario Hezonja was the fifth overall pick in what televised picking of amateur U.S. college basketball players and other eligible players, including international players?
+[2025-03-06 20:06:37][INFO] - Question: When was the artist who made Nugent born?
+[2025-03-06 20:06:38][INFO] - Question: Are Just, Melvin: Just Evil and Speaking in Strings both documentaries about musicians?
+[2025-03-06 20:06:39][INFO] - Question: WERT is a radio station that is broadcast from it studios on what transcontinental highway?
+[2025-03-06 20:06:39][INFO] - Question: After releasing "Hail to the Thief" in June 2003, which band released the EP COM LAG in 2004?
+[2025-03-06 20:06:40][INFO] - Question: What denomination did the only school to provide tri-racial students an education follow?
+[2025-03-06 20:06:40][INFO] - Question: "Photograph" is a song by Ringo Star released on his album that reached what number on the "Billboard" 200?
+[2025-03-06 20:06:41][INFO] - Question: Song for America is the second studio album by a rock band that has produced how many gold albums?
+[2025-03-06 20:06:41][INFO] - Question: Who was the first overall pick in the 2000 NBA draft held at the Target Center in Minneapolis?
+[2025-03-06 20:06:42][INFO] - Question: Scream consists of rides of this type in which  the track turns riders upside-down and then returns them to an upright position that has early forms dating back to what year
+[2025-03-06 20:06:42][INFO] - Question: Which rock band was formed first,  The Rockfords or Radio Iodine?
+[2025-03-06 20:06:43][INFO] - Question: Harry Sillito ended his career for the team that plays at what stadium?
+[2025-03-06 20:06:44][INFO] - Question: What nationality was the author of the book Other People's Money And How the Bankers Use It ?
+[2025-03-06 20:06:44][INFO] - Question: This bands debut album was certified platinum after the success of their second studio album which includes lyrics on whose beliefs about the enviroment?
+[2025-03-06 20:06:45][INFO] - Question: Sheldon Adelson is the founder, chairman and chief executive officer of a corporation that is based in which US state ?
+[2025-03-06 20:06:46][INFO] - Question: What year was the chief executive officer of a company described as "a self-driving tech company" born in?
+[2025-03-06 20:06:46][INFO] - Question: What Interstate goes through Woodbine and meets with a State Route which is 30.46 miles long?
+[2025-03-06 20:06:47][INFO] - Question: Who released the album that "Stylo" was a single on in the United States?
+[2025-03-06 20:06:47][INFO] - Question: Fiserv, Inc., is an American provider of financial services technology, the company's clients includes thrifts, a savings and loan association (S&L), or thrift institution, is a financial institution that specializes in accepting savings, deposits, and making mortgage and other loans, by law, thrifts can have no more than what number percent, of their lending in commercial loans?
+[2025-03-06 20:06:48][INFO] - Question: How tall in meters is the player that was he first overall pick in the 2002 NBA draft by the Houston Rockets?
+[2025-03-06 20:06:48][INFO] - Question: Lacu is a dummer from a sovereign state in Norther Europ whose population in 2016 was what?
+[2025-03-06 20:06:49][INFO] - Question: What television series used the technology to record movie-like screenshots of a computer monitor doing various actions, such as a user moving their mouse across the screen, clicking on desktop icons, typing text, et cetera?
+[2025-03-06 20:06:50][INFO] - Question: Which show starring Alex Bornstein took place in Quahog?
+[2025-03-06 20:06:50][INFO] - Question: When was the band that released the single Ignorance formed ?
+[2025-03-06 20:06:51][INFO] - Question: What is the capital of the sovereign state in North Africa on the Mediterranean coast that is home to The Movement of National Understanding?
+[2025-03-06 20:06:51][INFO] - Question: Matti Alahuhta is a Member of the Board of Directors for what corporation that is headquartered in Zürich, Switzerland?
+[2025-03-06 20:06:52][INFO] - Question: In what year was the Chief Executive Officer of the company which owns The Buffalo News born?
+[2025-03-06 20:06:52][INFO] - Question: What was the original name of the group that Will Wilkinson served as a research fellow at until August of 2010?
+[2025-03-06 20:06:53][INFO] - Question: What genre of music is the radio station that broadcast Honeyman: Live 1973?
+[2025-03-06 20:06:53][INFO] - Question: Who was the Chairman and Chief Executive Officer of the company prior to Frank Blake, who became the Chief Executive Officer in January 2007?
+[2025-03-06 20:06:54][INFO] - Question: In what tenth season episode of the Simpsons does Homer discover he can make money by stealing and reselling grease?
+[2025-03-06 20:06:55][INFO] - Question: Which company that mines two key crop nutrients—phosphate and potash did James T. Prokopanko  serve as president and Chief Executive Officer of?
+[2025-03-06 20:06:55][INFO] - Question: Stratton is a brand of powder compacts, lipstick holders and other devices and containers for cosmetics, made in a city that had a population of how many in 2014 ?
+[2025-03-06 20:06:56][INFO] - Question:  World Wide What? indludes a cameo from this American best known as the co-founder and former chief executive officer and chairman of America Online (AOL) who retired in what year
+[2025-03-06 20:06:56][INFO] - Question: In what year was the band that played "Innervision" formed?
+[2025-03-06 20:06:57][INFO] - Question: Which sports agent represents the player who was the first overall pick of the 2010 NBA draft?
+[2025-03-06 20:06:57][INFO] - Question: The lad of Union Station in New Jersey remains the property of a Class I railroad that operates how many route miles?
+[2025-03-06 20:06:58][INFO] - Question: Which album by the group that toured in The Resistance Tour debuted at number three on the "Billboard" 200 chart?  
+[2025-03-06 20:06:58][INFO] - Question: Where is the rental car company, for which Pamela Nicholson is President and Chief Executive Officer, headquartered?
+[2025-03-06 20:06:59][INFO] - Question: What did this actor do to make money?
+[2025-03-06 20:07:00][INFO] - Question: What is the capital of the sovereign state in which Brendan Christian was born?
+[2025-03-06 20:07:01][INFO] - Question: Which city 10 miles south of downtown Minneapolis is home to a musician who wrote "Stand under None"?
+[2025-03-06 20:07:01][INFO] - Question: When did the company whose President and Chief Executive Officer is Leslie Moonves began trading on the NYSE?
+[2025-03-06 20:07:02][INFO] - Question: What religion was Kaitsos Botsaris' community?
+[2025-03-06 20:07:03][INFO] - Question: Paul Curtis Steelman, a native of Atlantic City, is an American architect that is recognized as a visionary designer of global entertainment, hospitality, and gaming architecture, Paul has designed buildings for the mavericks of the gaming industry, including Sheldon Gary Adelson, an American business magnate, investor, and philanthropist, he's the founder, chairman and chief executive officer of which organization?
+[2025-03-06 20:07:03][INFO] - Question: What Fortune 500 company produces both potash and phosphate fertilizer and had a president and Chief Executive Officer who served from January 2007 to August 2015?
+[2025-03-06 20:07:04][INFO] - Question: What year was the airing of episode one of the show on which Ferne McCann finished third of season fifteen?
+[2025-03-06 20:07:04][INFO] - Question: When was the band that sang "I'm One" formed?
+[2025-03-06 20:07:05][INFO] - Question: Osie Leon Wood III (born March 25, 1962), is an American former professional basketball player, was a first round NBA draft pick, during the 1984 NBA draft was the 37th annual draft of the National Basketball Association (NBA), held in which city?
+[2025-03-06 20:07:06][INFO] - Question: Right Now Kapow was created by one of the creators of a magazine-based show that premiered on what station on September 6, 2010?
+[2025-03-06 20:07:06][INFO] - Question: What is the name of this 56th draft, which will be held June 22-23, 2018, in which Rasmus Dahlin is expected to be a top eligible draft pick?
+[2025-03-06 20:07:07][INFO] - Question: The Selkirk Yard is a large reight railroad lacated in Selkirk, New York.What is the name of the 315 mile river that flows from north to south that runs near the Selkirk Yard.
+[2025-03-06 20:07:07][INFO] - Question: Remi Eriksen is the current Group President and Chief Executive Officer in a company of how many people?
+[2025-03-06 20:07:08][INFO] - Question: What year was the singer of Ever Ever After born?
+[2025-03-06 20:07:10][INFO] - Question: The radio station KYBA is located in a city that is part of what county?
+[2025-03-06 20:07:11][INFO] - Question: In the same NBA Draft where Kwame Brown was the first high school player to be drafted with the first overall pick, Ear Joesph was drafted the Supersonics, what draft was that? 
+[2025-03-06 20:07:11][INFO] - Question: Mutualism is an economic theory and anarchist school of thought that advocates a society where each person might possess a means of production, either individually or in purely ? collectives, with trade representing equivalent amounts of labor in the free market, integral to the scheme is the establishment of a mutual-credit bank, is a financial institution chartered by a central or regional government, without capital stock, that is owned by its members who subscribe to a common fund? 
+[2025-03-06 20:07:12][INFO] - Question: In what year was the city that Thomas Edmonds taught at in 1961 founded?
+[2025-03-06 20:07:12][INFO] - Question: Plaza Towers Elementary School's previous facility was destroyed by a tornado that injured how many people?
+[2025-03-06 20:07:13][INFO] - Question: The Ungroundable was the final episode of season 12 of the sitcom that was developed by whom?
+[2025-03-06 20:07:14][INFO] - Question: What is the population of the sovereign state that Souleymane Dela Sacko plays in?
+[2025-03-06 20:07:14][INFO] - Question: Which city includes the bank Liam John Coleman is the chief executive officer of?
+[2025-03-06 20:07:15][INFO] - Question: How many Golden Globes did the actress who played Isabelle Wright in episode 3 of season 4 of Glee win for other roles ?
+[2025-03-06 20:07:15][INFO] - Question: What group did the composer of Pictures at an Exhibition belong to?
+[2025-03-06 20:07:16][INFO] - Question: What role did the maker of the film "Cradle will Rock" play in the film "The Sawshank Redemption"?
+[2025-03-06 20:07:16][INFO] - Question: How long has the product Fog's End is known for producing been legal in the United States?
+[2025-03-06 20:07:16][INFO] - Question: What was the size of the sovereign state in which Fernando Sylvan born?
+[2025-03-06 20:07:17][INFO] - Question:  Developing Unconventional Gas (DUG) is a series of annual regional conferences of the oil industry, which notable key note speaker, was born on May 22, 1928?
+[2025-03-06 20:07:18][INFO] - Question: Warren East is the chief executive officer of a company established in which year ?
+[2025-03-06 20:07:18][INFO] - Question: What band wrote the songs Alive and Meet Me Halfway were the first and third songs on their album called "The E.N.D.?
+[2025-03-06 20:07:19][INFO] - Question: In what year was Get Yourself High nominated for a grammy?
+[2025-03-06 20:07:19][INFO] - Question: Munto and My Dog Tulip, have which mutual genre?
+[2025-03-06 20:07:20][INFO] - Question: WLYN is a station is licensed to the largest city in what county?
+[2025-03-06 20:07:21][INFO] - Question: The President of Egypt that changed the Hamayouni Decree was born in what year?
+[2025-03-06 20:07:21][INFO] - Question: This Is Animal Music is the debut studio album by Look Mexico, the album can easily be noted as a beginning for the band's commercial success, as it has sparked attention among major music news sources and has even got the band featured in Alternative Press as a band to look for in which year?
+[2025-03-06 20:07:22][INFO] - Question: Who created the series that One if by Clam, Two if by Sea was an episode of?
+[2025-03-06 20:07:23][INFO] - Question: The Battle of Nedao involved a group of people who lived when? 
+[2025-03-06 20:07:23][INFO] - Question: Who is the drummer of the band that released the song "Schism" on the album "Lateralus"?
+[2025-03-06 20:07:24][INFO] - Question: In what year was the retailer whose Chief Executive Officer Darren Jackson became on January 7, 2008 founded?
+[2025-03-06 20:07:25][INFO] - Question: Was the date that the album on which "There's No Home for You Here" appeared was released?
+[2025-03-06 20:07:26][INFO] - Question: The drummer for the album "Center of the World" was born in what year?
+[2025-03-06 20:07:27][INFO] - Question: What 1979 born American singer, songwriter, dancer and actress released her second studio album in November 2001 to great success?
+[2025-03-06 20:07:27][INFO] - Question: Where did the company that Susan Kilsby serves as chairman for originate?
+[2025-03-06 20:07:28][INFO] - Question: The radio station KLLZ-FM broadcasts from a city located where?
+[2025-03-06 20:07:28][INFO] - Question: What properties does AG Real Estate manage that is the detailed organization and implementation of a complex operation?
+[2025-03-06 20:07:29][INFO] - Question: What is the English title of the telenovela that has used the song "El Perdedor" as the opening theme?
+[2025-03-06 20:07:30][INFO] - Question: Richard J. Daly is the President and Chief Executive Officer for which electronic proxy voting company, founded in 2007?
+[2025-03-06 20:07:30][INFO] - Question: In what year was the company of which Richard J. Daly is the President and Chief Executive Officer founded?
+[2025-03-06 20:07:31][INFO] - Question: What year was the university Leila Doolan went to founded?
+[2025-03-06 20:07:31][INFO] - Question: How many people cross the border over which the Chamizal dispute  took place?
+[2025-03-06 20:07:32][INFO] - Question: In which county is the town to which the radio station WCNH is licensed ?
+[2025-03-06 20:07:33][INFO] - Question:  Hurricane Keith weakened to a tropical storm, before another landfall occurred near a city with a population of what?
+[2025-03-06 20:07:34][INFO] - Question: The 1989 NBA draft included a signing of the player who spent 13 years with which three teams?
+[2025-03-06 20:07:35][INFO] - Question: What is the actress who guest starred in the tenth season premiere of a cartoon set in the fictional city of Springfield in which Homer discovers he can make money stealing and reselling grease?
+[2025-03-06 20:07:35][INFO] - Question: The song Treat You Better was included in an album that debuted where on the US "Billboard" 200?
+[2025-03-06 20:07:36][INFO] - Question: What is the fifth studio album by English musician George Harrison released as the follow-up to The album that was certified gold by the Recording Industry Association of America two days after release?
+[2025-03-06 20:07:36][INFO] - Question: When was the group that released the single Nothin formed ?
+[2025-03-06 20:07:37][INFO] - Question: Herman Wijffels was the chairman of the board of directors for Rabobank, located in what country?
+[2025-03-06 20:07:37][INFO] - Question: Jayson Tatum, who played in the 2017-18 Philadelphia 76ers season, played for which college before declaring himself eligible for the 2017 NBA draft?
+[2025-03-06 20:07:38][INFO] - Question: What year was Jack Noseworthy, who starred in The Sterling Chase, also known as "Graduation Week", born?
+[2025-03-06 20:07:38][INFO] - Question: What is the name of the second studio album by the American singer-songwriter who has released four video albums and has appeared in 38 music videos including her song 'Love Story' which is the lead single of the album?
+[2025-03-06 20:07:39][INFO] - Question: The final episode in "A Song of Ass and Fire," season was what number episode?
+[2025-03-06 20:07:40][INFO] - Question: Asambhav is an Inidan film which is a type of cinema of India which is based where in India
+[2025-03-06 20:07:40][INFO] - Question: What is the name of this American educator who is married to a former Vice PResident and for whom Sheila Nix served as Chief of Staff?
+[2025-03-06 20:07:41][INFO] - Question: Which county does this city where the radio station KLEY is located belong?
+[2025-03-06 20:07:43][INFO] - Question: CSX Transportation owns about 21,000 route miles in Florida alone; How many miles does it's Georgia line run?
+[2025-03-06 20:07:44][INFO] - Question: Which President that served as a Senator from California,  did Beatrice Willard serve as an advisor?
+[2025-03-06 20:07:45][INFO] - Question: What type of sport do Alex Shelley and The Motor City Machine Guns have in common?
+[2025-03-06 20:07:45][INFO] - Question: Independent Citizens' Initiative Save Austria, or Save Austria,  is an anti-EU movement in Austria which was founded by former presidential candidate and pro-neutrality activist Karl Walter Nowak, in the Austrian legislative election, 2008 they received 0.73% of the vote and no seats, it was held on which date?
+[2025-03-06 20:07:46][INFO] - Question: What is the birthdate of this first Director of the Federal Bureau of Investigation of the United States, who endorsed This is Your FBI?
+[2025-03-06 20:07:47][INFO] - Question: Encounters at the End of the World and Everything's Cool are both what?
+[2025-03-06 20:07:47][INFO] - Question: What is the capital of the province represented by Hajji Moharam Khan Nasiri in  Afghanistan's National Assembly?
+[2025-03-06 20:07:48][INFO] - Question: What Italian painter is best known for a 19th-century art movement characterized by relatively small, thin, yet visible brush strokes, open composition, emphasis on accurate depiction of light in its changing qualities,ordinary subject matter, inclusion of "movement" as a crucial element of human perception and experience, and unusual visual angles?
+[2025-03-06 20:07:49][INFO] - Question: Patrick Cescau was the first combined Chief Executive of the manufacturing company that merged to become what?
+[2025-03-06 20:07:50][INFO] - Question: Who was the American real estate heir murdered in the New Orleans Marriot?
+[2025-03-06 20:07:50][INFO] - Question: What war was the "Battle of Rome" a part of?
+[2025-03-06 20:07:51][INFO] - Question: Sgt. Herbert Bellerby was killed by a member of what country’s Air Force?
+[2025-03-06 20:07:53][INFO] - Question: Scipio Center is located 10.3 miles south of a city at the north end of what lake?
+[2025-03-06 20:07:54][INFO] - Question: Gournay Court is the home of the politician who was first elected as an MP for which constituency in 2010?
+[2025-03-06 20:07:54][INFO] - Question: The band that had the album Wrath of the Tyrant was formed in what year?
+[2025-03-06 20:07:56][INFO] - Question: A Place in Time and South of the Border are both examples of what kind of film?
+[2025-03-06 20:07:57][INFO] - Question: mHUB is Chicago’s innovation center for physical product development and manufacturing, which American politician who is the 44th and current mayor of Chicago, kickstarted mHUB in early 2017?
+[2025-03-06 20:07:57][INFO] - Question: What honor was a producer of the album As I Am granted in 2015?
+[2025-03-06 20:07:58][INFO] - Question: Which one of Ted Gibson celebrity clients made her screen debut in an episode of "Law & Order"?
+[2025-03-06 20:07:59][INFO] - Question: What is the present role of the man Claude Mongeau succeeded as President and Chief Executive Officer of Canadian National Railway ?
+[2025-03-06 20:07:59][INFO] - Question: The artist that made "One Heartbeat" was born in what year?
+[2025-03-06 20:08:00][INFO] - Question: Severe Tropical Cyclone Anne was one of the most intense tropical cyclones within the South Pacific basin during the 1980s, it was first noted on which date as a weak tropical depression?
+[2025-03-06 20:08:01][INFO] - Question: Where is this person born who is currently a Principal and Vice President of a privately held company that invests in real estate, and was instrumental in the formulation and growth of the Live! brand?
+[2025-03-06 20:08:01][INFO] - Question: When did A.J. Benza's show A. J. After Hours air?
+[2025-03-06 20:08:02][INFO] - Question: The author of the book Black Holes, Wormholes and Time Machines is a professor of what university?
+[2025-03-06 20:08:03][INFO] - Question: What is the best selling product of the company that purchased Rothmans Inc. in 2008?
+[2025-03-06 20:08:03][INFO] - Question: What fortune 500, Michigan based company was the now chairman of Hologic once Chief Executive Officer of?
+[2025-03-06 20:08:04][INFO] - Question:  Where was the 37th annual draft of the National Basketball Association held, that an American retired professional basketball player who is currently the analyst on "Inside the NBA" was drafted as a junior by the Philadelphia 76ers?
+[2025-03-06 20:08:05][INFO] - Question: What is the name of the former English cricketer who was born in the city 103 miles south of Edinburgh and 277 miles north of London?
+[2025-03-06 20:08:05][INFO] - Question: For how many teams in Major League did the player who was traded with Bert Bradley to the New York Tank in 1984 play ?
+[2025-03-06 20:08:06][INFO] - Question: The university where Ted Kershner coached and taught was founded in what year?
+[2025-03-06 20:08:07][INFO] - Question: Chitwan National Park and Sites of Japan’s Meiji Industrial Revolution: Iron and Steel, Shipbuilding and Coal Mining are located in Europe?
+[2025-03-06 20:08:07][INFO] - Question: In what month was the man who proposed the Volcker Rule born?
+[2025-03-06 20:08:08][INFO] - Question: In what city and country was the company that designed Laff Trakk founded?
+[2025-03-06 20:08:08][INFO] - Question: In which year was the band that released the song This Is Our House formed ?
+[2025-03-06 20:08:09][INFO] - Question: What journalist was both the daughter of a Las Vegas mob figure, as well as suspected victim of real estate heir Robert Durst?
+[2025-03-06 20:08:10][INFO] - Question: Who developed the bomber that was shot down and killed Lieutenant Wally Marais?
+[2025-03-06 20:08:11][INFO] - Question: What new computer design did the chief executive officer of Apple Inc.suggest?
+[2025-03-06 20:08:12][INFO] - Question: The Office of the Federal Register is an office of the United States government within which independent agency of the United States government charged with preserving and documenting government and historical records?
+[2025-03-06 20:08:13][INFO] - Question: What band was formed in 2000 and had one of their songs peak at #47?
+[2025-03-06 20:08:13][INFO] - Question: Viken Babikian and John Najarian, both work as which mutual location?
+[2025-03-06 20:08:14][INFO] - Question: Twelve-year-old Will is left to live with his aunt and uncle at the end of war that began in what year?
+[2025-03-06 20:08:14][INFO] - Question: Who build the transportation commonly used on Melbourne's traditional main street?
+[2025-03-06 20:08:15][INFO] - Question: Which creator of The Bugle is known for his use of extended pun runs?
+[2025-03-06 20:08:16][INFO] - Question: Fukubukuro is part of what Japanese festical celebrated on January 1st sine 1873?
+[2025-03-06 20:08:16][INFO] - Question: Which tier of English football (first, second, third, fourth, fifth) does Koby Arthur play for?
+[2025-03-06 20:08:17][INFO] - Question: What is this region highly contested between Poland and Lithuania called in Polish where Lithuanian Education Society Rytas is located? 
+[2025-03-06 20:08:18][INFO] - Question: What American rock band released the album Weathered whichentered the "Billboard" 200 at number one, a record shared with the The Beatles compilation album "1"? 
+[2025-03-06 20:08:18][INFO] - Question: What is the third album from the band who released "Songs for a Tailor" as their debut album?
+[2025-03-06 20:08:19][INFO] - Question: Who is the religious leader who mentored Muhammad Ali and has his image on the Wall of Respect?
+[2025-03-06 20:08:20][INFO] - Question: When was the album released that was produced primarily by the featured artist as well as several others, including the man who began his music career as Mudfoot in The Whooliganz?  
+[2025-03-06 20:08:20][INFO] - Question: Which duo, who sold more than 28 million certified records worldwide from 1982 to 1986, had a certified Platinum single in the US?
+[2025-03-06 20:08:21][INFO] - Question: When was the narrator of The War that Made America born?
+[2025-03-06 20:08:21][INFO] - Question: As a child, Olga Peretyatko sand in the children's choir of a theatre that opened in what year?
+[2025-03-06 20:08:22][INFO] - Question: Hurricane Dora was one of few tropical cyclones to track across all three north Pacific basins, after weakening to a tropical depression on August 22, the storm dissipated on August 23 while centered several hundred miles north of which coral atoll in the western Pacific Ocean in the northeastern area of the Micronesia subregion, 1,501 mi east of Guam, 2,298 mi west of Honolulu and 1,991 mi southeast of Tokyo?
+[2025-03-06 20:08:23][INFO] - Question: As of 2011, what is the population of the parish that lies to the west of Temple Bruer with Temple High Grange?
+[2025-03-06 20:08:23][INFO] - Question: Nima Nourizadeh directed a music video for the English singer-songwriter who first earned a contract with what studio?
+[2025-03-06 20:08:24][INFO] - Question: What was the lead single on the album that included a song that peaked at number five on the US "Billboard" Hot 100 and was released on YouTube on May 12, 2015?
+[2025-03-06 20:08:24][INFO] - Question: Perquenco was declared the capital of a kingdom by which lawyer?
+[2025-03-06 20:08:25][INFO] - Question: Kevin Gentry is a conservative political activist and fundraiser who serves as vice president of the Charles G. Koch Charitable Foundation, Gentry serves as vice president of special projects at Koch Industries, an American multinational corporation based in Wichita, Kansas, in which country?
+[2025-03-06 20:08:26][INFO] - Question: In what state did Anette Nell's flight crash? 
+[2025-03-06 20:08:26][INFO] - Question: Where are the headquarters of the company which made The NCR Voyager?
+[2025-03-06 20:08:26][INFO] - Question: Who is the drummer of the band that released the song "Kill Me" in 2012?
+[2025-03-06 20:08:28][INFO] - Question: Wa-na-ta was a chief of a tribe composed of two of the three main subcultures of what people?
+[2025-03-06 20:08:29][INFO] - Question: The author which included Garmouth is described as what?
+[2025-03-06 20:08:29][INFO] - Question: The trail that D.O. Quick crossed connected the Missouri River to what?
+[2025-03-06 20:08:30][INFO] - Question: Marie Depage was killed during an event that occurred in what year?
+[2025-03-06 20:08:30][INFO] - Question: What was the nationality of the musician who made a guest appearance on 3 tracks in Skeletons & Majesties Live? 
+[2025-03-06 20:08:31][INFO] - Question: Burdett's Landing is located in which borough located along the Hudson River in Bergen County?
+[2025-03-06 20:08:32][INFO] - Question: Who is the northwestern  neighbor of the country that boarders Iran on the northeast?
+[2025-03-06 20:08:32][INFO] - Question: What was Muhammad Ali's name at the time of his capture of the heavyweight title?
+[2025-03-06 20:08:33][INFO] - Question: Where is the headquarter of an American restaurant holding company who's chairman and chief executive officer was Jon L. Luther?
+[2025-03-06 20:08:34][INFO] - Question: What was the population in 2010 of the city which the radio station KFXS is licensed to serve ?
+[2025-03-06 20:08:35][INFO] - Question: What is the name of the billionaire snake who funds conservative thank tanks aimed at destroying the American way of life and is the chief executive officer of Koch Industries?
+[2025-03-06 20:08:36][INFO] - Question: When did a previous president and chief executive of TNK-BP replace Tony Hayward?
+[2025-03-06 20:08:37][INFO] - Question: Charles Wade Barkley, is an American retired professional basketball player who is currently the analyst on "Inside the NBA", an All-American center at Auburn, he was drafted as a junior by the Philadelphia 76ers with the 5th pick of the 1984 NBA draft, held on which date?
+[2025-03-06 20:08:37][INFO] - Question: Who was the Global Risk Executive of Bank of America, who had   the former CEO, president, and chairman of Bank of America announce "agreed she would retire," after a surge in credit losses led to a government bailout?
+[2025-03-06 20:08:38][INFO] - Question: The 2015–16 Los Angeles Lakers brought back the player who is now a member of what GMGB league team?
+[2025-03-06 20:08:38][INFO] - Question: Lightning debuted at number two on the UK Singles Chart, behind a song from which album ?
+[2025-03-06 20:08:39][INFO] - Question: Where was the band that Koolade was a part of formed in?
+[2025-03-06 20:08:40][INFO] - Question: What two-time NBA All-Star and 2004 member of Team USA left the Los Angeles Lakers after the worst season in franchise history in 2014-2015?
+[2025-03-06 20:08:41][INFO] - Question: What game at ParyCasino allows you to place bets on either a single number or a range of numbers, the colors red or black, or whether the number is odd or even, or if the numbers are high (19–36) or low (1–18).
+[2025-03-06 20:08:42][INFO] - Question: When was the former chief executive officer of J. C. Penney born who joined after Myron E. "Mike" Ullman III?
+[2025-03-06 20:08:42][INFO] - Question: For which famous artist did the Luke Ebbin produce the first single for his 11 million selling album?
+[2025-03-06 20:08:43][INFO] - Question: Who coached the team, in 2014, for which Zach LaVine was the 13th overall pick during the NBA draft?
+[2025-03-06 20:08:43][INFO] - Question: U. S. Grant Sharp Jr. is related to a general and president who fought in what war?
+[2025-03-06 20:08:44][INFO] - Question: Is the University of Maryland, College Park or University of South Carolina further north?
+[2025-03-06 20:08:45][INFO] - Question: Which hurricane did this nor'easter that happened a year before the December 1992 nor'easter absorb and evolve back into a small hurricane?
+[2025-03-06 20:08:45][INFO] - Question: This warning label first introduced by the recording industry association of America was placed onMondanna's the Complete Studio albums is called what?
+[2025-03-06 20:08:46][INFO] - Question: Two players played for both teams during the Cavaliers-Warriors rivalry, Andrew Bogut and someone who now plays for what team?
+[2025-03-06 20:08:46][INFO] - Question: Miro Kosta Strati or more commonly known as Miro Tërbaçe was a semi-legendary Albanian hero who slew the local Sanjak of Avlona out of  ("revenge"), for the death of her brother, also called?
+[2025-03-06 20:08:47][INFO] - Question: What is the closing date of the casino located next the "World's Largest Gift Shop" and owned by the Stockbridge Real Estate?
+[2025-03-06 20:08:48][INFO] - Question: Which nation shares Hispaniola with the country the United States intervened with, after which The Inter-American Peace Force (IAPF) was established?
+[2025-03-06 20:08:48][INFO] - Question: Who was a Canadian-American engineer who designed the Project Babylon "supergun" for the Iraqi government. and founded a corporation for his Project HARP for the United States and Canadian federal governments?
+[2025-03-06 20:08:49][INFO] - Question: Which occurred first, the birth of Natalie Dessay or the making of Becoming Traviata?
+[2025-03-06 20:08:50][INFO] - Question: Which Spanish born player was traded mid-season to the Los Angeles Lakers during their 2007-2008 season?
+[2025-03-06 20:08:51][INFO] - Question: What year was the group who released the album Vigil formed?
+[2025-03-06 20:08:52][INFO] - Question: An American rapper, Born in Atlanta and raised in Chicago, becoming known as a producer for what in early 2000's produced hit singles  for an American singer whos debut album was "Songs in A Minor" 
+[2025-03-06 20:08:52][INFO] - Question: Wilhelm Batz shot down 46 of one type of aircraft. How many of these aircraft were made during World War 2?
+[2025-03-06 20:08:53][INFO] - Question: What man, who starred in the 1965 Mexican western film, El rifle implacable, also recorded over 150 albums, which sold 25 million copies, and acted in more than 120 films?
+[2025-03-06 20:08:54][INFO] - Question: Allan Smart played as what position for Burscough Football Club?
+[2025-03-06 20:08:54][INFO] - Question: School of Resina was located in the town of Herculaneum in which country?
+[2025-03-06 20:08:54][INFO] - Question: What is the name of the former President of India who was born and raised in Tamil Nadu, studied physics and engineering and was Chancellor of the Indian Institute of Space Science and Technology?
+[2025-03-06 20:08:55][INFO] - Question: What scandal resulted in an investigation into the real estate investments of the Clintons and McDougals that also influenced Roger Altman's employment situation at that time?
+[2025-03-06 20:08:56][INFO] - Question: On what studio album was the song which surpassed the song "Once a Day" for the record for the most weeks spent at number one by a female country artist?
+[2025-03-06 20:08:57][INFO] - Question: Put You on the Game is a single by the rapper who was part of the group that released their debut album in which year?
+[2025-03-06 20:08:57][INFO] - Question: What is the name of the hurricane that made landfall on Belize on August 4, 2016 and ultimately left 81 fatalities in Mexico?
+[2025-03-06 20:08:58][INFO] - Question: The rock band joined by Tru Collins in 2010 has sold approx. how many concert tickets?
+[2025-03-06 20:08:59][INFO] - Question:  What is the area of the place which is famous for the home of Frank A. Vanderlip and his family?
+[2025-03-06 20:09:00][INFO] - Question: What era was the well known buliding on the border of United States and Canada declared a heritage building by both?
+[2025-03-06 20:09:00][INFO] - Question: Winter formal, also called Winterfest, Winter Ball, Sweethearts, Snow Ball, or Queen of Hearts Dance, is a dance held by high schools in the United States and Canada, at some schools, this dance may supplement or replace which informal dance sponsored by a high school, middle school or college, in which female students invite male students?
+[2025-03-06 20:09:01][INFO] - Question: What was the name of the U.S. state named after a leading early Quaker and real estate entrepreneur from England, who appointed 5 commissioners to run the original settlement there?
+[2025-03-06 20:09:01][INFO] - Question: What year was the artist who released the album, The A-Z Recordings, born?
+[2025-03-06 20:09:03][INFO] - Question: The Professional Basketball Club LLC is an investment group headed by an American businessman who is the chairman of Dorchester Capital Corporation, and is also the chairman emeritus of the board of directors of what organization?
+[2025-03-06 20:09:04][INFO] - Question: When was the composer who wrote the music for Euryanthe born? 
+[2025-03-06 20:09:05][INFO] - Question: Founding Partner and Chief Executive Officer of Windham Capital Management, LLC, Mark Kritzman, teaches a graduate finance course at a business school located where?
+[2025-03-06 20:09:05][INFO] - Question: Where are the headquarters of the bank Linnar Viik serves on the board of?
+[2025-03-06 20:09:06][INFO] - Question: What department of the United States government administers the program that funds the California Healthy Families Program?
+[2025-03-06 20:09:06][INFO] - Question: In which County is the city that the radio station WHP is licensed to serve ?
+[2025-03-06 20:09:07][INFO] - Question: Out of 49 college and high school players, which number draft pick was Andrew Bogut in 2005? 
+[2025-03-06 20:09:08][INFO] - Question: The American Writers Association (AWA) was an organization formed in 1946 in opposition to an attempt to introduce a form of trade unionism for authors, its members included writers such as who, she was an American author and journalist, and only had one novel published during her lifetime, the American Civil War-era novel, "Gone with the Wind", for which she won the National Book Award for Most Distinguished Novel of 1936?
+[2025-03-06 20:09:08][INFO] - Question: Cedric Ernest "Spike" Howell, 17 June 1896 – 10 December 1919, was an Australian fighter pilot and flying ace of the First World War, graduating as a pilot, he was commissioned as a second lieutenant and posted to No. 45 Squadron RFC in France during October 1917, 45(R) Squadron is a flying squadron of the Royal Air Force, established on 1 March 1916 as part of which organization?
+[2025-03-06 20:09:09][INFO] - Question: In what year was the man who wrote Elusive Isabel born?
+[2025-03-06 20:09:10][INFO] - Question: On October 4 Gowell hit a double on a 3–2 count, hitting a fastball by a pitcher nicknamed what?
+[2025-03-06 20:09:10][INFO] - Question: Mastophora dizzydeani was named after a pitcher who was the last in the National League to win how many games in one season?
+[2025-03-06 20:09:11][INFO] - Question: What was the album that produced the single which broke the record for the most weeks spent at number one by a female country artist ?
+[2025-03-06 20:09:11][INFO] - Question: How frequent is the male equivalent of this type of bride who lists herself in catalogs and is selected by a man for marriage and that rural Japanese men have begun taking from he Philippines, Sri Lanka, Thailand and other Asian countries in the mid 1980s?
+[2025-03-06 20:09:12][INFO] - Question: The 1989 NBA draft produced the player who spent 13 years with which three teams?
+[2025-03-06 20:09:13][INFO] - Question: What is the name of the 2015 civil rights case that caused Kimberly Jean Davis to be jailed after denying same-sex marriage?
+[2025-03-06 20:09:14][INFO] - Question: Elizabethton is the historical site of a semi-autonomous government provided a basis for what later developed into the state of what?
+[2025-03-06 20:09:14][INFO] - Question: How many copies did the best selling album by Sepultura sell ?
+[2025-03-06 20:09:15][INFO] - Question: How many meters is the race in which the novel "Gaming for Gold" features?
+[2025-03-06 20:09:15][INFO] - Question: Flip Your Wig was released by the band that formed in what year?
+[2025-03-06 20:09:16][INFO] - Question: Ronald G. Bruno is the former Chairman and Chief Executive Officer of Bruno's, Inc. which is a large supermarket chain based where?
+[2025-03-06 20:09:17][INFO] - Question: On the morning of April 17, 2009 Cyclone Bijli made landfall just south of a seaport city located on the banks of what river?
+[2025-03-06 20:09:18][INFO] - Question: Which beach is 2 miles from the start of the trail that has been named one of the most beautiful and dangerous hikes in the world?
+[2025-03-06 20:09:18][INFO] - Question: Which radio station is licensed to the county seat of Mower County?
+[2025-03-06 20:09:19][INFO] - Question: What sovereign state in Western Asia was the birth place of Emin Arslan?
+[2025-03-06 20:09:20][INFO] - Question: How tall (antenna included) is the 102-story skyscraper atop which WXNY-FM has a transmitter?
+[2025-03-06 20:09:20][INFO] - Question: Cory Devela began wrestling in elementary school and continued through high school, which veteran fighter does he train with, at Victory Athletics?
+[2025-03-06 20:09:21][INFO] - Question: What is the name of the record label that formed the girl group that wrote the hit song "What About Us"?
+[2025-03-06 20:09:22][INFO] - Question: Who produce the Mexican telenovela which has "El Perdedor" as an opening theme?
+[2025-03-06 20:09:22][INFO] - Question: Maiden's Tower and Aşiyan Museum, are in which location?
+[2025-03-06 20:09:23][INFO] - Question: Where did the hurricane, that severely affected Montebello, Virginia in 1969, make landfall in the US on August 18th ?
+[2025-03-06 20:09:24][INFO] - Question: In which theatre of New York City did a play, described as Marxism but using the figure from a Christmas pantomime in the United Kingdom, perform?
+[2025-03-06 20:09:24][INFO] - Question: How many districts does the LRL301 radio station serve?
+[2025-03-06 20:09:25][INFO] - Question: Wilkins Township in Pennsylvania has been served by whom since 2003?
+[2025-03-06 20:09:26][INFO] - Question: In what city did the band who performed "Valleri" form in?
+[2025-03-06 20:09:27][INFO] - Question: Chronologie, a studio album, was inspired by a book which was first publoished in what year?
+[2025-03-06 20:09:28][INFO] - Question: Hurricane Florence was the first North Atlantic hurricane to produce hurricane-force winds on the island of Bermuda, since Hurricane Fabian in September 2003, Hurricane Fabian was a powerful  hurricane, of which type, that hit Bermuda in early September during the 2003 Atlantic hurricane season?
+[2025-03-06 20:09:28][INFO] - Question: Who is the forward who was part of the Run TMC threesome currently the head coach for?
+[2025-03-06 20:09:29][INFO] - Question: Bob Boetticher was the lead funeral director for a former President who died in what year?
+[2025-03-06 20:09:29][INFO] - Question: Guilderland High School is part of a school district with how many students?
+[2025-03-06 20:09:30][INFO] - Question: Was Casino Jack and the United States of Money released before It Might Get Loud?
+[2025-03-06 20:09:30][INFO] - Question: Keith Chapman, was an American concert organist known best for his flair at playing in the symphonic style of organ performance, and particularly for his long and distinguished association (1966-1989) with which founder of the store that bears his name, was unable to join the U.S. Army during the American Civil War because of a persistent cough?
+[2025-03-06 20:09:32][INFO] - Question: How wide is the country which has Jenkovce  as a village in the east side? 
+[2025-03-06 20:09:33][INFO] - Question: Did man-made modifications to Conewago Canal and Tennessee–Tombigbee Waterway assist in navigating these passages?
+[2025-03-06 20:09:33][INFO] - Question: Where and when was the band that wrote "Rock or Bust" formed?
+[2025-03-06 20:09:34][INFO] - Question: Ella Mikhaylovna Polyakova, is a Russian human rights activist, a member of which current President of Russia, holding the office since 7 May 2012?
+[2025-03-06 20:09:34][INFO] - Question: Who is the father of the woman who became primary owner of the Lakers in the 2016-17 Los Angeles Lakers season?
+[2025-03-06 20:09:35][INFO] - Question: When was the American basketball player born who was among the top three picks of The 1992 NBA draft with Shaquille O'Neal and  Alonzo Mourning?
+[2025-03-06 20:09:35][INFO] - Question: For two seasons, Murat Šaran joined a Spanish football club based where?
+[2025-03-06 20:09:36][INFO] - Question: Borio is a brand of biscuits local to Egypt that is similar to a cookie that has become the best-selling cookie in the United States since its introduction in what year?
+[2025-03-06 20:09:36][INFO] - Question: The town of Riverhead rests on the mouth of which river that drains an area between the Harbor Hill and Ronkonkoma terminal moraines?
+[2025-03-06 20:09:37][INFO] - Question: During the 2010 Dutch general election, which current Prime Minister led the People's Party for Freedom and Democracy?
+[2025-03-06 20:09:38][INFO] - Question: Evan Turner was selected in what NBA draft that also included five players being drafted from the same school in the first round?
+[2025-03-06 20:09:38][INFO] - Question: Are Malipo County and Laiwu in the same country?
+[2025-03-06 20:09:39][INFO] - Question: Who were the band members that recorded their 3rd album in Los Angeles and London?
+[2025-03-06 20:09:40][INFO] - Question: The culture of the United Kingdom is influenced by the UK's history as a developed island country, a liberal democracy and a major power; its predominantly Christian religious life, Religion in the United Kingdom and in the countries that preceded it has been dominated, for over how many years?
+[2025-03-06 20:09:40][INFO] - Question: Who controls the national team Mick Clavan played for?
+[2025-03-06 20:09:41][INFO] - Question: What year did Nikolay Oleshev command the 113th Rifle Corps during the Baltic Strategic Offensive?
+[2025-03-06 20:09:42][INFO] - Question: My Son starred the actor who began his career in which field in the 1990s?
+[2025-03-06 20:09:42][INFO] - Question: When was the American former professional basketball player born who was first overall pick in the 2000 NBA draft by the Nets'? 
+[2025-03-06 20:09:43][INFO] - Question: What is the acreage of the laboratory located near the former railroad junction of the Patterson Creek Cutoff and the main B&O line?
+[2025-03-06 20:09:43][INFO] - Question: Where is the group which  Stephen Martin  as the chief executive officer based?
+[2025-03-06 20:09:44][INFO] - Question: During the Second World War, the No. 22 Squadron of the Royal Air Force operated in the torpedo bomber role over this body of water located between Great Britain, Scandinavia, Germany, the Netherlands, Belgium, and France?
+[2025-03-06 20:09:45][INFO] - Question: At what university did this person who was included in Remember This House worked to overturn segregation?
+[2025-03-06 20:09:45][INFO] - Question: What was the name of the debut album of the singer of "Get Him Back"?
+[2025-03-06 20:09:46][INFO] - Question: How many acres is the National Forest where Johns Mountain is located?
+[2025-03-06 20:09:47][INFO] - Question: Little by Little  contributed the second opening theme to what 2004  Japanese anime television series produced by Sunrise?
+[2025-03-06 20:09:48][INFO] - Question: The song "Gone" is the sequel to Nelly's 2002 worldwide number one single that was a number one hit in how many countries ?
+[2025-03-06 20:09:49][INFO] - Question: The novel which had a line from which the title of the album "Boats Against the Current" is taken is from what year?
+[2025-03-06 20:09:49][INFO] - Question: Which football club that Steve Carney played for was founded in 1907 and accepted into the Football League in 1921?
+[2025-03-06 20:09:50][INFO] - Question: What kind of collection does Flight Tribe and How Do I Live have in common?
+[2025-03-06 20:09:50][INFO] - Question: What are the cells of the immune system that are involved in protecting the body against both infectious disease and foreign invaders, where a disease of the eye in response to changes in the vitreous humor or more rarely, diabetes, that causes the cells response?
+[2025-03-06 20:09:52][INFO] - Question: What racing stadiom measured 2037 feet in length and had the street Vicus Tuscus run through it?
+[2025-03-06 20:09:52][INFO] - Question: Which team were Joe Kelley and Hughie Jennings a part of?
+[2025-03-06 20:09:53][INFO] - Question: In what city is the organization that ranked Nicole Joseph #100 Woman based?
+[2025-03-06 20:09:54][INFO] - Question: What university was Henry Coddington"s college a part of?
+[2025-03-06 20:09:54][INFO] - Question: On what date did the tornado occur that destroyed Plaza Towers Elementary School?
+[2025-03-06 20:09:55][INFO] - Question: Which magazine came out first, Architectural Digest or Human Rights Quarterly?
+[2025-03-06 20:09:55][INFO] - Question: When was the album with the lead single "Black Skinhead" released?
+[2025-03-06 20:09:56][INFO] - Question: Which mutual building society, based in Leek, merged with a mortgage lending subsidiary of the cooperative bank in 2009?
+[2025-03-06 20:09:57][INFO] - Question: Which player with the middle name Ellard did Donald "Duck" Richardson coach in high school ?
+[2025-03-06 20:09:57][INFO] - Question: Which member of the South Side Writers Group was not only a poet and activist but a businessman as well?
+[2025-03-06 20:09:58][INFO] - Question: Among Bursera and Berkheya, which can be found in South Africa?
+[2025-03-06 20:09:58][INFO] - Question: Remember to Live was released by a band formed in Temple, Texas in what year?
+[2025-03-06 20:09:59][INFO] - Question: Who co-founded Sh-K-Boom Records, which is a independent record label and producer of recorded and live entertainment with the mission of bridging the gap between pop music and theater?
+[2025-03-06 20:10:00][INFO] - Question: What is the capital of the state Fred Mundee went to High School in?
+[2025-03-06 20:10:00][INFO] - Question: When did the founder of the Westboro Baptist Church die?
+[2025-03-06 20:10:01][INFO] - Question: Ariel Heryanto is an Indonesian sociologist whose main area of interests are cultural studies, media studies, and postcolonial studies, he's currently Herb Feith Professor for the Study of Indonesia at which Australian public research university based in Melbourne, Australia?
+[2025-03-06 20:10:02][INFO] - Question: Modest Stein was the intended replacement in the attempted assassination of an American who owned extensive real estate holdings in what state?
+[2025-03-06 20:10:02][INFO] - Question: Which 100 list compilation is this company where Gary Loveman served as executive vice president a member of?
+[2025-03-06 20:10:03][INFO] - Question: John W. Sidgmore, became the Chief Executive Officer of UUNET Technologies in June 1994, Sidgmore worked to revive WorldCom after disgraced CEO Bernard Ebbers, a Canadian businessman, that co-founded which telecommunications company?
+[2025-03-06 20:10:03][INFO] - Question: The Dodos and Doves, are a group that have which mutual genre as well?
+[2025-03-06 20:10:04][INFO] - Question: Who operates the location that Not Now, Comrade was shot at?
+[2025-03-06 20:10:05][INFO] - Question: The RATE project has a member who has proposed a theory that resolves what problem with young-earth creationism?
+[2025-03-06 20:10:05][INFO] - Question: One of "The Testimony" producers currently holds the title of Executive Vice President of which NFL team?
+[2025-03-06 20:10:06][INFO] - Question: In which Parish was the property know as the 'Monk's Garden' located?
+[2025-03-06 20:10:06][INFO] - Question: The sultan who ordered the extermination of specific Armenian districts in the Ottoman Empire in 1895 ws deposed on what date?
+[2025-03-06 20:10:07][INFO] - Question: Evynne Hollens is married to a man that was born in what year?
+[2025-03-06 20:10:08][INFO] - Question: Who You Are was on an album that followed what album?
+[2025-03-06 20:10:08][INFO] - Question: Hurricane Arthur was the first hurricane to make landfall in the US since a 2012 storm that hit what state?
+[2025-03-06 20:10:09][INFO] - Question: What year was the  Goebbels children's mother born ?
+[2025-03-06 20:10:09][INFO] - Question: What theater did the company that Eliard Swanston worked for perform at?
+[2025-03-06 20:10:10][INFO] - Question: What is the other name  for a huge area of heavy fighting across Europe with the Soviet Union having occupied and annexed several countries effectively handed over by Nazi Germany?
+[2025-03-06 20:10:11][INFO] - Question:  The Front for the Liberation of Zimbabwe was announced in a city with an elevation of what?
+[2025-03-06 20:10:11][INFO] - Question: Do the bands My Sister's Machine and Grinderman have the same number of members?
+[2025-03-06 20:10:12][INFO] - Question: What city and state is the organization that Alexander Volkanovski competes in based in?
+[2025-03-06 20:10:12][INFO] - Question: When was the award "___ Know Why" won established?
+[2025-03-06 20:10:13][INFO] - Question: The Ohm is named after someone who began his research while working what job?
+[2025-03-06 20:10:14][INFO] - Question: What is the name of the Taylor Swift song which was number-one single on the "Billboard" Hot Country Songs chart and the album peaked at number five on the "Bllboard 200" ?
+[2025-03-06 20:10:14][INFO] - Question: Truman is the former curator of contemporary art at a museum in Wisconsin which is committed to understanding what people?
+[2025-03-06 20:10:16][INFO] - Question: Which band's debut album is named after a hockey played nicknamed "The Great One"?
+[2025-03-06 20:10:16][INFO] - Question: In between Amélie Mauresmo and Édouard Roger-Vasselin who won the men's doubles title at Roland Garros in 2014?
+[2025-03-06 20:10:17][INFO] - Question: What movie did Muhammad Ali, a former heavyweight champion inspire after The Rumble in the Jungle?
+[2025-03-06 20:10:17][INFO] - Question: Which government body did this Canadian journalist and author of his own account of living with the pirates, with its excerpt published in "The Guardian," advise?
+[2025-03-06 20:10:18][INFO] - Question: When was the Emperor of Austria and King of Hungary died who proclaimed December Constitution?
+[2025-03-06 20:10:19][INFO] - Question: What was El Gallo de Oro's first album to become number one on the "Billboard" Top Latin Albums?
+[2025-03-06 20:10:19][INFO] - Question: What is the full name of one of the double agents who met Russian handlers at St Ermin's Hotel in London?
+[2025-03-06 20:10:20][INFO] - Question: What is the name of the book that was written by the author of Metamagical Themas?
+[2025-03-06 20:10:21][INFO] - Question: The Las Vegas and Tonopah Railroad was a 197.9 mile railroad.that ran northwest from a connection with the mainline of the San Pedro, Los Angeles and Salt Lake Railroad at Las Vegas, Nevada, the SPLA&SL railroad later became part of which freight hauling railroad that operates 8,500 locomotives over 32,100 route-miles in 23 states west of Chicago and New Orleans?
+[2025-03-06 20:10:21][INFO] - Question: What famous landmark in York, Maine is also the burial place of Mi'kmaq Chief St. Aspinquid?
+[2025-03-06 20:10:22][INFO] - Question: Your Cheatin' Heart was written and recorded by an American singer-songwriter who recorded 35 singles that reached the top 10 on what chart?
+[2025-03-06 20:10:23][INFO] - Question: What was the email system released by the owners of the Perkins Estate in the 1980s called?
+[2025-03-06 20:10:23][INFO] - Question:  "Donk" is a single from the first studio album by a rapper whose debut singled peat a what spot on the U.S. "Billboard" Hot 100?
+[2025-03-06 20:10:24][INFO] - Question: What branch of armed forces, was the subject of "Battle Hymn of Lt. Calley" a member of?
+[2025-03-06 20:10:24][INFO] - Question: Who replaced the producer, born in 1971, who worked with the band on their studio album "Room on Fire?"
+[2025-03-06 20:10:25][INFO] - Question: Did Twist or The Pastel Journal come out first?
+[2025-03-06 20:10:25][INFO] - Question: Cairenn Chasdub is the daughter of the king of people from what country?
+[2025-03-06 20:10:26][INFO] - Question: Wealth Partaking Scheme a cash disbursement policy to holders of a card with what acronym?
+[2025-03-06 20:10:27][INFO] - Question: Which tropical cyclone was the final cyclone to affect the Phillippines during the 1984 Pacific typhoon season?
+[2025-03-06 20:10:27][INFO] - Question: The Boxmasters are a band that included which singer and musician on bass?
+[2025-03-06 20:10:28][INFO] - Question: Who is the singer of one of the songs that "Just the Two of Us" was behind on the "Billboard" Hot 100?
+[2025-03-06 20:10:29][INFO] - Question: In which band did Paul Mirkovich work, that was formed in England in 1978?
+[2025-03-06 20:10:29][INFO] - Question: What artist might have influenced the song, "The Devil's Bleeding Crown"?
+[2025-03-06 20:10:30][INFO] - Question: When was the album Obstacle 1 is on recorded?
+[2025-03-06 20:10:30][INFO] - Question: How many people were killed in the worst flooding in Sri Lanka in 56 years?
+[2025-03-06 20:10:31][INFO] - Question: Robert Kenneth Kraft, is an American businessman, he's  the chairman and chief executive officer of the Kraft Group, LLC, a group of privately held companies in the professional sports, manufacturing, and real estate development industries doing business in 90 countries, and founded in which year?
+[2025-03-06 20:10:31][INFO] - Question: Who was Born first  Ulysses S. Grant or Edward Lyon Buchwalter?
+[2025-03-06 20:10:33][INFO] - Question: Martin Manley served as the Executive Director to a school name after whom?
+[2025-03-06 20:10:34][INFO] - Question: What king of Scots was deposed before an alliance between Scotland and France was signed?
+[2025-03-06 20:10:34][INFO] - Question: Leeland Road station has a line that runs 1522 miles from New York City to what other major hub?
+[2025-03-06 20:10:35][INFO] - Question: What year was the album Hitchin' a Ride is on released?
+[2025-03-06 20:10:35][INFO] - Question: What job does the man traded midseason in the 2011–12 Los Angeles Lakers to the Cleveland Cavaliers have with the Lakers?
+[2025-03-06 20:10:36][INFO] - Question: Lieutenant-General Sir William Russell, 2nd Baronet (5 April 1822 – 19 March 1892), was a British Army officer who served in the Crimean War and in the suppression of which major, but ultimately unsuccessful, uprising in India in 1857–58 against the rule of the British East India Company, which functioned as a sovereign power on behalf of the British Crown?
+[2025-03-06 20:10:37][INFO] - Question: Who wrote a play about a man who is unoffically called the "Father of the Nation"?
+[2025-03-06 20:10:37][INFO] - Question: How many people were killed by the mass murdered that killed Kevin Granata?
+[2025-03-06 20:10:38][INFO] - Question: Who sang All I Got is You, and is also Dennis Coles?
+[2025-03-06 20:10:39][INFO] - Question: When was the chief executive officer (CEO) of GlaxoSmithKline born to whom  Deirdre Connelly reported to?
+[2025-03-06 20:10:39][INFO] - Question: Hate to Feel is the tenth track on what Alice in Chains' album that peaked as number six on the Billboard 200?
+[2025-03-06 20:10:40][INFO] - Question: Who is said to be responsible for the Adams going free?
+[2025-03-06 20:10:41][INFO] - Question: Which company overseeing projects like the Great Elephant Census had Jody Allen as its chief executive officer until 2015?
+[2025-03-06 20:10:41][INFO] - Question: What film that Bill Tytla worked on came out in 1937?
+[2025-03-06 20:10:42][INFO] - Question: In which area was the Kritarchy established?
+[2025-03-06 20:10:43][INFO] - Question: who was one of the chairs on the Rate project?
+[2025-03-06 20:10:43][INFO] - Question: What is  Chokwe Lumumba's, the mayor elected of Jackson, Mississippi 0n June 4th, 2013, name at birth?
+[2025-03-06 20:10:44][INFO] - Question: The "Running Man" is also used in some forms of a rave and club dance that people who dance to it have often been referred to as what?
+[2025-03-06 20:10:45][INFO] - Question: In American English, what is this self-contained housing unit (a type of residential real estate) that occupies only part of a building, of which the living place of the lives of six young people from Bedsitcom?
+[2025-03-06 20:10:45][INFO] - Question: The 2007–08 season was Leeds United F.C.'s first ever season in the third tier of English football and saw them finish in the play-offs in League One, Dennis Wise started the season as manager, but left the club in January 2008 to join which club organization?
+[2025-03-06 20:10:46][INFO] - Question: Can’t is Not an Option is an autobiography by a politician that served as governor of South Carolina between which years ?
+[2025-03-06 20:10:47][INFO] - Question: The university, of which Nihal Jayawickrama was Professor of Human Rights from 1992 to 1993, was founded in what year?
+[2025-03-06 20:10:47][INFO] - Question: The Purpose Driven Life was written by the pastor who founded what church?
+[2025-03-06 20:10:48][INFO] - Question: Who restored then1824 constitution and was called "the man of Destiny"?
+[2025-03-06 20:10:48][INFO] - Question: What language were books being translated into during the era of Haymo of Faversham?
+[2025-03-06 20:10:49][INFO] - Question: Narakasuravadham is an Aattakatha authored by a maharajah that was born in what year?
+[2025-03-06 20:10:50][INFO] - Question: When was the university founded which is in Baltimore, Maryland and Stephen J. Suomi served as a research professor?
+[2025-03-06 20:10:50][INFO] - Question: Jenny Ming has been Chief Executive Officer since 2009 of a clothing store headquartered in what city in California?
+[2025-03-06 20:10:51][INFO] - Question: Lawrence Jacobs is the Executive Vice President of what resort operating company?
+[2025-03-06 20:10:51][INFO] - Question: Teutonic knights committed crusades under what religion?
+[2025-03-06 20:10:52][INFO] - Question: to what county of Maine did Leonard Jarvis move to in 1816?
+[2025-03-06 20:10:52][INFO] - Question: In the Philippines, it's known as Typhoon Jose, a very powerful tropical cyclone, in the Western Pacific basin, the most intense tropical cyclone worldwide in 2014, is also called?
+[2025-03-06 20:10:53][INFO] - Question: What typhoon struck China in 2012 approached within 800 km of Hong Kong and posed a threat of deteriorating conditions in Hong Kong?
+[2025-03-06 20:10:54][INFO] - Question: What work of Eva Bendix Peterson was critical of the resurgence of 19th century ideas?
+[2025-03-06 20:10:54][INFO] - Question: The title of this film is french and is a continuation of Carne, what is the film called?
+[2025-03-06 20:10:55][INFO] - Question: What nationality was the businessman whom John W. Sidgmore replaced as chief executive officer of the telecommunications company WorldCom?
+[2025-03-06 20:10:55][INFO] - Question: How long does the league that Souvik Chakrabarti plays for run?
+[2025-03-06 20:10:56][INFO] - Question: Richard Hewes was a politician from a town in what Maine county?
+[2025-03-06 20:10:56][INFO] - Question: Who founded the company for which Estocolmo was made?
+[2025-03-06 20:10:58][INFO] - Question: What American singer and parodist worked with Jim Blashfield on a music video?
+[2025-03-06 20:10:58][INFO] - Question: ich of the Wilsons, husband Dave or wife Kortney, is a country musician and television personality in Nashville, Tennessee with the singing talent and a licensed real estate professional as well?
+[2025-03-06 20:10:59][INFO] - Question: What medication, used as chemotherapy and to suppress the immune system, is used as treatment for Autoimmune encephalitis?
+[2025-03-06 20:11:00][INFO] - Question: Poland is a party to all important international agreements relevant to human rights including one adopted on what date?
+[2025-03-06 20:11:01][INFO] - Question: When was the person who wrote The Sovereignty of Good born?
+[2025-03-06 20:11:01][INFO] - Question: What year did Henry FitzClarence's mother die?
+[2025-03-06 20:11:02][INFO] - Question: What medal did the new namesake of the campus of the Patchogue-Medford High School receive
+[2025-03-06 20:11:02][INFO] - Question: John Hamilton-Leslie fought on the side of a King of Great Britain and Ireland who was the ruler of the Duchy and Electorate of Brunswick-Luneburg in what empire?
+[2025-03-06 20:11:03][INFO] - Question: What old, Catholic university is home to a radio station with its antenna atop the Montefiore Medical Center?
+[2025-03-06 20:11:04][INFO] - Question:  John Brinkkotter made his debut in Round One of the 92nd season of the elite what?
+[2025-03-06 20:11:04][INFO] - Question: On what month did the studio that aired My Family's Got Guts close on?
+[2025-03-06 20:11:05][INFO] - Question: Who is an American author and mother of film and television producer Bryan Spears, who wrote a novel based on Britney's life?
+[2025-03-06 20:11:05][INFO] - Question: The Republican Party was known to be made up primarily of ethnic groups composed of descendants who settled in Liberia from what year?
+[2025-03-06 20:11:06][INFO] - Question: Grindhouse is a horror film double feature consisting of  "Planet Terror" and an American exploitation film about a stuntman who murders young women in what?
+[2025-03-06 20:11:07][INFO] - Question: Mats Jansson was Chief Executive Officer of an airline holding company headquartered in what country?
+[2025-03-06 20:11:07][INFO] - Question: Scandia Elementary School is located on an air base under the operational control of what?
+[2025-03-06 20:11:08][INFO] - Question: Hermann Grimmeiss is a German-Swedish physicist who focused his research on studies of the emission of electrons or other free carriers when light is shone onto a what?
+[2025-03-06 20:11:08][INFO] - Question: What company is the host of "The Nerdist Podcast" chief executive officer of?
+[2025-03-06 20:11:09][INFO] - Question: Aamir Rashadi Madni graduated from a univeristy founded in what year?
+[2025-03-06 20:11:09][INFO] - Question: What  brand did Anna Sheffield work with that was founded in Chicago, Illinois in 1928? 
+[2025-03-06 20:11:10][INFO] - Question: Orden Satany was the album produced by the leader of which band?
+[2025-03-06 20:11:10][INFO] - Question: Adolf Bastion influenced the thought of a man who wrote what? 
+[2025-03-06 20:11:11][INFO] - Question: What were the names of the directors of the first movie exhibited in the Ottoman Empire?
+[2025-03-06 20:11:12][INFO] - Question: Joe Embiid, who was drafted as the third overall pick in the 2014 NBA by the 76ers, went to which college?
+[2025-03-06 20:11:12][INFO] - Question: What year was the university where S.A.P.L. Cloetingh works founded?
+[2025-03-06 20:11:13][INFO] - Question: How many people were injured by the tornado that destroyed Plaza Towers Elementary School?
+[2025-03-06 20:11:14][INFO] - Question: Which magazine was founded first, Better Homes and Gardens or Human Rights Quarterly?
+[2025-03-06 20:11:14][INFO] - Question: What aircraft company came up with the pane Jean-Phillippe Douin used as a fighter pilot?
+[2025-03-06 20:11:15][INFO] - Question: Which two forces have come to the aid of South Korea during The Korean War and, especially, The Battle of Pyongyang?
+[2025-03-06 20:11:15][INFO] - Question: What philanthropic Roman emperor ruled during the time of the group of ten cities on the eastern frontier of the Roman Empire that were centers of Greek and Roman culture in an otherwise Semitic-speaking region?
+[2025-03-06 20:11:16][INFO] - Question: Which state was this American lawyer and Republican politician from, who started his new position in 2017 backed by Trump but failed to work well with the senior White House adviser Don Benton?
+[2025-03-06 20:11:16][INFO] - Question: What year was the artist, who released the debut album Værsgo, born?
+[2025-03-06 20:11:18][INFO] - Question: Who was born in Ohio and played as soloist at West Virginia Symphony Orchestra?
+[2025-03-06 20:11:19][INFO] - Question: Robert Selander is the Chief Executive Officer for what American multinational financial corporation?
+[2025-03-06 20:11:19][INFO] - Question: What genre of music do both Doc Hammer and 6 Interpretations have in common?
+[2025-03-06 20:11:20][INFO] - Question: What type of curriculum does the high school Lauren J. Fuchs teach for grades nine through twelve ?
+[2025-03-06 20:11:21][INFO] - Question: Uksuum Cauyai: Drums of Winter, also referred to only as "Drums of Winter," released in which year, is an ethnographic documentary on the culture of the Yup'ik people in Emmonak, a village on the shore of the Bering Sea?
+[2025-03-06 20:11:21][INFO] - Question: Alberto Granado authored a memoir that was a reference for the 2004 film about which revolutionary?
+[2025-03-06 20:11:22][INFO] - Question: The 26th Battalion was an infantry battalion of the Australian Army, the battalion fought at Gallipoli in the latter stages of that campaign, what is the title of the campaign of the First World War that took place on the Gallipoli peninsula (Gelibolu in modern Turkey) in the Ottoman Empire between 25 April 1915 and 9 January 1916?
+[2025-03-06 20:11:23][INFO] - Question: What band released a studio album in 1974 and a compilation album in 1993?
+[2025-03-06 20:11:23][INFO] - Question: Crestwood is located in which greater metropolitan area?
+[2025-03-06 20:11:24][INFO] - Question: In what year was the actor who played The Master in "The War Master" born?
+[2025-03-06 20:11:25][INFO] - Question: What were the earliest settlements on the island affected by Hurricane Dot in 1959?
+[2025-03-06 20:11:26][INFO] - Question: A stressed member engine, is a vehicle engine used as an active structural element of the chassis to transmit forces and torques, rather than being passively contained by the chassis with anti-vibration mounts, Automotive engineers use the method for what particular purpose in vehicles, Automobile Engineering is a branch study of engineering which teaches manufacturing, designing, mechanical mechanisms as well operations of automobiles?
+[2025-03-06 20:11:27][INFO] - Question: When was the writer of "In This Life" born?
+[2025-03-06 20:11:28][INFO] - Question: What was the number of students in 2016 that had enrolled at the university where Bud Sanders coached from 1923-1926?
+[2025-03-06 20:11:28][INFO] - Question: What was the length, in the 1980's, of the river John J Conway used as a source of water for the settlers to whom he sold land ?
+[2025-03-06 20:11:29][INFO] - Question: Are both Salford Cathedral and Plymouth Cathedral found in the same country?
+[2025-03-06 20:11:30][INFO] - Question: The 1996–97 NBA season was the Magic's which ordinal number season, in the National Basketball Association, after losing Shaquille O'Neal via free agency to the Los Angeles Lakers in the offseason, the Magic signed free agent Gerald Bernard Wilkins, a retired American professional basketball player?
+[2025-03-06 20:11:30][INFO] - Question: What university conducts teaching and research of sciences in which Patrik Verstreken was a professor at?
+[2025-03-06 20:11:31][INFO] - Question: The son of Maye Musk was born in what year?
+[2025-03-06 20:11:31][INFO] - Question: Kristen Schaai plays Hurshe in what series about the long-hidden and isolated son of the Heartshe dynasty?
+[2025-03-06 20:11:32][INFO] - Question: Joan of Bar was niece to a a King of England but in which year did he gain this title?
+[2025-03-06 20:11:32][INFO] - Question: 1897–98 season was the fourth in the history of the Southern League in which a professional association football club, who plays in what league, won the Division One championship?
+[2025-03-06 20:11:33][INFO] - Question: How many times was the ninth overall pick in the 1997 NBA draft an All-Star?
+[2025-03-06 20:11:34][INFO] - Question: What is the release date of this fourth studio album of the rock band that released Yield as its fifth studio album?
+[2025-03-06 20:11:34][INFO] - Question: Where does the motorway end that runs south of Preston through the junction of M6 and another North West England motorway?
+[2025-03-06 20:11:35][INFO] - Question: What is the name of the brewing company who brewed Bevo in the early 20th century, and is based in St. Louis, Missouri?
+[2025-03-06 20:11:35][INFO] - Question: Bishop of the Isles traces its origins to the bishop who became an adventurer after which year?
+[2025-03-06 20:11:36][INFO] - Question: Joyce Keller has hosted a radio show on what Freeport, New York-licensed radio station since 1989?
+[2025-03-06 20:11:36][INFO] - Question: What  is the name of the house in Nuggehalli  Shivappa served?
+[2025-03-06 20:11:37][INFO] - Question:  Who produced a song that was released on September 12, 2008 by Big Machine Records, this artist has released four video albums and has appeared in thirty-eight music videos, five films and three television shows?
+[2025-03-06 20:11:38][INFO] - Question: n which country was citizen Kartam Joga a political activist and Maoist, imprisoned for participating in an ambush in which 75 members of the Central Armed Forces, originally known as the Crown Representative's Police, were killed?
+[2025-03-06 20:11:38][INFO] - Question: What players from the team who knocked the Detroit Pistons out of the Eastern Conference Finals in 2006 were selected for the 2006 NBA All-Star Game?  
+[2025-03-06 20:11:39][INFO] - Question: Which entertainment company is the creator of "The X Factor" the chief executive officer?
+[2025-03-06 20:11:40][INFO] - Question: Myron E. "Mike" Ullman III is the former Chairman of the Board and Chief Executive Officer of J.C. Penney, he was succeeded by which former chief executive officer of J. C. Penney? 
+[2025-03-06 20:11:40][INFO] - Question: What hurricane was deadly and destructive, came ashore Louisiana in 2012, and caused severe flooding in Florida?
+[2025-03-06 20:11:41][INFO] - Question: When did the first pilot store open of the chain in which Darren Shapland served as the chairman of between 2014 to 2016?
+[2025-03-06 20:11:41][INFO] - Question: Why star of The Belle of New York Dies in August of 1981?
+[2025-03-06 20:11:42][INFO] - Question: Cleverdicks host converted to which religion ?
+[2025-03-06 20:11:43][INFO] - Question: Mark Henry Belanger, nicknamed "The Blade", was an American professional baseball shortstop, he set franchise records for career games, assists and double plays as a shortstop, all of which were later broken by Cal Ripken Jr., nicknamed "The Iron Man", is an American former baseball shortstop and third baseman who played 21 seasons, (1981–2001), in Major League Baseball (MLB), for which organization?
+[2025-03-06 20:11:43][INFO] - Question: What two cities are home to the port of entry situated at the north end of the Port Subdivision railroad line?
+[2025-03-06 20:11:44][INFO] - Question: Suthan Suthersan was the Executive Vice President of a company founded in what year?
+[2025-03-06 20:11:44][INFO] - Question: What high school did the player who was the second overall pick in the 2004 NBA draft attend?
+[2025-03-06 20:11:45][INFO] - Question: LH&Stl Subdivision and Henderson Subdivision are both owned by what company?
+[2025-03-06 20:11:46][INFO] - Question: The ep The Summer was recorded by a band that started in what city?
+[2025-03-06 20:11:46][INFO] - Question: In what city does Doctor Carmel Heah Lee work in?
+[2025-03-06 20:11:47][INFO] - Question: What university helped develop the Pilatus SB-2 Pelican?
+[2025-03-06 20:11:47][INFO] - Question: Wayman Tisdale was an American professional basketball player in the NBA, and jazz bass guitarist, in 2008, which record label founded by multiple-Grammy Award nominee, Dave Koz, released previously unreleased music by who? 
+[2025-03-06 20:11:48][INFO] - Question: Question: Which NBA team gained a #4 pick for second straight year who played basketball for one season with Kansas Jayhawks before declaring for 2017 NBA draft?
+[2025-03-06 20:11:48][INFO] - Question: Contact was an American literary "little magazine" published during the early 1920s and again in 1932, Williams desired to create a distinctly American form of art free of the literary tradition running throughout the work of T. S. Eliot, a British essayist, publisher, playwright, literary and social critic, and "one of the twentieth century's major poets", and moved from his native United States to England in which year?
+[2025-03-06 20:11:49][INFO] - Question: Which character does the star of "Perfect High" play on the series "Famous in Love"?
+[2025-03-06 20:11:50][INFO] - Question: Alfred Sherman became an adviser to a Prime Minister of the United Kingdom that died in this year?
+[2025-03-06 20:11:50][INFO] - Question: The Russell Subdivision is a railroad line owned by a railroad headquartered in what state?
+[2025-03-06 20:11:50][INFO] - Question: Who was the legal grandson of the Earl of Merica?
+[2025-03-06 20:11:51][INFO] - Question: Who owns the radio station that serves the community originally named "Mill VIllage"?
+[2025-03-06 20:11:52][INFO] - Question: What  organic compound made synthetically or obtained from corn mint, peppermint, or other mint oils is found in a product used to prevent infection of cuts, as well as to act as an astringent to reduce skin irritation?
+[2025-03-06 20:11:53][INFO] - Question: How many singles were released in the fourth studio album by the singer who released Daydream in 1995?
