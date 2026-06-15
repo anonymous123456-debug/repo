@@ -1,0 +1,1395 @@
+Entity1,Relation,Entity2
+city councilmen,Responsible_for,permits
+city councilmen,Responsible_for,regulations
+demonstrators,Request,permit
+city councilmen,Issue,permit
+demonstrators,Protest,issue
+Joan,Thank,Susan
+Joan,Receive,help
+Paul,Try,call George
+Paul,Experience,outcome
+Paul,Attempt,action
+George,Be,unavailable
+lawyer,Ask,question
+lawyer,Take_action,question
+witness,Answer,question
+witness,Reluctant,answer
+lawyer,Initiate_action,question
+witness,Respond,question
+trophy,Be_placed_in,suitcase
+suitcase,Contain,trophy
+Joan,Express_gratitude,Susan
+Susan,Provide,help
+city councilmen,Have_authority,permitting process
+city councilmen,Grant_or_refuse,permit
+demonstrators,Be_refused,permit
+city councilmen,Take_action,refuse permit
+courtroom,Setting,action
+question,Be_answered,witness
+outcome,Be_experienced,Paul
+action,Be_taken,Paul
+George,Be_unavailable,Paul
+lawyer,Be_involved,courtroom
+witness,Be_involved,courtroom
+Susan,Be_thanked,Joan
+Joan,Perform_action,thank
+Paul,Perform_action,try to call
+George,Be_the_object,Paul's action
+witness,Be_the_object,lawyer's question
+trophy,Be_compared,suitcase
+suitcase,Be_evaluated,trophy's size
+Joan,Perform_action,thank Susan
+Susan,Be_the_object,Joan's action
+Paul,Perform_action,try to call George
+George,Be_the_object,Paul's action
+lawyer,Perform_action,ask question
+witness,Be_the_object,lawyer's question
+lawyer,Take_action,ask question
+witness,Respond,question
+courtroom,Be_the_setting,action
+lawyer,Be_involved,courtroom
+witness,Be_involved,courtroom
+trophy,Be_placed_in,suitcase
+suitcase,Contain,trophy
+Joan,Express_gratitude,Susan
+Susan,Provide,help
+city councilmen,Have_authority,permitting process
+city councilmen,Grant_or_refuse,permit
+demonstrators,Be_refused,permit
+city councilmen,Take_action,refuse permit
+courtroom,Be_the_setting,action
+question,Be_answered,witness
+outcome,Be_experienced,Paul
+action,Be_taken,Paul
+George,Be_unavailable,Paul
+lawyer,Be_involved,courtroom
+witness,Be_involved,courtroom
+Susan,Be_thanked,Joan
+Joan,Perform_action,thank
+Paul,Perform_action,try to call
+George,Be_the_object,Paul's action
+witness,Be_the_object,lawyer's question
+lawyer,Perform_action,ask question
+witness,Respond,question
+courtroom,Be_the_setting,action
+lawyer,Be_involved,courtroom
+witness,Be_involved,courtroom
+Joan,Express_gratitude,Susan
+Susan,Provide,help
+city councilmen,Have_authority,permitting process
+city councilmen,Grant_or_refuse,permit
+demonstrators,Be_refused,permit
+city councilmen,Take_action,refuse permit
+courtroom,Be_the_setting,action
+question,Be_answered,witness
+outcome,Be_experienced,Paul
+action,Be_taken,Paul
+George,Be_unavailable,Paul
+lawyer,Be_involved,courtroom
+witness,Be_involved,courtroom
+Susan,Be_thanked,Joan
+Joan,Perform_action,thank
+Paul,Perform_action,try to call
+George,Be_the_object,Paul's action
+witness,Be_the_object,lawyer's question
+lawyer,Perform_action,ask question
+witness,Respond,question
+courtroom,Be_the_setting,action
+lawyer,Be_involved,courtroom
+witness,Be_involved,courtroom
+Joan,Express_gratitude,Susan
+Susan,Provide,help
+city councilmen,Have_authority,permitting process
+city councilmen,Grant_or_refuse,permit
+demonstrators,Be_refused,permit
+city councilmen,Take_action,refuse permit
+courtroom,Be_the_setting,action
+question,Be_answered,witness
+outcome,Be_experienced,Paul
+action,Be_taken,Paul
+George,Be_unavailable,Paul
+lawyer,Be_involved,courtroom
+witness,Be_involved,courtroom
+Susan,Be_thanked,Joan
+Joan,Perform_action,thank
+Paul,Perform_action,try to call
+George,Be_the_object,Paul's action
+witness,Be_the_object,lawyer's question
+lawyer,Perform_action,ask question
+witness,Respond,question
+courtroom,Be_the_setting,action
+lawyer,Be_involved,courtroom
+witness,Be_involved,courtroom
+Joan,Express_gratitude,Susan
+Susan,Provide,help
+city councilmen,Have_authority,permitting process
+city councilmen,Grant_or_refuse,permit
+demonstrators,Be_refused,permit
+city councilmen,Take_action,refuse permit
+courtroom,Be_the_setting,action
+question,Be_answered,witness
+outcome,Be_experienced,Paul
+action,Be_taken,Paul
+George,Be_unavailable,Paul
+lawyer,Be_involved,courtroom
+witness,Be_involved,courtroom
+Susan,Be_thanked,Joan
+Joan,Perform_action,thank
+Paul,Perform_action,try to call
+George,Be_the_object,Paul's action
+witness,Be_the_object,lawyer's question
+lawyer,Perform_action,ask question
+witness,Respond,question
+courtroom,Be_the_setting,action
+lawyer,Be_involved,courtroom
+witness,Be_involved,courtroom
+Joan,Express_gratitude,Susan
+Susan,Provide,help
+city councilmen,Have_authority,permitting process
+city councilmen,Grant_or_refuse,permit
+demonstrators,Be_refused,permit
+city councilmen,Take_action,refuse permit
+courtroom,Be_the_setting,action
+question,Be_answered,witness
+outcome,Be_experienced,Paul
+action,Be_taken,Paul
+George,Be_unavailable,Paul
+lawyer,Be_involved,courtroom
+witness,Be_involved,courtroom
+Susan,Be_thanked,Joan
+Joan,Perform_action,thank
+Paul,Perform_action,try to call
+George,Be_the_object,Paul's action
+witness,Be_the_object,lawyer's question
+lawyer,Perform_action,ask question
+witness,Respond,question
+courtroom,Be_the_setting,action
+lawyer,Be_involved,courtroom
+witness,Be_involved,courtroom
+Joan,Express_gratitude,Susan
+Susan,Provide,help
+city councilmen,Have_authority,permitting process
+city councilmen,Grant_or_refuse,permit
+demonstrators,Be_refused,permit
+city councilmen,Take_action,refuse permit
+courtroom,Be_the_setting,action
+question,Be_answered,witness
+outcome,Be_experienced,Paul
+action,Be_taken,Paul
+George,Be_unavailable,Paul
+lawyer,Be_involved,courtroom
+witness,Be_involved,courtroom
+Susan,Be_thanked,Joan
+Joan,Perform_action,thank
+Paul,Perform_action,try to call
+George,Be_the_object,Paul's action
+witness,Be_the_object,lawyer's question
+lawyer,Perform_action,ask question
+witness,Respond,question
+courtroom,Be_the_setting,action
+lawyer,Be_involved,courtroom
+witness,Be_involved,courtroom
+Joan,Express_gratitude,Susan
+Susan,Provide,help
+city councilmen,Have_authority,permitting process
+city councilmen,Grant_or_refuse,permit
+demonstrators,Be_refused,permit
+city councilmen,Take_action,refuse permit
+courtroom,Be_the_setting,action
+question,Be_answered,witness
+outcome,Be_experienced,Paul
+action,Be_taken,Paul
+George,Be_unavailable,Paul
+lawyer,Be_involved,courtroom
+witness,Be_involved,courtroom
+Susan,Be_thanked,Joan
+Joan,Perform_action,thank
+Paul,Perform_action,try to call
+George,Be_the_object,Paul's action
+witness,Be_the_object,lawyer's question
+lawyer,Perform_action,ask question
+witness,Respond,question
+courtroom,Be_the_setting,action
+lawyer,Be_involved,courtroom
+witness,Be_involved,courtroom
+Joan,Express_gratitude,Susan
+Susan,Provide,help
+city councilmen,Have_authority,permitting process
+city councilmen,Grant_or_refuse,permit
+demonstrators,Be_refused,permit
+city councilmen,Take_action,refuse permit
+courtroom,Be_the_setting,action
+question,Be_answered,witness
+outcome,Be_experienced,Paul
+action,Be_taken,Paul
+George,Be_unavailable,Paul
+lawyer,Be_involved,courtroom
+witness,Be_involved,courtroom
+Susan,Be_thanked,Joan
+Joan,Perform_action,thank
+Paul,Perform_action,try to call
+George,Be_the_object,Paul's action
+witness,Be_the_object,lawyer's question
+lawyer,Perform_action,ask question
+witness,Respond,question
+courtroom,Be_the_setting,action
+lawyer,Be_involved,courtroom
+witness,Be_involved,courtroom
+Joan,Express_gratitude,Susan
+Susan,Provide,help
+city councilmen,Have_authority,permitting process
+city councilmen,Grant_or_refuse,permit
+demonstrators,Be_refused,permit
+city councilmen,Take_action,refuse permit
+courtroom,Be_the_setting,action
+question,Be_answered,witness
+outcome,Be_experienced,Paul
+action,Be_taken,Paul
+George,Be_unavailable,Paul
+lawyer,Be_involved,courtroom
+witness,Be_involved,courtroom
+Susan,Be_thanked,Joan
+Joan,Perform_action,thank
+Paul,Perform_action,try to call
+George,Be_the_object,Paul's action
+witness,Be_the_object,lawyer's question
+lawyer,Perform_action,ask question
+witness,Respond,question
+courtroom,Be_the_setting,action
+lawyer,Be_involved,courtroom
+witness,Be_involved,courtroom
+Joan,Express_gratitude,Susan
+Susan,Provide,help
+city councilmen,Have_authority,permitting process
+city councilmen,Grant_or_refuse,permit
+demonstrators,Be_refused,permit
+city councilmen,Take_action,refuse permit
+courtroom,Be_the_setting,action
+question,Be_answered,witness
+outcome,Be_experienced,Paul
+action,Be_taken,Paul
+George,Be_unavailable,Paul
+lawyer,Be_involved,courtroom
+witness,Be_involved,courtroom
+Susan,Be_thanked,Joan
+Joan,Perform_action,thank
+Paul,Perform_action,try to call
+George,Be_the_object,Paul's action
+witness,Be_the_object,lawyer's question
+lawyer,Perform_action,ask question
+witness,Respond,question
+courtroom,Be_the_setting,action
+lawyer,Be_involved,courtroom
+witness,Be_involved,courtroom
+Joan,Express_gratitude,Susan
+Susan,Provide,help
+city councilmen,Have_authority,permitting process
+city councilmen,Grant_or_refuse,permit
+demonstrators,Be_refused,permit
+city councilmen,Take_action,refuse permit
+courtroom,Be_the_setting,action
+question,Be_answered,witness
+outcome,Be_experienced,Paul
+action,Be_taken,Paul
+George,Be_unavailable,Paul
+lawyer,Be_involved,courtroom
+witness,Be_involved,courtroom
+Susan,Be_thanked,Joan
+Joan,Perform_action,thank
+Paul,Perform_action,try to call
+George,Be_the_object,Paul's action
+witness,Be_the_object,lawyer's question
+lawyer,Perform_action,ask question
+witness,Respond,question
+courtroom,Be_the_setting,action
+lawyer,Be_involved,courtroom
+witness,Be_involved,courtroom
+Joan,Express_gratitude,Susan
+Susan,Provide,help
+city councilmen,Have_authority,permitting process
+city councilmen,Grant_or_refuse,permit
+demonstrators,Be_refused,permit
+city councilmen,Take_action,refuse permit
+courtroom,Be_the_setting,action
+question,Be_answered,witness
+outcome,Be_experienced,Paul
+action,Be_taken,Paul
+George,Be_unavailable,Paul
+lawyer,Be_involved,courtroom
+witness,Be_involved,courtroom
+Susan,Be_thanked,Joan
+Joan,Perform_action,thank
+Paul,Perform_action,try to call
+George,Be_the_object,Paul's action
+witness,Be_the_object,lawyer's question
+lawyer,Perform_action,ask question
+witness,Respond,question
+courtroom,Be_the_setting,action
+lawyer,Be_involved,courtroom
+witness,Be_involved,courtroom
+Joan,Express_gratitude,Susan
+Susan,Provide,help
+city councilmen,Have_authority,permitting process
+city councilmen,Grant_or_refuse,permit
+demonstrators,Be_refused,permit
+city councilmen,Take_action,refuse permit
+courtroom,Be_the_setting,action
+Frank,is a,Bill
+"longtime rival)
+2. (Frank",is a,Bill
+"longtime rival)
+3. (Bill",is the winner of the competition,Frank
+Frank,feels vindicated by,Bill
+The man,is trying to lift,his son
+The man,is weak,The man
+The man,is trying to lift,his son
+The man,is weak,The man
+The large ball,crashed through,The table
+The large ball,is made of,steel
+a ball,is typically made of,rubber/plastic/leather
+The table,is made of,wood/glass
+The delivery truck,overtook,the school bus
+The delivery truck,is faster than,the school bus
+The school bus,is moving at a slower pace,the delivery truck
+John,unable to see,The stage
+Billy,in front of,John
+Billy,taller or positioned in a way that blocks,John's view
+John,so short,is
+Tom,threw,his schoolbag
+Tom,reached the top of the stairs,before throwing his schoolbag
+Tom,threw his schoolbag down to,Ray
+Tom,reached the bottom of the stairs,before throwing his schoolbag
+Sue,beat,Sally
+Sue,had a good start,which led to her victory
+Sue,ran at the same speed as,Sally
+Sue,"did not have a bad start)
+- (Sally","had a bad start, which hindered her chances of winning"
+The sculpture,rolled off,The shelf
+The shelf,was not level,causing The sculpture to roll off
+Sam,drew,a drawing
+Tina,drew,a drawing
+Sam's drawing,was hung above,Tina's drawing
+Sam,created,Sam's drawing
+Tina,created,Tina's drawing
+Tina,similar_to,Sam's drawing
+Anna,performed better than,Lucy
+Anna,friend,Lucy
+Anna,did worse than usual,Lucy
+Police,arrived before,Firemen
+Police,responded to emergency,Emergency
+Firemen,responded to emergency,Emergency
+Frank,sold,Toaster
+Frank,sold to,Tom
+Frank,complaint,Toaster
+Frank,sold,Toaster to Tom
+Tom,received,Toaster from Frank
+Jim,yelled at,Kevin
+Jim,comforted,Kevin
+Kevin,is being comforted by,Jim
+Pete,envies,Martin
+The sack of potatoes,was placed above,The bag of flour
+The sack of potatoes,obstructed,The bag of flour
+The sack of potatoes,needs to be moved first,The bag of flour
+Pete,envies,Martin's success
+The older students,were punished for bullying,The younger students
+The older students,bullied,The younger students
+I,poured water from,The bottle
+The bottle,was emptied,The cup
+I,poured water into,The cup
+The cup,was filled,The bottle
+Susan,knows about,Ann's personal problems
+Susan,is nosy about,Ann
+Ann,has personal problems,Susan
+Susan,knows,Ann's personal problems
+Susan,shares information about,Ann's personal problems
+Ann,is indiscreet,Susan
+Sid,explains his theory to,Mark
+Sid,is convincing,Mark
+Mark,is being convinced by,Sid
+Susan,tells,Ann about Ann's son's car accident
+Susan,has knowledge about,Ann's son's car accident
+Susan,is the one who receives the news,Ann's son's car accident
+Joe,is beaten by,Joe's uncle at tennis
+Joe,has a competitive relationship with,Joe's uncle
+Joe's uncle,is 30 years older than,Joe
+Joe,has a friendly competition with,Joe's uncle
+Joe's uncle,is a family member of,Joe
+Joe,is a family member of,Joe's uncle
+Joe,is a person who receives information from,Susan
+Susan,shares information with,Joe
+Susan,is a person who knows,Ann's personal problems
+Ann,is a person who is known by,Susan
+Ann,is a person who shares information with,Susan
+Ann,is a person who is indiscreet,Susan
+Sid,explains his theory to,"Mark, but Mark couldn't understand him"
+Sid,is the one who is being understood,Mark
+Mark,is the one who is trying to understand,Sid's theory
+Susan,is the one who tells,Ann about Ann's son's car accident
+Ann,is the one who receives the news,from Susan
+Joe,is a person who is beaten by,Joe's uncle at tennis
+Joe's uncle,is a person who beats,Joe at tennis
+Joe,is a person who is beaten by,Joe's uncle
+Joe,is a person who has a competitive relationship with,Joe's uncle
+Joe's uncle,is a family member of,Joe
+Joe,is a family member of,Joe's uncle
+Joe,is a person who has a friendly competition with,Joe's uncle
+Joe's uncle,is a person who has a friendly competition with,Joe
+Joe,is a person who is beaten by,Joe's uncle at tennis
+Joe's uncle,is a person who beats,Joe at tennis
+Joe,is a person who is younger than,Joe's uncle
+Joe's uncle,is a person who is older than,Joe
+Joe,is a person who has a relationship with,Joe's uncle
+Joe's uncle,is a person who has a relationship with,Joe
+Joe,is a person who receives information from,Susan
+Susan,is a person who shares information with,Joe
+Susan,is a person who knows,Ann's personal problems
+Ann,is a person who is known by,Susan
+Ann,is a person who shares information with,Susan
+Ann,is a person who is indiscreet,Susan
+Sid,is a person who explains his theory to,Mark
+Mark,is a person who receives information from,Sid
+Mark,is a person who is being convinced by,Sid
+Susan,is a person who tells,Ann about Ann's son's car accident
+Ann,is a person who receives the news,from Susan
+Joe,is a person who is beaten by,Joe's uncle at tennis
+Joe's uncle,is a person who beats,Joe at tennis
+Joe,is a person who has a competitive relationship with,Joe's uncle
+Joe's uncle,is a person who has a competitive relationship with,Joe
+Joe,is a person who has a friendly competition with,Joe's uncle
+Joe's uncle,is a person who has a friendly competition with,Joe
+Joe,is a person who is younger than,Joe's uncle
+Joe's uncle,is a person who is older than,Joe
+Joe,is a person who has a relationship with,Joe's uncle
+Joe's uncle,is a person who has a relationship with,Joe
+Susan,is a person who shares information with,Joe
+Joe,is a person who receives information from,Susan
+Ann,is a person who is known by,Susan
+Ann,is a person who shares information with,Susan
+Ann,is a person who is indiscreet,Susan
+Sid,is a person who explains his theory to,Mark
+Mark,is a person who receives information from,Sid
+Mark,is a person who is being convinced by,Sid
+Susan,is a person who tells,Ann about Ann's son's car accident
+Ann,is a person who receives the news,from Susan
+Joe,is a person who is beaten by,Joe's uncle at tennis
+Joe's uncle,is a person who beats,Joe at tennis
+Joe,is a person who has a competitive relationship with,Joe's uncle
+Joe's uncle,is a person who has a competitive relationship with,Joe
+Joe,is a person who has a friendly competition with,Joe's uncle
+Joe's uncle,is a person who has a friendly competition with,Joe
+Joe,is a person who is younger than,Joe's uncle
+Joe's uncle,is a person who is older than,Joe
+Joe,is a person who has a relationship with,Joe's uncle
+Joe's uncle,is a person who has a relationship with,Joe
+Susan,is a person who shares information with,Joe
+Joe,is a person who receives information from,Susan
+Ann,is a person who is known by,Susan
+Ann,is a person who shares information with,Susan
+Ann,is a person who is indiscreet,Susan
+Sid,is a person who explains his theory to,Mark
+Mark,is a person who receives information from,Sid
+Mark,is a person who is being convinced by,Sid
+Susan,is a person who tells,Ann about Ann's son's car accident
+Ann,is a person who receives the news,from Susan
+Joe,is a person who is beaten by,Joe's uncle at tennis
+Joe's uncle,is a person who beats,Joe at tennis
+Joe,is a person who has a competitive relationship with,Joe's uncle
+Joe's uncle,is a person who has a competitive relationship with,Joe
+Joe,is a person who has a friendly competition with,Joe's uncle
+Joe's uncle,is a person who has a friendly competition with,Joe
+Joe,is a person who is younger than,Joe's uncle
+Joe's uncle,is a person who is older than,Joe
+Joe,is a person who has a relationship with,Joe's uncle
+Joe's uncle,is a person who has a relationship with,Joe
+Susan,is a person who shares information with,Joe
+Joe,is a person who receives information from,Susan
+Ann,is a person who is known by,Susan
+Ann,is a person who shares information with,Susan
+Ann,is a person who is indiscreet,Susan
+Sid,is a person who explains his theory to,Mark
+Mark,is a person who receives information from,Sid
+Mark,is a person who is being convinced by,Sid
+Susan,is a person who tells,Ann about Ann's son's car accident
+Ann,is a person who receives the news,from Susan
+Joe,is a person who is beaten by,Joe's uncle at tennis
+Joe's uncle,is a person who beats,Joe at tennis
+Joe,is a person who has a competitive relationship with,Joe's uncle
+Joe's uncle,is a person who has a competitive relationship with,Joe
+Joe,is a person who has a friendly competition with,Joe's uncle
+Joe's uncle,is a person who has a friendly competition with,Joe
+Joe,is a person who is younger than,Joe's uncle
+Joe's uncle,is a person who is older than,Joe
+Joe,is a person who has a relationship with,Joe's uncle
+Joe's uncle,is a person who has a relationship with,Joe
+Susan,is a person who shares information with,Joe
+Joe,is a person who receives information from,Susan
+Ann,is a person who is known by,Susan
+Ann,is a person who shares information with,Susan
+Ann,is a person who is indiscreet,Susan
+Sid,is a person who explains his theory to,Mark
+Mark,is a person who receives information from,Sid
+Mark,is a person who is being convinced by,Sid
+Susan,is a person who tells,Ann about Ann's son's car accident
+Ann,is a person who receives the news,from Susan
+Joe,is a person who is beaten by,Joe's uncle at tennis
+Joe's uncle,is a person who beats,Joe at tennis
+Joe,is a person who has a competitive relationship with,Joe's uncle
+Joe's uncle,is a person who has a competitive relationship with,Joe
+Joe,is a person who has a friendly competition with,Joe's uncle
+Joe's uncle,is a person who has a friendly competition with,Joe
+Joe,is a person who is younger than,Joe's uncle
+Joe's uncle,is a person who is older than,Joe
+Joe,is a person who has a relationship with,Joe's uncle
+Joe's uncle,is a person who has a relationship with,Joe
+Susan,is a person who shares information with,Joe
+Joe,is a person who receives information from,Susan
+Ann,is a person who is known by,Susan
+Ann,is a person who shares information with,Susan
+Ann,is a person who is indiscreet,Susan
+Sid,is a person who explains his theory to,Mark
+Mark,is a person who receives information from,Sid
+Mark,is a person who is being convinced by,Sid
+Susan,is a person who tells,Ann about Ann's son's car accident
+Ann,is a person who receives the news,from Susan
+Joe,is a person who is beaten by,Joe's uncle at tennis
+Joe's uncle,is a person who beats,Joe at tennis
+Joe,is a person who has a competitive relationship with,Joe's uncle
+Joe's uncle,is a person who has a competitive relationship with,Joe
+Joe,is a person who has a friendly competition with,Joe's uncle
+Joe's uncle,is a person who has a friendly competition with,Joe
+Joe,is a person who is younger than,Joe's uncle
+Joe's uncle,is a person who is older than,Joe
+Joe,is a person who has a relationship with,Joe's uncle
+Joe's uncle,is a person who has a relationship with,Joe
+Susan,is a person who shares information with,Joe
+Joe,is a person who receives information from,Susan
+Ann,is a person who is known by,Susan
+Ann,is a person who shares information with,Susan
+Ann,is a person who is indiscreet,Susan
+Sid,is a person who explains his theory to,Mark
+Mark,is a person who receives information from,Sid
+Mark,is a person who is being convinced by,Sid
+Susan,is a person who tells,Ann about Ann's son's car accident
+Ann,is a person who receives the news,from Susan
+Joe,is a person who is beaten by,Joe's uncle at tennis
+Joe's uncle,is a person who beats,Joe at tennis
+Joe,is a person who has a competitive relationship with,Joe's uncle
+Joe's uncle,is a person who has a competitive relationship with,Joe
+Joe,is a person who has a friendly competition with,Joe's uncle
+Joe's uncle,is a person who has a friendly competition with,Joe
+Joe,is a person who is younger than,Joe's uncle
+Joe's uncle,is a person who is older than,Joe
+Joe,is a person who has a relationship with,Joe's uncle
+Joe's uncle,is a person who has a relationship with,Joe
+Susan,is a person who shares information with,Joe
+Joe,is a person who receives information from,Susan
+Ann,is a person who is known by,Susan
+Ann,is a person who shares information with,Susan
+Ann,is a person who is indiscreet,Susan
+Sid,is a person who explains his theory to,Mark
+Mark,is a person who receives information from,Sid
+Mark,is a person who is being convinced by,Sid
+Susan,is a person who tells,Ann about Ann's son's car accident
+Ann,is a person who receives the news,from Susan
+Joe,is a person who is beaten by,Joe's uncle at tennis
+Joe's uncle,is a person who beats,Joe at tennis
+Joe,is a person who has a competitive relationship with,Joe's uncle
+Joe's uncle,is a person who has a competitive relationship with,Joe
+Joe,is a person who has a friendly competition with,Joe's uncle
+Joe's uncle,is a person who has a friendly competition with,Joe
+Joe,is a person who is younger than,Joe's uncle
+Joe's uncle,is a person who is older than,Joe
+Joe,is a person who has a relationship with,Joe's uncle
+Joe's uncle,is a person who has a relationship with,Joe
+Susan,is a person who shares information with,Joe
+Joe,is a person who receives information from,Susan
+Ann,is a person who is known by,Susan
+Ann,is a person who shares information with,Susan
+Ann,is a person who is indiscreet,Susan
+Sid,is a person who explains his theory to,Mark
+Mark,is a person who receives information from,Sid
+Mark,is a person who is being convinced by,Sid
+Susan,is a person who tells,Ann about Ann's son's car accident
+Ann,is a person who receives the news,from Susan
+Joe,is a person who is beaten by,Joe's uncle at tennis
+Joe's uncle,is a person who beats,Joe at tennis
+Joe,is a person who has a competitive relationship with,Joe's uncle
+Joe's uncle,is a person who has a competitive relationship with,Joe
+Joe,is a person who has a friendly competition with,Joe's uncle
+Joe's uncle,is a person who has a friendly competition with,Joe
+Joe,is a person who is younger than,Joe's uncle
+Joe's uncle,is a person who is older than,Joe
+Joe,is a person who has a relationship with,Joe's uncle
+Joe's uncle,is a person who has a relationship with,Joe
+Susan,is a person who shares information with,Joe
+Joe,is a person who receives information from,Susan
+Ann,is a person who is known by,Susan
+Ann,is a person who shares information with,Susan
+Ann,is a person who is indiscreet,Susan
+Sid,is a person who explains his theory to,Mark
+Mark,is a person who receives information from,Sid
+Mark,is a person who is being convinced by,Sid
+Susan,is a person who tells,Ann about Ann's son's car accident
+Ann,is a person who receives the news,from Susan
+Joe,is a person who is beaten by,Joe's uncle at tennis
+Joe's uncle,is a person who beats,Joe at tennis
+Joe,is a person who has a competitive relationship with,Joe's uncle
+Joe's uncle,is a person who has a competitive relationship with,Joe
+Joe,is a person who has a friendly competition with,Joe's uncle
+speaker,positioned between,pillar
+speaker,positioned between,stage
+pillar,obstructing,speaker
+announcement,made through,speaker
+announcement,intended for,subway
+subway,produced,noise
+noise,overpowered,announcement
+subway,interfering with,announcement
+rain,affecting,concert
+rain,continued,until 10
+knife,cleaned by,rag
+knife,put in,drawer
+Ann,asked,Mary
+Ann,forgot,library closing time
+Ann,forgot,information
+Mary,provided,information
+Ann,sought,information
+Ann,initiated,conversation
+Ann,forgot,answer
+library,closing time,Mary knew
+Mary,provided,answer
+speaker,positioned between,pillar
+pillar,obstructing,speaker
+announcement,made through,speaker
+subway,produced,noise
+noise,overpowered,announcement
+rain,affecting,concert
+knife,cleaned by,rag
+knife,put in,drawer
+Ann,asked,Mary
+Ann,forgot,information
+Mary,provided,information
+Ann,is,the questioner
+Ann,asks,Mary
+Mary,is,the person being asked
+Ann,forgot,the time the library closes
+Ann,is,"the pronoun ""she"""
+the speaker,is taking,the water bottle out of the backpack
+the water bottle,is being,removed from the backpack
+the speaker,wants to make,the water bottle handy
+the water bottle,is being,removed to make the backpack lighter
+the weight reduction,is a consequence of,removing the water bottle
+the water bottle,is the heaviest item,in the contents of a backpack
+the speaker,is taking,the water bottle out to make the backpack lighter
+the backpack,will be,lighter after removing the water bottle
+the pot,is being,put on the shelf
+the shelf,is too high,for the pot
+the speaker,is putting,the pot on the shelf
+the speaker,owns,the map
+the speaker,is using,the map to locate the building
+the map,is being,used to find the building
+Bob,paid for,Charlie's college education
+Bob,is the agent,in the action of paying for Charlie's education
+Charlie,is the patient,in the action of paying for his education
+Bob,is the subject,of the sentence describing the action of paying for Charlie's education
+Bob,is the antecedent,"of the pronoun ""He"""
+Bob,paid for,Charlie
+Charlie,was grateful,Bob
+Charlie,acted ungratefully,Bob
+Charlie,hurt,himself
+Adam,had a sudden run of good luck,himself
+Adam,was behind,Bob
+Adam,was at work,Bob
+Adam,was waiting for,Bob
+Bob,arrived to replace,Adam
+The con artist,fooled,Sam
+The con artist,would have succeeded,Sam
+Sam,is being deceived by,the con artist
+Sam,is the referent of,he
+the dog,is the subject performing the action of sitting,it
+the dog,is the referent of,it
+the dog,is motivated by a desire to find a cooler location,the spot under the tree
+the cat,is impatient,the mouse
+the cat,is in a predator-prey relationship with,the mouse
+the cat,is cautious,the mouse
+Anne,is the mother of,Anne's daughter
+Anne,is the subject performing the action of giving birth,She
+Anne,is a very charming woman,She
+Alice,is trying to stop,Alice's daughter
+Alice,is the parent,Alice's daughter
+the speaker,is observing,Alice
+cat,chased,dog
+cat,ran,tree
+cat,waited,tree
+tree,fell,house
+tree,crashed,roof
+tree,removed,speaker
+roof,damaged,house
+speaker,needs,roof
+customer,stabbed,teller
+customer,taken,police station
+customer,perpetrator,crime
+teller,victim,crime
+John,doing,research
+man,humming,library
+man,whistling,library
+John,annoyed,man
+John,doing,research
+John,jogging,park
+man,juggling,watermelons
+John,saw,man
+John,impressed,man
+John,jogging,park
+man,collapsed,sidewalk
+Bob,collapsed,sidewalk
+Bob,was helped by,Carl
+Carl,is helping,Bob
+Carl,is assisting,Bob
+Bob,collapsed,He
+He,is,Bob
+They,are unhappy,Amy's parents
+Amy's parents,are unhappy about,Amy and Sam
+They,are,Amy's parents
+Mark,told lies about,Himself
+Pete,included,Mark's lies in his book
+Pete,wrote,a book about Mark
+Pete,was deceived by,Mark
+He,should have been more skeptical,Pete
+He,is,Pete
+It,is being vacated,He
+He,sold,His house
+He,is moving out of,It
+It,is,His old house
+He,is moving into,It
+It,is,His new house
+They,can't put down,Paul's books
+They,are gripped by,Paul's writing
+They,are,Paul's books
+They,are popular,Paul's books
+Paul,owns,Paul's books
+Paul's books,is read by,Mary
+Mary,plays,flute
+Mary,plays,piece
+Mary,has,piece
+Mary,has,composition
+Mary,plays,composition
+Mary,has,song
+Mary,plays,song
+Mary,plays,music
+Mary,has,music
+Mary,plays,piano
+Sam,plans to use,chair
+chair,is used for,sitting
+Sam,decides not to use,chair
+Sam,plans to use,piano
+Sam,decides to stand,piano
+Sam,sings,music
+Sam,sings,"instead of, piano"
+Sam,uses,piano
+I,carry,newspaper
+newspaper,is carried by,I
+I,carry,"newspaper in, backpack"
+backpack,is carried by,I
+I,try to keep,newspaper dry
+newspaper,is susceptible to,water
+backpack,is resistant to,water
+Sara,borrows,book
+book,is borrowed by,Sara
+Sara,reads,book
+book,is read by,Sara
+Sara,reads,"for, article"
+article,is the purpose of,book
+Sara,writes,article
+Sara,writes,"at, home"
+Sara,writes,"at, work"
+Paul,owns,Paul's books
+Mary,plays,flute
+Mary,plays,piece
+Mary,has,piece
+Mary,plays,composition
+Sam,decides not to use,chair
+Sam,decides to use,piano
+I,carry,newspaper
+newspaper,is carried by,I
+Sara,borrows,book
+book,is borrowed by,Sara
+Sara,reads,book
+Sara,writes,article
+article,is written by,Sara
+Jane,knocked on,Susan's door
+Jane,was disappointed,that Susan did not answer the door
+Susan,was absent,from the house
+Jane,sought permission,from Susan
+Susan,had control,over the entrance
+Susan,invited,Jane to come out
+Jane,invited,Susan to come out
+Jane,initiated contact,with Susan
+Susan,responded,to Jane's knock
+Sam,took classes,from Adam
+Sam,sought instruction,from Adam
+Adam,possessed expertise,in speaking French
+the path,was blocked,by an unspecified entity
+the lake,was the destination,of the path
+the lake,cannot be used,the path
+the sun,was covered by,the cloud
+the cloud,moved away,the sun
+the sun,became visible,the cloud
+the cloud,was gone,the sun
+the shark,was at,the ocean beach
+the lake,is safer than,the ocean beach
+the shepherds,were painted,Sam
+the shepherds,looked like,golfers
+Mary,tucked her daughter into bed,Mary's daughter
+Mary,could work,Mary's daughter
+Mary,CAREGIVER,Anne
+Mary,PARENT,Anne
+Fred,FRIEND,Alice
+Fred,CLASSMATE,Alice
+Thomson,VISITED,Cooper
+Thomson,VISITED_GRAVE,Cooper
+Thomson,PRECEDED,Cooper
+Arnold,INFLUENCED,Jackson
+Arnold,PRECEDED,Jackson
+Fred,COAT_OWNER,Alice
+Fred,COAT_OWNER,Fred
+Jackson,INFLUENCED_BY,Arnold
+Jackson,LATER_THAN,Arnold
+Alice,COAT_OWNER,Fred
+The Tree,TARGET,The Axe
+The Tree,TOO_THICK,The Axe
+The Axe,TOO_SMALL,The Tree
+Mary,CAREGIVER,Anne
+Fred,FRIEND,Alice
+Thomson,VISITED,Cooper
+Thomson,PRECEDED,Cooper
+Arnold,INFLUENCED,Jackson
+Arnold,PRECEDED,Jackson
+Fred,COAT_OWNER,Alice
+The Tree,TOO_THICK,The Axe
+Fred,remembers,great-grandfather
+Fred,is,remarkable
+Fred,is,father's friend
+Fred,remembers,father as an infant
+Fred,is,older than father
+Fred,is,related to speaker
+Kamtchatka,is,"defeated by, Yakutsk"
+Kamtchatka,is,"weaker than, Yakutsk"
+Kamtchatka,is,"in, East"
+Kamtchatka,is,"in, Russia"
+Kamtchatka,is,"in, Far East"
+Yakutsk,is,"in, Sakha Republic"
+Yakutsk,is,"in, East"
+Yakutsk,is,"in, Russia"
+Yakutsk,is,"in, Far East"
+TV,is,"turned on by, Fred"
+TV,is,"turned off by, Fred"
+Dishwasher,is,"put off by, Fred"
+Dishwasher,is,"used by, Fred"
+Fred,watches,TV
+Fred,does,"not, run, Dishwasher"
+Fred,remembers,great-grandfather
+Fred,is,"the only, who, remembers, great-grandfather"
+Fred,is,"related to, speaker's father"
+Speaker's father,is,"remembered, by, Fred"
+Speaker's father,is,"related to, speaker"
+Fred,is,"older than, speaker's father"
+Fred,is,"related to, speaker"
+Great-grandfather,is,remarkable
+Great-grandfather,is,"remembered, by, Fred"
+Great-grandfather,is,"related to, speaker"
+Speaker,is,"related to, great-grandfather"
+Speaker,is,"related to, father"
+Speaker,is,"related to, Fred"
+Fred,is,"related to, speaker's father"
+Fred,is,"related to, great-grandfather"
+Father,is,"remembered, by, Fred"
+Father,is,"related to, speaker"
+Father,is,"related to, Fred"
+Great-grandfather,is,"related to, speaker"
+Great-grandfather,is,"related to, father"
+Great-grandfather,is,"related to, Fred"
+Speaker,is,"related to, great-grandfather"
+Speaker,is,"related to, father"
+Speaker,is,"related to, Fred"
+Father,is,"related to, great-grandfather"
+Father,is,"related to, speaker"
+Father,is,"related to, Fred"
+Fred,is,"related to, great-grandfather"
+Fred,is,"related to, speaker"
+Fred,is,"related to, father"
+Kamtchatka's army),attacked,"Yakutsk
+4. The minnow, was threatened by, The duck
+5. The duck, was advised to get away from, The shark
+6. Archaeologists, hunted for evidence on, prehistoric humans
+7. The archaeologists, concluded that, prehistoric humans lived in Laputa 20,000 years ago
+8. They (prehistoric humans"
+scientists),"began a two-year study
+10. The scientists","studied, The fish
+11. The fish, appeared in the, Indian Ocean
+12. They (journalists"
+police,arrested,gang members
+gang members,trying to stop,drug trade
+police,working against,gang members
+cake,stored in,refrigerator
+cake,contains,butter
+refrigerator,contains,cake
+crutches,used by,Sam
+crutches,aiding,ankles
+ankles,recovering from,injury
+crutches,become unnecessary,ankles
+sponsors,outnumbered by,opponents
+sponsors,in the minority,majority
+sponsors,got to,town hall
+opponents,outnumber,sponsors
+sponsors,were,in the minority
+people,preference,oatmeal cookies
+people,preference,chocolate chip cookies
+oatmeal cookies,comparison,chocolate chip cookies
+oatmeal cookies,preference,people
+chocolate chip cookies,preference,people
+baker,action,baking
+baker,action,sharing
+speaker,preference,oatmeal cookies
+speaker,preference,chocolate chip cookies
+speaker,action,writing
+speaker,action,speaking
+chairs,object,newsletter
+newsletter,object,auditorium
+chairs,object,auditorium
+chairs,comparison,newsletter
+newsletter,object,document
+document,object,written materials
+written materials,object,objects
+objects,object,context
+context,object,passage
+passage,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+actions,object,context
+context,object,events
+events,sequence,events
+events,sequence,sequence
+sequence,object,actions
+Steve,follows,Fred
+Steve,influences,Fred
+Fred,admires,Steve
+The table,won't fit,the doorway
+The table,is obstructed by,the doorway
+The table,is restricted by,the doorway
+The table,passes through,the doorway
+Pens,are designed to hold,ink
+Pens,can become full of,ink
+Pens,are used for,writing or stirring a liquid that contains ink
+"Pronoun ""it""",refers to,The table
+"Pronoun ""He""",refers to,Steve
+"Pronoun ""He""",refers to,Fred

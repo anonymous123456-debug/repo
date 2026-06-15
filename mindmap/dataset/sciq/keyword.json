@@ -1,0 +1,2402 @@
+[
+    {
+        "id": "sample_1",
+        "question": "Which type of energy is the energy of anything in motion?",
+        "keywords": "kinetic,energy,motion",
+        "options": [
+            "diffuse energy",
+            "residual engergy",
+            "kinetic engergy",
+            "physiological engergy"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_2",
+        "question": "What is it called when the soils of the arctic tundra remain in a perennially frozen state?",
+        "keywords": "perennially,frozen,state,soils,arctic,tundra",
+        "options": [
+            "permafrost",
+            "permafreeze",
+            "glacial domination",
+            "concentrated freeze"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_3",
+        "question": "Binding of acetylcholine to receptors on the muscle fiber leads to a?",
+        "keywords": "muscle contraction,acetylcholine,receptors,muscle fiber",
+        "options": [
+            "repolarization",
+            "depolarization",
+            "conduction",
+            "excitation"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_4",
+        "question": "Ice masses, acquifers, and the deep ocean are examples of water what?",
+        "keywords": "water",
+        "options": [
+            "reservoirs",
+            "seas",
+            "lakes",
+            "fields"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_5",
+        "question": "Potential differences from various voltage sources are necessary in order to create electrical fields, which result in what flow of charge?",
+        "keywords": "potential differences,voltage sources,electrical fields,flow of charge",
+        "options": [
+            "current",
+            "output",
+            "wattage",
+            "voltage"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_6",
+        "question": "The pituitary gland is called the “master gland” of what system?",
+        "keywords": "endocrine,pituitary gland,master gland",
+        "options": [
+            "digestive",
+            "endocrine",
+            "nervous",
+            "hormonal"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_7",
+        "question": "What are interferons?",
+        "keywords": "interferons",
+        "options": [
+            "oncogenes",
+            "pathogens",
+            "T cells",
+            "cytokines"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_8",
+        "question": "The average length of a woman’s menstrual cycle is what?",
+        "keywords": "average,length,menstrual cycle,womans",
+        "options": [
+            "5 days",
+            "19 days",
+            "28 days",
+            "16 days"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_9",
+        "question": "What continuously monitors and repairs its genetic material?",
+        "keywords": "repair,genetic,material,continuously,monitors",
+        "options": [
+            "proteins",
+            "nucleolus",
+            "cells",
+            "ova"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_10",
+        "question": "What is the chemical formula for a glucose molecule?",
+        "keywords": "chemical,formula,glucose,molecule",
+        "options": [
+            "H2 C3 NA6",
+            "c6 h12 o6",
+            "d5 h12 o6",
+            "a5 h12 o6"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_11",
+        "question": "What is the main difference between prokaryotic or eukaryotic cells ?",
+        "keywords": "prokaryotic,eukaryotic,cells,difference",
+        "options": [
+            "the presence of a Golgi Apparatus",
+            "the type of metabolic waste",
+            "the presence of a nucleus",
+            "the presence of cell walls"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_12",
+        "question": "What was diorite commonly used for in ancient civilizations?",
+        "keywords": "diorite,ancient,civilizations,uses,materials",
+        "options": [
+            "school",
+            "currency",
+            "medicine",
+            "art"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_13",
+        "question": "What do you call the horizontal stems of a strawberry plant that run over the ground surface?",
+        "keywords": "strawberry,plant,stems,horizontal,ground surface",
+        "options": [
+            "stolons",
+            "root volunteers",
+            "climbing vines",
+            "sprouts"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_14",
+        "question": "All combustion reactions are what type of reactions?",
+        "keywords": "oxidation,combustion",
+        "options": [
+            "reversible",
+            "flammable",
+            "exothermic",
+            "geothermal"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_15",
+        "question": "Human metabolism is the conversion of food into heat transfer, work, and this?",
+        "keywords": "Human,metabolism,conversion,heat,transfer,work",
+        "options": [
+            "stored atp",
+            "stored carbs",
+            "stored protein",
+            "stored fat"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_16",
+        "question": "Sudden changes in geologic and climatic conditions can spur what process?",
+        "keywords": "geologic,climatic,changes,process",
+        "options": [
+            "evolution",
+            "cloning",
+            "generation",
+            "symbiosis"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_17",
+        "question": "What basic units are neither created nor destroyed during a chemical change, but are instead rearranged?",
+        "keywords": "matter,units,chemical change,rearranged",
+        "options": [
+            "atoms",
+            "particles",
+            "Electrons",
+            "molecules"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_18",
+        "question": "Which type of tides are created when the sun and moon's tides match?",
+        "keywords": "spring tides,sun,moon",
+        "options": [
+            "weak tides",
+            "low tides",
+            "Neap tides",
+            "spring tides"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_19",
+        "question": "The geometry of the bf 3 molecule is called what?",
+        "keywords": "trigonal,planar,bf,3,molecule,geometry",
+        "options": [
+            "distorted planar",
+            "fractal planar",
+            "trigonal planar",
+            "spherical planar"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_20",
+        "question": "Why does the body react to a loss of chloride ions?",
+        "keywords": "chloride,ions,body,loss,reaction",
+        "options": [
+            "decreased tricarbonate reabsorption",
+            "increased bicarbonate reabsorption",
+            "increased tricarbonate reabsorption",
+            "decreased bicarbonate reabsorption"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_21",
+        "question": "What pigment is required for photosynthesis to occur?",
+        "keywords": "chlorophyll",
+        "options": [
+            "chroma",
+            "chlorophyll",
+            "xanthophyll",
+            "carotene"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_22",
+        "question": "Microwave ovens use radiation to provide food with what kind of energy?",
+        "keywords": "Microwave,ovens,radiation,energy",
+        "options": [
+            "mechanical",
+            "magnetic",
+            "heat",
+            "vibrational"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_23",
+        "question": "What two types of juices help digestion within the small intestine?",
+        "keywords": "digestion,small intestine,juices,types",
+        "options": [
+            "intestinal and pancreatic",
+            "amniotic fluid, bile",
+            "bile and lymph",
+            "chyme and phloem"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_24",
+        "question": "What does temperature measure?",
+        "keywords": "temperature,measure",
+        "options": [
+            "average potential energy of molecules",
+            "lowest kinetic energy of molecules",
+            "average kinetic energy of molecules",
+            "highest potential energy of molecules"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_25",
+        "question": "What is the term for the basic contractile unit of the muscle?",
+        "keywords": "muscle,contractile unit",
+        "options": [
+            "bandimere",
+            "sphincter",
+            "filament",
+            "sarcomere"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_26",
+        "question": "When iron and sulfur are mixed together in a certain ratio and heated, what do they become?",
+        "keywords": "iron,sulfur,ratio,heated,mixture,compound,pyrite assuming the resulting substance is iron pyrite",
+        "options": [
+            "sulfuric acid",
+            "iron oxide",
+            "iron sulfide",
+            "rust"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_27",
+        "question": "The coccyx, or tailbone, results from the fusion of four small what?",
+        "keywords": "coccyx,tailbone,fusion,four small",
+        "options": [
+            "coccygeal vertebrae",
+            "arsine vertebrae",
+            "rib vertebrae",
+            "alangulam vertebrae"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_28",
+        "question": "What term describes a specific statement that is thought to be never violated by the entire natural universe?",
+        "keywords": "term,statement,never,violated,entire,natural,universe",
+        "options": [
+            "theory",
+            "scientific law",
+            "evidence",
+            "hypothesis"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_29",
+        "question": "How does the sun generate energy?",
+        "keywords": "sun,energy,generate",
+        "options": [
+            "certain fusion",
+            "atomic division",
+            "matter multiplication",
+            "nuclear fusion"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_30",
+        "question": "How many types of major tissues do modern plants have?",
+        "keywords": "types,major,tissues,plants",
+        "options": [
+            "seven",
+            "two",
+            "four",
+            "three"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_31",
+        "question": "Resemblance to other species can serve as protection to what category of species?",
+        "keywords": "resemblance,protection,species",
+        "options": [
+            "prey",
+            "producer",
+            "consumer",
+            "predator"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_32",
+        "question": "What type of energy is useful to humans because it's ease of transport and conversion to other forms of energy?",
+        "keywords": "kinetic,potential,chemical,electrical",
+        "options": [
+            "electrical",
+            "heat",
+            "physical",
+            "potential"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_33",
+        "question": "The electric and magnetic fields are closely related and propagate as what?",
+        "keywords": "electric,magnetic,fields,propagate",
+        "options": [
+            "mechanical wave",
+            "thermal energy",
+            "sound wave",
+            "electromagnetic wave"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_34",
+        "question": "In neurons, what often involves gated sodium channels?",
+        "keywords": "neurons,gated,sodium channels",
+        "options": [
+            "polarization",
+            "fermentation",
+            "depolarization",
+            "excitation"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_35",
+        "question": "Water leaves ponds and lakes through evaporation and also as what?",
+        "keywords": "evaporation,overflow,seepage,runoff,transpiration",
+        "options": [
+            "influx",
+            "mid flow",
+            "outflow",
+            "inflow"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_36",
+        "question": "What is found inside the pores of spongy bone?",
+        "keywords": "spongy bone,pores,what is found inside",
+        "options": [
+            "rupture marrow",
+            "green marrow",
+            "liquid marrow",
+            "bone marrow"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_37",
+        "question": "What is another term for dry ice?",
+        "keywords": "dry,ice,term",
+        "options": [
+            "carbonated ice",
+            "solid carbon dioxide",
+            "liquid nitrogen",
+            "ice crystals"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_38",
+        "question": "The vertebrate endoskeleton is made of bone and what tough, flexible tissue?",
+        "keywords": "tissue,vertebrate,endoskeleton,bone",
+        "options": [
+            "synovial tissue",
+            "cartilage",
+            "collagen",
+            "cuticle"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_39",
+        "question": "Mammals generally lack a cloaca and have a separate opening for the what?",
+        "keywords": "urinary system,reproductive system",
+        "options": [
+            "physical tract",
+            "digestive tract",
+            "urinary tract",
+            "tissues tract"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_40",
+        "question": "Which stage has already been completed by the time sea urchin eggs are released from the female?",
+        "keywords": "meiosis,gametogenesis,fertilization,reproduction,sea urchin",
+        "options": [
+            "secondary",
+            "mitoses",
+            "meiosis",
+            "fetus"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_41",
+        "question": "What plant hormone allows plants to curve in a specific direction?",
+        "keywords": "plant,hormone,curve,direction",
+        "options": [
+            "auxin",
+            "pheremone",
+            "apoptosis",
+            "peptides"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_42",
+        "question": "What kind of harm does a corrosive substance cause?",
+        "keywords": "corrosive,substance,harm",
+        "options": [
+            "eats through objects",
+            "Builds a crust",
+            "Attracts dust",
+            "Rust objects"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_43",
+        "question": "What do we call structures that are similar in related organisms because they were inherited from a common ancestor?",
+        "keywords": "homologous structures,inherited,common ancestor,similar structures",
+        "options": [
+            "filamentous",
+            "homologous",
+            "polylogous",
+            "monogamous"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_44",
+        "question": "What gland is located at the base of the brain and secretes the hormone melatonin?",
+        "keywords": "pineal,gland,melatonin,brain",
+        "options": [
+            "thymus",
+            "thyroid",
+            "pineal",
+            "pituitary"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_45",
+        "question": "When volcanoes erupt, what from the mantle is released as carbon dioxide into the air?",
+        "keywords": "volcanoes,mantle,carbon dioxide,eruption",
+        "options": [
+            "vapor",
+            "carbon",
+            "hydrogen",
+            "lava"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_46",
+        "question": "When the energy of the earthquake reaches shore, it forms a huge wave called?",
+        "keywords": "energy,earthquake,wave",
+        "options": [
+            "a surge",
+            "a typhoon",
+            "a tidal wave",
+            "a tsunami"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_47",
+        "question": "What may have developed to help our ancestors distinguish between ripe and unripe fruits?",
+        "keywords": "ancestors,distinguish,ripe,unripe,fruits",
+        "options": [
+            "night vision",
+            "color vision",
+            "acute hearing",
+            "fine motor skills"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_48",
+        "question": "What term refers to a wall or partition that divides the heart into chambers?",
+        "keywords": "septum,wall,partition,heart,chambers",
+        "options": [
+            "cartilage",
+            "cysts",
+            "septum",
+            "valve"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_49",
+        "question": "What are the smallest type of blood vessels?",
+        "keywords": "capillaries,smallest,blood,vessels",
+        "options": [
+            "neurons",
+            "arteries",
+            "viens",
+            "capillaries"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_50",
+        "question": "What are made in the first step of the scientific method?",
+        "keywords": "Observations,Hypotheses",
+        "options": [
+            "hypothesis",
+            "patterns",
+            "observations",
+            "conclusions"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_51",
+        "question": "What leads to the buildup of electric charges on objects?",
+        "keywords": "static electricity,electric charges,buildup,objects",
+        "options": [
+            "polarization",
+            "movement",
+            "gravity",
+            "rotation"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_52",
+        "question": "Where part of the atmosphere is the uppermost mantle?",
+        "keywords": "uppermost,mantle,atmosphere",
+        "options": [
+            "lithosphere",
+            "troposphere",
+            "thermosphere",
+            "isosphere"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_53",
+        "question": "A plant is composed of two main types of tissue: meristematic tissue and what other kind of tissue?",
+        "keywords": "meristematic,tissue,other,kind",
+        "options": [
+            "permanent tissue",
+            "nonvascular tissue",
+            "synovial tissue",
+            "muscle tissue"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_54",
+        "question": "What change the physical properties of solvents?",
+        "keywords": "physical,properties,solvents",
+        "options": [
+            "molecules",
+            "cells",
+            "solutes",
+            "chemical reactions"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_55",
+        "question": "What orbits an atoms' nucleus?",
+        "keywords": "electrons,atoms nucleus",
+        "options": [
+            "negatively charged electrons",
+            "isotopes",
+            "positively charged protons",
+            "neutrally charged ions"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_56",
+        "question": "What layer of soil, essential for farming, has the highest proportion of organic material?",
+        "keywords": "layer,of,soil,essential,for,farming,organic,material",
+        "options": [
+            "humus",
+            "bedrock",
+            "topsoil",
+            "subsoil"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_57",
+        "question": "Saturated hydrocarbons get their name because they are saturated with what atoms?",
+        "keywords": "hydrocarbons,saturated,atoms",
+        "options": [
+            "helium",
+            "nitrogen",
+            "hydrogen",
+            "oxygen"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_58",
+        "question": "Snippet 2: one of the reasons the periodic table is so useful is because its structure allows us to qualitatively determine how some properties of the elements vary versus their position on the periodic table. the variation of properties versus position on the periodic table is called what?",
+        "keywords": "periodic table,properties,elements,variation,position,periodic trend",
+        "options": [
+            "gravity trends",
+            "periodic trends",
+            "chemical trends",
+            "acoustic trends"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_59",
+        "question": "What is the term for physicians and scientists who research and develop vaccines and treat and study conditions ranging from allergies to aids?",
+        "keywords": "immunologists,physicians,scientists,vaccine,researchers,allergy,aids",
+        "options": [
+            "vaccinologists",
+            "immunologists",
+            "virologists",
+            "endocrinologists"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_60",
+        "question": "Plants and fungi cells have what basic cell structure, which animals do not have?",
+        "keywords": "Plants,fungi,cells,basic,cell structure,animals",
+        "options": [
+            "cell wall",
+            "Cytoskeleton",
+            "Lysosomes",
+            "Cell Membrane"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_61",
+        "question": "What structure shows the bonding between atoms, with dots representing available electrons?",
+        "keywords": "structure,bonding,atoms,electrons",
+        "options": [
+            "Pascal model",
+            "lewis structure",
+            "Mendelian model",
+            "string theory"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_62",
+        "question": "How do we describe chemical reactions?",
+        "keywords": "chemical,reactions,describe",
+        "options": [
+            "equilibrium",
+            "chemical equations",
+            "balanced reactions",
+            "atomic numbers"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_63",
+        "question": "What is the medical process of removing wastes and excess water from the blood by diffusion and ultrafiltration called?",
+        "keywords": "medical,process,removing,wastes,excess,water,blood,diffusion,ultrafiltration",
+        "options": [
+            "arthritis",
+            "dialysis",
+            "digestion",
+            "tumors"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_64",
+        "question": "What is the basis of the classification of protists?",
+        "keywords": "protists,classification",
+        "options": [
+            "conditions shared",
+            "traits shared",
+            "mutations shared",
+            "tails shared"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_65",
+        "question": "What is the atomic number?",
+        "keywords": "atomic,number",
+        "options": [
+            "Speed of electrons",
+            "Number of neutrons",
+            "number of protons",
+            "Number of electrons"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_66",
+        "question": "What is the middle layer that hair pass through before exiting at the surface of the skin?",
+        "keywords": "hair,middle layer,skin,surface",
+        "options": [
+            "epidermis",
+            "cuticle",
+            "dermis",
+            "epithelial tissue"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_67",
+        "question": "What is the most widely accepted theory explaining how muscle fibers contract?",
+        "keywords": "muscle,fibers,contract",
+        "options": [
+            "sliding filament theory",
+            "sliding pigment theoery",
+            "sliding tritium theory",
+            "sliding carbon theory"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_68",
+        "question": "What is the climate of a small area called?",
+        "keywords": "microclimate,local climate",
+        "options": [
+            "ecosystem",
+            "microevolution",
+            "biome",
+            "microclimate"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_69",
+        "question": "Lying with their mouths open, a behavior called gaping, probably serves what function for crocodiles?",
+        "keywords": "gaping,crocodiles,function,behavior,lying,mouths open",
+        "options": [
+            "sleeping",
+            "digesting",
+            "cooling down",
+            "eating"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_70",
+        "question": "Darwin found that, since all species are related to each other and some of them evolve together, so they develop similar what?",
+        "keywords": "convergent evolution,similar traits",
+        "options": [
+            "appearance",
+            "adaptations",
+            "language",
+            "systems"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_71",
+        "question": "What type of craniates have backbones?",
+        "keywords": "vertebrates,craniates,backbone",
+        "options": [
+            "juveniles",
+            "larva",
+            "invertebrates",
+            "vertebrates"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_72",
+        "question": "A voltaic cell uses what type of reaction to generate an electric current",
+        "keywords": "redox,voltaic,cell,electric,current",
+        "options": [
+            "instantaneous redox",
+            "chemical reaction",
+            "spontaneous catalyst",
+            "spontaneous redox"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_73",
+        "question": "Resistance to pesticides in a population of insects is an example of what?",
+        "keywords": "Resistance,pesticides,population,insects",
+        "options": [
+            "extinction",
+            "redistributions",
+            "microevolution",
+            "macroevolution"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_74",
+        "question": "What do you call the force identified by a north and south pole?",
+        "keywords": "magnetic force,poles,magnetism",
+        "options": [
+            "buoyancy",
+            "gravity",
+            "normal force",
+            "magnetism"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_75",
+        "question": "Because the solute is moving down the concentration gradient, and no input of energy is required, facilitated diffusion is considered what type of transport?",
+        "keywords": "passive,transport,facilitated diffusion",
+        "options": [
+            "passive",
+            "neutral",
+            "active",
+            "adaptive"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_76",
+        "question": "How many chromosomes do bacterial dna have?",
+        "keywords": "chromosomes,bacterial,DNA",
+        "options": [
+            "one simple chromosome",
+            "one circular chromosome",
+            "one triangular chromosome",
+            "one rectangular chromosome"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_77",
+        "question": "Competition between members of the same species is known as?",
+        "keywords": "Intraspecific competition",
+        "options": [
+            "intraspecific competition",
+            "egregious competition",
+            "nuchal competition",
+            "interspecies competition"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_78",
+        "question": "Defecating, urination, and even childbirth involve cooperation between the diaphragm and these?",
+        "keywords": "defecation,urination,childbirth,diaphragm,cooperation",
+        "options": [
+            "lung muscles",
+            "heart muscles",
+            "abdominal muscles",
+            "skeletal muscles"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_79",
+        "question": "Alpha particles, beta particles, and gamma particles are major types of what?",
+        "keywords": "Alpha particles,beta particles,and gamma particles,radiation",
+        "options": [
+            "radioactivity",
+            "microscopy",
+            "sound waves",
+            "visible light"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_80",
+        "question": "Name the 3 ocean zones.",
+        "keywords": "ocean,zones",
+        "options": [
+            "intertidal, pelagic, benthic",
+            "coral, intertidal, apogean",
+            "amphidromic, cotidal, benthic",
+            "cotidal, intertidal, exotidal"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_81",
+        "question": "The process by which leaves collect sunlight and make food is called this?",
+        "keywords": "photosynthesis",
+        "options": [
+            "pollination",
+            "budding",
+            "glycolysis",
+            "photosynthesis"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_82",
+        "question": "Which scientist was responsible for the theory of evolution by natural selection?",
+        "keywords": "evolution,natural selection,theory,scientist",
+        "options": [
+            "charles darwin",
+            "stephen hawking",
+            "galileo Galilei",
+            "albert einstein"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_83",
+        "question": "What is the term for the fast-moving air currents high in the troposphere?",
+        "keywords": "troposphere,fastmoving air currents",
+        "options": [
+            "global winds",
+            "gale force winds",
+            "ocean streams",
+            "jet streams"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_84",
+        "question": "What is the term for the gases that surround a planet?",
+        "keywords": "atmosphere,planet,gases",
+        "options": [
+            "hemisphere",
+            "galaxy",
+            "biosphere",
+            "the atmosphere"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_85",
+        "question": "Ciliary muscles control the shape of the lens, which bends light and focuses it on what?",
+        "keywords": "ciliary muscles,shape,lens,light,focus",
+        "options": [
+            "the pupil",
+            "the retina",
+            "the vitreous fluid",
+            "the cornea"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_86",
+        "question": "Red-green colorblindness is an example of what kind of trait?",
+        "keywords": "redgreen,colorblindness,trait",
+        "options": [
+            "fatal",
+            "sex-linked",
+            "dominant",
+            "adaptive"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_87",
+        "question": "What term is used to describe when a liquid is the temperature at which its equilibrium vapor pressure is equal to the pressure exerted on the liquid by its gaseous surroundings?",
+        "keywords": "liquid,equilibrium,vapor pressure,pressure,temperature",
+        "options": [
+            "boiling point",
+            "burning point",
+            "freezing point",
+            "evaporating point"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_88",
+        "question": "What do you call the folded layers of rock where geologists look for oil?",
+        "keywords": "geologists,folded,layers,rock,oil",
+        "options": [
+            "synclines",
+            "crests",
+            "anticlines",
+            "oscillations"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_89",
+        "question": "Scientists goal is develop nuclear fusion power plants, where the energy from fusion of hydrogen nuclei can be converted to what?",
+        "keywords": "Scientists,nuclear fusion,power plants,energy,hydrogen nuclei",
+        "options": [
+            "oil",
+            "gasoline",
+            "wind",
+            "electricity"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_90",
+        "question": "The oxygen atom in a water molecule pull the electrons away from the hydrogen atoms which leads to an unequal distribution of what?",
+        "keywords": "oxygen,water molecule,electrons,unequal distribution,hydrogen",
+        "options": [
+            "nitrogen",
+            "charge",
+            "orbits",
+            "atomic mass"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_91",
+        "question": "What influence does the  horizontal motion of a projectile have on free fall?",
+        "keywords": "horizontal motion,projectile,free fall",
+        "options": [
+            "vertical",
+            "decrease acceleration",
+            "none",
+            "increase acceleration"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_92",
+        "question": "Varicella zoster virus causes what two illnesses?",
+        "keywords": "chickenpox,shingles",
+        "options": [
+            "german measles and flu",
+            "chicken pox and shingles",
+            "syphilis and lyme",
+            "flu and shingles"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_93",
+        "question": "What organs are the main organs of the urinary system?",
+        "keywords": "urinary,system,organs",
+        "options": [
+            "spleen",
+            "kidneys",
+            "gall bladder",
+            "prostate"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_94",
+        "question": "What do you call a substance that is not an acid or a base?",
+        "keywords": "neutral substance,nonacid,nonbase",
+        "options": [
+            "equivalent",
+            "neutral",
+            "toxic",
+            "oxidic"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_95",
+        "question": "Positive charge is mostly found in what part of an atom?",
+        "keywords": "positive,charge,atom,part",
+        "options": [
+            "electron shell",
+            "ions",
+            "nucleus",
+            "neutrons"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_96",
+        "question": "What happens when forces of evolution work over a long period of time?",
+        "keywords": "evolution,forces,long period,time",
+        "options": [
+            "developmental evolution",
+            "Microevolution",
+            "substantial evolution",
+            "macroevolution"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_97",
+        "question": "What does a solar power plant turn sunlight into?",
+        "keywords": "solar,power,plant,sunlight,energy",
+        "options": [
+            "machinery",
+            "mechanical energy",
+            "batteries",
+            "electricity"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_98",
+        "question": "Traits inherited in mendelian patterns are either?",
+        "keywords": "Traits,inherited,mendelian,patterns",
+        "options": [
+            "dominant or autosomal",
+            "divergent or dominant",
+            "recessive or allelic",
+            "dominant or recessive"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_99",
+        "question": "In biology, what is required for ecosystems to survive?",
+        "keywords": "biology,ecosystems,survive",
+        "options": [
+            "helium",
+            "energy",
+            "minerals",
+            "space"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_100",
+        "question": "Compared to red light, blue light has a shorter what?",
+        "keywords": "wavelength",
+        "options": [
+            "absorption",
+            "life span",
+            "gravity",
+            "wavelength"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_101",
+        "question": "What are the structural and functional units of the kidney called?",
+        "keywords": "nephrons,kidney,structure,function,units",
+        "options": [
+            "aeons",
+            "Ions",
+            "nephrons",
+            "caldrons"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_102",
+        "question": "Genetic traits are characteristics encoded in what?",
+        "keywords": "genetic,traits,characteristics,encoded,in,what",
+        "options": [
+            "nuclei",
+            "dna",
+            "bacteria",
+            "rna"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_103",
+        "question": "Whan an alkene is aquired by an alkyl halide in an organic reaction, what kind of reaction is this?",
+        "keywords": "alkene,alkyl halide,organic reaction",
+        "options": [
+            "migration",
+            "elimination",
+            "extinction",
+            "subtraction"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_104",
+        "question": "Lava flows from a volcano and hardens into what?",
+        "keywords": "volcano,lava,hardens,flows",
+        "options": [
+            "rock",
+            "snow",
+            "sand",
+            "life"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_105",
+        "question": "What type of gas is used to fill glass tubes of lighted signs?",
+        "keywords": "helium,neon,argon,gas,lighted signs,glass tubes",
+        "options": [
+            "synthetic",
+            "natural",
+            "noble",
+            "inert"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_106",
+        "question": "What is said to occur when both traits appear in a heterozygous offspring?",
+        "keywords": "heterozygous,offspring,traits",
+        "options": [
+            "codominance",
+            "xenophobia",
+            "identical twins",
+            "pollenation"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_107",
+        "question": "What is responsible for our sense of balance?",
+        "keywords": "balance,sense",
+        "options": [
+            "our limbs",
+            "our eyes",
+            "our ears",
+            "our feet"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_108",
+        "question": "An electrical motor changes electrical energy into what?",
+        "keywords": "mechanical,energy",
+        "options": [
+            "chemical energy",
+            "mechanical energy",
+            "thermal energy",
+            "solar energy"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_109",
+        "question": "What is another term for the voice box?",
+        "keywords": "larynx,voice box",
+        "options": [
+            "pharynx",
+            "pancreas",
+            "optical nerve",
+            "larynx"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_110",
+        "question": "What sac, which was sitting on top of the flat embryo, envelops the embryo as it folds?",
+        "keywords": "amnion,embryo,fold,sac",
+        "options": [
+            "uterus",
+            "umbilical sac",
+            "amniotic sac",
+            "epithelial sac"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_111",
+        "question": "What makes organic compounds ubiquitous is the chemistry of their what?",
+        "keywords": "chemistry,compounds,ubiquitous,organic",
+        "options": [
+            "dioxide shell",
+            "carbon core",
+            "dioxide core",
+            "carbon shell"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_112",
+        "question": "B cells and t cells are examples of what type of cells?",
+        "keywords": "B cells and T cells are examples of lymphocytes,immune cells",
+        "options": [
+            "white blood cells",
+            "cancer cells",
+            "skin cells",
+            "heart cells"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_113",
+        "question": "Called the powerhouses of the cell, what organelles are the site of cellular energy production?",
+        "keywords": "organelles,powerhouses,cellular,energy,production,site",
+        "options": [
+            "nucleus",
+            "cell wall",
+            "mitochondria",
+            "mitosis"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_114",
+        "question": "As an erythrocyte matures in the red bone marrow, it extrudes its nucleus and most of its other what?",
+        "keywords": "erythrocyte,matures,red,bone,marrow,nucleus",
+        "options": [
+            "electrons",
+            "energy",
+            "organelles",
+            "moisture"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_115",
+        "question": "What is the ph of pure water?",
+        "keywords": "pH,pure water",
+        "options": [
+            "2",
+            "7",
+            "5",
+            "4"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_116",
+        "question": "Water droplets form when the air reaches 100-percent what?",
+        "keywords": "humidity",
+        "options": [
+            "density",
+            "heat",
+            "humidity",
+            "chance of rain"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_117",
+        "question": "What is the process by which plants make their own food called?",
+        "keywords": "photosynthesis,process,plants,make,own,food",
+        "options": [
+            "fission",
+            "atherosclerosis",
+            "fusion",
+            "photosynthesis"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_118",
+        "question": "What type of feeders are sponges?",
+        "keywords": "feeders,sponges",
+        "options": [
+            "surface feeders",
+            "bottom feeders",
+            "filter feeders",
+            "layer feeders"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_119",
+        "question": "What holds homologs together as the spindle forms for the first meiotic division?",
+        "keywords": "homologs,spindle,meiotic division",
+        "options": [
+            "pollenation",
+            "chiasmata",
+            "spirogyra",
+            "magnetism"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_120",
+        "question": "How many chambers does the stomach of a crocodile have?",
+        "keywords": "chambers,stomach,crocodile",
+        "options": [
+            "six",
+            "two",
+            "ten",
+            "three"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_121",
+        "question": "Some soil water can flow through easily. what kind of soil is this?",
+        "keywords": "soil,water,flow,easily,type,porous",
+        "options": [
+            "dense",
+            "permeable",
+            "Stationary",
+            "porous"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_122",
+        "question": "Regulation of the reproductive system is a process that requires the action of hormones from which gland?",
+        "keywords": "regulation,reproductive system,hormones,gland",
+        "options": [
+            "thyroid gland",
+            "pituitary gland",
+            "adrenal gland",
+            "salivary gland"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_123",
+        "question": "What is the process in which a layer of a second metal is deposited on the metal electrode that acts as the cathode during electrolysis?",
+        "keywords": "electrolysis,metal electrode,cathode,deposition",
+        "options": [
+            "distillation",
+            "casting",
+            "electroplating",
+            "cold fusion"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_124",
+        "question": "How are bacteria cells similar to our cells?",
+        "keywords": "cells,bacteria,similarities",
+        "options": [
+            "dna and number of protons",
+            "dna & plasma membrane",
+            "shape and size",
+            "plasma and number of protons"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_125",
+        "question": "Kinetic energy of moving particles of matter, measured by their temperatures are known as:",
+        "keywords": "Thermal energy,kinetic energy of moving particles of matter,temperature",
+        "options": [
+            "visible energy",
+            "thermal energy",
+            "solar energy",
+            "atmospheric energy"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_126",
+        "question": "The common carotid artery gives rise to the external and internal carotid arteries. the external carotid artery remains superficial and gives rise to many arteries of this?",
+        "keywords": "common carotid artery,external carotid artery,internal carotid artery,superficial",
+        "options": [
+            "stomach",
+            "chest",
+            "head",
+            "back"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_127",
+        "question": "What's the most common disorder from having an extra chromosome?",
+        "keywords": "chromosome,disorder,extra,most common",
+        "options": [
+            "Williams syndrome",
+            "cri-du-chat syndrome",
+            "Turner syndrome",
+            "down syndrome"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_128",
+        "question": "What type of numerical figure is important in considering the precision and accuracy of a number?",
+        "keywords": "numerical,figure,precision,accuracy",
+        "options": [
+            "significant",
+            "insignificant",
+            "component",
+            "exponent"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_129",
+        "question": "Like a thick cap covering the brain, the dura mater is a tough outer covering. the name comes from the latin for?",
+        "keywords": "Latin,dura mater,brain,covering",
+        "options": [
+            "tough mother",
+            "protecting mother",
+            "difficult mother",
+            "back mother"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_130",
+        "question": "What kind of muscle is responsible for hollow organs contracting?",
+        "keywords": "smooth muscle,hollow organs,contraction",
+        "options": [
+            "smooth muscle",
+            "tough muscle",
+            "micro muscle",
+            "rough muscle"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_131",
+        "question": "What important process takes place in specialized tissue inside plant leaves?",
+        "keywords": "photosynthesis,plant,leaves,tissue,process",
+        "options": [
+            "mitosis",
+            "reproduction",
+            "photosynthesis",
+            "pollination"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_132",
+        "question": "What kind of biome or climate might you find very close to the earth's poles, as well as up on high mountains?",
+        "keywords": "biome,climate,poles,high mountains",
+        "options": [
+            "tropical",
+            "tundra",
+            "taiga",
+            "desert"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_133",
+        "question": "What do young female meerkats act as in colonies?",
+        "keywords": "young,female,meerkats,colonies",
+        "options": [
+            "babysitters",
+            "midwives",
+            "predators",
+            "defenders"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_134",
+        "question": "What helps treat bacterial infections in people?",
+        "keywords": "antibiotics,bacterial infections,treatment",
+        "options": [
+            "antibiotic drugs",
+            "respiratory drugs",
+            "rest",
+            "vaccines"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_135",
+        "question": "What is the process in which one cell divides to form two new cells called?",
+        "keywords": "cell,division,process,cell,division,form,two,new,cells",
+        "options": [
+            "cell contribution",
+            "Cell Formation",
+            "cell direction",
+            "cell division"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_136",
+        "question": "Group 15 of the periodic table is also called which group?",
+        "keywords": "nitrogen,periodic table,group 15",
+        "options": [
+            "nitrogen",
+            "oxygen",
+            "potassium",
+            "hydrogen"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_137",
+        "question": "Conversely, very large forces are created by liquids and solids when they try to expand but are constrained from doing so—which is equivalent to compressing them to less than their normal volume. this often occurs when a contained material warms up, since most materials expand when they do this?",
+        "keywords": "expansion,forces,liquids,solids,constrained,compressing,contained,warming,materials,volume",
+        "options": [
+            "decrease temperature",
+            "increase temperature",
+            "increase mass",
+            "increase density"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_138",
+        "question": "The vitamins and minerals contained in all of the food we consume are important for all of our organ systems. however, there are certain nutrients that affect this?",
+        "keywords": "vitamins,minerals,nutrients,organ systems",
+        "options": [
+            "bone health",
+            "mental health",
+            "abnormal health",
+            "chain health"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_139",
+        "question": "Because atoms are always electrically neutral, for each added proton, one of what is also added?",
+        "keywords": "atoms,electrically,neutral,proton,added",
+        "options": [
+            "neutron",
+            "quark",
+            "electron",
+            "ion"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_140",
+        "question": "What type of charge do electrons have?",
+        "keywords": "charge,electrons",
+        "options": [
+            "negative",
+            "bipolar",
+            "positive",
+            "neutral"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_141",
+        "question": "Which process is glycolysis in during cellular respiration?",
+        "keywords": "glycolysis,cellular respiration",
+        "options": [
+            "hydrolysis",
+            "enzymatic",
+            "anaerobic",
+            "aerobic"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_142",
+        "question": "Within the chloroplast, synthesis of what takes place in the fluid inside the inner membrane called the stroma?",
+        "keywords": "chloroplast,stroma,synthesis,inner membrane,fluid",
+        "options": [
+            "sugar",
+            "wheat",
+            "glucose",
+            "fructose"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_143",
+        "question": "What term is given to flatworms because they lack a body cavity?",
+        "keywords": "acoelomate,flatworms",
+        "options": [
+            "sporazoa",
+            "sporozoans",
+            "acoelomates",
+            "pores"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_144",
+        "question": "The fujita scale measures the intensity of what weather event, based on wind speed and damage?",
+        "keywords": "fujita scale,intensity,weather event,wind speed,damage",
+        "options": [
+            "sandstorm",
+            "wind gust",
+            "blizzard",
+            "tornado"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_145",
+        "question": "It may seem as though burning destroys matter, but the same amount of what, still exists after a campfire as before?",
+        "keywords": "matter,campfire,amount",
+        "options": [
+            "termperature",
+            "concentrations",
+            "energy",
+            "mass"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_146",
+        "question": "What is the fan-like superior region that forms the largest part of the hip bone and is united to the sacrum at the largely immobile sacroiliac joint?",
+        "keywords": "superior,fanlike,region,hip bone,sacrum,sacroiliac joint",
+        "options": [
+            "spine",
+            "pica",
+            "ilium",
+            "septum"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_147",
+        "question": "What are the male gametes called?",
+        "keywords": "male,gametes",
+        "options": [
+            "sperm",
+            "pollen",
+            "urea",
+            "cytoplasm"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_148",
+        "question": "In a ketone, two of which kind of groups are attached to the carbonyl carbon atom?",
+        "keywords": "alkyl,aryl",
+        "options": [
+            "ions",
+            "oxygen groups",
+            "nitrogen groups",
+            "carbon groups"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_149",
+        "question": "What is polyisoprene better known as?",
+        "keywords": "polyisoprene,known as",
+        "options": [
+            "rubber",
+            "silicon",
+            "styrofoam",
+            "rayon"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_150",
+        "question": "Segmented worms have a digestive,nervous and what type of system?",
+        "keywords": "segmented,worms,digestive,nervous,system",
+        "options": [
+            "vascular",
+            "lymphatic",
+            "pulmonary",
+            "circulatory"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_151",
+        "question": "What is only effective if ventilation is matched to blood flow through alveolar capillaries?",
+        "keywords": "gas exchange,ventilation,alveolar capillaries,blood flow",
+        "options": [
+            "assisted breathing",
+            "blood pressur control",
+            "iron lung",
+            "breathing control"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_152",
+        "question": "What forces the fetus out of the uterus?",
+        "keywords": "contractions,uterus,fetus",
+        "options": [
+            "biological clock",
+            "delayed childbirth",
+            "continuous strong contractions",
+            "deep breathing"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_153",
+        "question": "Specific scents are often associated with what?",
+        "keywords": "memory,emotions,associations",
+        "options": [
+            "pheromones",
+            "memories",
+            "behaviors",
+            "instincts"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_154",
+        "question": "Which electromagnetic radiation is used to kill cancer cells?",
+        "keywords": "electromagnetic radiation,kill,cancer cells",
+        "options": [
+            "X-rays",
+            "ultraviolet rays",
+            "gamma rays",
+            "plasma rays"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_155",
+        "question": "What weather phenomenon increases the rate of weathering in rock and soil?",
+        "keywords": "weather,phenomenon,increases,rate,weathering,rock,soil",
+        "options": [
+            "temperature",
+            "rainfall",
+            "earthquake",
+            "landslide"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_156",
+        "question": "What system in both males and females consists of structures that produce reproductive cells, or gametes, and secrete sex hormone?",
+        "keywords": "reproductive cells,gametes,sex hormone,system,males,females",
+        "options": [
+            "digestion",
+            "circulatory system",
+            "reproductive",
+            "immune system"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_157",
+        "question": "Electrical potential energy can be described by the equation pe = qv, where q is the electric charge and v is what?",
+        "keywords": "electric,potential,energy,charge,voltage",
+        "options": [
+            "frequency",
+            "amplitude",
+            "wavelength density",
+            "voltage"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_158",
+        "question": "Ecologists already use the abilities of many prokaryotes to carry out bioremediation of soils and what else?",
+        "keywords": "ecologists,prokaryotes,bioremediation,soils",
+        "options": [
+            "gas",
+            "plasma",
+            "water",
+            "air"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_159",
+        "question": "Milk is usually subjected to what process, where high temperatures denature the proteins in bacteria so they cannot carry out functions needed to grow and multiply?",
+        "keywords": "pasteurization,denaturation,high temperatures,proteins,bacteria,grow,multiply",
+        "options": [
+            "crystallization",
+            "Cleaning",
+            "pasteurization",
+            "vaporization"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_160",
+        "question": "How are valuable metabolites recovered?",
+        "keywords": "metabolites,recovery,valuable",
+        "options": [
+            "reabsorption",
+            "replication reaction",
+            "osmosis",
+            "metabolism"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_161",
+        "question": "What is the only planet that is known to support life?",
+        "keywords": "life,planet,support",
+        "options": [
+            "earth",
+            "Saturn",
+            "Mars",
+            "Venus"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_162",
+        "question": "What is an isotope that is radioactive called?",
+        "keywords": "isotope,radioactive",
+        "options": [
+            "isotopes",
+            "radioisotopes",
+            "matured isotope",
+            "radionuclides"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_163",
+        "question": "What creatures evolved from a lobe-finned lungfish ancestor?",
+        "keywords": "lobefinned,lungfish,ancestor,creatures,evolved",
+        "options": [
+            "mice",
+            "horses",
+            "amphibians",
+            "birds"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_164",
+        "question": "In dioecious animals, females generally produce what contribution to reproduction?",
+        "keywords": "dioecious,females,reproduction,contribution",
+        "options": [
+            "intelligence",
+            "milk",
+            "warmth",
+            "eggs"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_165",
+        "question": "Integral proteins penetrate the hydrophobic interior of the what?",
+        "keywords": "Integral,proteins,penetrate,hydrophobic,interior,of,the,what",
+        "options": [
+            "lipid bilayer",
+            "metabolism bilayer",
+            "skin bilayer",
+            "carbon bilayer"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_166",
+        "question": "Average speed is equal to distance divided by what?",
+        "keywords": "Average,speed,distance,divided,by",
+        "options": [
+            "height",
+            "time",
+            "weight",
+            "magnitude"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_167",
+        "question": "Leaving tampons in for too long can put you at risk of what syndrome?",
+        "keywords": "toxic shock syndrome,tampon use,risk,syndrome",
+        "options": [
+            "Vaginismis",
+            "Scalded Skin Syndrome",
+            "toxic shock",
+            "Endometrial Cancer"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_168",
+        "question": "In artificial passive immunization, which items from an immune animal are injected into a nonimmune animal?",
+        "keywords": "antibodies,artificial,immunization,immune,animal,nonimmune",
+        "options": [
+            "antibodies",
+            "allergies",
+            "parasites",
+            "platelets"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_169",
+        "question": "What is the ring of hooks tapeworms use to attach themselves?",
+        "keywords": "tapeworms,hooks,ring",
+        "options": [
+            "scolex",
+            "flagella",
+            "cilia",
+            "dewlap"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_170",
+        "question": "Amplification that occurs in which cells often requires signal transduction pathways involving second messengers?",
+        "keywords": "Amplification,cells,signal transduction,pathways,second messengers",
+        "options": [
+            "sensory receptor",
+            "catayst cells",
+            "optic nerves",
+            "axons"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_171",
+        "question": "What is the term for the force applied to a wheel and axle?",
+        "keywords": "torque,force,wheel,axle",
+        "options": [
+            "velocity force",
+            "momentum",
+            "output force",
+            "input force"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_172",
+        "question": "Who is said to have dropped two objects of different masses from the tower of pisa?",
+        "keywords": "Tower of Pisa,objects,different masses",
+        "options": [
+            "copernicus",
+            "newton",
+            "darwin",
+            "galileo"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_173",
+        "question": "What happens to gas solubility as the temperature increases?",
+        "keywords": "solubility,temperature,gas",
+        "options": [
+            "increases",
+            "decreases",
+            "stabilizes",
+            "fluctuates rapidly"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_174",
+        "question": "What type of cells are gametes?",
+        "keywords": "gametes,cells,type",
+        "options": [
+            "reproductive",
+            "cardiac",
+            "immune",
+            "proteins"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_175",
+        "question": "What physical property of matter reflects how closely packed the particles of matter are?",
+        "keywords": "density,physical property,matter,particle packing,closeness",
+        "options": [
+            "density",
+            "mass",
+            "build up",
+            "makeup"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_176",
+        "question": "Synaptic connections can change over time depending on what?",
+        "keywords": "synaptic connections,change,over time,depending on",
+        "options": [
+            "age",
+            "diet",
+            "activity level",
+            "weight"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_177",
+        "question": "Each hemisphere of the brain contains regions called what that are involved in different functions?",
+        "keywords": "hemisphere,brain,regions,functions",
+        "options": [
+            "nodes",
+            "folds",
+            "chambers",
+            "lobes"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_178",
+        "question": "Metamorphic rocks form when an existing rock is changed by heat or what?",
+        "keywords": "metamorphic,rocks,form,when,existing,rock,changed,by,heat,or,pressure",
+        "options": [
+            "radiation",
+            "cold",
+            "chemical reaction",
+            "pressure"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_179",
+        "question": "What is it called when body’s internal environment is stable?",
+        "keywords": "homeostasis",
+        "options": [
+            "homeostasis",
+            "ketosis",
+            "synchronicity",
+            "hypothesis"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_180",
+        "question": "Human evolution shows that evolutionary changes typically occur at what pace?",
+        "keywords": "evolution,human evolution,pace,evolutionary changes",
+        "options": [
+            "uneven",
+            "rapid",
+            "slow",
+            "sudden"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_181",
+        "question": "What happens to the level of relative humidity in the evening as air temperature declines?",
+        "keywords": "relative,humidity,evening,temperature",
+        "options": [
+            "it rises",
+            "nothing",
+            "it goes up and down",
+            "it falls"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_182",
+        "question": "When light strikes the rods and cones, they hyperpolarize, shutting off their release of what?",
+        "keywords": "photons,rods,cones,hyperpolarize,release,neurotransmitters",
+        "options": [
+            "enzyme",
+            "glutamate",
+            "dopamine",
+            "vitreous fluid"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_183",
+        "question": "In desert cactus, thorns that protect the water held in a large, barrel-shaped stem are an example of what?",
+        "keywords": "adaptation,desert cactus,thorns,protective mechanism",
+        "options": [
+            "species",
+            "adaptation",
+            "feature",
+            "characteristic"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_184",
+        "question": "Name the law that determines as to which rock layers are younger or older than others.",
+        "keywords": "law,determines,rock,layers,older,younger",
+        "options": [
+            "geologic theory",
+            "law of apposition",
+            "law of gravity",
+            "law of superposition"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_185",
+        "question": "What are the primary producers in the ocean?",
+        "keywords": "primary,producers,ocean",
+        "options": [
+            "fish",
+            "zooplankton",
+            "phytoplankton",
+            "algea"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_186",
+        "question": "What are the devices placed in electric circuits where charge can build up, which store energy when charged and release it when they discharge?",
+        "keywords": "capacitors,electric circuits,charge,energy storage devices",
+        "options": [
+            "generators",
+            "resistors",
+            "capacitors",
+            "antennas"
+        ],
+        "answer": "choices_3"
+    },
+    {
+        "id": "sample_187",
+        "question": "What is the term for a  very rapid motor response that is not directed by the brain?",
+        "keywords": "rapid,motor,response,not,directed,brain",
+        "options": [
+            "reflex",
+            "adaptation",
+            "sensor",
+            "instinct"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_188",
+        "question": "What do most species of monkeys have that no apes or humans do?",
+        "keywords": "monkeys,apes,humans,species",
+        "options": [
+            "five fingers",
+            "tail",
+            "fur",
+            "large brain"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_189",
+        "question": "What is the process of small molecules passing through the plasma membrane called?",
+        "keywords": "passing,process,small,molecules,plasma,membrane,called",
+        "options": [
+            "permeation",
+            "absorption",
+            "convection",
+            "diffusion"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_190",
+        "question": "The long mouth-tube that some insects  use to suck up the nectar of the flower is called what?",
+        "keywords": "insects,nectar,flower,mouthtube",
+        "options": [
+            "proboscis",
+            "stamen",
+            "pistil",
+            "prosthesis"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_191",
+        "question": "The elements in group 2 are called what?",
+        "keywords": "aluminum,group 2,elements",
+        "options": [
+            "alkaline earth metals",
+            "noble gases",
+            "metal alloys",
+            "halogens"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_192",
+        "question": "What is the largest artery in the body called?",
+        "keywords": "largest,artery,body",
+        "options": [
+            "subclavian",
+            "aorta",
+            "femoral",
+            "carotid"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_193",
+        "question": "What is approximately the average stroke volume in humans?",
+        "keywords": "average,stroke,volume,humans",
+        "options": [
+            "65 ml",
+            "70 ml",
+            "75 ml",
+            "80 ml"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_194",
+        "question": "Liverworts are small plants that grow close  to what?",
+        "keywords": "Liverworts,small,plants,grow,close",
+        "options": [
+            "ground",
+            "houses",
+            "tree tops",
+            "beaches"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_195",
+        "question": "What consists of all the biotic and abiotic factors in an area and their interactions?",
+        "keywords": "ecosystem,biotic,abiotic,factors,interactions",
+        "options": [
+            "ecosystem",
+            "community",
+            "macroevolution",
+            "habitat"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_196",
+        "question": "What contains more calcium than any other organ?",
+        "keywords": "calcium,organ",
+        "options": [
+            "gall bladder",
+            "fingernails",
+            "lungs",
+            "bones"
+        ],
+        "answer": "choices_4"
+    },
+    {
+        "id": "sample_197",
+        "question": "What is it called when an egg develops into an individual without being fertilized?",
+        "keywords": "parthenogenesis,unfertilized development,egg development",
+        "options": [
+            "parthenogenesis",
+            "symbiosis",
+            "abiogenesis",
+            "metamorphosis"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_198",
+        "question": "Insulin is made up of how many polypeptide chains?",
+        "keywords": "Insulin,polypeptide chains",
+        "options": [
+            "two",
+            "four",
+            "three",
+            "twelve"
+        ],
+        "answer": "choices_1"
+    },
+    {
+        "id": "sample_199",
+        "question": "What term is used to describe large numbers of species that go extinct in a short amount of time?",
+        "keywords": "mass,extinctions,species,short,time,period,event",
+        "options": [
+            "organic extinction",
+            "mass extinction",
+            "species extinction",
+            "formation extinction"
+        ],
+        "answer": "choices_2"
+    },
+    {
+        "id": "sample_200",
+        "question": "Does air temperature increase or decrease as it rises higher in the atmosphere?",
+        "keywords": "temperature,air,increase,decrease,atmosphere",
+        "options": [
+            "decrease",
+            "both",
+            "increase",
+            "neither"
+        ],
+        "answer": "choices_1"
+    }
+]

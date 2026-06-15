@@ -1,0 +1,576 @@
+Entity1,Relation,Entity2
+Hydration,causes,absence of sugar crash
+Hydration,is a result of,Water consumption
+Sugar consumption,causes,sugar crash
+Diligent studying,causes,good grades
+Television watching,causes,hindered academic performance
+Cardiovascular exercise,causes,improved overall well-being
+Cardiovascular exercise,causes,reduced exhaustion
+Taking a temporary break from work,causes,rejuvenation
+Taking on additional tasks,causes,feelings of being overwhelmed
+Taking the bus,causes,on-time arrival
+Taking the cab,causes,late arrival
+Regular gym sessions,causes,increase in physical strength
+Consuming unhealthy food,causes,weight gain
+Physical activity level,affects,weight
+Physical activity level,affects,strength
+Diet,affects,weight
+Diet,affects,strength
+Driving recklessly,causes,receiving a ticket
+Driving safely,causes,safe arrival at destination
+Driving safely,causes,no ticket
+Driving recklessly,causes,unsafe arrival at destination
+Driving recklessly,causes,receiving a ticket
+Taking a cab,causes,late arrival
+Taking the bus,causes,on-time arrival
+Mike,experiences,"rejuvenation, if"
+Mike,experiences,"feelings of being overwhelmed, if"
+Olivia,experiences,"on-time arrival, if"
+Olivia,experiences,"late arrival, if"
+John,experiences,"weight gain, if"
+Julie,experiences,"weight gain, if"
+Mark,experiences,"receiving a ticket, if"
+Mark,experiences,"safe arrival at destination, if"
+Amber,studies,new skills
+Amber,stays up late,tired
+John,eats,processed food
+John,energy levels,decrease
+John,stores food,fridge
+John,food,freshness
+John,food,spoilage
+Rahul,spends time,outdoors
+Rahul,"gets a tan)
+10. (Mark","prioritizes health, health"
+Mark,neglects health,health issues
+Mark,health,diseases
+Mark,health,sports
+Mark,health,food
+Mark,health,energy
+Mark,health,health
+John,consumes,organic food
+John,energy levels,increase
+Mark,health,sports
+Mark,health,diseases
+Mark,health,food
+Mark,health,energy
+John,food,freshness
+John,food,spoilage
+Amber,learns,new skills
+Amber,tired,late
+John,food,fridge
+Rahul,outdoors,tan
+Rahul,indoors,no tan
+Mark,health,health issues
+Mark,health,diseases
+Mark,sports,health
+John,organic food,energy
+John,processed food,energy
+John,food,freshness
+John,food,spoilage
+Amber,studies,new skills
+Amber,late,tired
+Rahul,outdoors,tan
+Rahul,indoors,no tan
+John,food,freshness
+John,food,spoilage
+Mark,health,health
+Mark,sports,health
+Mark,health,food
+Mark,health,energy
+John,organic food,energy
+John,processed food,energy
+Amber,studies,new skills
+Amber,tired,late
+Rahul,outdoors,tan
+Rahul,indoors,no tan
+John,food,freshness
+John,food,spoilage
+Mark,health,health
+Mark,sports,health
+Mark,health,food
+Mark,health,energy
+John,organic food,energy
+John,processed food,energy
+Amber,studies,new skills
+Amber,tired,late
+Rahul,outdoors,tan
+Rahul,indoors,no tan
+John,food,freshness
+John,food,spoilage
+Mark,health,health
+Mark,sports,health
+Mark,health,food
+Mark,health,energy
+John,organic food,energy
+John,processed food,energy
+Amber,studies,new skills
+Amber,tired,late
+Rahul,outdoors,tan
+Rahul,indoors,no tan
+John,food,freshness
+John,food,spoilage
+Mark,health,health
+Mark,sports,health
+Mark,health,food
+Mark,health,energy
+John,organic food,energy
+John,processed food,energy
+Amber,studies,new skills
+Amber,tired,late
+Rahul,outdoors,tan
+Rahul,indoors,no tan
+John,food,freshness
+John,food,spoilage
+Mark,health,health
+Mark,sports,health
+Mark,health,food
+Mark,health,energy
+John,organic food,energy
+John,processed food,energy
+Amber,studies,new skills
+Amber,tired,late
+Rahul,outdoors,tan
+Rahul,indoors,no tan
+John,food,freshness
+John,food,spoilage
+Mark,health,health
+Mark,sports,health
+Mark,health,food
+Mark,health,energy
+John,organic food,energy
+John,processed food,energy
+Amber,studies,new skills
+Amber,tired,late
+Rahul,outdoors,tan
+Rahul,indoors,no tan
+John,food,freshness
+John,food,spoilage
+Mark,health,health
+Mark,sports,health
+Mark,health,food
+Mark,health,energy
+John,organic food,energy
+John,processed food,energy
+Amber,studies,new skills
+Amber,tired,late
+Rahul,outdoors,tan
+Rahul,indoors,no tan
+John,food,freshness
+John,food,spoilage
+Mark,health,health
+Mark,sports,health
+Mark,health,food
+Mark,health,energy
+John,organic food,energy
+John,processed food,energy
+Amber,studies,new skills
+Amber,tired,late
+Rahul,outdoors,tan
+Rahul,indoors,no tan
+John,food,freshness
+John,food,spoilage
+Mark,health,health
+Mark,sports,health
+Mark,health,food
+Mark,health,energy
+John,organic food,energy
+John,processed food,energy
+Amber,studies,new skills
+Amber,tired,late
+Rahul,outdoors,tan
+Rahul,indoors,no tan
+John,food,freshness
+John,food,spoilage
+Amber,learns,new skills
+Amber,studies,new skills
+Amber,tired,late
+John,consumes,organic food
+John,energy levels,decrease
+John,energy levels,increase
+John,food,freshness
+John,food,spoilage
+John,stores food,fridge
+Mark,health,diseases
+Mark,health,energy
+Mark,health,food
+Mark,health,health
+Mark,health,health issues
+Mark,health,sports
+Rahul,"gets a tan)
+17. (Rahul","indoors, no tan"
+Rahul,outdoors,tan
+Rahul,spends time,outdoors
+sun,tan,outdoors
+tan,indoors,no tan
+tan,outdoors,gets a tan
+tired,late,Amber
+tired,late,studying
+tired,late,studying late
+Entity 1,Relation,Entity 2
+John,will engage in,leisure activity
+John,will watch,movie
+John,will go,shopping center
+Jenny,will feed,birds
+Jenny,will read,book
+Alice,will achieve,good grades
+Alice,will spend time with,friends
+Sandra,will enjoy,baking/cooking
+Sandra,will appreciate,culinary creation
+James,will complete,race
+James,will improve,stamina
+John,will put out,fire
+Jill,will investigate,crime
+John,will put out,fire
+"in the context of calling the fire brigade)
+15. (Jill",will investigate,crime
+Entity 1,Relation,Entity 2
+John,does not drive carefully or speed up,Mary
+Mary,"is not relevant to the context)
+(Laura","does not drive carefully or speed up, is not supported by the context"
+David,drives cautiously and speeds up,is plausible but not directly supported
+Jane,sends a letter,receives a response
+Jane,does not send a letter,does not receive a response
+Sara,buys a car,saves money on transportation expenses
+Sara,sells a car,acquires additional funds
+Sara,does not buy a car or sell a car,is the most suitable conclusion
+Sarah,takes a risk or plays it safe,is the most suitable conclusion
+Sarah,does not take a risk or play it safe,is the most suitable conclusion
+Hannah,takes the bus or drives her own car,is the most suitable conclusion
+Hannah,does not take the bus or drive her own car,is the most suitable conclusion
+Sara,works hard and takes breaks,is linked to promotions and mental refreshment
+Sara,does not work hard or take a break,is the most suitable conclusion
+Dave,implied action,gym or exercises
+Sarah,runs,experiences an increase in energy levels
+Sarah,swims,feels relaxed
+Jane,chooses transportation method,experiences time savings or financial benefits
+John,reads a book or watches a movie,comprehends concepts or finds entertainment
+Alice,listens to favorite music or takes a break,affects mood and energy levels
+Nina,eats healthy or exercises regularly,stays fit or has a toned body
+Lisa,eats healthy or exercises regularly,stays fit or has a toned body
+David,eats healthy or exercises regularly,stays fit or has a toned body
+Alice,visits,library
+Alice,takes a break,library
+Ricky,takes a nap,vitality
+Ricky,exercises regularly,well-being
+Ricky,feels energized,vitality
+Ricky,experiences overall well-being,well-being
+Jill,cooks dinner,full
+Jill,goes out to eat,saves money
+Jill,visits a park,park
+Jill,is unable to visit a museum,museum
+Jill,is able to go to a park,park
+Jill,is able to visit a movie theater,movie theater
+Jill,is able to visit a zoo,zoo
+Anne,is attending a workshop,workshop
+Anne,is not joining a club,club
+rock,is unable to take a walk,walk
+John,is able to go shopping,shopping
+Jane,is able to take a leisurely walk,walk
+rock,is unable to go shopping,shopping
+Jill,is not playing football,football
+Rachel,is able to watch movies,movies
+Jill,inability to play football,football
+Jill,can watch movies,watching movies
+Jane,not buying groceries,buying groceries
+Jane,can buy clothes,buying clothes
+Dave,unable to attend a summer camp,attending a summer camp
+Dave,can take a cooking class,taking a cooking class
+John,can go to the museum,going to the museum
+John,unable to attend the theatre performance,attending the theatre performance
+Sara,not writing a book,writing a book
+Sara,can design a website,designing a website
+John,unable to attend the lecture,attending the lecture
+John,can study from home,studying from home
+Sarah,inability to partake in a walk,taking a stroll
+Sarah,can go for a jog,going for a jog
+Jack,unable to read,reading a book
+Jack,can go for a walk,going for a walk
+John,has,expertise
+Sara,owns,car
+James,speaks,Spanish
+Jane,is,skilled at baking
+Jake,won,spelling bee
+runner,is,fast
+Karen,is,certified yoga instructor
+John,is,skilled at playing violin
+John,is proficient in,violin
+Emily,won,100m sprint competition
+Emily,achieved,fastest time in 100m sprint race
+Emily,finished in,400m sprint race
+Alexa,was honored with,Nobel Prize
+Alexa,made,remarkable contributions to chemistry
+Raju,is proficient in,carpentry
+Raju,possesses,exceptional expertise in carpentry
+Raju,is skilled in,creating magnificent pieces of workmanship
+Raju,is skilled in,utilizing innovative techniques
+Raju,is skilled in,incorporating contemporary designs
+All students,passed,exam
+John,is experienced in,swimming
+John,is skilled in,stroke techniques
+John,is skilled in,breathing patterns
+John,is skilled in,water safety protocols
+Sheila,is skilled in,chess
+Sheila,possesses,exceptional chess skills
+Sheila,possesses,expert status in chess
+Sheila,possesses,high cognitive abilities
+Sheila,possesses,strategic thinking
+Sheila,possesses,problem-solving skills
+Someone,has purchased,supplies
+Someone,will initiate,project
+Someone,will complete,project within timeframe
+parents,recognition,individual
+individual,reward,parents
+individual,relationship,parents
+individual,life,parents
+individual,meal,ingredients
+individual,impression,friends
+individual,friends,social setting
+dog,health,stroll
+stroll,happiness,dog
+tasks,deadline,reward
+person,reward,team
+effort,academic performance,grades
+grades,scholarship,individual
+effort,scholarship,individual
+helmet,injuries,person
+injuries,trauma,person
+trauma,brain damage,person
+vehicle,finances,Sarah
+finances,vacation,Sarah
+degree,employability,individual
+degree,job,individual
+courses,degree,individual
+Tom,is tired,fatigue
+Tom,has,homeostatic drive
+homeostatic drive,is triggered by,fatigue
+fatigue,is characterized by,exhaustion
+fatigue,is characterized by,lethargy
+fatigue,is characterized by,decreased motivation
+homeostatic drive,leads to,rest
+homeostatic drive,leads to,sleep
+rest,allows for,physical restoration
+rest,allows for,mental restoration
+sleep pressure,is the increasing drive to,sleep
+sleep pressure,is reduced by,rest
+John,has,excitement
+John,has,anticipation
+excitement,is associated with,watching a film
+anticipation,is associated with,watching a film
+John,will go,watching a film
+Duke,forgot,to switch off the lights
+leaving the lights on,incurs,financial penalty
+leaving the lights on,incurs,extra fee
+leaving the lights on,incurs,fine
+leaving the lights on,incurs,penalty
+John,has,infection
+infection,is caused by,weakened immune system
+weakened immune system,is related to,immunocompetence
+John,has,weakened immune system
+John,has been,consuming unhealthy food
+unhealthy food,leads to,weight gain
+John,will gain,weight
+John,is experiencing,anger
+anger,leads to,shouting
+shouting,is a typical response to,anger
+John,will,shout
+John,has,injury
+injury,requires,rest
+rest,is essential for,recovery
+John,will,rest
+John,is lost,GPS
+John,requires,assistance
+John,uses,GPS
+John,does not visit,park
+John,does not wear,face covering
+John,is,lost
+John,has,car
+John,is aware of,car's condition
+Jack,does not know,car's condition
+Jack,has,car
+Jack,fails to notice,flat tire
+Jack,is,in charge
+Karen,has,promotion
+Karen,is,dedicated
+Karen,has,strong work ethic
+Karen,is,"likely to get, promotion"
+Jane,has,financial constraints
+Jane,cannot afford,luxury items
+Jane,lacks,sufficient financial resources
+Jane,prioritizes,essential expenses
+Judy,does not have,car
+Judy,is unable to travel,road
+Judy,prefers,flight
+Mark,does not operate,car
+Mark,is not obligated,traffic regulations
+GPS,provides,guidance
+GPS,helps,John find way
+GPS,is a tool,wayfinding
+GPS,assists,navigation
+GPS,offers,directions
+Mark,is not operating a car,none
+Shelley,is not participating in an online event,none
+Rose,can drive for a day,none
+Lisa,has a pet dog,pet dog
+Alice,did not rob the bank,none
+John,is not going to the store,none
+Frank,does not study hard,none
+Jane,did not say anything about the soup,none
+Jane,was served cold soup,soup
+Lisa,has a pet dog,cat
+Cat,is a pet of,Endy
+Endy,has,Cat
+Endy,is not capable of feeding,Cat
+Domesticated Cat,requires daily sustenance from,Owner
+Endy,is,not a pet owner
+John,plays,Game
+Game,offers a prize for,John
+John,did not receive,Prize
+John,was unable to complete,Levels
+Option A,is a possible reason for,John not receiving a prize
+Option B,is a possible reason for,John not receiving a prize
+John,is,not good at playing games
+John,gave up halfway through,Game
+John,forgot to complete,Levels
+Jill,is using,Cooking Vessel
+Jill,is not using,Pressure Cooker
+Cooking Vessel,is used for,Meal
+Jill,is preparing,Meal
+Jill,is not using a pressure cooker,"but may be using, Slow Cooker"
+Alex,is not following,Dress Code
+Alex,is working remotely,"and therefore, is not following, Dress Code"
+Jill,has different,Academic Expectations
+Jill,is in,Educational Setting
+Educational Setting,has different expectations,than College
+Jill,is not in,College
+Tom,is crossing,Street
+Tom,did not look both ways before crossing,Street
+Tom,is violating,Traffic Rules
+Mona,missed,Sunrise
+Mona,woke up late,"and therefore, missed, Sunrise"
+Mona,is not married to,Bob
+Bob,does not have,in-laws
+Samantha,is not required to pack,sunscreen
+Samantha,is not going to,the beach
+Reema,needs to take,examination
+Reema,is a,student
+Reema,needs to complete,degree
+Mohammed,is subject to,work schedule
+Mohammed,is an,employee
+Mohammed,has to work,five days a week
+Fido,has,four legs
+Fido,is a,canine
+Sheba,is a,feline
+Sheba,is a,carnivore
+jena,is passionate about,teaching
+jena,is an,educator
+Goodman,is a,giant
+Goodman,is subject to,physical attractiveness stereotype
+Jane,Robert,"John, has_no_notable_physical_characteristics"
+felines,have_affinity_for,balls_of_yarn
+feline creature,enjoys,yarn
+Dean,is_not_addicted_to,caffeine
+The Beatles,is_a,British_rock_band
+The Beatles,has_song,Hey_Jude
+Hey_Jude,is_a,rock_and_pop_ballad
+Jack,consumes,soft_drinks
+soft_drinks,is_associated_with,muscle_fat
+Jack,would_have,muscle_fat
+creatures_with_fur,have,thick_skin
+lion,has,thick_skin
+lion,is_not_covered_in,scales
+all_living_beings,have,brain
+elephants,have,brain
+brain,is_the_central_organ_of,nervous_system
+brain,enables,perception
+brain,facilitates,cognitive_functions
+electric_vehicles,can_travel,355
+Kate,owns,Tesla_Model_3_EV
+John,has,cat
+Jenny,plays,basketball
+Jenny,is tall,Jenny is a tall person
+Anna,is tall,Anna is a tall person
+Anna,does not play,basketball
+block b,is on,table
+Adam,exercises,Adam engages in physical activity
+Bob,exercises,Bob engages in physical activity
+John,lifts weights,John engages in weightlifting
+Rachel,is strong,Rachel has physical strength
+Chris,has slender build,Chris is of a slender build
+David,has slender build,David is of a slender build
+David,does,cycling
+Jenny,has tall stature,Jenny is a tall person
+Anna,has tall stature,Anna is a tall person
+John,has cat companion,John has a domestic companion
+block a,is on,table
+tigers,inhabit,jungle
+leopards,can be found in,jungles
+lions,can be found in,grasslands
+lions,can be found in,savannas
+kites,defy,gravity
+kites,soar,through the air
+airplanes,possess,wings
+airplanes,generate lift,through wings
+helicopters,employ,rotor blades
+helicopters,generate lift,through rotor blades
+birds,have,wings
+birds,navigate,through the skies
+coffee,is served,hot
+coffee,is an exception,to the rule that many beverages are served cold
+cola,is served,cold
+cats,have,fur
+cats,are often kept,as pets
+dogs,have,fur
+dogs,are often kept,as pets
+cats,are mammals,which are warm-blooded
+dogs,are mammals,which are warm-blooded
+cats,have a unique trait,that scientists continue to study
+Leonardo da Vinci,is renowned for,his masterpieces
+the Mona Lisa,"is one of Da Vinci's masterpieces)
+25. (the Last Supper",is one of Da Vinci's masterpieces
+the Mona Lisa,is showcased,in exhibitions
+the Last Supper,is showcased,in exhibitions
+apples,are an exception,to the rule that oranges are typically eaten fresh
+oranges,are usually eaten,fresh
+Mercedes and BMW,are known for,their high-performance capabilities
+Tom,Behavior,Jokes
+Jerry,Behavior,Jokes
+Jerry,Antics,World
+Jerry,Abilities,Laughter
+Tom,Actions,Jokes
+Jerry,Abilities,Laughter
+Jerry,Behavior,Laughter
+Tom,Jokes,World
+Jerry,Behavior,Laughter
+Tom,Actions,Laughter
+Jerry,Abilities,Actions
+Jerry,Abilities,Behavior
+Jerry,Behavior,Antics
+Tom,Behavior,Jokes
+Jerry,Antics,Laughter
+Bananas,Location,Garden
+Bananas,Category,Fruit
+Fruit,Location,Garden
+Tom,Duo,Jerry
+Jerry,Duo,Tom
+Jerry,Picture,Context
+Tom,Picture,Context
+Tom,World,Laughter
+Jerry,World,Laughter
+Jerry,Idea,Laughter
+Tom,Idea,Laughter
+Jerry,Table,Laughter
+Tom,Table,Laughter
+Bananas,Option,D
+Option D,Context,World
+Option D,Context,Laughter
+Option D,Context,Jerry
+Option D,Choice,Jerry
+Option D,Choice,Laughter
+Option D,Idea,Jerry
+Option D,Idea,Laughter
+Option D,Table,Laughter
+Option D,Table,Jerry
+Option D,Table,Context
+Option D,Table,World
+Tom,Abilities,Jokes
+Jerry,Abilities,Jokes

@@ -1,0 +1,228 @@
+1,Actor
+2,Adapted
+3,Adapted into
+4,Advantage
+5,American television and film director)
+118. (Dana Blankstein-Cohen
+6,American television and film director)
+154. (Dana Blankstein-Cohen
+7,American television and film director)
+190. (Dana Blankstein-Cohen
+8,American television and film director)
+226. (Dana Blankstein-Cohen
+9,American television and film director)
+262. (Dana Blankstein-Cohen
+10,American television and film director)
+46. (Dana Blankstein-Cohen
+11,American television and film director)
+82. (Dana Blankstein-Cohen
+12,Assassinated
+13,Battle of Hatcher's Run
+14,Birthplace of
+15,Born
+16,Born in
+17,Character
+18,Country code
+19,Created
+20,Decorated
+21,Directed
+22,Directed by
+23,Director
+24,Director General of Police
+25,Distributed
+26,Duke of
+27,Duke of Lucca)
+6. (Charles Louis
+28,Employer
+29,Event
+30,Father
+31,Film director
+32,First published
+33,Founded
+34,International Call Prefix
+35,International footballer
+36,Italian footballer
+37,Located in
+38,Location of
+39,Medal of Honor
+40,Method
+41,Nationality
+42,Nationality of
+43,Organization
+44,Played for
+45,Population
+46,Published
+47,Pursued
+48,Recipient
+49,Recorded
+50,Release date
+51,Release location
+52,Released
+53,Shared country code
+54,Signed
+55,Speaker
+56,Speaks on
+57,Starring
+58,Stars
+59,Teaches
+60,Team
+61,Village
+62,Was
+63,Writer
+64,Wrote
+65,acted
+66,activist
+67,actor
+68,adapted
+69,affiliated with
+70,also known as
+71,arrested
+72,attribute
+73,author
+74,award
+75,born
+76,born at
+77,born in
+78,broadcast location
+79,brother
+80,cared for
+81,cinematographer
+82,co-founder
+83,competed for
+84,completed his studies
+85,composer
+86,country
+87,created
+88,critic
+89,date of birth
+90,date of novel publication
+91,decorated with
+92,died
+93,died in
+94,directed
+95,directed by
+96,director
+97,director of
+98,dissolved
+99,distributor
+100,edited
+101,essay
+102,established in
+103,featured
+104,festival
+105,fifth Duke of
+106,formed
+107,found
+108,had a boss
+109,had a sister
+110,had work edited by
+111,has
+112,helped publish
+113,ill-received
+114,includes
+115,is
+116,is a brother of
+117,is a cricketer
+118,is a cricketer of
+119,is a football player
+120,is a football player of
+121,is a footballer
+122,is a professor
+123,is a series of
+124,is also known as
+125,is country of
+126,is from
+127,is known as
+128,is located in
+129,is location of
+130,is named as
+131,is part of
+132,is speaker for
+133,is state of
+134,is the author of
+135,is the director of
+136,joined the army
+137,journalist
+138,led the orchestra
+139,lived in
+140,lives in
+141,location
+142,magazine
+143,mentioned
+144,mother of
+145,narrator
+146,nominee
+147,organist
+148,photographer
+149,placed under
+150,played a role in
+151,played for
+152,plays for
+153,playwright
+154,premiered
+155,produced
+156,produced by
+157,producer
+158,pupil
+159,recipient
+160,recorded
+161,regent of
+162,release date
+163,release location
+164,released in
+165,resident
+166,resides in
+167,screening location
+168,screenwriter
+169,shared the record with
+170,soldier
+171,sometimes credited as
+172,son of
+173,soundtrack
+174,speaker
+175,spent most of his life in
+176,starred
+177,starred in
+178,stars
+179,studied at
+180,subject
+181,succeeded
+182,taught
+183,taught at
+184,teaches
+185,television network
+186,took refuge in
+187,uses
+188,was
+189,was a
+190,was a cricketer
+191,was a singer
+192,was a weightlifter
+193,was adapted by
+194,was an
+195,was attended by
+196,was born in
+197,was born on
+198,was brother of
+199,was father of
+200,was featured in
+201,was first published at the age of
+202,was married to
+203,was music critic for
+204,was played by
+205,was pupil of
+206,was released
+207,was student at
+208,was student of
+209,was subject of essay by
+210,was taught by
+211,was the Director General of Police
+212,was the Director of
+213,was the director of
+214,was visiting teacher
+215,won a spot in
+216,worked in
+217,writer
+218,wrote
+219,wrote essay on
+220,yoga teacher

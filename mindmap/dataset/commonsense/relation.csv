@@ -1,0 +1,845 @@
+Entity1,Relation,Entity2
+fuel,used as,oxygen
+oxygen,released as,heat
+heat,produced by,combustion
+combustion,used for,power plants
+combustion,used for,industrial processes
+combustion,used for,candles
+combustion,used for,fireplaces
+power plants,produce,greenhouse gas emissions
+greenhouse gas emissions,contribute to,climate change
+climate change,related to,sustainability
+candles,produce,heat
+fireplaces,produce,heat
+fuel,used in,combustion
+products,produced by,combustion
+heat,produced by,products
+light,produced by,combustion
+combustion,regulated due to,greenhouse gas emissions
+climate change,related to,sustainability
+sustainability,related to,climate change
+ancient civilizations,used,fire
+property taxes,required for,buying a house
+insurance,required for,buying a house
+buying a house,signifies,milestone
+milestone,related to,starting a family
+starting a family,related to,buying a house
+buying a house,related to,getting married
+getting married,related to,buying a house
+buying a house,related to,establishing a long-term residence
+establishing a long-term residence,related to,buying a house
+buying a house,related to,investment
+investment,related to,wealth
+wealth,related to,property values
+property values,related to,American Dream
+American Dream,related to,stability
+American Dream,related to,security
+stability,related to,security
+stability,related to,work-life balance
+work-life balance,related to,mental fatigue
+mental fatigue,related to,plagiarism
+citation management tools,used for,Zotero
+citation management tools,used for,EndNote
+research,requires,academic journals
+academic journals,provide,information
+information,verified through,primary sources
+primary sources,used for,research
+primary sources,used for,citations
+citations,used for,references
+grammar,used for,punctuation
+punctuation,used for,formatting
+motivation,related to,work-life balance
+work-life balance,related to,stress
+stress,related to,mental fatigue
+mental fatigue,related to,plagiarism
+citation management tools,used for,Zotero
+citation management tools,used for,EndNote
+research,requires,academic journals
+academic journals,provide,information
+information,verified through,primary sources
+primary sources,used for,research
+primary sources,used for,citations
+citations,used for,references
+grammar,used for,punctuation
+punctuation,used for,formatting
+motivation,related to,work-life balance
+work-life balance,related to,stress
+stress,related to,mental fatigue
+mental fatigue,related to,plagiarism
+citation management tools,used for,Zotero
+citation management tools,used for,EndNote
+research,requires,academic journals
+academic journals,provide,information
+information,verified through,primary sources
+primary sources,used for,research
+primary sources,used for,citations
+citations,used for,references
+grammar,used for,punctuation
+punctuation,used for,formatting
+motivation,related to,work-life balance
+work-life balance,related to,stress
+stress,related to,mental fatigue
+mental fatigue,related to,plagiarism
+citation management tools,used for,Zotero
+citation management tools,used for,EndNote
+research,requires,academic journals
+academic journals,provide,information
+information,verified through,primary sources
+primary sources,used for,research
+primary sources,used for,citations
+citations,used for,references
+grammar,used for,punctuation
+punctuation,used for,formatting
+motivation,related to,work-life balance
+work-life balance,related to,stress
+stress,related to,mental fatigue
+mental fatigue,related to,plagiarism
+citation management tools,used for,Zotero
+citation management tools,used for,EndNote
+research,requires,academic journals
+academic journals,provide,information
+information,verified through,primary sources
+primary sources,used for,research
+primary sources,used for,citations
+citations,used for,references
+grammar,used for,punctuation
+punctuation,used for,formatting
+motivation,related to,work-life balance
+work-life balance,related to,stress
+stress,related to,mental fatigue
+mental fatigue,related to,plagiarism
+citation management tools,used for,Zotero
+citation management tools,used for,EndNote
+research,requires,academic journals
+academic journals,provide,information
+information,verified through,primary sources
+primary sources,used for,research
+primary sources,used for,citations
+citations,used for,references
+grammar,used for,punctuation
+punctuation,used for,formatting
+motivation,related to,work-life balance
+work-life balance,related to,stress
+stress,related to,mental fatigue
+mental fatigue,related to,plagiarism
+citation management tools,used for,Zotero
+citation management tools,used for,EndNote
+research,requires,academic journals
+academic journals,provide,information
+information,verified through,primary sources
+primary sources,used for,research
+primary sources,used for,citations
+citations,used for,references
+grammar,used for,punctuation
+punctuation,used for,formatting
+motivation,related to,work-life balance
+work-life balance,related to,stress
+stress,related to,mental fatigue
+mental fatigue,related to,plagiarism
+citation management tools,used for,Zotero
+citation management tools,used for,EndNote
+research,requires,academic journals
+academic journals,provide,information
+information,verified through,primary sources
+primary sources,used for,research
+primary sources,used for,citations
+citations,used for,references
+grammar,used for,punctuation
+punctuation,used for,formatting
+motivation,related to,work-life balance
+work-life balance,related to,stress
+stress,related to,mental fatigue
+mental fatigue,related to,plagiarism
+citation management tools,used for,Zotero
+citation management tools,used for,EndNote
+research,requires,academic journals
+academic journals,provide,information
+information,verified through,primary sources
+primary sources,used for,research
+primary sources,used for,citations
+citations,used for,references
+grammar,used for,punctuation
+punctuation,used for,formatting
+motivation,related to,work-life balance
+work-life balance,related to,stress
+stress,related to,mental fatigue
+mental fatigue,related to,plagiarism
+citation management tools,used for,Zotero
+citation management tools,used for,EndNote
+research,requires,academic journals
+academic journals,provide,information
+information,verified through,primary sources
+primary sources,used for,research
+primary sources,used for,citations
+citations,used for,references
+grammar,used for,punctuation
+punctuation,used for,formatting
+motivation,related to,work-life balance
+work-life balance,related to,stress
+stress,related to,mental fatigue
+mental fatigue,related to,plagiarism
+citation management tools,used for,Zotero
+citation management tools,used for,EndNote
+research,requires,academic journals
+academic journals,provide,information
+information,verified through,primary sources
+primary sources,used for,research
+primary sources,used for,citations
+citations,used for,references
+grammar,used for,punctuation
+punctuation,used for,formatting
+motivation,related to,work-life balance
+work-life balance,related to,stress
+stress,related to,mental fatigue
+mental fatigue,related to,plagiarism
+citation management tools,used for,Zotero
+citation management tools,used for,EndNote
+concert hall,can be found in,beachside resort town
+concert hall,can be found in,mountain resort
+concert hall,can be found in,university
+concert hall,can be found in,college campus
+hunting reserve,is a location for,hunting
+ferret,can be found in,pet store
+ferret,can be found in,animal shelter
+ferret,can be found in,veterinarian's office
+veterinarian's office,provides,veterinary check-ups
+veterinarian's office,provides,vaccinations
+homeowners,are responsible for,property
+homeowners,may be held liable for,damage
+wild animals,act on,natural instincts
+wild animals,seek,shelter
+wild animals,seek,food
+property,can be damaged by,wild animals
+liability,is a concern for,homeowners
+liability,is a concern for,property
+property maintenance,is a responsibility of,homeowners
+liability,is a concern for,wild animals
+liability,is a concern for,damage
+wild animals,can cause,damage
+property,can be protected by,homeowners
+property,can be secured by,homeowners
+property,can be damaged by,homeowners
+property,can be damaged by,wild animals
+homeowners,can be held liable for,damage
+homeowners,can be held liable for,property damage
+property,can be damaged by,homeowners
+property,can be damaged by,wild animals
+PTSD,affects,older adults
+medical attention,is required for,fall
+treatment,is needed for,PTSD
+rehabilitation,is required for,fall
+sofabed,is used for,guests
+practical perspective,is related to,sofabed
+economic perspective,is related to,sofabed
+physical activity,leads to,muscle mass
+physical activity,leads to,strength
+exercise,improves,cardiovascular health
+exercise,reduces,stress
+exercise,reduces,anxiety
+exercise,releases,endorphins
+parents,are emotionally attached to,kid
+caregivers,are emotionally attached to,kid
+plants,reproduce through,pollination
+bees,are involved in,pollination
+bees,are efficient pollinators,crops
+bees,pollinate,fruits
+bees,pollinate,vegetables
+bees,pollinate,nuts
+bees,are a crucial indicator species,ecosystems
+bees,are important for,food security
+bees,have been a source of inspiration,art
+bees,have been a source of inspiration,literature
+bees,have been a source of inspiration,mythology
+bees,represent,industry
+bees,represent,community
+hive mind,is a concept inspired by,bees
+bees,have been studied,human societies
+cow farms,located in,rural areas
+dairy farms,similar to,cattle ranches
+cow farms,contribute to,water pollution
+regulations,affect,businesses
+businesses,operate in,rural areas
+lizards,can transmit disease to,humans
+researchers,study,fetal development
+researchers,study,pregnancy outcomes
+researchers,study,prenatal interventions
+Pacific Ocean,Location,Nevada
+Pacific Ocean,Location,North American continent
+Pacific Ocean,Location,California
+Pacific Ocean,Location,United States
+Pacific Ocean,Location,Sierra Nevada
+Wikipedia,Website,Wikipedia
+"Toys ""R"" Us",Is a good place to buy,ball
+ball,Is for,children
+children,Play with,ball
+sport,Requires,ball
+soccer,Is a type of,sport
+basketball,Is a type of,sport
+error,Is a part of,baseball
+fielder,Makes,error
+batter,Is affected by,error
+runner,Is affected by,error
+game,Is affected by,error
+century,Saw the emergence of,baseball
+rulebook,Defines,error
+player,Is affected by,error
+performance,Is affected by,error
+perspective,Affects,error
+brain,Enables,problem-solving
+self-awareness,Enables,introspection
+consciousness,Enables,emotional regulation
+person,Experiences satisfaction from,lunch
+lunch,Is a source of,satisfaction
+person,Expresses satisfaction through,language
+Jennifer,Has insecurity and fear of,abandonment
+paradox,Is a result of,human connection
+Ficus,Is a type of,houseplant
+blood,Travels throughout,human body
+blood,flows into,arterioles
+arterioles,lead to,capillaries
+heart,pumps blood to,aorta
+aorta,branches into,arteries
+arteries,merge into,veins
+veins,merge into,venules
+venules,merge into,veins
+veins,return deoxygenated blood to,heart
+heart,pumps blood to,lungs
+lungs,exchange oxygen and carbon dioxide with,blood
+impulse buying,is a result of,stress
+impulse buying,is a result of,boredom
+impulse buying,is a result of,anxiety
+impulse buying,is encouraged by,marketing
+impulse buying,is a reflection of,consumer culture
+impulse buying,is a result of,FOMO
+road,is a mode of transportation for,travellers
+road,has,road infrastructure
+road,is used for,leisure
+road,is used for,business
+bladed weapons,can cause,lacerations
+bladed weapons,can cause,puncture wounds
+masks,are used to protect,face
+gloves,are used to protect,hands
+jackets,are used to protect,arms
+fencing,involves the use of,bladed weapons
+fencing,can cause,bruises
+fencing,can cause,sprains
+fencing,can cause,strains
+fencing,can cause,fatigue
+fencing,can cause,dehydration
+fencing,can cause,overexertion
+soldier,can perform the tasks and duties required for,job
+couples,may experience,excitement
+couples,may experience,anticipation
+couples,may experience,challenges
+couples,may experience,intimacy
+couples,may experience,expectations
+couples,may experience,disagreements
+couples,may experience,conflicts
+highway,is a type of,road
+rural area,has,road infrastructure
+city,has,road infrastructure
+town,has,road infrastructure
+region,has,road infrastructure
+country,has,road infrastructure
+costume,is a symbol of,empowerment
+costume,is a symbol of,self-expression
+vehicle,is a mode of transportation for,travellers
+car,is a type of,vehicle
+bus,is a type of,vehicle
+truck,is a type of,vehicle
+reunion,involves,excitement
+reunion,involves,anticipation
+reunion,involves,challenges
+reunion,involves,intimacy
+reunion,involves,expectations
+reunion,involves,disagreements
+reunion,involves,conflicts
+accidents,can occur on,road
+caterpillar,transforms into,butterfly
+shopping,can be a form of,self-expression
+shopping,can be a form of,empowerment
+James,died,father
+Sarah,had,birthday
+shop,origin,ancient civilizations
+shop,concept,traders
+shop,emergence,Middle Ages
+shop,association,capitalism
+shop,manifestation,brand
+leather,material,car
+leather,purpose,upholstery
+leather,purpose,interior trim
+leather,purpose,safety
+Indian Ocean,location,Africa
+Indian Ocean,location,Asia
+Indian Ocean,location,Australia
+Indian Ocean,location,Middle East
+Indian Ocean,border,Antarctica
+Indian Ocean,border,Southern Ocean
+Franklin Institute,location,Philadelphia
+farmers,need,crop rotation
+farmers,need,soil fertility
+farmers,need,pest control
+farmers,need,irrigation system
+farmers,need,marketing network
+farmers,need,brand
+farmers,benefit,ecosystem
+farmers,benefit,wildlife habitats
+farmers,benefit,pollinators
+farmers,benefit,beneficial insects
+farmers,benefit,soil health
+farmers,need,cover cropping
+farmers,need,integrated pest management
+farmers,need,community
+Paris,feature,wine culture
+Paris,feature,history
+Paris,feature,wine bars
+Paris,feature,restaurants
+Paris,feature,Bordeaux
+Paris,feature,Burgundy
+Paris,feature,Champagne
+Paris,feature,Italy
+Paris,feature,Spain
+Paris,feature,New World
+Paris,feature,natural wines
+Paris,feature,organic wines
+Paris,feature,biodynamic wines
+Paris,feature,wine-by-the-glass
+Paris,feature,wine pairing menus
+Paris,feature,sommeliers
+worms,behavior,rain
+worms,behavior,earth
+worms,behavior,soil
+earthworms,behavior,adaptation
+earthworms,behavior,survival
+traders,association,shop
+merchants,association,shop
+guilds,association,shop
+Europe,association,shop
+Middle Ages,association,shop
+capitalism,association,shop
+brand,association,shop
+car,feature,leather
+car,feature,upholstery
+car,feature,interior trim
+car,feature,seats
+car,feature,steering wheels
+car,feature,gearshifts
+driver,benefit,leather
+passengers,benefit,leather
+accidents,prevention,leather
+safety,association,leather
+Indian Ocean,location,Africa
+Indian Ocean,location,Asia
+Indian Ocean,location,Australia
+Indian Ocean,location,Middle East
+Indian Ocean,border,Antarctica
+Indian Ocean,border,Southern Ocean
+Franklin Institute,location,Philadelphia
+farmers,need,crop rotation
+farmers,need,soil fertility
+farmers,need,pest control
+farmers,need,marketing network
+farmers,need,brand
+farmers,benefit,ecosystem
+farmers,benefit,wildlife habitats
+farmers,benefit,pollinators
+farmers,benefit,beneficial insects
+farmers,benefit,soil health
+farmers,need,cover cropping
+farmers,need,integrated pest management
+farmers,need,community
+Paris,feature,wine culture
+Paris,feature,history
+Paris,feature,wine bars
+Paris,feature,restaurants
+Paris,feature,Bordeaux
+Paris,feature,Burgundy
+Paris,feature,Champagne
+Paris,feature,Italy
+Paris,feature,Spain
+Paris,feature,New World
+Paris,feature,natural wines
+Paris,feature,organic wines
+Paris,feature,biodynamic wines
+Paris,feature,wine-by-the-glass
+Paris,feature,wine pairing menus
+Paris,feature,sommeliers
+worms,behavior,rain
+worms,behavior,earth
+worms,behavior,soil
+earthworms,behavior,adaptation
+earthworms,behavior,survival
+Lawsuit,accountability,Business
+Home Alone,Film,McCallister family
+McCallister family,vacation,Paris
+McCallister family,comfort,Home
+McCallister family,security,Home
+McCallister family,normalcy,Home
+design,involves,type of light
+type of light,relates to,environment
+environment,affects,ambiance
+ambiance,has effect on,person
+person,seeks,knowledge
+knowledge,is related to,New World
+wisdom,is related to,inspiration
+inspiration,is related to,problem-solving
+problem-solving,requires,critical thinking
+critical thinking,requires,imagination
+imagination,is related to,idea
+idea,is related to,solution
+host,can be,person
+person,can be,receptionist
+receptionist,can be,concierge
+concierge,is associated with,hotel
+hotel,is associated with,office
+office,is associated with,museum
+museum,is associated with,welcoming entity
+welcoming entity,creates,atmosphere
+atmosphere,sets,tone
+tone,is related to,hospitality
+hospitality,is related to,inclusivity
+inclusivity,is related to,generosity
+generosity,is related to,host
+host,represents,gateway
+gateway,marks,threshold
+threshold,marks,journey
+journey,begins,experience
+experience,is influenced by,host
+host,is associated with,hospitality
+hospitality,is related to,welcoming entity
+welcoming entity,is associated with,atmosphere
+atmosphere,is associated with,tone
+tone,is related to,inclusivity
+inclusivity,is related to,generosity
+generosity,is related to,host
+host,is associated with,gateway
+gateway,is associated with,threshold
+threshold,is associated with,journey
+journey,is influenced by,experience
+experience,is influenced by,host
+host,is associated with,hospitality
+hospitality,is related to,welcoming entity
+welcoming entity,is associated with,atmosphere
+atmosphere,is associated with,tone
+tone,is related to,inclusivity
+inclusivity,is related to,generosity
+generosity,is related to,host
+host,represents,gateway
+gateway,marks,threshold
+threshold,marks,journey
+journey,begins,experience
+experience,is influenced by,host
+host,is associated with,hospitality
+hospitality,is related to,welcoming entity
+welcoming entity,is associated with,atmosphere
+atmosphere,is associated with,tone
+tone,is related to,inclusivity
+inclusivity,is related to,generosity
+generosity,is related to,host
+host,is associated with,gateway
+gateway,is associated with,threshold
+threshold,is associated with,journey
+journey,is influenced by,experience
+experience,is influenced by,host
+host,is associated with,hospitality
+hospitality,is related to,welcoming entity
+welcoming entity,is associated with,atmosphere
+atmosphere,is associated with,tone
+tone,is related to,inclusivity
+inclusivity,is related to,generosity
+generosity,is related to,host
+host,is associated with,gateway
+gateway,is associated with,threshold
+threshold,is associated with,journey
+journey,begins,experience
+experience,is influenced by,host
+host,is associated with,hospitality
+hospitality,is related to,welcoming entity
+welcoming entity,is associated with,atmosphere
+atmosphere,is associated with,tone
+tone,is related to,inclusivity
+inclusivity,is related to,generosity
+generosity,is related to,host
+host,is associated with,gateway
+gateway,is associated with,threshold
+threshold,is associated with,journey
+journey,is influenced by,experience
+experience,is influenced by,host
+host,is associated with,hospitality
+hospitality,is related to,welcoming entity
+welcoming entity,is associated with,atmosphere
+atmosphere,is associated with,tone
+tone,is related to,inclusivity
+inclusivity,is related to,generosity
+generosity,is related to,host
+host,is associated with,gateway
+gateway,is associated with,threshold
+threshold,is associated with,journey
+journey,begins,experience
+experience,is influenced by,host
+host,is associated with,hospitality
+hospitality,is related to,welcoming entity
+welcoming entity,is associated with,atmosphere
+atmosphere,is associated with,tone
+tone,is related to,inclusivity
+inclusivity,is related to,generosity
+generosity,is related to,host
+host,is associated with,gateway
+gateway,is associated with,threshold
+threshold,is associated with,journey
+journey,is influenced by,experience
+experience,is influenced by,host
+host,is associated with,hospitality
+hospitality,is related to,welcoming entity
+welcoming entity,is associated with,atmosphere
+atmosphere,is associated with,tone
+tone,is related to,inclusivity
+inclusivity,is related to,generosity
+generosity,is related to,host
+host,represents,gateway
+gateway,marks,threshold
+threshold,marks,journey
+journey,begins,experience
+experience,is influenced by,host
+host,is associated with,hospitality
+hospitality,is related to,welcoming entity
+welcoming entity,is associated with,atmosphere
+atmosphere,is associated with,tone
+tone,is related to,inclusivity
+inclusivity,is related to,generosity
+generosity,is related to,host
+host,is associated with,gateway
+gateway,is associated with,threshold
+threshold,is associated with,journey
+journey,is influenced by,experience
+experience,is influenced by,host
+host,is associated with,hospitality
+hospitality,is related to,welcoming entity
+welcoming entity,is associated with,atmosphere
+atmosphere,is associated with,tone
+tone,is related to,inclusivity
+inclusivity,is related to,generosity
+generosity,is related to,host
+host,is associated with,gateway
+gateway,is associated with,threshold
+threshold,is associated with,journey
+journey,begins,experience
+experience,is influenced by,host
+host,is associated with,hospitality
+hospitality,is related to,welcoming entity
+welcoming entity,is associated with,atmosphere
+atmosphere,is associated with,tone
+tone,is related to,inclusivity
+inclusivity,is related to,generosity
+generosity,is related to,host
+host,is associated with,gateway
+gateway,is associated with,threshold
+threshold,is associated with,journey
+journey,is influenced by,experience
+experience,is influenced by,host
+host,is associated with,hospitality
+hospitality,is related to,welcoming entity
+welcoming entity,is associated with,atmosphere
+atmosphere,is associated with,tone
+tone,is related to,inclusivity
+inclusivity,is related to,generosity
+generosity,is related to,host
+host,represents,gateway
+gateway,marks,threshold
+threshold,marks,journey
+journey,begins,experience
+experience,is influenced by,host
+host,is associated with,hospitality
+hospitality,is related to,welcoming entity
+welcoming entity,is associated with,atmosphere
+atmosphere,is associated with,tone
+tone,is related to,inclusivity
+inclusivity,is related to,generosity
+generosity,is related to,host
+host,is associated with,gateway
+gateway,is associated with,threshold
+threshold,is associated with,journey
+journey,is influenced by,experience
+experience,is influenced by,host
+host,is associated with,hospitality
+hospitality,is related to,welcoming entity
+welcoming entity,is associated with,atmosphere
+atmosphere,is associated with,tone
+tone,is related to,inclusivity
+inclusivity,is related to,generosity
+generosity,is related to,host
+host,is associated with,gateway
+gateway,is associated with,threshold
+threshold,is associated with,journey
+journey,begins,experience
+experience,is influenced by,host
+host,is associated with,hospitality
+hospitality,is related to,welcoming entity
+welcoming entity,is associated with,atmosphere
+atmosphere,is associated with,tone
+tone,is related to,inclusivity
+inclusivity,is related to,generosity
+generosity,is related to,host
+host,is associated with,gateway
+gateway,is associated with,threshold
+threshold,is associated with,journey
+journey,is influenced by,experience
+experience,is influenced by,host
+host,is associated with,hospitality
+hospitality,is related to,welcoming entity
+welcoming entity,is associated with,atmosphere
+atmosphere,is associated with,tone
+tone,is related to,inclusivity
+inclusivity,is related to,generosity
+generosity,is related to,host
+host,is associated with,gateway
+gateway,is associated with,threshold
+threshold,is associated with,journey
+journey,begins,experience
+experience,is influenced by,host
+host,is associated with,hospitality
+hospitality,is related to,welcoming entity
+welcoming entity,is associated with,atmosphere
+atmosphere,is associated with,tone
+tone,is related to,inclusivity
+inclusivity,is related to,generosity
+generosity,is related to,host
+host,is associated with,gateway
+gateway,is associated with,threshold
+threshold,is associated with,journey
+journey,is influenced by,experience
+experience,is influenced by,host
+host,is associated with,hospitality
+hospitality,is related to,welcoming entity
+welcoming entity,is associated with,atmosphere
+atmosphere,is associated with,tone
+tone,is related to,inclusivity
+inclusivity,is related to,generosity
+generosity,is related to,host
+host,is associated with,gateway
+gateway,is associated with,threshold
+threshold,is associated with,journey
+journey,begins,experience
+experience,is influenced by,host
+host,is associated with,hospitality
+hospitality,is related to,welcoming entity
+welcoming entity,is associated with,atmosphere
+atmosphere,is associated with,tone
+tone,is related to,inclusivity
+inclusivity,is related to,generosity
+generosity,is related to,host
+host,is associated with,gateway
+gateway,is associated with,threshold
+threshold,is associated with,journey
+journey,is influenced by,experience
+experience,is influenced by,host
+host,is associated with,hospitality
+hospitality,is related to,welcoming entity
+welcoming entity,is associated with,atmosphere
+atmosphere,is associated with,tone
+tone,is related to,inclusivity
+inclusivity,is related to,generosity
+generosity,is related to,host
+host,is associated with,gateway
+gateway,is associated with,threshold
+threshold,is associated with,journey
+journey,begins,experience
+experience,is influenced by,host
+host,is associated with,hospitality
+hospitality,is related to,welcoming entity
+welcoming entity,is associated with,atmosphere
+atmosphere,is associated with,tone
+tone,is related to,inclusivity
+inclusivity,is related to,generosity
+generosity,is related to,host
+host,is associated with,gateway
+gateway,is associated with,threshold
+threshold,is associated with,journey
+journey,is influenced by,experience
+experience,is influenced by,host
+host,is associated with,hospitality
+hospitality,is related to,welcoming entity
+welcoming entity,is associated with,atmosphere
+atmosphere,is associated with,tone
+tone,is related to,inclusivity
+inclusivity,is related to,generosity
+generosity,is related to,host
+host,is associated with,gateway
+gateway,is associated with,threshold
+threshold,is associated with,journey
+journey,begins,experience
+experience,is influenced by,host
+host,is associated with,hospitality
+hospitality,is related to,welcoming entity
+welcoming entity,is associated with,atmosphere
+atmosphere,is associated with,tone
+tone,is related to,inclusivity
+inclusivity,is related to,generosity
+generosity,is related to,host
+host,is associated with,gateway
+gateway,is associated with,threshold
+threshold,is associated with,journey
+journey,is influenced by,experience
+experience,is influenced by,host
+host,is associated with,hospitality
+hospitality,is related to,welcoming entity
+welcoming entity,is associated with,atmosphere
+atmosphere,is associated with,tone
+tone,is related to,inclusivity
+inclusivity,is related to,generosity
+generosity,is related to,host
+host,is associated with,gateway
+gateway,is associated with,threshold
+threshold,is associated with,journey
+journey,begins,experience
+experience,is influenced by,host
+host,is associated with,hospitality
+hospitality,is related to,welcoming entity
+welcoming entity,is associated with,atmosphere
+atmosphere,is associated with,tone
+tone,is related to,inclusivity
+inclusivity,is related to,generosity
+generosity,is related to,host
+host,is associated with,gateway
+gateway,is associated with,threshold
+threshold,is associated with,journey
+journey,is influenced by,experience
+experience,is influenced by,host
+host,is associated with,hospitality
+hospitality,is related to,welcoming entity
+welcoming entity,is associated with,atmosphere
+atmosphere,is associated with,tone
+tone,is related to,inclusivity
+inclusivity,is related to,generosity
+generosity,is related to,host
+host,is associated with,gateway
+gateway,is associated with,threshold
+sun,has property,temperature
+sun,emits,radiation
+television,has feature,remote control
+television,is used for,entertainment
+wood,is composed of,cellulose
+wood,is composed of,hemicellulose
+wood,is composed of,lignin
+wood,is affected by,water
+wood,has relationship,air pockets
+ikigai,emphasizes,purpose
+bar,is a type of,commercial establishment
+bar,serves,beverages
+bar,is a place for,relaxation
+John,opened,container
+John,opened,package
+container,contains,mold
+package,contains,mold
+pharmacies,sell,prescription medications
+pharmacies,sell,household goods
+pharmacies,sell,personal care products
+pharmacies,charge,convenience markup
+staff,is trained to handle,prescription medications
+retail stores,sell,household goods
+retail stores,sell,personal care products
+retail stores,do not charge,convenience markup
+antitrust laws,regulate,price gouging
+consumer protection regulations,regulate,price gouging
+Shaquille O'Neal,excel in,defensive prowess
+Shaquille O'Neal,play in,paint

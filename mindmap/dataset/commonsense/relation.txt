@@ -1,0 +1,148 @@
+1,Affects
+2,Defines
+3,Enables
+4,Experiences satisfaction from
+5,Expresses satisfaction through
+6,Film
+7,Has insecurity and fear of
+8,Is a good place to buy
+9,Is a part of
+10,Is a result of
+11,Is a source of
+12,Is a type of
+13,Is affected by
+14,Is for
+15,Location
+16,Makes
+17,Play with
+18,Requires
+19,Saw the emergence of
+20,Travels throughout
+21,Website
+22,accountability
+23,act on
+24,affect
+25,affects
+26,are a crucial indicator species
+27,are efficient pollinators
+28,are emotionally attached to
+29,are important for
+30,are involved in
+31,are responsible for
+32,are used to protect
+33,association
+34,begins
+35,behavior
+36,benefit
+37,border
+38,branches into
+39,can be
+40,can be a form of
+41,can be damaged by
+42,can be found in
+43,can be held liable for
+44,can be protected by
+45,can be secured by
+46,can cause
+47,can occur on
+48,can perform the tasks and duties required for
+49,can transmit disease to
+50,charge
+51,comfort
+52,concept
+53,contains
+54,contribute to
+55,creates
+56,died
+57,do not charge
+58,emergence
+59,emits
+60,emphasizes
+61,excel in
+62,exchange oxygen and carbon dioxide with
+63,feature
+64,flows into
+65,had
+66,has
+67,has effect on
+68,has feature
+69,has property
+70,has relationship
+71,have been a source of inspiration
+72,have been studied
+73,improves
+74,involves
+75,involves the use of
+76,is a concept inspired by
+77,is a concern for
+78,is a location for
+79,is a mode of transportation for
+80,is a place for
+81,is a reflection of
+82,is a responsibility of
+83,is a result of
+84,is a symbol of
+85,is a type of
+86,is affected by
+87,is associated with
+88,is composed of
+89,is encouraged by
+90,is influenced by
+91,is needed for
+92,is related to
+93,is required for
+94,is trained to handle
+95,is used for
+96,lead to
+97,leads to
+98,located in
+99,location
+100,manifestation
+101,marks
+102,material
+103,may be held liable for
+104,may experience
+105,merge into
+106,need
+107,normalcy
+108,opened
+109,operate in
+110,origin
+111,play in
+112,pollinate
+113,prevention
+114,produce
+115,produced by
+116,provide
+117,provides
+118,pumps blood to
+119,purpose
+120,reduces
+121,regulate
+122,regulated due to
+123,related to
+124,relates to
+125,released as
+126,releases
+127,represent
+128,represents
+129,reproduce through
+130,required for
+131,requires
+132,return deoxygenated blood to
+133,security
+134,seek
+135,seeks
+136,sell
+137,serves
+138,sets
+139,signifies
+140,similar to
+141,study
+142,transforms into
+143,used
+144,used as
+145,used for
+146,used in
+147,vacation
+148,verified through

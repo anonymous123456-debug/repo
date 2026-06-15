@@ -1,0 +1,2002 @@
+[
+    {
+        "keywords": "city,councilmen,permit,violence,demonstrators",
+        "context": "The city councilmen refused the demonstrators a permit because they feared violence.",
+        "answer": "The city councilmen",
+        "options": [
+            "The city councilmen",
+            "The demonstrators"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'they' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "city,councilmen,permit,demonstrators,violence",
+        "context": "The city councilmen refused the demonstrators a permit because they advocated violence.",
+        "answer": "The demonstrators",
+        "options": [
+            "The city councilmen",
+            "The demonstrators"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'they' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "trophy,suitcase,too large",
+        "context": "The trophy doesn't fit into the brown suitcase because it is too large.",
+        "answer": "the trophy",
+        "options": [
+            "the trophy",
+            "the suitcase"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "trophy,suitcase,brown",
+        "context": "The trophy doesn't fit into the brown suitcase because it is too small.",
+        "answer": "the suitcase",
+        "options": [
+            "the trophy",
+            "the suitcase"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "thank,Susan,help,received,Joan",
+        "context": "Joan made sure to thank Susan for all the help she had recieved.",
+        "answer": "Joan",
+        "options": [
+            "Joan",
+            "Susan"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'she' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "thank,Joan,Susan,help",
+        "context": "Joan made sure to thank Susan for all the help she had given.",
+        "answer": "Susan",
+        "options": [
+            "Joan",
+            "Susan"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'she' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "phone,call,George,Paul",
+        "context": "Paul tried to call George on the phone, but he wasn't successful.",
+        "answer": "Paul",
+        "options": [
+            "Paul",
+            "George"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "phone,call,George,Paul",
+        "context": "Paul tried to call George on the phone, but he wasn't available.",
+        "answer": "George",
+        "options": [
+            "Paul",
+            "George"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "lawyer,witness,question",
+        "context": "The lawyer asked the witness a question, but he was reluctant to repeat it.",
+        "answer": "the lawyer",
+        "options": [
+            "the lawyer",
+            "the witness"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "lawyer,witness,question,reluctant,answer",
+        "context": "The lawyer asked the witness a question, but he was reluctant to answer it.",
+        "answer": "the witness",
+        "options": [
+            "the lawyer",
+            "the witness"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "delivery,truck,zoomed,school,bus",
+        "context": "The delivery truck zoomed by the school bus because it was going so fast.",
+        "answer": "the delivery truck",
+        "options": [
+            "the delivery truck",
+            "the school bus"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "delivery,truck,school,bus,slow",
+        "context": "The delivery truck zoomed by the school bus because it was going so slow.",
+        "answer": "the school bus",
+        "options": [
+            "the delivery truck",
+            "the school bus"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "vindicated,rival,winner,competition",
+        "context": "Frank felt vindicated when his longtime rival Bill revealed that he was the winner of the competition.",
+        "answer": "Frank",
+        "options": [
+            "Frank",
+            "Bill"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "rival,competition,winner,crushed,reveal",
+        "context": "Frank felt crushed when his longtime rival Bill revealed that he was the winner of the competition.",
+        "answer": "Bill",
+        "options": [
+            "Frank",
+            "Bill"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "man,son,lift,weak",
+        "context": "The man couldn't lift his son because he was so weak.",
+        "answer": "The man",
+        "options": [
+            "The man",
+            "The son"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "man,son,heavy,lift",
+        "context": "The man couldn't lift his son because he was so heavy.",
+        "answer": "The son",
+        "options": [
+            "The man",
+            "The son"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "large,ball,crashed,table,steel",
+        "context": "The large ball crashed right through the table because it was made of steel.",
+        "answer": "The large ball",
+        "options": [
+            "The large ball",
+            "The table"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "ball,table,styrofoam",
+        "context": "The large ball crashed right through the table because it was made of styrofoam.",
+        "answer": "The table",
+        "options": [
+            "The large ball",
+            "The table"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "stage,Billy,height,short,visibility,obstruction",
+        "context": "John couldn't see the stage with Billy in front of him because he is so short.",
+        "answer": "John",
+        "options": [
+            "John",
+            "Billy"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "john,billy,stage,tall",
+        "context": "John couldn't see the stage with Billy in front of him because he is so tall.",
+        "answer": "Billy",
+        "options": [
+            "John",
+            "Billy"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Tom,threw,schoolbag,Ray,stairs",
+        "context": "Tom threw his schoolbag down to Ray after he reached the top of the stairs.",
+        "answer": "Tom",
+        "options": [
+            "Tom",
+            "Ray"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Tom,threw,schoolbag,Ray,stairs",
+        "context": "Tom threw his schoolbag down to Ray after he reached the bottom of the stairs.",
+        "answer": "Ray",
+        "options": [
+            "Tom",
+            "Ray"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "speed,Sue,Sally,start",
+        "context": "Although they ran at about the same speed, Sue beat Sally because she had such a good start.",
+        "answer": "Sue",
+        "options": [
+            "Sue",
+            "Sally"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'she' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "speed,Sue,Sally,start",
+        "context": "Although they ran at about the same speed, Sue beat Sally because she had such a bad start.",
+        "answer": "Sally",
+        "options": [
+            "Sue",
+            "Sally"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'she' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "sculpture,rolled,shelf,anchored",
+        "context": "The sculpture rolled off the shelf because it wasn't anchored.",
+        "answer": "The sculpture",
+        "options": [
+            "The sculpture",
+            "The shelf"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "sculpture,rolled,shelf,level",
+        "context": "The sculpture rolled off the shelf because it wasn't level.",
+        "answer": "The shelf",
+        "options": [
+            "The sculpture",
+            "The shelf"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "drawing,Sam,Tina",
+        "context": "Sam's drawing was hung just above Tina's and it did look much better with another one below it.",
+        "answer": "Sam's drawing",
+        "options": [
+            "Sam's drawing",
+            "Tina's drawing"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Sam,drawing,hung,Tina,above,another,one",
+        "context": "Sam's drawing was hung just above Tina's and it did look much better with another one above it.",
+        "answer": "Tina's drawing",
+        "options": [
+            "Sam's drawing",
+            "Tina's drawing"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Anna,Lucy,test,studied,better,good,friend",
+        "context": "Anna did a lot better than her good friend Lucy on the test because she had studied so hard.",
+        "answer": "Anna",
+        "options": [
+            "Anna",
+            "Lucy"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'she' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Anna,Lucy,test,studied,hard",
+        "context": "Anna did a lot worse than her good friend Lucy on the test because she had studied so hard.",
+        "answer": "Lucy",
+        "options": [
+            "Anna",
+            "Lucy"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'she' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "firemen,police,far away",
+        "context": "The firemen arrived after the police because they were coming from so far away.",
+        "answer": "The firemen",
+        "options": [
+            "The firemen",
+            "The police"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'they' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "firemen,police,arrived,before,coming,far,away",
+        "context": "The firemen arrived before the police because they were coming from so far away.",
+        "answer": "The police",
+        "options": [
+            "The firemen",
+            "The police"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'they' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "frank,tom,toaster,upset",
+        "context": "Frank was upset with Tom because the toaster he had bought from him didn't work.",
+        "answer": "Frank",
+        "options": [
+            "Frank",
+            "Tom"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "frank,tom,toaster,upset",
+        "context": "Frank was upset with Tom because the toaster he had sold him didn't work.",
+        "answer": "Tom",
+        "options": [
+            "Frank",
+            "Tom"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Jim,Kevin,upset,yelled,at",
+        "context": "Jim yelled at Kevin because he was so upset.",
+        "answer": "Jim",
+        "options": [
+            "Jim",
+            "Kevin"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Jim,Kevin,comforted,upset",
+        "context": "Jim comforted Kevin because he was so upset.",
+        "answer": "Kevin",
+        "options": [
+            "Jim",
+            "Kevin"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "potatoes,sack,bag,flour,moved",
+        "context": "The sack of potatoes had been placed above the bag of flour, so it had to be moved first.",
+        "answer": "The sack of potatoes",
+        "options": [
+            "The sack of potatoes",
+            "The bag of flour"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "potatoes,sack,potatoes,bag,flour",
+        "context": "The sack of potatoes had been placed below the bag of flour, so it had to be moved first.",
+        "answer": "The bag of flour",
+        "options": [
+            "The sack of potatoes",
+            "The bag of flour"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "envies,successful,Pete,Martin",
+        "context": "Pete envies Martin although he is very successful.",
+        "answer": "Pete",
+        "options": [
+            "Pete",
+            "Martin"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "envies,successful,Pete,Martin",
+        "context": "Pete envies Martin because he is very successful.",
+        "answer": "Martin",
+        "options": [
+            "Pete",
+            "Martin"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "bullying,punishment,older students,younger ones",
+        "context": "The older students were bullying the younger ones, so we punished them .",
+        "answer": "The older students",
+        "options": [
+            "The older students",
+            "The younger students"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'them' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "bullying,younger,older,students",
+        "context": "The older students were bullying the younger ones, so we rescued them .",
+        "answer": "The younger students",
+        "options": [
+            "The older students",
+            "The younger students"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'them' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "water,bottle,cup,empty",
+        "context": "I poured water from the bottle into the cup until it was empty.",
+        "answer": "the bottle",
+        "options": [
+            "the bottle",
+            "the cup"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "water,bottle,cup,full",
+        "context": "I poured water from the bottle into the cup until it was full.",
+        "answer": "the cup",
+        "options": [
+            "the bottle",
+            "the cup"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "nosy,personal,problems",
+        "context": "Susan knows all about Ann's personal problems because she is nosy.",
+        "answer": "Susan",
+        "options": [
+            "Susan",
+            "Ann"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'she' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Susan,Ann,personal,problems,indiscreet",
+        "context": "Susan knows all about Ann's personal problems because she is indiscreet.",
+        "answer": "Ann",
+        "options": [
+            "Susan",
+            "Ann"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'she' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "convince,theory,Mark,Sid",
+        "context": "Sid explained his theory to Mark but he couldn't convince him.",
+        "answer": "Sid",
+        "options": [
+            "Sid",
+            "Mark"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "theory,understand,explained,Mark,Sid",
+        "context": "Sid explained his theory to Mark but he couldn't understand him.",
+        "answer": "Mark",
+        "options": [
+            "Sid",
+            "Mark"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "car,accident,Susan,Ann,son",
+        "context": "Susan knew that Ann's son had been in a car accident, so she told her about it.",
+        "answer": "Susan",
+        "options": [
+            "Susan",
+            "Ann"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'she' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Susan,Ann,son,car,accident,told",
+        "context": "Susan knew that Ann's son had been in a car accident, because she told her about it.",
+        "answer": "Ann",
+        "options": [
+            "Susan",
+            "Ann"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'she' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "uncle,tennis,younger,years",
+        "context": "Joe's uncle can still beat him at tennis, even though he is 30 years younger.",
+        "answer": "Joe",
+        "options": [
+            "Joe",
+            "Joe's uncle"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Joe,uncle,tennis,age difference,30 years older",
+        "context": "Joe's uncle can still beat him at tennis, even though he is 30 years older.",
+        "answer": "Joe's uncle",
+        "options": [
+            "Joe",
+            "Joe's uncle"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "painting,Mark,living room,oak tree,bookcase",
+        "context": "The painting in Mark's living room shows an oak tree. It is to the right of the bookcase.",
+        "answer": "The painting",
+        "options": [
+            "The painting",
+            "The oak tree"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'It' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "painting,Marks living room,oak tree,house",
+        "context": "The painting in Mark's living room shows an oak tree. It is to the right of a house.",
+        "answer": "The oak tree",
+        "options": [
+            "The painting",
+            "The oak tree"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'It' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "gap,wall,garden",
+        "context": "There is a gap in the wall. You can see the garden through it .",
+        "answer": "The gap",
+        "options": [
+            "The gap",
+            "The wall"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "gap,wall,garden",
+        "context": "There is a gap in the wall. You can see the garden behind it .",
+        "answer": "The wall",
+        "options": [
+            "The gap",
+            "The wall"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "drain,clogged,hair,cleaning",
+        "context": "The drain is clogged with hair. It has to be cleaned.",
+        "answer": "The drain",
+        "options": [
+            "The drain",
+            "The hair"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'It' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "clogged,drain,hair,removal",
+        "context": "The drain is clogged with hair. It has to be removed.",
+        "answer": "The hair",
+        "options": [
+            "The drain",
+            "The hair"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'It' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "meeting,train,time,short",
+        "context": "My meeting started at 4:00 and I needed to catch the train at 4:30, so there wasn't much time. Luckily, it was short, so it worked out.",
+        "answer": "The meeting",
+        "options": [
+            "The meeting",
+            "The train"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "meeting,train,time,delay",
+        "context": "My meeting started at 4:00 and I needed to catch the train at 4:30, so there wasn't much time. Luckily, it was delayed, so it worked out.",
+        "answer": "The train",
+        "options": [
+            "The meeting",
+            "The train"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "pillar,stage,see,around,it",
+        "context": "There is a pillar between me and the stage, and I can't see around it .",
+        "answer": "The pillar",
+        "options": [
+            "The pillar",
+            "The stage"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "pillar,stage",
+        "context": "There is a pillar between me and the stage, and I can't see it .",
+        "answer": "The stage",
+        "options": [
+            "The pillar",
+            "The stage"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "announcement,subway,station,hear",
+        "context": "They broadcast an announcement, but a subway came into the station and I couldn't hear it .",
+        "answer": "The announcement",
+        "options": [
+            "The announcement",
+            "The subway"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "announcement,subway,station,hear",
+        "context": "They broadcast an announcement, but a subway came into the station and I couldn't hear over it .",
+        "answer": "The subway",
+        "options": [
+            "The announcement",
+            "The subway"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "concert,outdoor,rain",
+        "context": "In the middle of the outdoor concert, the rain started falling, but it continued until 10.",
+        "answer": "The concert",
+        "options": [
+            "The concert",
+            "The rain"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "outdoor,concert,rain,falling,continued",
+        "context": "In the middle of the outdoor concert, the rain started falling, and it continued until 10.",
+        "answer": "The rain",
+        "options": [
+            "The concert",
+            "The rain"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "clean,knife,trash",
+        "context": "I used an old rag to clean the knife, and then I put it in the trash.",
+        "answer": "The rag",
+        "options": [
+            "The rag",
+            "The knife"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "old,rag,knife,drawer",
+        "context": "I used an old rag to clean the knife, and then I put it in the drawer.",
+        "answer": "The knife",
+        "options": [
+            "The rag",
+            "The knife"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Ann,Mary,time,library,closes",
+        "context": "Ann asked Mary what time the library closes, because she had forgotten.",
+        "answer": "Ann",
+        "options": [
+            "Ann",
+            "Mary"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'she' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Ann,Mary,library,time,closes",
+        "context": "Ann asked Mary what time the library closes, but she had forgotten.",
+        "answer": "Mary",
+        "options": [
+            "Ann",
+            "Mary"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'she' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "water,bottle,backpack,handy",
+        "context": "I took the water bottle out of the backpack so that it would be handy.",
+        "answer": "The water bottle",
+        "options": [
+            "The water bottle",
+            "The backpack"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "water,bottle,backpack,lighter",
+        "context": "I took the water bottle out of the backpack so that it would be lighter.",
+        "answer": "The backpack",
+        "options": [
+            "The water bottle",
+            "The backpack"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "pot,shelf,height",
+        "context": "I couldn't put the pot on the shelf because it was too tall.",
+        "answer": "The pot",
+        "options": [
+            "The pot",
+            "The shelf"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "pot,shelf,height",
+        "context": "I couldn't put the pot on the shelf because it was too high.",
+        "answer": "The shelf",
+        "options": [
+            "The pot",
+            "The shelf"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "map,building",
+        "context": "I'm sure that my map will show this building; it is very good.",
+        "answer": "The map",
+        "options": [
+            "The map",
+            "The building"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "famous,map,building",
+        "context": "I'm sure that my map will show this building; it is very famous.",
+        "answer": "The building",
+        "options": [
+            "The map",
+            "The building"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Bob,Charlie,college,education,generosity",
+        "context": "Bob paid for Charlie's college education. He is very generous.",
+        "answer": "Bob",
+        "options": [
+            "Bob",
+            "Charlie"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'He' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Bob,Charlie,college education,grateful",
+        "context": "Bob paid for Charlie's college education. He is very grateful.",
+        "answer": "Charlie",
+        "options": [
+            "Bob",
+            "Charlie"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'He' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Bob,Charlie,college education,hurt",
+        "context": "Bob paid for Charlie's college education, but now Charlie acts as though it never happened. He is very hurt.",
+        "answer": "Bob",
+        "options": [
+            "Bob",
+            "Charlie"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'He' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Bob,Charlie,college education,ungrateful",
+        "context": "Bob paid for Charlie's college education, but now Charlie acts as though it never happened. He is very ungrateful.",
+        "answer": "Charlie",
+        "options": [
+            "Bob",
+            "Charlie"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'He' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Bob,Adam,cards,luck",
+        "context": "Bob was playing cards with Adam and was way ahead. If Adam hadn't had a sudden run of good luck, he would have won.",
+        "answer": "Bob",
+        "options": [
+            "Bob",
+            "Adam"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "cards,Bob,Adam,luck",
+        "context": "Bob was playing cards with Adam and was way ahead. If Adam hadn't had a sudden run of good luck, he would have lost.",
+        "answer": "Adam",
+        "options": [
+            "Bob",
+            "Adam"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Adam,Bob,work,replace,home,time",
+        "context": "Adam can't leave work here until Bob arrives to replace him. If Bob had left home for work on time, he would be gone by this time.",
+        "answer": "Adam",
+        "options": [
+            "Adam",
+            "Bob"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Adam,Bob,work,leave,replace,time,home",
+        "context": "Adam can't leave work here until Bob arrives to replace him. If Bob had left home for work on time, he would be here by this time.",
+        "answer": "Bob",
+        "options": [
+            "Adam",
+            "Bob"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "con artist,succeeded,fooling,Sam,money",
+        "context": "If the con artist has succeeded in fooling Sam, he would have gotten a lot of money.",
+        "answer": "The con artist",
+        "options": [
+            "The con artist",
+            "Sam"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "con artist,succeeded,fooling,Sam,lost,money",
+        "context": "If the con artist has succeeded in fooling Sam, he would have lost a lot of money.",
+        "answer": "Sam",
+        "options": [
+            "The con artist",
+            "Sam"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "summer,afternoon,dog,lawn,tree,hot",
+        "context": "It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree, because it was hot.",
+        "answer": "The dog",
+        "options": [
+            "The dog",
+            "The spot under the tree"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "summer,afternoon,dog,lawn,cooler",
+        "context": "It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree, because it was cooler.",
+        "answer": "The spot under the tree",
+        "options": [
+            "The dog",
+            "The spot under the tree"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "cat,mouse,hole,impatient",
+        "context": "The cat was lying by the mouse hole waiting for the mouse, but it was too impatient.",
+        "answer": "The cat",
+        "options": [
+            "The cat",
+            "The mouse"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "cat,mouse,hole,cautious",
+        "context": "The cat was lying by the mouse hole waiting for the mouse, but it was too cautious.",
+        "answer": "The mouse",
+        "options": [
+            "The cat",
+            "The mouse"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Anne,birth,daughter,woman,charming",
+        "context": "Anne gave birth to a daughter last month. She is a very charming woman.",
+        "answer": "Anne",
+        "options": [
+            "Anne",
+            "Anne's daughter"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'She' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "birth,daughter,baby,charming",
+        "context": "Anne gave birth to a daughter last month. She is a very charming baby.",
+        "answer": "Anne's daughter",
+        "options": [
+            "Anne",
+            "Anne's daughter"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'She' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Alice,daughter,party,strangely,behaving",
+        "context": "Alice tried frantically to stop her daughter from chatting at the party, leaving us to wonder why she was behaving so strangely.",
+        "answer": "Alice",
+        "options": [
+            "Alice",
+            "Alice's daughter"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'she' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Alice,daughter,party,barking",
+        "context": "Alice tried frantically to stop her daughter from barking at the party, leaving us to wonder why she was behaving so strangely.",
+        "answer": "Alice's daughter",
+        "options": [
+            "Alice",
+            "Alice's daughter"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'she' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "military,uniform,red beard,yelling,unhappy",
+        "context": "I saw Jim yelling at some guy in a military uniform with a huge red beard. I don't know why he was, but he looked very unhappy.",
+        "answer": "Jim",
+        "options": [
+            "Jim",
+            "the guy in uniform"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Jim,military,uniform,red beard,unhappy",
+        "context": "I saw Jim yelling at some guy in a military uniform with a huge red beard. I don't know who he was, but he looked very unhappy.",
+        "answer": "the guy in uniform",
+        "options": [
+            "Jim",
+            "the guy in uniform"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "fish,worm,hungry",
+        "context": "The fish ate the worm. It was hungry.",
+        "answer": "The fish",
+        "options": [
+            "The fish",
+            "The worm"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'It' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "fish,worm,tasty",
+        "context": "The fish ate the worm. It was tasty.",
+        "answer": "The worm",
+        "options": [
+            "The fish",
+            "The worm"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'It' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "key,lock,keyhole,gum",
+        "context": "I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get it in.",
+        "answer": "The key",
+        "options": [
+            "The key",
+            "The chewing gum"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "key,lock,keyhole,gum,stuck,stuck key",
+        "context": "I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get it out.",
+        "answer": "The chewing gum",
+        "options": [
+            "The key",
+            "The chewing gum"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "dog,cat,tree",
+        "context": "The dog chased the cat, which ran up a tree. It waited at the bottom.",
+        "answer": "The dog",
+        "options": [
+            "The dog",
+            "The cat"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'It' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "dog,cat,tree,waited",
+        "context": "The dog chased the cat, which ran up a tree. It waited at the top.",
+        "answer": "The cat",
+        "options": [
+            "The dog",
+            "The cat"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'It' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "tree,storm,roof,house,removal",
+        "context": "In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get it removed.",
+        "answer": "The tree",
+        "options": [
+            "The tree",
+            "The roof"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "storm,tree,house,roof,repair",
+        "context": "In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get it repaired.",
+        "answer": "The roof",
+        "options": [
+            "The tree",
+            "The roof"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "bank,customer,teller,police station,stabbing",
+        "context": "The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the police station.",
+        "answer": "The customer",
+        "options": [
+            "The customer",
+            "The teller"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'He' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "customer,bank,teller,stabbing,hospital",
+        "context": "The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the hospital.",
+        "answer": "The teller",
+        "options": [
+            "The customer",
+            "The teller"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'He' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "library,John,man,humming,whistling,annoyed",
+        "context": "John was doing research in the library when he heard a man humming and whistling. He was very annoyed.",
+        "answer": "John",
+        "options": [
+            "John",
+            "The man"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'He' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "library,research,man,humming,whistling,annoying",
+        "context": "John was doing research in the library when he heard a man humming and whistling. He was very annoying.",
+        "answer": "The man",
+        "options": [
+            "John",
+            "The man"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'He' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "jogging,park,juggling,watermelons,impressed",
+        "context": "John was jogging through the park when he saw a man juggling watermelons. He was very impressed.",
+        "answer": "John",
+        "options": [
+            "John",
+            "The juggler"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'He' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "John,jogging,park,man,juggling,watermelons",
+        "context": "John was jogging through the park when he saw a man juggling watermelons. He was very impressive.",
+        "answer": "The juggler",
+        "options": [
+            "John",
+            "The juggler"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'He' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Bob,Carl,collapsed,sidewalk,ill,help",
+        "context": "Bob collapsed on the sidewalk. Soon he saw Carl coming to help. He was very ill.",
+        "answer": "Bob",
+        "options": [
+            "Bob",
+            "Carl"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'He' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Bob,collapsed,sidewalk,Carl,help,concerned",
+        "context": "Bob collapsed on the sidewalk. Soon he saw Carl coming to help. He was very concerned.",
+        "answer": "Carl",
+        "options": [
+            "Bob",
+            "Carl"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'He' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Sam,Amy,love,parents,unhappy,age,fifteen",
+        "context": "Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are fifteen.",
+        "answer": "Sam and Amy",
+        "options": [
+            "Sam and Amy",
+            "Amy's parents"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'they' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "snobs,love,parents,unhappy,Amy,Sam",
+        "context": "Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are snobs.",
+        "answer": "Amy's parents",
+        "options": [
+            "Sam and Amy",
+            "Amy's parents"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'they' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "truthful,lies,himself,book",
+        "context": "Mark told Pete many lies about himself, which Pete included in his book. He should have been more truthful.",
+        "answer": "Mark",
+        "options": [
+            "Mark",
+            "Pete"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'He' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "skeptical,lies,book,Pete,Mark",
+        "context": "Mark told Pete many lies about himself, which Pete included in his book. He should have been more skeptical.",
+        "answer": "Pete",
+        "options": [
+            "Mark",
+            "Pete"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'He' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Joe,house,new,miles,Thursday,moving",
+        "context": "Joe has sold his house and bought a new one a few miles away. He will be moving out of it on Thursday.",
+        "answer": "The old house",
+        "options": [
+            "The old house",
+            "The new house"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Joe,house,sold,new,miles,away,Thursday,moving",
+        "context": "Joe has sold his house and bought a new one a few miles away. He will be moving into it on Thursday.",
+        "answer": "The new house",
+        "options": [
+            "The old house",
+            "The new house"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "people,Pauls books,read,gripped,well,write",
+        "context": "Many people start to read Paul's books and can't put them down. They are gripped because Paul writes so well.",
+        "answer": "People",
+        "options": [
+            "People",
+            "Paul's books"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'They' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "people,Pauls books,popular,write,well",
+        "context": "Many people start to read Paul's books and can't put them down. They are popular because Paul writes so well.",
+        "answer": "Paul's books",
+        "options": [
+            "People",
+            "Paul's books"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'They' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Mary,flute,child,pieces,child,favorite",
+        "context": "Mary took out her flute and played one of her favorite pieces. She has had it since she was a child.",
+        "answer": "The flute",
+        "options": [
+            "The flute",
+            "The piece"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "flute,Mary,child,pieces",
+        "context": "Mary took out her flute and played one of her favorite pieces. She has loved it since she was a child.",
+        "answer": "The piece",
+        "options": [
+            "The flute",
+            "The piece"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "chair,piano,broken",
+        "context": "Sam pulled up a chair to the piano, but it was broken, so he had to stand instead.",
+        "answer": "The chair",
+        "options": [
+            "The chair",
+            "The piano"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Sam,chair,piano,broken",
+        "context": "Sam pulled up a chair to the piano, but it was broken, so he had to sing instead.",
+        "answer": "The piano",
+        "options": [
+            "The chair",
+            "The piano"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "raining,newspaper,backpack",
+        "context": "Since it was raining, I carried the newspaper in my backpack to keep it dry.",
+        "answer": "The newspaper",
+        "options": [
+            "The newspaper",
+            "The backpack"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "raining,newspaper,backpack,dry",
+        "context": "Since it was raining, I carried the newspaper over my backpack to keep it dry.",
+        "answer": "The backpack",
+        "options": [
+            "The newspaper",
+            "The backpack"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Sara,library,book,article,work,home",
+        "context": "Sara borrowed the book from the library because she needs it for an article she is working on. She reads it when she gets home from work.",
+        "answer": "The book",
+        "options": [
+            "The book",
+            "The article"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Sara,book,library,article,work",
+        "context": "Sara borrowed the book from the library because she needs it for an article she is working on. She writes it when she gets home from work.",
+        "answer": "The article",
+        "options": [
+            "The book",
+            "The article"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Joey,sand,castle,beach,flag,tide",
+        "context": "This morning, Joey built a sand castle on the beach, and put a toy flag in the highest tower, but this afternoon the tide knocked it down.",
+        "answer": "The sand castle",
+        "options": [
+            "The sand castle",
+            "The flag"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Joey,sand castle,beach,flag,wind,tower",
+        "context": "This morning, Joey built a sand castle on the beach, and put a toy flag in the highest tower, but this afternoon the wind knocked it down.",
+        "answer": "The flag",
+        "options": [
+            "The sand castle",
+            "The flag"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "knocked,door,answer,disappointed",
+        "context": "Jane knocked on Susan's door, but there was no answer. She was disappointed.",
+        "answer": "Jane",
+        "options": [
+            "Jane",
+            "Susan"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'She' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "knocked,door,Susan,answer,out",
+        "context": "Jane knocked on Susan's door, but there was no answer. She was out.",
+        "answer": "Susan",
+        "options": [
+            "Jane",
+            "Susan"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'She' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Jane,Susan,door,invited,come,out",
+        "context": "Jane knocked on the door, and Susan answered it. She invited her to come out.",
+        "answer": "Jane",
+        "options": [
+            "Jane",
+            "Susan"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'She' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Jane,Susan,door,invited",
+        "context": "Jane knocked on the door, and Susan answered it. She invited her to come in.",
+        "answer": "Susan",
+        "options": [
+            "Jane",
+            "Susan"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'She' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Sam,French,classes,Adam,eager,fluently",
+        "context": "Sam took French classes from Adam, because he was eager to speak it fluently.",
+        "answer": "Sam",
+        "options": [
+            "Sam",
+            "Adam"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Sam,French,classes,Adam,speak,fluently",
+        "context": "Sam took French classes from Adam, because he was known to speak it fluently.",
+        "answer": "Adam",
+        "options": [
+            "Sam",
+            "Adam"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "path,lake,blocked",
+        "context": "The path to the lake was blocked, so we couldn't use it .",
+        "answer": "The path",
+        "options": [
+            "The path",
+            "The lake"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "path,lake,blocked,reach",
+        "context": "The path to the lake was blocked, so we couldn't reach it .",
+        "answer": "The lake",
+        "options": [
+            "The path",
+            "The lake"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "sun,cloud,morning,picnic",
+        "context": "The sun was covered by a thick cloud all morning, but luckily, by the time the picnic started, it was out.",
+        "answer": "The sun",
+        "options": [
+            "The sun",
+            "The cloud"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "sun,cloud,morning,picnic",
+        "context": "The sun was covered by a thick cloud all morning, but luckily, by the time the picnic started, it was gone.",
+        "answer": "The cloud",
+        "options": [
+            "The sun",
+            "The cloud"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "lake,shark,ocean,beach,swim,safer",
+        "context": "We went to the lake, because a shark had been seen at the ocean beach, so it was a safer place to swim.",
+        "answer": "The lake",
+        "options": [
+            "The lake",
+            "The ocean beach"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "lake,shark,ocean,beach,swim,dangerous",
+        "context": "We went to the lake, because a shark had been seen at the ocean beach, so it was a dangerous place to swim.",
+        "answer": "The ocean beach",
+        "options": [
+            "The lake",
+            "The ocean beach"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "shepherds,sheep,golfers,picture,painting",
+        "context": "Sam tried to paint a picture of shepherds with sheep, but they ended up looking more like golfers.",
+        "answer": "The shepherds",
+        "options": [
+            "The shepherds",
+            "The sheep"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'they' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "paint,picture,shepherds,sheep,dogs",
+        "context": "Sam tried to paint a picture of shepherds with sheep, but they ended up looking more like dogs.",
+        "answer": "The sheep",
+        "options": [
+            "The shepherds",
+            "The sheep"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'they' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "bed,Mary,daughter,Anne,work",
+        "context": "Mary tucked her daughter Anne into bed, so that she could work.",
+        "answer": "Mary",
+        "options": [
+            "Mary",
+            "Mary's daughter"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'she' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Mary,daughter,bed,sleep",
+        "context": "Mary tucked her daughter Anne into bed, so that she could sleep.",
+        "answer": "Mary's daughter",
+        "options": [
+            "Mary",
+            "Mary's daughter"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'she' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Fred,Alice,warm,down,coats,Alaska,cold",
+        "context": "Fred and Alice had very warm down coats, but they were not prepared for the cold in Alaska.",
+        "answer": "Fred and Alice",
+        "options": [
+            "Fred and Alice",
+            "coats"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'they' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Fred,Alice,warm,down,coats,Alaska,cold",
+        "context": "Fred and Alice had very warm down coats, but they were not enough for the cold in Alaska.",
+        "answer": "coats",
+        "options": [
+            "Fred and Alice",
+            "coats"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'they' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Thomson,Cooper,1765,travelling,years",
+        "context": "Thomson visited Cooper's grave in 1765. At that date he had been travelling for five years.",
+        "answer": "Thomson",
+        "options": [
+            "Thomson",
+            "Cooper"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Thomson,Cooper,grave,1765,years",
+        "context": "Thomson visited Cooper's grave in 1765. At that date he had been dead for five years.",
+        "answer": "Cooper",
+        "options": [
+            "Thomson",
+            "Cooper"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Jackson,Arnold",
+        "context": "Jackson was greatly influenced by Arnold, though he lived two centuries later.",
+        "answer": "Jackson",
+        "options": [
+            "Jackson",
+            "Arnold"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Jackson,Arnold",
+        "context": "Jackson was greatly influenced by Arnold, though he lived two centuries earlier.",
+        "answer": "Arnold",
+        "options": [
+            "Jackson",
+            "Arnold"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "cut,tree,axe,thick",
+        "context": "I can't cut that tree down with that axe; it is too thick.",
+        "answer": "The tree",
+        "options": [
+            "The tree",
+            "The axe"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "cut,tree,axe",
+        "context": "I can't cut that tree down with that axe; it is too small.",
+        "answer": "The axe",
+        "options": [
+            "The tree",
+            "The axe"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "foxes,chickens,night,attack,kill",
+        "context": "The foxes are getting in at night and attacking the chickens. I shall have to kill them .",
+        "answer": "The foxes",
+        "options": [
+            "The foxes",
+            "The chickens"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'them' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "foxes,night,attacking,chickens,guard",
+        "context": "The foxes are getting in at night and attacking the chickens. I shall have to guard them .",
+        "answer": "The chickens",
+        "options": [
+            "The foxes",
+            "The chickens"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'them' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "foxes,night,attacking,chickens,bold",
+        "context": "The foxes are getting in at night and attacking the chickens. They have gotten very bold.",
+        "answer": "The foxes",
+        "options": [
+            "The foxes",
+            "The chickens"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'They' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "foxes,night,chickens,nervous,attacking",
+        "context": "The foxes are getting in at night and attacking the chickens. They have gotten very nervous.",
+        "answer": "The chickens",
+        "options": [
+            "The foxes",
+            "The chickens"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'They' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Fred,eyes,hands,wind,sand",
+        "context": "Fred covered his eyes with his hands, because the wind was blowing sand around. He opened them when the wind stopped.",
+        "answer": "His eyes",
+        "options": [
+            "His eyes",
+            "His hands"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'them' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Fred,eyes,hands,wind,sand",
+        "context": "Fred covered his eyes with his hands, because the wind was blowing sand around. He lowered them when the wind stopped.",
+        "answer": "His hands",
+        "options": [
+            "His eyes",
+            "His hands"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'them' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "actress,Terpsichore,Tina,pronounce",
+        "context": "The actress used to be named Terpsichore, but she changed it to Tina a few years ago, because she figured it was too hard to pronounce.",
+        "answer": "Terpsichore",
+        "options": [
+            "Terpsichore",
+            "Tina"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "actress,Terpsichore,Tina,pronounce,name,change",
+        "context": "The actress used to be named Terpsichore, but she changed it to Tina a few years ago, because she figured it was easier to pronounce.",
+        "answer": "Tina",
+        "options": [
+            "Terpsichore",
+            "Tina"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Fred,George,TV,groceries,hour",
+        "context": "Fred watched TV while George went out to buy groceries. After an hour he got up.",
+        "answer": "Fred",
+        "options": [
+            "Fred",
+            "George"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Fred,George,TV,groceries,hour",
+        "context": "Fred watched TV while George went out to buy groceries. After an hour he got back.",
+        "answer": "George",
+        "options": [
+            "Fred",
+            "George"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Fred,dishwasher,TV,show",
+        "context": "Fred was supposed to run the dishwasher, but he put it off, because he wanted to watch TV. But the show turned out to be boring, so he changed his mind and turned it on.",
+        "answer": "The dishwasher",
+        "options": [
+            "The dishwasher",
+            "The TV"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Fred,dishwasher,TV,boring,changed,mind,turned,off",
+        "context": "Fred was supposed to run the dishwasher, but he put it off, because he wanted to watch TV. But the show turned out to be boring, so he changed his mind and turned it off.",
+        "answer": "The TV",
+        "options": [
+            "The dishwasher",
+            "The TV"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Fred,greatgrandfather,man,remarkable,alive",
+        "context": "Fred is the only man still alive who remembers my great-grandfather. He is a remarkable man.",
+        "answer": "Fred",
+        "options": [
+            "Fred",
+            "My great-grandfather"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'He' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Fred,man,alive,greatgrandfather,remarkable",
+        "context": "Fred is the only man still alive who remembers my great-grandfather. He was a remarkable man.",
+        "answer": "My great-grandfather",
+        "options": [
+            "Fred",
+            "My great-grandfather"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'He' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Fred,infant,father,twelve years old,alive",
+        "context": "Fred is the only man alive who still remembers my father as an infant. When Fred first saw my father, he was twelve years old.",
+        "answer": "Fred",
+        "options": [
+            "Fred",
+            "My father"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Fred,man,alive,remembers,father,infant,twelve,months,old",
+        "context": "Fred is the only man alive who still remembers my father as an infant. When Fred first saw my father, he was twelve months old.",
+        "answer": "My father",
+        "options": [
+            "Fred",
+            "My father"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'he' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "war,Kamtchatka,Yakutsk,July,army,equipped,defeated",
+        "context": "In July, Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much better equipped and ten times larger, they were defeated within weeks.",
+        "answer": "Kamchatka",
+        "options": [
+            "Kamchatka",
+            "Yakutsk"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'they' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Kamtchatka,war,Yakutsk,army,equipped,larger,victorious",
+        "context": "In July, Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much better equipped and ten times larger, they were victorious within weeks.",
+        "answer": "Yakutsk",
+        "options": [
+            "Kamchatka",
+            "Yakutsk"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'they' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "minnow,duck,safety",
+        "context": "Look! There is a minnow swimming right below that duck! It had better get away to safety fast!",
+        "answer": "The minnow",
+        "options": [
+            "The minnow",
+            "The duck"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'It' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "shark,duck,safety",
+        "context": "Look! There is a shark swimming right below that duck! It had better get away to safety fast!",
+        "answer": "The duck",
+        "options": [
+            "The shark",
+            "The duck"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'It' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "archaeologists,humans,Laputa,20000 years ago,river banks,evidence",
+        "context": "Archaeologists have concluded that humans lived in Laputa 20,000 years ago. They hunted for evidence on the river banks.",
+        "answer": "Archaeologists",
+        "options": [
+            "Archaeologists",
+            "Prehistoric humans"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'They' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "archaeologists,humans,Laputa,20,000 years ago,deer,river banks",
+        "context": "Archaeologists have concluded that humans lived in Laputa 20,000 years ago. They hunted for deer on the river banks.",
+        "answer": "Prehistoric humans",
+        "options": [
+            "Archaeologists",
+            "Prehistoric humans"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'They' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "scientists,species,fish,Indian Ocean,two years",
+        "context": "The scientists are studying three species of fish that have recently been found living in the Indian Ocean. They began two years ago.",
+        "answer": "The scientists",
+        "options": [
+            "The scientists",
+            "The fish"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'They' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "species,fish,Indian Ocean,scientists,recently",
+        "context": "The scientists are studying three species of fish that have recently been found living in the Indian Ocean. They appeared two years ago.",
+        "answer": "The fish",
+        "options": [
+            "The scientists",
+            "The fish"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'They' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "journalists,stars,movie,interview",
+        "context": "The journalists interviewed the stars of the new movie. They were very persistent, so the interview lasted for a long time.",
+        "answer": "The journalists",
+        "options": [
+            "The journalists",
+            "The stars"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'They' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "journalists,stars,movie,interview",
+        "context": "The journalists interviewed the stars of the new movie. They were very cooperative, so the interview lasted for a long time.",
+        "answer": "The stars",
+        "options": [
+            "The journalists",
+            "The stars"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'They' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "police,arrested,gang,members,stop,drug,trade,neighborhood",
+        "context": "The police arrested all of the gang members. They were trying to stop the drug trade in the neighborhood.",
+        "answer": "The police",
+        "options": [
+            "The police",
+            "The gang members"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'They' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "police,gang,members,arrested,drug,trade,neighborhood",
+        "context": "The police arrested all of the gang members. They were trying to run the drug trade in the neighborhood.",
+        "answer": "The gang members",
+        "options": [
+            "The police",
+            "The gang members"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'They' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "cake,butter,refrigerator",
+        "context": "I put the cake away in the refrigerator. It has a lot of butter in it.",
+        "answer": "The cake",
+        "options": [
+            "The cake",
+            "The refrigerator"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'It' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "cake,refrigerator,leftovers",
+        "context": "I put the cake away in the refrigerator. It has a lot of leftovers in it.",
+        "answer": "The refrigerator",
+        "options": [
+            "The cake",
+            "The refrigerator"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'It' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Sam,ankles,crutches,month",
+        "context": "Sam broke both his ankles and he's walking with crutches. But a month or so from now they should be better.",
+        "answer": "The ankles",
+        "options": [
+            "The ankles",
+            "The crutches"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'they' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "broken ankles,crutches,walking,recovery,injury,ankles",
+        "context": "Sam broke both his ankles and he's walking with crutches. But a month or so from now they should be unnecessary.",
+        "answer": "The crutches",
+        "options": [
+            "The ankles",
+            "The crutches"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'they' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "opponents,sponsors,town hall,minority",
+        "context": "When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. They were very much in the minority.",
+        "answer": "The sponsors",
+        "options": [
+            "The sponsors",
+            "The opponents"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'They' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "opponents,sponsors,bill,town hall,majority",
+        "context": "When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. They were very much in the majority.",
+        "answer": "The opponents",
+        "options": [
+            "The sponsors",
+            "The opponents"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'They' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "oatmeal,cookies,chocolate chip,next time,make more",
+        "context": "Everyone really loved the oatmeal cookies; only a few people liked the chocolate chip cookies. Next time, we should make more of them .",
+        "answer": "The oatmeal cookies",
+        "options": [
+            "The oatmeal cookies",
+            "The chocolate chip cookies"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'them' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "oatmeal cookies,chocolate chip cookies,next time",
+        "context": "Everyone really loved the oatmeal cookies; only a few people liked the chocolate chip cookies. Next time, we should make fewer of them .",
+        "answer": "The chocolate chip cookies",
+        "options": [
+            "The oatmeal cookies",
+            "The chocolate chip cookies"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'them' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "chairs,auditorium,newsletter",
+        "context": "We had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply not enough of them .",
+        "answer": "copies of the newsletter",
+        "options": [
+            "copies of the newsletter",
+            "chairs"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'them' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "chairs,auditorium,newsletter",
+        "context": "We had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply too many of them .",
+        "answer": "chairs",
+        "options": [
+            "copies of the newsletter",
+            "chairs"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'them' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "pierced,carrot,pin,hole,puncture",
+        "context": "I stuck a pin through a carrot. When I pulled the pin out, it left a hole.",
+        "answer": "The pin",
+        "options": [
+            "The pin",
+            "The carrot"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "pin,carrot,hole",
+        "context": "I stuck a pin through a carrot. When I pulled the pin out, it had a hole.",
+        "answer": "The carrot",
+        "options": [
+            "The pin",
+            "The carrot"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "spoon,pen,coffee",
+        "context": "I couldn't find a spoon, so I tried using a pen to stir my coffee. But that turned out to be a bad idea, because it got full of coffee.",
+        "answer": "The pen",
+        "options": [
+            "The pen",
+            "The coffee"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "coffee,spoon,pen,ink",
+        "context": "I couldn't find a spoon, so I tried using a pen to stir my coffee. But that turned out to be a bad idea, because it got full of ink.",
+        "answer": "The coffee",
+        "options": [
+            "The pen",
+            "The coffee"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "admires,example,everything,Steve,Fred",
+        "context": "Steve follows Fred's example in everything. He admires him hugely.",
+        "answer": "Steve",
+        "options": [
+            "Steve",
+            "Fred"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'He' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "Steve,Fred,example,influence",
+        "context": "Steve follows Fred's example in everything. He influences him hugely.",
+        "answer": "Fred",
+        "options": [
+            "Steve",
+            "Fred"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'He' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "table,doorway,width",
+        "context": "The table won't fit through the doorway because it is too wide.",
+        "answer": "The table",
+        "options": [
+            "The table",
+            "The doorway"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    },
+    {
+        "keywords": "table,doorway,narrow,fit",
+        "context": "The table won't fit through the doorway because it is too narrow.",
+        "answer": "The doorway",
+        "options": [
+            "The table",
+            "The doorway"
+        ],
+        "question": "\n               User query: Which option does the pronoun 'it' in the sentence most likely refer to?\n            "
+    }
+]

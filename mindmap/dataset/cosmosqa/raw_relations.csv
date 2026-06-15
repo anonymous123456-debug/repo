@@ -1,0 +1,2026 @@
+Entity1,Relation,Entity2
+narrator,instructs,person
+person,has,obligation
+person,has,conflict
+person,has,circumstances
+person,has,knowledge
+person,has,skills
+person,has,expertise
+person,has,authority
+person,is guided by,mentorship
+person,is taught by,teaching
+person,receives guidance from,guidance
+person,is in a relationship with,relationship
+person,has,money
+person,has,risk
+person,has,chance
+person,has,stakes
+person,has,consequences
+person,has,event
+person,has,passage
+narrator,has,attitude
+narrator,has,disposition
+narrator,has,outlook
+narrator,has,tone
+narrator,has,perspective
+narrator,has,standard
+narrator,has,excellence
+narrator,has,superiority
+Harry,has,windfall
+Harry,has,cash
+Harry,has,expenses
+Harry,has,financial difficulties
+Harry,has,income
+Wheeeeeee,is associated with,road closures
+mother,has,yell
+mother,has,children
+mother,has,behavior
+mother,has,discipline
+mother,has,misbehavior
+mother,has,incident
+credit cards,has,go bye-bye
+credit cards,has,before
+person,is perplexed by,Olympics
+person,has,attitude
+person,has,disposition
+person,has,outlook
+person,has,tone
+person,has,perspective
+person,has,standard
+person,has,excellence
+person,has,superiority
+Harry,has,job
+Harry,has,location
+Harry,has,circumstances
+Harry,has,conflict
+Harry,has,obligation
+Harry,has,knowledge
+Harry,has,skills
+Harry,has,expertise
+Harry,has,authority
+Harry,is guided by,mentorship
+Harry,is taught by,teaching
+Harry,is in a relationship with,relationship
+Harry,has,money
+Harry,has,risk
+Harry,has,chance
+Harry,has,stakes
+Harry,has,consequences
+Harry,has,event
+Harry,has,passage
+narrator,has,best
+narrator,has,hobby
+narrator,has,profession
+narrator,has,work
+narrator,has,enjoyment
+narrator,has,interest
+narrator,has,character
+narrator,has,main character
+narrator,has,protagonist
+narrator,has,story
+narrator,has,text
+narrator,has,narrative
+narrator,has,description
+narrator,has,context
+narrator,has,passage
+narrator,has,writing
+mother,has,time
+mother,has,sequence
+mother,has,events
+credit cards,has,digital payment technologies
+credit cards,has,consumer behavior
+credit cards,has,financial regulations
+Olympics,has,athletes
+Olympics,has,sports
+Olympics,has,history
+Olympics,has,culture
+person,has,perplexed
+person,has,confused
+person,has,individual
+person,has,perspective
+person,has,reaction
+Hillary Clinton,Reference,experience
+Hillary Clinton,Reference,win
+Hillary Clinton,Reference,First Lady
+Hillary Clinton,Reference,Senator
+Hillary Clinton,Reference,Secretary of State
+Hillary Clinton,Reference,presidency
+Hillary Clinton,Reference,election
+Hillary Clinton,Reference,campaign
+Hillary Clinton,Reference,public perception
+Hillary,Reference,experience
+Hillary,Reference,win
+Hillary,Reference,First Lady
+Hillary,Reference,Senator
+Hillary,Reference,Secretary of State
+Hillary,Reference,presidency
+Hillary,Reference,election
+Hillary,Reference,campaign
+Hillary,Reference,public perception
+Frodo,Reference,win
+Frodo,Reference,experience
+Frodo,Reference,Lord of the Rings
+Frodo,Reference,Lord of the Rings series
+Frodo,Reference,J.R.R. Tolkien
+Frodo,Reference,J.R.R. Tolkien's
+J.R.R. Tolkien,Reference,Lord of the Rings
+J.R.R. Tolkien,Reference,Lord of the Rings series
+experience,Reference,win
+experience,Reference,skills
+experience,Reference,knowledge
+experience,Reference,wisdom
+win,Reference,election
+win,Reference,competition
+feel,Reference,decision
+feel,Reference,emotions
+feel,Reference,intuition
+feel,Reference,empathy
+feel,Reference,introspection
+feel,Reference,self-awareness
+How,Reference,may
+How,Reference,I
+How,Reference,be
+How,Reference,feeling
+How,Reference,now
+I,Reference,be
+I,Reference,feeling
+I,Reference,now
+speaker,Reference,play
+speaker,Reference,large audience
+speaker,Reference,performance
+play,Reference,large audience
+play,Reference,performance
+large audience,Reference,performance
+religion,Reference,narrator
+religion,Reference,beliefs
+religion,Reference,practices
+narrator,Reference,religion
+narrator,Reference,sluggish
+narrator,Reference,appear
+Arwen,Reference,show
+Arwen,Reference,Lord of the Rings
+Arwen,Reference,J.R.R. Tolkien's
+Arwen,Reference,series
+show,Reference,Arwen
+show,Reference,Lord of the Rings
+show,Reference,J.R.R. Tolkien's
+what,Reference,you
+what,Reference,did
+what,Reference,got
+what,Reference,home
+you,Reference,did
+you,Reference,got
+you,Reference,home
+did,Reference,got
+did,Reference,home
+got,Reference,home
+speaker,Reference,fact
+speaker,Reference,information
+speaker,Reference,statement
+speaker,Reference,assertion
+fact,Reference,speaker
+man,Reference,grabbed
+man,Reference,arm
+man,Reference,forceful
+man,Reference,body part
+man,Reference,shoulder
+man,Reference,hand
+grabbed,Reference,arm
+grabbed,Reference,man
+arm,Reference,man
+arm,Reference,body part
+arm,Reference,shoulder
+arm,Reference,hand
+Lord of the Rings,Reference,Frodo
+Lord of the Rings,Reference,J.R.R. Tolkien
+Lord of the Rings,Reference,series
+Lord of the Rings series,Reference,Frodo
+Lord of the Rings series,Reference,J.R.R. Tolkien
+J.R.R. Tolkien,Reference,Lord of the Rings
+J.R.R. Tolkien,Reference,Lord of the Rings series
+Hillary Clinton,Reference,United States
+Hillary Clinton,Reference,Senate
+Hillary Clinton,Reference,President
+Hillary Clinton,Reference,election
+Hillary Clinton,Reference,competition
+Hillary Clinton,Reference,music
+Hillary Clinton,Reference,cosplay
+Hillary Clinton,Reference,activities
+Hillary Clinton,Reference,skills
+Hillary Clinton,Reference,knowledge
+Hillary Clinton,Reference,wisdom
+Hillary Clinton,Reference,qualifications
+Hillary Clinton,Reference,position
+Hillary Clinton,Reference,First Lady
+Hillary Clinton,Reference,Senator
+Hillary Clinton,Reference,Secretary of State
+Hillary Clinton,Reference,presidency
+Hillary Clinton,Reference,campaign
+Hillary Clinton,Reference,public perception
+Hillary Clinton,Reference,emotions
+Hillary Clinton,Reference,intuition
+Hillary Clinton,Reference,empathy
+Hillary Clinton,Reference,introspection
+Hillary Clinton,Reference,self-awareness
+Hillary Clinton,Reference,presentation
+Hillary Clinton,Reference,lecture
+Hillary Clinton,Reference,performance
+Hillary Clinton,Reference,group
+Hillary Clinton,Reference,people
+Hillary Clinton,Reference,drama
+Hillary Clinton,Reference,actors
+Hillary Clinton,Reference,stage
+Hillary Clinton,Reference,performance
+Hillary Clinton,Reference,event
+Hillary Clinton,Reference,theatrical
+Hillary Clinton,Reference,well-attended
+Hillary Clinton,Reference,well-received
+Hillary Clinton,Reference,beliefs
+Hillary Clinton,Reference,practices
+Hillary Clinton,Reference,rituals
+Hillary Clinton,Reference,worship
+Hillary Clinton,Reference,higher power
+Hillary Clinton,Reference,powers
+Hillary Clinton,Reference,story
+Hillary Clinton,Reference,character
+Hillary Clinton,Reference,perspective
+Hillary Clinton,Reference,written
+Hillary Clinton,Reference,oral
+Hillary Clinton,Reference,thoughts
+Hillary Clinton,Reference,character
+Hillary Clinton,Reference,context
+Hillary Clinton,Reference,J.R.R. Tolkien's
+Hillary Clinton,Reference,series
+Hillary Clinton,Reference,fantasy
+Hillary Clinton,Reference,theme
+Hillary Clinton,Reference,TV
+Hillary Clinton,Reference,film
+Hillary Clinton,Reference,adaptation
+Hillary Clinton,Reference,fiction
+Hillary Clinton,Reference,residence
+Hillary Clinton,Reference,dwelling
+Hillary Clinton,Reference,person
+Hillary Clinton,Reference,communication
+Hillary Clinton,Reference,thoughts
+Hillary Clinton,Reference,opinions
+Hillary Clinton,Reference,information
+Hillary Clinton,Reference,statement
+Hillary Clinton,Reference,assertion
+Hillary Clinton,Reference,evidence
+Hillary Clinton,Reference,observation
+Hillary Clinton,Reference,character
+Hillary Clinton,Reference,trait
+Hillary Clinton,Reference,attribute
+Hillary Clinton,Reference,human being
+Hillary Clinton,Reference,adult male
+Hillary Clinton,Reference,forceful
+Hillary Clinton,Reference,body part
+Hillary Clinton,Reference,shoulder
+Hillary Clinton,Reference,hand
+Hillary Clinton,Reference,situation
+Hillary Clinton,Reference,speaker
+Hillary Clinton,Reference,fact
+Hillary Clinton,Reference,man
+Hillary Clinton,Reference,grabbed
+Hillary Clinton,Reference,arm
+Hillary Clinton,Reference,forceful
+Hillary Clinton,Reference,body part
+Hillary Clinton,Reference,shoulder
+Hillary Clinton,Reference,hand
+Hillary Clinton,Reference,situation
+Hillary Clinton,Reference,speaker
+Hillary Clinton,Reference,fact
+Hillary Clinton,Reference,man
+Hillary Clinton,Reference,grabbed
+Hillary Clinton,Reference,arm
+Hillary Clinton,Reference,forceful
+Hillary Clinton,Reference,body part
+Hillary Clinton,Reference,shoulder
+Hillary Clinton,Reference,hand
+Hillary Clinton,Reference,situation
+Hillary Clinton,Reference,speaker
+Hillary Clinton,Reference,fact
+Hillary Clinton,Reference,man
+Hillary Clinton,Reference,grabbed
+Hillary Clinton,Reference,arm
+Hillary Clinton,Reference,forceful
+Hillary Clinton,Reference,body part
+Hillary Clinton,Reference,shoulder
+Hillary Clinton,Reference,hand
+Hillary Clinton,Reference,situation
+Hillary Clinton,Reference,speaker
+Hillary Clinton,Reference,fact
+Hillary Clinton,Reference,man
+Hillary Clinton,Reference,grabbed
+Hillary Clinton,Reference,arm
+Hillary Clinton,Reference,forceful
+Hillary Clinton,Reference,body part
+Hillary Clinton,Reference,shoulder
+Hillary Clinton,Reference,hand
+Hillary Clinton,Reference,situation
+Hillary Clinton,Reference,speaker
+Hillary Clinton,Reference,fact
+Hillary Clinton,Reference,man
+Hillary Clinton,Reference,grabbed
+Hillary Clinton,Reference,arm
+Hillary Clinton,Reference,forceful
+Hillary Clinton,Reference,body part
+Hillary Clinton,Reference,shoulder
+Hillary Clinton,Reference,hand
+Hillary Clinton,Reference,situation
+Hillary Clinton,Reference,speaker
+Hillary Clinton,Reference,fact
+Hillary Clinton,Reference,man
+Hillary Clinton,Reference,grabbed
+Hillary Clinton,Reference,arm
+Hillary Clinton,Reference,forceful
+Hillary Clinton,Reference,body part
+Hillary Clinton,Reference,shoulder
+Hillary Clinton,Reference,hand
+Hillary Clinton,Reference,situation
+Hillary Clinton,Reference,speaker
+Hillary Clinton,Reference,fact
+Hillary Clinton,Reference,man
+Hillary Clinton,Reference,grabbed
+Hillary Clinton,Reference,arm
+Hillary Clinton,Reference,forceful
+Hillary Clinton,Reference,body part
+Hillary Clinton,Reference,shoulder
+Hillary Clinton,Reference,hand
+Hillary Clinton,Reference,situation
+Hillary Clinton,Reference,speaker
+Hillary Clinton,Reference,fact
+Hillary Clinton,Reference,man
+Hillary Clinton,Reference,grabbed
+Hillary Clinton,Reference,arm
+Hillary Clinton,Reference,forceful
+Hillary Clinton,Reference,body part
+Hillary Clinton,Reference,shoulder
+Hillary Clinton,Reference,hand
+Hillary Clinton,Reference,situation
+Hillary Clinton,Reference,speaker
+Hillary Clinton,Reference,fact
+Hillary Clinton,Reference,man
+Hillary Clinton,Reference,grabbed
+Hillary Clinton,Reference,arm
+Hillary Clinton,Reference,forceful
+Hillary Clinton,Reference,body part
+Hillary Clinton,Reference,shoulder
+Hillary Clinton,Reference,hand
+Hillary Clinton,Reference,situation
+Hillary Clinton,Reference,speaker
+Hillary Clinton,Reference,fact
+Hillary Clinton,Reference,man
+Hillary Clinton,Reference,grabbed
+Hillary Clinton,Reference,arm
+Hillary Clinton,Reference,forceful
+Hillary Clinton,Reference,body part
+Hillary Clinton,Reference,shoulder
+Hillary Clinton,Reference,hand
+Hillary Clinton,Reference,situation
+Hillary Clinton,Reference,speaker
+Hillary Clinton,Reference,fact
+Hillary Clinton,Reference,man
+Hillary Clinton,Reference,grabbed
+Hillary Clinton,Reference,arm
+Hillary Clinton,Reference,forceful
+Hillary Clinton,Reference,body part
+Hillary Clinton,Reference,shoulder
+Hillary Clinton,Reference,hand
+Hillary Clinton,Reference,situation
+Hillary Clinton,Reference,speaker
+Hillary Clinton,Reference,fact
+Hillary Clinton,Reference,man
+Hillary Clinton,Reference,grabbed
+Hillary Clinton,Reference,arm
+Hillary Clinton,Reference,forceful
+Hillary Clinton,Reference,body part
+Hillary Clinton,Reference,shoulder
+Hillary Clinton,Reference,hand
+Hillary Clinton,Reference,situation
+Hillary Clinton,Reference,speaker
+Hillary Clinton,Reference,fact
+Hillary Clinton,Reference,man
+Hillary Clinton,Reference,grabbed
+Hillary Clinton,Reference,arm
+Hillary Clinton,Reference,forceful
+Hillary Clinton,Reference,body part
+Hillary Clinton,Reference,shoulder
+Hillary Clinton,Reference,hand
+Hillary Clinton,Reference,situation
+Hillary Clinton,Reference,speaker
+Hillary Clinton,Reference,fact
+Hillary Clinton,Reference,man
+Hillary Clinton,Reference,grabbed
+Hillary Clinton,Reference,arm
+Hillary Clinton,Reference,forceful
+Hillary Clinton,Reference,body part
+Hillary Clinton,Reference,shoulder
+Hillary Clinton,Reference,hand
+Hillary Clinton,Reference,situation
+Hillary Clinton,Reference,speaker
+Hillary Clinton,Reference,fact
+Hillary Clinton,Reference,man
+Hillary Clinton,Reference,grabbed
+Hillary Clinton,Reference,arm
+Hillary Clinton,Reference,forceful
+Hillary Clinton,Reference,body part
+Hillary Clinton,Reference,shoulder
+Hillary Clinton,Reference,hand
+Hillary Clinton,Reference,situation
+Hillary Clinton,Reference,speaker
+Hillary Clinton,Reference,fact
+Hillary Clinton,Reference,man
+Hillary Clinton,Reference,grabbed
+Hillary Clinton,Reference,arm
+Hillary Clinton,Reference,forceful
+Hillary Clinton,Reference,body part
+Hillary Clinton,Reference,shoulder
+Hillary Clinton,Reference,hand
+Hillary Clinton,Reference,situation
+Hillary Clinton,Reference,speaker
+Hillary Clinton,Reference,fact
+Hillary Clinton,Reference,man
+Hillary Clinton,Reference,grabbed
+Hillary Clinton,Reference,arm
+Hillary Clinton,Reference,forceful
+Hillary Clinton,Reference,body part
+Hillary Clinton,Reference,shoulder
+Hillary Clinton,Reference,hand
+Hillary Clinton,Reference,situation
+Hillary Clinton,Reference,speaker
+Hillary Clinton,Reference,fact
+Hillary Clinton,Reference,man
+Hillary Clinton,Reference,grabbed
+Hillary Clinton,Reference,arm
+Hillary Clinton,Reference,forceful
+Hillary Clinton,Reference,body part
+Hillary Clinton,Reference,shoulder
+Hillary Clinton,Reference,hand
+Hillary Clinton,Reference,situation
+Hillary Clinton,Reference,speaker
+Hillary Clinton,Reference,fact
+Hillary Clinton,Reference,man
+Hillary Clinton,Reference,grabbed
+Hillary Clinton,Reference,arm
+Hillary Clinton,Reference,forceful
+Hillary Clinton,Reference,body part
+Hillary Clinton,Reference,shoulder
+Hillary Clinton,Reference,hand
+Hillary Clinton,Reference,situation
+Hillary Clinton,Reference,speaker
+Hillary Clinton,Reference,fact
+Hillary Clinton,Reference,man
+Hillary Clinton,Reference,grabbed
+Hillary Clinton,Reference,arm
+Hillary Clinton,Reference,forceful
+Hillary Clinton,Reference,body part
+Hillary Clinton,Reference,shoulder
+Hillary Clinton,Reference,hand
+Hillary Clinton,Reference,situation
+Hillary Clinton,Reference,speaker
+Hillary Clinton,Reference,fact
+Hillary Clinton,Reference,man
+Hillary Clinton,Reference,grabbed
+Hillary Clinton,Reference,arm
+Hillary Clinton,Reference,forceful
+Hillary Clinton,Reference,body part
+Hillary Clinton,Reference,shoulder
+Hillary Clinton,Reference,hand
+narrator,is the person telling,story
+narrator,is fond of,coach
+coach,provides,guidance
+coach,provides,support
+coach,has,expertise
+narrator,values,guidance
+narrator,values,support
+narrator,values,expertise
+narrator,is telling,story
+narrator,is recounting,experiences
+narrator,felt,bored
+narrator,was,traveling
+narrator,was traveling,to Japan
+narrator,stepped,outside comfort zone
+narrator,felt,uneasy
+narrator,felt,anxious
+narrator,felt,uncertain
+type,is a classification of,news
+news,refers to,current events
+news,refers to,stories
+news,refers to,announcements
+he,feels,emotions
+he,has,feelings
+comments,are,statements
+comments,are,remarks
+comments,can be,positive
+comments,can be,negative
+comments,can be,neutral
+contacts,are,lenses
+contacts,are,"placed on, eyeballs"
+eyeballs,are,"responsible for, vision"
+narrator,is telling,story
+narrator,is recounting,events
+narrator,has,work
+narrator,has,occupation
+narrator,has,profession
+narrator,is watching,trash TV
+narrator,finds,"trash TV, inferior"
+narrator,finds,"trash TV, unimpressive"
+John,is getting on,train
+John,is,"getting ready to, travel"
+John,is,"using, train"
+how,is a query about,emotions
+may,expresses,possibility
+I,am,feeling
+cute t-shirt,is,a gift
+cute t-shirt,is,a personal gift
+classmate,is,a shared social context
+classmate,is,a shared academic context
+wild fern scented candle,is,a personal gift
+woman,is,"the giver of, cute t-shirt"
+woman,is,"the giver of, wild fern scented candle"
+narrator,is telling,story
+narrator,is recounting,experiences
+narrator,is fond of,coach
+narrator,values,coach's guidance
+narrator,values,coach's support
+narrator,values,coach's expertise
+narrator,stepped,outside comfort zone
+narrator,felt,emotions
+narrator,felt,sensations
+type,is a classification of,news
+news,refers to,current events
+news,refers to,stories
+news,refers to,announcements
+he,feels,emotions
+he,has,feelings
+comments,are,statements
+comments,are,remarks
+comments,can be,positive
+comments,can be,negative
+comments,can be,neutral
+contacts,are,lenses
+contacts,are,"placed on, eyeballs"
+eyeballs,are,"responsible for, vision"
+narrator,has,work
+narrator,has,occupation
+narrator,has,profession
+narrator,is watching,trash TV
+narrator,finds,"trash TV, inferior"
+narrator,finds,"trash TV, unimpressive"
+John,is getting on,train
+John,is,"getting ready to, travel"
+John,is,"using, train"
+how,is a query about,emotions
+may,expresses,possibility
+I,am,feeling
+cute t-shirt,is,a gift
+cute t-shirt,is,a personal gift
+classmate,is,a shared social context
+classmate,is,a shared academic context
+wild fern scented candle,is,a personal gift
+woman,is,"the giver of, cute t-shirt"
+woman,is,"the giver of, wild fern scented candle"
+narrator,is telling,story
+narrator,is recounting,experiences
+coach,trains,team
+coach,guides,team
+coach,provides,expertise
+narrator,values,coach's guidance
+narrator,values,coach's support
+narrator,values,coach's expertise
+narrator,stepped,outside comfort zone
+narrator,felt,emotions
+narrator,felt,sensations
+type,is a classification of,news
+news,refers to,current events
+news,refers to,stories
+news,refers to,announcements
+he,feels,emotions
+he,has,feelings
+comments,are,statements
+comments,are,remarks
+comments,can be,positive
+comments,can be,negative
+comments,can be,neutral
+contacts,are,lenses
+contacts,are,"placed on, eyeballs"
+eyeballs,are,"responsible for, vision"
+narrator,has,work
+narrator,has,occupation
+narrator,has,profession
+narrator,is watching,trash TV
+narrator,finds,"trash TV, inferior"
+narrator,finds,"trash TV, unimpressive"
+John,is getting on,train
+John,is,"getting ready to, travel"
+John,is,"using, train"
+how,is a query about,emotions
+may,expresses,possibility
+I,am,feeling
+cute t-shirt,is,a gift
+cute t-shirt,is,a personal gift
+classmate,is,a shared social context
+classmate,is,a shared academic context
+wild fern scented candle,is,a personal gift
+woman,is,"the giver of, cute t-shirt"
+woman,is,"the giver of, wild fern scented candle"
+narrator,has,emotions
+narrator,has,sensations
+narrator,is,"experiencing, emotions"
+narrator,is,"experiencing, sensations"
+coach,is,"providing, guidance"
+coach,is,"providing, support"
+coach,is,"providing, expertise"
+narrator,is,"valuing, guidance"
+narrator,is,"valuing, support"
+narrator,is,"valuing, expertise"
+narrator,is,"stepping, outside comfort zone"
+narrator,is,"feeling, emotions"
+narrator,is,"feeling, sensations"
+type,is a classification of,news
+news,refers to,current events
+news,refers to,stories
+news,refers to,announcements
+he,is,"feeling, emotions"
+he,is,"having, feelings"
+comments,are,statements
+comments,are,remarks
+comments,can be,positive
+comments,can be,negative
+comments,can be,neutral
+contacts,are,lenses
+contacts,are,"placed on, eyeballs"
+eyeballs,are,"responsible for, vision"
+narrator,has,work
+narrator,has,occupation
+narrator,has,profession
+narrator,is,"watching, trash TV"
+narrator,finds,"trash TV, inferior"
+narrator,finds,"trash TV, unimpressive"
+John,is getting on,train
+John,is,"getting ready to, travel"
+John,is,"using, train"
+how,is a query about,emotions
+may,expresses,possibility
+I,am,feeling
+cute t-shirt,is,a gift
+cute t-shirt,is,a personal gift
+classmate,is,a shared social context
+classmate,is,a shared academic context
+wild fern scented candle,is,a personal gift
+woman,is,"the giver of, cute t-shirt"
+woman,is,"the giver of, wild fern scented candle"
+narrator,has,emotions
+narrator,has,sensations
+narrator,is,"experiencing, emotions"
+narrator,is,"experiencing, sensations"
+coach,is,"a person who trains, team"
+coach,is,"a person who guides, team"
+coach,is,"a person who provides, expertise"
+narrator,is,"valuing, guidance"
+narrator,is,"valuing, support"
+narrator,is,"valuing, expertise"
+narrator,is,"stepping, outside comfort zone"
+narrator,is,"feeling, emotions"
+narrator,is,"feeling, sensations"
+type,is a classification of,news
+news,refers to,current events
+news,refers to,stories
+news,refers to,announcements
+he,is,"feeling, emotions"
+he,is,"having, feelings"
+comments,are,statements
+comments,are,remarks
+comments,can be,positive
+comments,can be,negative
+comments,can be,neutral
+contacts,are,lenses
+contacts,are,"placed on, eyeballs"
+eyeballs,are,"responsible for, vision"
+narrator,has,work
+narrator,has,occupation
+narrator,has,profession
+narrator,is watching,trash TV
+narrator,finds,"trash TV, inferior"
+narrator,finds,"trash TV, unimpressive"
+John,is getting on,train
+John,is,"getting ready to, travel"
+John,is,"using, train"
+how,is a query about,emotions
+may,expresses,possibility
+I,am,feeling
+cute t-shirt,is,a gift
+cute t-shirt,is,a personal gift
+classmate,is,a shared social context
+classmate,is,a shared academic context
+wild fern scented candle,is,a personal gift
+woman,is,"the giver of, cute t-shirt"
+woman,is,"the giver of, wild fern scented candle"
+narrator,has,emotions
+narrator,has,sensations
+narrator,is,"experiencing, emotions"
+narrator,is,"experiencing, sensations"
+coach,provides,guidance
+coach,provides,support
+coach,provides,expertise
+narrator,values,guidance
+narrator,values,support
+narrator,values,expertise
+narrator,stepped,outside comfort zone
+narrator,felt,emotions
+narrator,felt,sensations
+type,is a classification of,news
+news,refers to,current events
+news,refers to,stories
+news,refers to,announcements
+he,feels,emotions
+he,has,feelings
+comments,are,statements
+comments,are,remarks
+comments,can be,positive
+comments,can be,negative
+comments,can be,neutral
+contacts,are,lenses
+contacts,are,"placed on, eyeballs"
+eyeballs,are,"responsible for, vision"
+narrator,has,work
+narrator,has,occupation
+narrator,has,profession
+narrator,is watching,trash TV
+narrator,finds,"trash TV, inferior"
+narrator,finds,"trash TV, unimpressive"
+John,is getting on,train
+John,is,"getting ready to, travel"
+John,is,"using, train"
+how,is a query about,emotions
+may,expresses,possibility
+I,am,feeling
+cute t-shirt,is,a gift
+cute t-shirt,is,a personal gift
+classmate,is,a shared social context
+classmate,is,a shared academic context
+wild fern scented candle,is,a personal gift
+woman,is,"the giver of, cute t-shirt"
+woman,is,"the giver of, wild fern scented candle"
+narrator,is telling,story
+narrator,is recounting,experiences
+narrator,is fond of,coach
+narrator,values,coach's guidance
+narrator,values,coach's support
+narrator,values,coach's expertise
+narrator,stepped,outside comfort zone
+narrator,felt,emotions
+narrator,felt,sensations
+type,is a classification of,news
+news,refers to,current events
+news,refers to,stories
+news,refers to,announcements
+he,feels,emotions
+he,has,feelings
+comments,are,statements
+comments,are,remarks
+comments,can be,positive
+comments,can be,negative
+comments,can be,neutral
+contacts,are,lenses
+contacts,are,"placed on, eyeballs"
+eyeballs,are,"responsible for, vision"
+narrator,has,work
+narrator,has,occupation
+narrator,has,profession
+narrator,is watching,trash TV
+narrator,finds,"trash TV, inferior"
+narrator,finds,"trash TV, unimpressive"
+John,is getting on,train
+John,is,"getting ready to, travel"
+John,is,"using, train"
+how,is a query about,emotions
+may,expresses,possibility
+I,am,feeling
+cute t-shirt,is,a gift
+cute t-shirt,is,a personal gift
+classmate,is,a shared social context
+classmate,is,a shared academic context
+wild fern scented candle,is,a personal gift
+woman,is,"the giver of, cute t-shirt"
+woman,is,"the giver of, wild fern scented candle"
+narrator,is telling,story
+narrator,is recounting,experiences
+narrator,is fond of,coach
+narrator,values,coach's guidance
+narrator,values,coach's support
+narrator,values,coach's expertise
+narrator,stepped,outside comfort zone
+narrator,felt,emotions
+narrator,felt,sensations
+type,is a classification of,news
+news,refers to,current events
+news,refers to,stories
+news,refers to,announcements
+he,feels,emotions
+he,has,feelings
+comments,are,statements
+comments,are,remarks
+comments,can be,positive
+comments,can be,negative
+comments,can be,neutral
+Joey,excited,speaker
+Joey,friend,Justin
+Joey,friend,speaker
+Justin,friend,speaker
+Justin,friend,Joey
+speaker,narrator,story
+speaker,driving,others
+driver,driving,others
+narrator,driving,others
+driver,commute,slow
+woman,tram stop,location
+woman,tram stop,presence
+speaker,perform,school
+woman,happened,last night
+Jack,stay,day or two
+Jack,stay,location
+speaker,tired,anemia
+speaker,tired,diabetes
+speaker,tired,hypothyroidism
+speaker,tired,depression
+speaker,tired,lack of sleep
+speaker,tired,physical exertion
+speaker,tired,mental stress
+speaker,tired,lifestyle factors
+woman,happened,"last night, implication"
+Jack,stay,"day or two, reason"
+driver,commute,"slow, reason"
+narrator,driving,"others, motivation"
+speaker,perform,"school, academic performance"
+speaker,perform,"school, potential"
+speaker,perform,"school, assessment"
+speaker,narrator,"story, context"
+speaker,myself,plausible fact
+speaker,myself,characteristic
+speaker,myself,trait
+speaker,myself,experience
+woman,tram stop,scenario
+what,happened,"last night, question"
+what,happened,"last night, information"
+what,happened,"last night, clarification"
+Jack,stay,"day or two, purpose"
+Jack,stay,"day or two, circumstances"
+Africa,Location,elephant
+Africa,Home,mammal
+Asia,Location,elephant
+Asia,Home,mammal
+mammal,Characteristic,elephant
+flash,Photography,light
+flash,Context,photography
+narrator,Profession,writer
+narrator,Role,main character
+career,Profession,writer
+career,Development,job progression
+verb,Action,decision
+decision,Intention,career
+move,Action,rooms
+move,Transition,location
+rooms,Space,building
+rooms,Change,environment
+sleep,State,rest
+sleep,Disruption,nightmares
+seeing,Experience,visions
+seeing,Disruption,insomnia
+over and over,Repetition,nightmares
+narrator,Seeking,insight
+narrator,Seeking,guidance
+keys,Object,door
+keys,Container,bowl
+keys,Placement,counter
+terrorists,Group,civilians
+terrorists,Action,attack
+attack,Violence,civilians
+something,Action,decision
+something,Action,behavior
+done,Completion,action
+animal,Species,mammal
+animal,Habitat,home
+writer,Profession,author
+writer,Action,help
+writer,Action,offer
+help,Support,writer
+help,Action,assistance
+offer,Action,assistance
+another man,Person,man
+another man,Move,in
+man,Person,writer
+man,Move,in
+man,Person,narrator
+move,Action,man
+move,Action,in
+in,Action,man
+in,Action,writer
+in,Action,narrator
+man,Character,narrator
+man,Character,writer
+rooms,Space,home
+rooms,Change,location
+home,Space,animal
+home,Space,man
+home,Space,writer
+home,Space,narrator
+light,Context,photography
+light,Context,flash
+photography,Context,flash
+photography,Context,light
+career,Development,narrator
+career,Development,writer
+career,Profession,narrator
+career,Profession,writer
+decision,Intention,career
+intention,Decision,career
+intention,Decision,narrator
+intention,Decision,writer
+discomfort,Reason,move
+discomfort,Reason,change
+insomnia,Disruption,sleep
+insomnia,Disruption,seeing
+insomnia,Disruption,nightmares
+nightmares,Disruption,sleep
+nightmares,Disruption,seeing
+nightmares,Experience,visions
+nightmares,Experience,memories
+thoughts,Experience,visions
+thoughts,Experience,memories
+civilians,Target,attack
+civilians,Target,terrorists
+communities,Target,attack
+communities,Target,terrorists
+peace,Goal,stability
+peace,Goal,civilians
+stability,Goal,communities
+stability,Goal,peace
+something,Action,done
+something,Action,decision
+something,Action,behavior
+done,Completion,action
+done,Completion,decision
+done,Completion,behavior
+behavior,Action,decision
+behavior,Action,something
+behavior,Action,done
+action,Action,decision
+action,Action,behavior
+action,Action,something
+action,Action,done
+decision,Intention,career
+decision,Intention,narrator
+decision,Intention,writer
+insomnia,Disruption,sleep
+insomnia,Disruption,seeing
+insomnia,Disruption,nightmares
+seeing,Disruption,insomnia
+seeing,Disruption,nightmares
+nightmares,Disruption,insomnia
+nightmares,Disruption,seeing
+writer,Action,help
+writer,Action,offer
+help,Action,writer
+help,Action,offer
+offer,Action,writer
+offer,Action,help
+man,Person,writer
+man,Person,narrator
+man,Person,another man
+man,Move,in
+man,Move,writer
+man,Move,narrator
+in,Action,man
+in,Action,writer
+in,Action,narrator
+in,Action,another man
+rooms,Space,home
+rooms,Space,man
+rooms,Space,writer
+rooms,Space,narrator
+rooms,Space,another man
+home,Space,animal
+home,Space,man
+home,Space,writer
+home,Space,narrator
+home,Space,another man
+light,Context,flash
+light,Context,photography
+photography,Context,flash
+photography,Context,light
+career,Profession,narrator
+career,Profession,writer
+career,Development,narrator
+career,Development,writer
+career,Profession,man
+career,Profession,another man
+career,Development,man
+career,Development,another man
+decision,Intention,career
+decision,Intention,narrator
+decision,Intention,writer
+decision,Intention,man
+decision,Intention,another man
+intention,Decision,career
+intention,Decision,narrator
+intention,Decision,writer
+intention,Decision,man
+intention,Decision,another man
+move,Action,rooms
+move,Action,man
+move,Action,writer
+move,Action,narrator
+move,Action,another man
+rooms,Space,home
+rooms,Space,man
+rooms,Space,writer
+rooms,Space,narrator
+rooms,Space,another man
+rooms,Change,environment
+rooms,Change,location
+home,Space,animal
+home,Space,man
+home,Space,writer
+home,Space,narrator
+home,Space,another man
+home,Space,rooms
+home,Change,environment
+home,Change,location
+man,Person,writer
+man,Person,narrator
+man,Person,another man
+man,Move,in
+man,Move,writer
+man,Move,narrator
+man,Move,another man
+in,Action,man
+in,Action,writer
+in,Action,narrator
+in,Action,another man
+in,Action,rooms
+in,Action,home
+rooms,Space,home
+rooms,Space,man
+rooms,Space,writer
+rooms,Space,narrator
+rooms,Space,another man
+rooms,Change,environment
+rooms,Change,location
+home,Space,animal
+home,Space,man
+home,Space,writer
+home,Space,narrator
+home,Space,another man
+home,Space,rooms
+home,Change,environment
+home,Change,location
+writer,Profession,man
+writer,Profession,another man
+writer,Action,help
+writer,Action,offer
+writer,Action,man
+writer,Action,another man
+help,Action,writer
+help,Action,man
+help,Action,another man
+offer,Action,writer
+offer,Action,man
+offer,Action,another man
+man,Person,writer
+man,Person,narrator
+man,Person,another man
+man,Move,in
+man,Move,writer
+man,Move,narrator
+man,Move,another man
+in,Action,man
+in,Action,writer
+in,Action,narrator
+in,Action,another man
+in,Action,rooms
+in,Action,home
+rooms,Space,home
+rooms,Space,man
+rooms,Space,writer
+rooms,Space,narrator
+rooms,Space,another man
+rooms,Change,environment
+rooms,Change,location
+home,Space,animal
+home,Space,man
+home,Space,writer
+home,Space,narrator
+home,Space,another man
+home,Space,rooms
+home,Change,environment
+home,Change,location
+writer,Profession,man
+writer,Profession,another man
+writer,Action,help
+writer,Action,offer
+writer,Action,man
+writer,Action,another man
+help,Action,writer
+help,Action,man
+help,Action,another man
+offer,Action,writer
+offer,Action,man
+offer,Action,another man
+man,Person,writer
+man,Person,narrator
+man,Person,another man
+man,Move,in
+man,Move,writer
+man,Move,narrator
+man,Move,another man
+in,Action,man
+in,Action,writer
+in,Action,narrator
+in,Action,another man
+in,Action,rooms
+in,Action,home
+rooms,Space,home
+rooms,Space,man
+rooms,Space,writer
+rooms,Space,narrator
+rooms,Space,another man
+rooms,Change,environment
+rooms,Change,location
+home,Space,animal
+home,Space,man
+home,Space,writer
+home,Space,narrator
+home,Space,another man
+home,Space,rooms
+home,Change,environment
+home,Change,location
+man,Person,writer
+man,Person,narrator
+man,Person,another man
+man,Move,in
+man,Move,writer
+man,Move,narrator
+man,Move,another man
+in,Action,man
+in,Action,writer
+in,Action,narrator
+in,Action,another man
+in,Action,rooms
+in,Action,home
+rooms,Space,home
+rooms,Space,man
+rooms,Space,writer
+rooms,Space,narrator
+rooms,Space,another man
+rooms,Change,environment
+rooms,Change,location
+home,Space,animal
+home,Space,man
+home,Space,writer
+home,Space,narrator
+home,Space,another man
+home,Space,rooms
+home,Change,environment
+home,Change,location
+writer,Profession,man
+writer,Profession,another man
+writer,Action,help
+writer,Action,offer
+writer,Action,man
+writer,Action,another man
+help,Action,writer
+help,Action,man
+help,Action,another man
+offer,Action,writer
+offer,Action,man
+offer,Action,another man
+man,Person,writer
+man,Person,narrator
+man,Person,another man
+man,Move,in
+man,Move,writer
+man,Move,narrator
+man,Move,another man
+in,Action,man
+in,Action,writer
+in,Action,narrator
+in,Action,another man
+in,Action,rooms
+in,Action,home
+rooms,Space,home
+rooms,Space,man
+rooms,Space,writer
+rooms,Space,narrator
+rooms,Space,another man
+rooms,Change,environment
+rooms,Change,location
+home,Space,animal
+home,Space,man
+home,Space,writer
+home,Space,narrator
+home,Space,another man
+home,Space,rooms
+home,Change,environment
+home,Change,location
+writer,Profession,man
+writer,Profession,another man
+writer,Action,help
+writer,Action,offer
+writer,Action,man
+writer,Action,another man
+help,Action,writer
+help,Action,man
+help,Action,another man
+offer,Action,writer
+offer,Action,man
+offer,Action,another man
+man,Person,writer
+man,Person,narrator
+man,Person,another man
+man,Move,in
+man,Move,writer
+man,Move,narrator
+man,Move,another man
+in,Action,man
+in,Action,writer
+in,Action,narrator
+in,Action,another man
+in,Action,rooms
+in,Action,home
+rooms,Space,home
+rooms,Space,man
+rooms,Space,writer
+rooms,Space,narrator
+rooms,Space,another man
+rooms,Change,environment
+rooms,Change,location
+home,Space,animal
+home,Space,man
+home,Space,writer
+home,Space,narrator
+home,Space,another man
+home,Space,rooms
+home,Change,environment
+home,Change,location
+writer,Profession,man
+writer,Profession,another man
+writer,Action,help
+writer,Action,offer
+writer,Action,man
+writer,Action,another man
+help,Action,writer
+help,Action,man
+help,Action,another man
+offer,Action,writer
+offer,Action,man
+offer,Action,another man
+man,Person,writer
+man,Person,narrator
+man,Person,another man
+man,Move,in
+man,Move,writer
+man,Move,narrator
+man,Move,another man
+in,Action,man
+in,Action,writer
+in,Action,narrator
+in,Action,another man
+in,Action,rooms
+in,Action,home
+rooms,Space,home
+rooms,Space,man
+rooms,Space,writer
+rooms,Space,narrator
+narrator,has_diet,diet
+diet,is_type_of,veganism
+diet,is_type_of,keto
+diet,is_type_of,dinner date
+narrator,belongs_to,clubs
+clubs,is_interest_of,narrator
+narrator,goes_on,dinner date
+narrator,may_feel,feeling
+narrator,is_now,feeling
+narrator,is_writing,letter
+narrator,has_aunt,aunt
+narrator,has_good_day,good day
+narrator,is_traveler,traveler
+narrator,provides,explanation
+explanation,is_suspicious,suspicious
+narrator,is_friend,friend
+friend,causes,surprise
+narrator,feels,pleased
+narrator,feels,tired
+"repeated for emphasis)
+17. Narrator",Stain,Shirt (repeated for emphasis
+"repeated for emphasis)
+19. Woman",Hand,Grabbed (repeated for emphasis
+impress,implies,social expectations
+she,is,female
+self-perception,is,uncertain
+tornado,is,rotating column of air
+tornado,causes,damage and destruction
+wind shear,influences,tornado
+moisture,influences,tornado
+instability,influences,tornado
+narrator,refers to,person or character
+technical expertise,enables,performance of tasks
+narrator,has,technical expertise
+Korean classes,involves,structured lesson plan
+Korean classes,leads to,language proficiency
+narrator,is,omniscient observer
+narrator,is,unreliable narrator
+friendships,are,valued
+friendships,are,equated to silver and gold
+silver,is,precious metal
+gold,is,precious metal
+store policy,governs,retail establishment
+store policy,influences,narrator's behavior
+narrator,is,interested in store policy
+drill,is,exercise or activity
+he,engages in,drill
+he,has,desire or motivation
+type of friend,is,classification of narrator
+narrator,is,type of friend
+situation,leads to,outcome
+happen,implies,occurrence of event
+may,indicates,uncertainty or possibility
+speaker,seeks,feedback
+restaurant,provides,feedback
+reviews,are,feedback
+tornado,is,influenced by wind shear
+tornado,is,influenced by moisture
+tornado,is,influenced by instability
+narrator,has,voice
+narrator,has,tone
+narrator,has,perspective
+narrator,is,trustworthy
+narrator,is,untrustworthy
+friendships,are,valuable
+friendships,are,enduring
+silver,is,valuable
+gold,is,valuable
+store policy,has,rules and guidelines
+store policy,influences,customer behavior
+narrator,is,customer
+drill,is,training exercise
+he,is,person engaging in drill
+he,has,motivation
+situation,has,uncertain outcome
+may,indicates,possibility of outcome
+speaker,is,person providing feedback
+restaurant,is,place providing feedback
+reviews,are,feedback provided by speaker
+narrative,is,story told by narrator
+narrative,has,themes
+narrative,has,symbolism
+narrative,has,meaning
+narrator,influences,narrative
+narrator,has,biases
+friendships,are,relationships
+friendships,are,valued by narrator
+silver,is,precious metal
+gold,is,precious metal
+store policy,is,set by retail establishment
+store policy,influences,narrator's behavior
+narrator,is,interested in store policy
+drill,is,exercise or activity
+he,engages in,drill
+he,has,desire or motivation
+type of friend,is,classification of narrator
+narrator,is,type of friend
+situation,leads to,outcome
+happen,implies,occurrence of event
+may,indicates,uncertainty or possibility
+speaker,seeks,feedback
+restaurant,provides,feedback
+reviews,are,feedback
+tornado,is,influenced by wind shear
+tornado,is,influenced by moisture
+tornado,is,influenced by instability
+narrator,has,voice
+narrator,has,tone
+narrator,has,perspective
+narrator,is,trustworthy
+narrator,is,untrustworthy
+friendships,are,valuable
+friendships,are,enduring
+silver,is,valuable
+gold,is,valuable
+store policy,has,rules and guidelines
+store policy,influences,customer behavior
+narrator,is,customer
+drill,is,training exercise
+he,is,person engaging in drill
+he,has,motivation
+situation,has,uncertain outcome
+may,indicates,possibility of outcome
+speaker,is,person providing feedback
+restaurant,is,place providing feedback
+reviews,are,feedback provided by speaker
+narrative,is,story told by narrator
+narrative,has,themes
+narrative,has,symbolism
+narrative,has,meaning
+narrator,influences,narrative
+narrator,has,biases
+friendships,are,relationships
+friendships,are,valued by narrator
+silver,is,precious metal
+gold,is,precious metal
+store policy,is,set by retail establishment
+store policy,influences,narrator's behavior
+narrator,is,interested in store policy
+drill,is,exercise or activity
+he,engages in,drill
+he,has,desire or motivation
+type of friend,is,classification of narrator
+narrator,is,type of friend
+situation,leads to,outcome
+happen,implies,occurrence of event
+may,indicates,uncertainty or possibility
+speaker,seeks,feedback
+restaurant,provides,feedback
+reviews,are,feedback
+tornado,is,influenced by wind shear
+tornado,is,influenced by moisture
+tornado,is,influenced by instability
+narrator,has,voice
+narrator,has,tone
+narrator,has,perspective
+narrator,is,trustworthy
+narrator,is,untrustworthy
+friendships,are,valuable
+friendships,are,enduring
+silver,is,valuable
+gold,is,valuable
+store policy,has,rules and guidelines
+store policy,influences,customer behavior
+narrator,is,customer
+drill,is,training exercise
+he,is,person engaging in drill
+he,has,motivation
+situation,has,uncertain outcome
+may,indicates,possibility of outcome
+speaker,is,person providing feedback
+restaurant,is,place providing feedback
+reviews,are,feedback provided by speaker
+narrative,is,story told by narrator
+narrative,has,themes
+narrative,has,symbolism
+narrative,has,meaning
+narrator,influences,narrative
+narrator,has,biases
+friendships,are,relationships
+friendships,are,valued by narrator
+silver,is,precious metal
+gold,is,precious metal
+store policy,is,set by retail establishment
+store policy,influences,narrator's behavior
+narrator,is,interested in store policy
+drill,is,exercise or activity
+he,engages in,drill
+he,has,desire or motivation
+type of friend,is,classification of narrator
+narrator,is,type of friend
+situation,leads to,outcome
+happen,implies,occurrence of event
+may,indicates,uncertainty or possibility
+speaker,seeks,feedback
+restaurant,provides,feedback
+reviews,are,feedback
+tornado,is,influenced by wind shear
+tornado,is,influenced by moisture
+tornado,is,influenced by instability
+narrator,has,voice
+narrator,has,tone
+narrator,has,perspective
+narrator,is,trustworthy
+narrator,is,untrustworthy
+friendships,are,valuable
+friendships,are,enduring
+silver,is,valuable
+gold,is,valuable
+store policy,has,rules and guidelines
+store policy,influences,customer behavior
+narrator,is,customer
+drill,is,training exercise
+he,is,person engaging in drill
+he,has,motivation
+situation,has,uncertain outcome
+may,indicates,possibility of outcome
+speaker,is,person providing feedback
+restaurant,is,place providing feedback
+reviews,are,feedback provided by speaker
+narrative,is,story told by narrator
+narrative,has,themes
+narrative,has,symbolism
+narrative,has,meaning
+narrator,influences,narrative
+narrator,has,biases
+friendships,are,relationships
+friendships,are,valued by narrator
+silver,is,precious metal
+gold,is,precious metal
+store policy,is,set by retail establishment
+store policy,influences,narrator's behavior
+narrator,is,interested in store policy
+drill,is,exercise or activity
+he,engages in,drill
+he,has,desire or motivation
+type of friend,is,classification of narrator
+narrator,is,type of friend
+situation,leads to,outcome
+happen,implies,occurrence of event
+may,indicates,uncertainty or possibility
+speaker,seeks,feedback
+restaurant,provides,feedback
+reviews,are,feedback
+tornado,is,influenced by wind shear
+tornado,is,influenced by moisture
+tornado,is,influenced by instability
+narrator,has,voice
+narrator,has,tone
+narrator,has,perspective
+narrator,is,trustworthy
+narrator,is,untrustworthy
+friendships,are,valuable
+friendships,are,enduring
+silver,is,valuable
+gold,is,valuable
+store policy,has,rules and guidelines
+store policy,influences,customer behavior
+narrator,is,customer
+drill,is,training exercise
+he,is,person engaging in drill
+he,has,motivation
+situation,has,uncertain outcome
+may,indicates,possibility of outcome
+speaker,is,person providing feedback
+restaurant,is,place providing feedback
+reviews,are,feedback provided by speaker
+narrative,is,story told by narrator
+narrative,has,themes
+narrative,has,symbolism
+narrative,has,meaning
+narrator,influences,narrative
+narrator,has,biases
+friendships,are,relationships
+friendships,are,valued by narrator
+silver,is,precious metal
+gold,is,precious metal
+store policy,is,set by retail establishment
+store policy,influences,narrator's behavior
+narrator,is,interested in store policy
+drill,is,exercise or activity
+he,engages in,drill
+he,has,desire or motivation
+type of friend,is,classification of narrator
+narrator,is,type of friend
+situation,leads to,outcome
+happen,implies,occurrence of event
+may,indicates,uncertainty or possibility
+speaker,seeks,feedback
+restaurant,provides,feedback
+reviews,are,feedback
+tornado,is,influenced by wind shear
+tornado,is,influenced by moisture
+tornado,is,influenced by instability
+narrator,has,voice
+narrator,has,tone
+narrator,has,perspective
+narrator,is,trustworthy
+narrator,is,untrustworthy
+friendships,are,valuable
+friendships,are,enduring
+silver,is,valuable
+gold,is,valuable
+store policy,has,rules and guidelines
+store policy,influences,customer behavior
+narrator,is,customer
+drill,is,training exercise
+he,is,person engaging in drill
+he,has,motivation
+situation,has,uncertain outcome
+may,indicates,possibility of outcome
+speaker,is,person providing feedback
+restaurant,is,place providing feedback
+reviews,are,feedback provided by speaker
+narrative,is,story told by narrator
+narrative,has,themes
+narrative,has,symbolism
+narrative,has,meaning
+narrator,influences,narrative
+narrator,has,biases
+friendships,are,relationships
+friendships,are,valued by narrator
+silver,is,precious metal
+gold,is,precious metal
+store policy,is,set by retail establishment
+store policy,influences,narrator's behavior
+narrator,is,interested in store policy
+drill,is,exercise or activity
+he,engages in,drill
+he,has,desire or motivation
+type of friend,is,classification of narrator
+narrator,is,type of friend
+situation,leads to,outcome
+happen,implies,occurrence of event
+may,indicates,uncertainty or possibility
+speaker,seeks,feedback
+restaurant,provides,feedback
+reviews,are,feedback
+tornado,is,influenced by wind shear
+tornado,is,influenced by moisture
+tornado,is,influenced by instability
+narrator,has,voice
+narrator,has,tone
+narrator,has,perspective
+narrator,is,trustworthy
+narrator,is,untrustworthy
+friendships,are,valuable
+friendships,are,enduring
+silver,is,valuable
+gold,is,valuable
+store policy,has,rules and guidelines
+store policy,influences,customer behavior
+narrator,is,customer
+drill,is,training exercise
+he,is,person engaging in drill
+he,has,motivation
+situation,has,uncertain outcome
+may,indicates,possibility of outcome
+speaker,is,person providing feedback
+restaurant,is,place providing feedback
+reviews,are,feedback provided by speaker
+narrative,is,story told by narrator
+narrative,has,themes
+narrative,has,symbolism
+narrative,has,meaning
+narrator,influences,narrative
+narrator,has,biases
+friendships,are,relationships
+friendships,are,valued by narrator
+silver,is,precious metal
+gold,is,precious metal
+store policy,is,set by retail establishment
+store policy,influences,narrator's behavior
+narrator,is,interested in store policy
+drill,is,exercise or activity
+he,engages in,drill
+he,has,desire or motivation
+type of friend,is,classification of narrator
+narrator,is,type of friend
+customer,is related to,satisfaction
+customer,provides,reviews
+reviews,provide,insights
+insights,are about,quality
+quality,of,food
+food,is part of,dining experience
+dining experience,includes,service
+service,is part of,dining experience
+dining experience,includes,ambiance
+ambiance,is created by,kitchen lights
+kitchen lights,provide,illumination
+illumination,is a feature of,ambiance
+ambiance,is a factor in,customer satisfaction
+customer satisfaction,is affected by,brewmaster
+brewmaster,is responsible for,fermentation
+fermentation,involves,yeast
+yeast,is a type of,microorganism
+microorganism,can be,hazardous
+brewmaster,may be harmed by,microorganism
+microorganism,can cause,health effects
+health effects,are a concern for,brewmaster
+brewmaster,is a key figure in,restaurant
+restaurant,is a business,"that relies on, brewmaster"
+brewmaster,is responsible for,revenue
+revenue,is a goal of,business
+business,is affected by,market
+market,is a factor in,customer satisfaction
+customer satisfaction,is affected by,online presence
+online presence,is a factor in,business
+business,is a part of,market
+market,is a factor in,revenue
+revenue,is a goal of,brewmaster
+brewmaster,is a key figure in,restaurant
+restaurant,is a place where,people go
+people,have,opinions
+opinions,are influenced by,ambiance
+ambiance,is created by,kitchen lights
+kitchen lights,provide,illumination
+illumination,is a feature of,ambiance
+ambiance,is a factor in,customer satisfaction
+customer satisfaction,is affected by,brewmaster
+brewmaster,is responsible for,fermentation
+fermentation,involves,yeast
+yeast,is a type of,microorganism
+microorganism,can be,hazardous
+brewmaster,may be harmed by,microorganism
+microorganism,can cause,health effects
+health effects,are a concern for,brewmaster
+brewmaster,is a key figure in,restaurant
+restaurant,is a business,"that relies on, brewmaster"
+brewmaster,is responsible for,revenue
+revenue,is a goal of,business
+business,is affected by,market
+market,is a factor in,customer satisfaction
+customer satisfaction,is affected by,online presence
+online presence,is a factor in,business
+business,is a part of,market
+market,is a factor in,revenue
+revenue,is a goal of,brewmaster
+brewmaster,is a key figure in,restaurant
+restaurant,is a place where,people go
+people,have,opinions
+opinions,are influenced by,ambiance
+ambiance,is created by,kitchen lights
+kitchen lights,provide,illumination
+illumination,is a feature of,ambiance
+ambiance,is a factor in,customer satisfaction
+customer satisfaction,is affected by,brewmaster
+brewmaster,is responsible for,fermentation
+fermentation,involves,yeast
+yeast,is a type of,microorganism
+microorganism,can be,hazardous
+brewmaster,may be harmed by,microorganism
+microorganism,can cause,health effects
+health effects,are a concern for,brewmaster
+brewmaster,is a key figure in,restaurant
+restaurant,is a business,"that relies on, brewmaster"
+brewmaster,is responsible for,revenue
+revenue,is a goal of,business
+business,is affected by,market
+market,is a factor in,customer satisfaction
+customer satisfaction,is affected by,online presence
+online presence,is a factor in,business
+business,is a part of,market
+market,is a factor in,revenue
+revenue,is a goal of,brewmaster
+brewmaster,is a key figure in,restaurant
+restaurant,is a place where,people go
+people,have,opinions
+opinions,are influenced by,ambiance
+ambiance,is created by,kitchen lights
+kitchen lights,provide,illumination
+illumination,is a feature of,ambiance
+ambiance,is a factor in,customer satisfaction
+customer satisfaction,is affected by,brewmaster
+brewmaster,is responsible for,fermentation
+fermentation,involves,yeast
+yeast,is a type of,microorganism
+microorganism,can be,hazardous
+brewmaster,may be harmed by,microorganism
+microorganism,can cause,health effects
+health effects,are a concern for,brewmaster
+brewmaster,is a key figure in,restaurant
+restaurant,is a business,"that relies on, brewmaster"
+brewmaster,is responsible for,revenue
+revenue,is a goal of,business
+business,is affected by,market
+market,is a factor in,customer satisfaction
+customer satisfaction,is affected by,online presence
+online presence,is a factor in,business
+business,is a part of,market
+market,is a factor in,revenue
+revenue,is a goal of,brewmaster
+brewmaster,is a key figure in,restaurant
+restaurant,is a place where,people go
+people,have,opinions
+opinions,are influenced by,ambiance
+ambiance,is created by,kitchen lights
+kitchen lights,provide,illumination
+illumination,is a feature of,ambiance
+ambiance,is a factor in,customer satisfaction
+customer satisfaction,is affected by,brewmaster
+brewmaster,is responsible for,fermentation
+fermentation,involves,yeast
+yeast,is a type of,microorganism
+microorganism,can be,hazardous
+brewmaster,may be harmed by,microorganism
+microorganism,can cause,health effects
+health effects,are a concern for,brewmaster
+brewmaster,is a key figure in,restaurant
+restaurant,is a business,"that relies on, brewmaster"
+brewmaster,is responsible for,revenue
+revenue,is a goal of,business
+business,is affected by,market
+market,is a factor in,customer satisfaction
+customer satisfaction,is affected by,online presence
+online presence,is a factor in,business
+business,is a part of,market
+market,is a factor in,revenue
+revenue,is a goal of,brewmaster
+brewmaster,is a key figure in,restaurant
+restaurant,is a place where,people go
+people,have,opinions
+opinions,are influenced by,ambiance
+ambiance,is created by,kitchen lights
+kitchen lights,provide,illumination
+illumination,is a feature of,ambiance
+ambiance,is a factor in,customer satisfaction
+customer satisfaction,is affected by,brewmaster
+brewmaster,is responsible for,fermentation
+fermentation,involves,yeast
+yeast,is a type of,microorganism
+microorganism,can be,hazardous
+brewmaster,may be harmed by,microorganism
+microorganism,can cause,health effects
+health effects,are a concern for,brewmaster
+brewmaster,is a key figure in,restaurant
+restaurant,is a business,"that relies on, brewmaster"
+brewmaster,is responsible for,revenue
+revenue,is a goal of,business
+business,is affected by,market
+market,is a factor in,customer satisfaction
+customer satisfaction,is affected by,online presence
+online presence,is a factor in,business
+business,is a part of,market
+market,is a factor in,revenue
+revenue,is a goal of,brewmaster
+brewmaster,is a key figure in,restaurant
+restaurant,is a place where,people go
+people,have,opinions
+opinions,are influenced by,ambiance
+ambiance,is created by,kitchen lights
+kitchen lights,provide,illumination
+illumination,is a feature of,ambiance
+ambiance,is a factor in,customer satisfaction
+customer satisfaction,is affected by,brewmaster
+brewmaster,is responsible for,fermentation
+fermentation,involves,yeast
+yeast,is a type of,microorganism
+microorganism,can be,hazardous
+brewmaster,may be harmed by,microorganism
+microorganism,can cause,health effects
+health effects,are a concern for,brewmaster
+brewmaster,is a key figure in,restaurant
+restaurant,is a business,"that relies on, brewmaster"
+brewmaster,is responsible for,revenue
+revenue,is a goal of,business
+business,is affected by,market
+market,is a factor in,customer satisfaction
+customer satisfaction,is affected by,online presence
+online presence,is a factor in,business
+business,is a part of,market
+market,is a factor in,revenue
+revenue,is a goal of,brewmaster
+brewmaster,is a key figure in,restaurant
+restaurant,is a place where,people go
+people,have,opinions
+opinions,are influenced by,ambiance
+ambiance,is created by,kitchen lights
+kitchen lights,provide,illumination
+illumination,is a feature of,ambiance
+ambiance,is a factor in,customer satisfaction
+customer satisfaction,is affected by,brewmaster
+brewmaster,is responsible for,fermentation
+fermentation,involves,yeast
+yeast,is a type of,microorganism
+microorganism,can be,hazardous
+brewmaster,may be harmed by,microorganism
+microorganism,can cause,health effects
+health effects,are a concern for,brewmaster
+brewmaster,is a key figure in,restaurant
+restaurant,is a business,"that relies on, brewmaster"
+brewmaster,is responsible for,revenue
+revenue,is a goal of,business
+business,is affected by,market
+market,is a factor in,customer satisfaction
+customer satisfaction,is affected by,online presence
+online presence,is a factor in,business
+business,is a part of,market
+market,is a factor in,revenue
+revenue,is a goal of,brewmaster
+brewmaster,is a key figure in,restaurant
+restaurant,is a place where,people go
+people,have,opinions
+opinions,are influenced by,ambiance
+ambiance,is created by,kitchen lights
+kitchen lights,provide,illumination
+illumination,is a feature of,ambiance
+ambiance,is a factor in,customer satisfaction
+customer satisfaction,is affected by,brewmaster
+brewmaster,is responsible for,fermentation
+fermentation,involves,yeast
+yeast,is a type of,microorganism
+microorganism,can be,hazardous
+brewmaster,may be harmed by,microorganism
+microorganism,can cause,health effects
+health effects,are a concern for,brewmaster
+brewmaster,is a key figure in,restaurant
+restaurant,is a business,"that relies on, brewmaster"
+brewmaster,is responsible for,revenue
+revenue,is a goal of,business
+business,is affected by,market
+market,is a factor in,customer satisfaction
+customer satisfaction,is affected by,online presence
+online presence,is a factor in,business
+business,is a part of,market
+market,is a factor in,revenue
+revenue,is a goal of,brewmaster
+brewmaster,is a key figure in,restaurant
+restaurant,is a place where,people go
+people,have,opinions
+opinions,are influenced by,ambiance
+ambiance,is created by,kitchen lights
+kitchen lights,provide,illumination
+illumination,is a feature of,ambiance
+ambiance,is a factor in,customer satisfaction
+customer satisfaction,is affected by,brewmaster
+brewmaster,is responsible for,fermentation
+fermentation,involves,yeast
+yeast,is a type of,microorganism
+microorganism,can be,hazardous
+brewmaster,may be harmed by,microorganism
+microorganism,can cause,health effects
+health effects,are a concern for,brewmaster
+brewmaster,is a key figure in,restaurant
+restaurant,is a business,"that relies on, brewmaster"
+brewmaster,is responsible for,revenue
+revenue,is a goal of,business
+business,is affected by,market
+market,is a factor in,customer satisfaction
+customer satisfaction,is affected by,online presence
+online presence,is a factor in,business
+business,is a part of,market
+market,is a factor in,revenue
+revenue,is a goal of,brewmaster
+brewmaster,is a key figure in,restaurant
+restaurant,is a place where,people go
+people,have,opinions
+opinions,are influenced by,ambiance
+ambiance,is created by,kitchen lights
+kitchen lights,provide,illumination
+illumination,is a feature of,ambiance
+ambiance,is a factor in,customer satisfaction
+customer satisfaction,is affected by,brewmaster
+brewmaster,is responsible for,fermentation
+fermentation,involves,yeast
+yeast,is a type of,microorganism
+microorganism,can be,hazardous
+brewmaster,may be harmed by,microorganism
+microorganism,can cause,health effects
+health effects,are a concern for,brewmaster
+brewmaster,is a key figure in,restaurant
+restaurant,is a business,"that relies on, brewmaster"
+brewmaster,is responsible for,revenue
+revenue,is a goal of,business
+business,is affected by,market
+market,is a factor in,customer satisfaction
+customer satisfaction,is affected by,online presence
+online presence,is a factor in,business
+business,is a part of,market
+market,is a factor in,revenue
+revenue,is a goal of,brewmaster
+brewmaster,is a key figure in,restaurant
+restaurant,is a place where,people go
+people,have,opinions
+opinions,are influenced by,ambiance
+ambiance,is created by,kitchen lights
+kitchen lights,provide,illumination
+illumination,is a feature of,ambiance
+ambiance,is a factor in,customer satisfaction
+customer satisfaction,is affected by,brewmaster
+brewmaster,is responsible for,fermentation
+J.K. Rowling,created,Harry Potter book series
+Severus Snape,is,character from
+Severus Snape,has,demeanor
+Severus Snape,has,glare
+Severus Snape,reacts to,Harry Potter
+J.K. Rowling,wrote,Harry Potter book series
+J.K. Rowling,created,Severus Snape
+Harry Potter,is,character from
+Harry Potter,has,emotions
+Harry Potter,is,subject of
+writer,expresses,feeling
+writer,creates,post
+writer,shares,emotions
+child,is,human being
+child,is,in
+child,has,development
+narrator,has,ideology
+narrator,expresses,ideology
+narrator,tells,story
+speaker,makes,statement
+speaker,is,fact
+speaker,has,characteristic
+United States,is,state
+United States,has,states
+United States,has,culture
+type,is,classification
+type,of,food
+boss,reschedules,meeting
+boss,has,priorities
+boss,makes,decision
+Mark Salter,is,politician
+Mark Salter,is,strategist
+Mark Salter,is,offended
+truck,is,vehicle
+truck,carries,load
+Vanessa,is,character
+Vanessa,is,subject of
+Vanessa,experiences,supernatural
+Vanessa,undergoes,transformation
+Vanessa,is,manipulated

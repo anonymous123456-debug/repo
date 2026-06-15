@@ -1,0 +1,89 @@
+1,Drafted
+2,Located in
+3,Made changes to
+4,Member of
+5,Received rights from
+6,Remained in
+7,abolished
+8,adopted homeland
+9,allied with
+10,are geographically part of
+11,are sometimes included in
+12,attacked
+13,avoided by
+14,became
+15,blamed
+16,blamed by
+17,bombed
+18,bombed by
+19,builds equipment under license
+20,can damage
+21,cancelled
+22,caused the death of
+23,combined to form
+24,conduct using
+25,contains
+26,created
+27,decorated for
+28,diagnosed
+29,diagnosed Albert with
+30,diagnosed by
+31,died
+32,died at
+33,died in
+34,faced opposition from
+35,fought against
+36,fought in
+37,gathered
+38,had
+39,has a comprehensive strategic partnership with
+40,has a font created by
+41,has improved relations with
+42,hosted
+43,husband of
+44,ill
+45,imports equipment from
+46,invaded
+47,invested in
+48,is an example of
+49,is culturally part of
+50,is sometimes included in
+51,is used to make
+52,king of
+53,leads to
+54,led
+55,located in
+56,member of
+57,mother of
+58,nickname of
+59,opened in
+60,philandering
+61,pupil of
+62,received support from
+63,refused to give up
+64,reigned in
+65,relieved
+66,remains sound
+67,remodeled
+68,replaced
+69,repulsed
+70,son of
+71,supported
+72,treated
+73,turned former Dervish territories into
+74,used airplanes to bomb
+75,used in
+76,uses
+77,visited
+78,was a
+79,was founded by
+80,was implemented
+81,was influenced by
+82,was modernised
+83,was prominent in
+84,was remodeled
+85,was widened
+86,widened
+87,worked at
+88,worked for
+89,worshipped as

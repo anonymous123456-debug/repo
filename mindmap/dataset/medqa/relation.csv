@@ -1,0 +1,1915 @@
+Entity1,Relation,Entity2
+esophagus,is_involved_in,peristaltic wave
+peristaltic wave,generates,occlusive pressure
+occlusive pressure,varies,mmHg
+parasympathetic outflow,activates,dorsal motor nucleus
+dorsal motor nucleus,is_located_in,brainstem
+dorsal motor nucleus,activates,vagal preganglionic neurons
+vagal preganglionic neurons,are_part_of,vagus nerve
+vagus nerve,activates,postganglionic motor neurons
+postganglionic motor neurons,are_part_of,GI tract
+GI tract,receives,salivary secretion
+GI tract,receives,gastric acid secretion
+GI tract,receives,pancreatic enzyme secretion
+GI tract,receives,gallbladder contraction
+salivary secretion,is_mediated_by,vagus nerve
+cephalic phase,is_similar_to,oral phase
+nuchal rigidity,is_associated_with,sixth cranial nerve palsy
+MRI,is_normal,brain
+lumbar puncture,reveals,WBC
+lumbar puncture,reveals,eosinophils
+lumbar puncture,reveals,protein
+lumbar puncture,reveals,glucose
+amphotericin B,is_used_for,fungal infections
+azole drugs,are_used_for,fungal infections
+echinocandins,are_used_for,fungal infections
+hydrochlorothiazide,is_used_for,hypertension
+lisinopril,is_used_for,hypertension
+amoxicillin,is_allergic,patient
+amoxicillin,is_used_for,bronchitis
+penicillins,share_features,cephalosporins
+penicillins,share_features,monobactams
+penicillins,share_features,carbapenems
+penicillins,share_features,β-lactamase inhibitors
+penicillins,have_structure,β-lactam ring
+β-lactam ring,has_structure,thiazolidine ring
+β-lactam ring,has_structure,amino group
+toxic shock syndrome,is_associated_with,erythroderma
+encephalopathy,is_associated_with,mental status
+nuchal rigidity,is_associated_with,focal neurologic findings
+cerebrospinal fluid,is_used_for,neurologic examination
+neuroimaging,is_used_for,neurologic examination
+lumbar puncture,is_used_for,neurologic examination
+LP,is_used_for,neurologic examination
+coronary arteries,AFFECTED_BY,myocardial infarction
+myocardial infarction,TREATED_BY,coronary artery bypass graft
+diabetes,COMPLICATED_BY,chronic kidney disease
+chronic kidney disease,COMPLICATED_BY,hypertension
+furosemide,CAUSED,acute kidney injury
+hydrochlorothiazide,CAUSED,acute kidney injury
+acute kidney injury,CAUSED_BY,fluid overload
+fluid overload,CAUSED_BY,hypertension
+hypertension,CAUSED_BY,heart failure
+cardiac output,REDUCED_BY,coronary artery disease
+coronary artery disease,CAUSED,heart failure
+palpitations,CAUSED_BY,rapid heartbeat
+rapid heartbeat,CAUSED_BY,catecholamines
+chest discomfort,CAUSED_BY,esophageal reflux
+esophageal reflux,CAUSED_BY,cervical disk disease
+cervical disk disease,CAUSED_BY,arthritis of the shoulder or spine
+arthritis of the shoulder or spine,CAUSED_BY,musculoskeletal disorders
+musculoskeletal disorders,CAUSED_BY,gastrointestinal conditions
+gastrointestinal conditions,CAUSED_BY,anxiety state
+anxiety state,CAUSED,palpitations
+palpitations,CAUSED_BY,catecholamines
+fluid volume,AFFECTED_BY,hypertension
+electrolyte composition,AFFECTED_BY,hypertension
+heart failure,TREATED_BY,antihypertensive drugs
+coronary artery disease,CAUSED,heart failure
+hypertension,CAUSED,heart failure
+heart failure,CAUSED,coronary artery disease
+palpitations,CAUSED_BY,rapid heartbeat
+rapid heartbeat,CAUSED_BY,catecholamines
+chest discomfort,CAUSED_BY,esophageal reflux
+esophageal reflux,CAUSED_BY,cervical disk disease
+cervical disk disease,CAUSED_BY,arthritis of the shoulder or spine
+arthritis of the shoulder or spine,CAUSED_BY,musculoskeletal disorders
+musculoskeletal disorders,CAUSED_BY,gastrointestinal conditions
+gastrointestinal conditions,CAUSED_BY,anxiety state
+anxiety state,CAUSED,palpitations
+palpitations,CAUSED_BY,catecholamines
+fluid volume,AFFECTED_BY,hypertension
+electrolyte composition,AFFECTED_BY,hypertension
+heart failure,TREATED_BY,antihypertensive drugs
+coronary artery disease,CAUSED,heart failure
+hypertension,CAUSED,heart failure
+heart failure,CAUSED,coronary artery disease
+palpitations,CAUSED_BY,rapid heartbeat
+rapid heartbeat,CAUSED_BY,catecholamines
+chest discomfort,CAUSED_BY,esophageal reflux
+esophageal reflux,CAUSED_BY,cervical disk disease
+cervical disk disease,CAUSED_BY,arthritis of the shoulder or spine
+arthritis of the shoulder or spine,CAUSED_BY,musculoskeletal disorders
+musculoskeletal disorders,CAUSED_BY,gastrointestinal conditions
+gastrointestinal conditions,CAUSED_BY,anxiety state
+anxiety state,CAUSED,palpitations
+palpitations,CAUSED_BY,catecholamines
+fluid volume,AFFECTED_BY,hypertension
+electrolyte composition,AFFECTED_BY,hypertension
+heart failure,TREATED_BY,antihypertensive drugs
+coronary artery disease,CAUSED,heart failure
+hypertension,CAUSED,heart failure
+heart failure,CAUSED,coronary artery disease
+palpitations,CAUSED_BY,rapid heartbeat
+rapid heartbeat,CAUSED_BY,catecholamines
+chest discomfort,CAUSED_BY,esophageal reflux
+esophageal reflux,CAUSED_BY,cervical disk disease
+cervical disk disease,CAUSED_BY,arthritis of the shoulder or spine
+arthritis of the shoulder or spine,CAUSED_BY,musculoskeletal disorders
+musculoskeletal disorders,CAUSED_BY,gastrointestinal conditions
+gastrointestinal conditions,CAUSED_BY,anxiety state
+anxiety state,CAUSED,palpitations
+palpitations,CAUSED_BY,catecholamines
+fluid volume,AFFECTED_BY,hypertension
+electrolyte composition,AFFECTED_BY,hypertension
+heart failure,TREATED_BY,antihypertensive drugs
+coronary artery disease,CAUSED,heart failure
+hypertension,CAUSED,heart failure
+heart failure,CAUSED,coronary artery disease
+palpitations,CAUSED_BY,rapid heartbeat
+rapid heartbeat,CAUSED_BY,catecholamines
+chest discomfort,CAUSED_BY,esophageal reflux
+esophageal reflux,CAUSED_BY,cervical disk disease
+cervical disk disease,CAUSED_BY,arthritis of the shoulder or spine
+arthritis of the shoulder or spine,CAUSED_BY,musculoskeletal disorders
+musculoskeletal disorders,CAUSED_BY,gastrointestinal conditions
+gastrointestinal conditions,CAUSED_BY,anxiety state
+anxiety state,CAUSED,palpitations
+palpitations,CAUSED_BY,catecholamines
+fluid volume,AFFECTED_BY,hypertension
+electrolyte composition,AFFECTED_BY,hypertension
+heart failure,TREATED_BY,antihypertensive drugs
+coronary artery disease,CAUSED,heart failure
+hypertension,CAUSED,heart failure
+heart failure,CAUSED,coronary artery disease
+palpitations,CAUSED_BY,rapid heartbeat
+rapid heartbeat,CAUSED_BY,catecholamines
+chest discomfort,CAUSED_BY,esophageal reflux
+esophageal reflux,CAUSED_BY,cervical disk disease
+cervical disk disease,CAUSED_BY,arthritis of the shoulder or spine
+arthritis of the shoulder or spine,CAUSED_BY,musculoskeletal disorders
+musculoskeletal disorders,CAUSED_BY,gastrointestinal conditions
+gastrointestinal conditions,CAUSED_BY,anxiety state
+anxiety state,CAUSED,palpitations
+palpitations,CAUSED_BY,catecholamines
+fluid volume,AFFECTED_BY,hypertension
+electrolyte composition,AFFECTED_BY,hypertension
+heart failure,TREATED_BY,antihypertensive drugs
+coronary artery disease,CAUSED,heart failure
+hypertension,CAUSED,heart failure
+heart failure,CAUSED,coronary artery disease
+palpitations,CAUSED_BY,rapid heartbeat
+rapid heartbeat,CAUSED_BY,catecholamines
+chest discomfort,CAUSED_BY,esophageal reflux
+esophageal reflux,CAUSED_BY,cervical disk disease
+cervical disk disease,CAUSED_BY,arthritis of the shoulder or spine
+arthritis of the shoulder or spine,CAUSED_BY,musculoskeletal disorders
+musculoskeletal disorders,CAUSED_BY,gastrointestinal conditions
+gastrointestinal conditions,CAUSED_BY,anxiety state
+anxiety state,CAUSED,palpitations
+palpitations,CAUSED_BY,catecholamines
+fluid volume,AFFECTED_BY,hypertension
+electrolyte composition,AFFECTED_BY,hypertension
+heart failure,TREATED_BY,antihypertensive drugs
+coronary artery disease,CAUSED,heart failure
+hypertension,CAUSED,heart failure
+heart failure,CAUSED,coronary artery disease
+palpitations,CAUSED_BY,rapid heartbeat
+rapid heartbeat,CAUSED_BY,catecholamines
+chest discomfort,CAUSED_BY,esophageal reflux
+esophageal reflux,CAUSED_BY,cervical disk disease
+cervical disk disease,CAUSED_BY,arthritis of the shoulder or spine
+arthritis of the shoulder or spine,CAUSED_BY,musculoskeletal disorders
+musculoskeletal disorders,CAUSED_BY,gastrointestinal conditions
+gastrointestinal conditions,CAUSED_BY,anxiety state
+anxiety state,CAUSED,palpitations
+palpitations,CAUSED_BY,catecholamines
+fluid volume,AFFECTED_BY,hypertension
+electrolyte composition,AFFECTED_BY,hypertension
+heart failure,TREATED_BY,antihypertensive drugs
+coronary artery disease,CAUSED,heart failure
+hypertension,CAUSED,heart failure
+heart failure,CAUSED,coronary artery disease
+palpitations,CAUSED_BY,rapid heartbeat
+rapid heartbeat,CAUSED_BY,catecholamines
+chest discomfort,CAUSED_BY,esophageal reflux
+esophageal reflux,CAUSED_BY,cervical disk disease
+cervical disk disease,CAUSED_BY,arthritis of the shoulder or spine
+arthritis of the shoulder or spine,CAUSED_BY,musculoskeletal disorders
+musculoskeletal disorders,CAUSED_BY,gastrointestinal conditions
+gastrointestinal conditions,CAUSED_BY,anxiety state
+anxiety state,CAUSED,palpitations
+palpitations,CAUSED_BY,catecholamines
+fluid volume,AFFECTED_BY,hypertension
+electrolyte composition,AFFECTED_BY,hypertension
+heart failure,TREATED_BY,antihypertensive drugs
+coronary artery disease,CAUSED,heart failure
+hypertension,CAUSED,heart failure
+heart failure,CAUSED,coronary artery disease
+palpitations,CAUSED_BY,rapid heartbeat
+rapid heartbeat,CAUSED_BY,catecholamines
+bleeding,associated_with,preterm premature rupture of membranes
+bleeding,associated_with,placental abruption
+bacterial vaginosis,causes,spontaneous abortion
+bacterial vaginosis,treated_by,treatment
+inevitable abortion,characterized_by,crampy lower abdominal pain
+inevitable abortion,characterized_by,cervical motion or adnexal tenderness
+threatened abortion,characterized_by,vaginal bleeding
+cervical polyps,considered_in_differential_diagnosis,threatened abortion
+vaginitis,considered_in_differential_diagnosis,threatened abortion
+cervical carcinoma,considered_in_differential_diagnosis,threatened abortion
+gestational trophoblastic disease,considered_in_differential_diagnosis,threatened abortion
+ectopic pregnancy,considered_in_differential_diagnosis,threatened abortion
+trauma,considered_in_differential_diagnosis,threatened abortion
+foreign body,considered_in_differential_diagnosis,threatened abortion
+fetal cardiac activity,offers_prognostic_value,pregnancy outcome
+fetal cardiac activity,detected_by,transvaginal ultrasonography
+antiphospholipid antibodies,associated_with,recurrent pregnancy loss
+antiphospholipid antibodies,associated_with,fetal cardiac activity
+fetal distress,characterized_by,bradycardia
+fetal distress,characterized_by,tachycardia
+amniotic sac rupture,may_result_in,umbilical cord prolapse
+amniotic sac rupture,may_result_in,fetal compromise
+strong contractions,associated_with,true labor
+pregnancy-induced hypertension,associated_with,preterm labor
+pregnancy-induced hypertension,associated_with,gestational diabetes
+pregnancy-induced hypertension,associated_with,congenital heart disease
+pregnancy-induced hypertension,associated_with,placental abnormalities
+gestational age,estimated_by,fundal height
+abdominopelvic trauma,evaluated_by,ultrasound
+abdominopelvic trauma,evaluated_by,DPL
+fetal heart rate,most_valuable_information,fetal viability
+fetal heart rate,monitored_by,cardiotocographic device
+fetal heart rate,monitored_by,bedside FAST ultrasound
+strong contractions,associated_with,true labor
+pregnancy-induced hypertension,associated_with,preterm labor
+pregnancy-induced hypertension,associated_with,gestational diabetes
+pregnancy-induced hypertension,associated_with,congenital heart disease
+pregnancy-induced hypertension,associated_with,placental abnormalities
+gestational age,estimated_by,fundal height
+abdominopelvic trauma,evaluated_by,ultrasound
+abdominopelvic trauma,evaluated_by,DPL
+fetal heart rate,most_valuable_information,fetal viability
+fetal heart rate,monitored_by,cardiotocographic device
+fetal heart rate,monitored_by,bedside FAST ultrasound
+strong contractions,associated_with,true labor
+pregnancy-induced hypertension,associated_with,preterm labor
+pregnancy-induced hypertension,associated_with,gestational diabetes
+pregnancy-induced hypertension,associated_with,congenital heart disease
+pregnancy-induced hypertension,associated_with,placental abnormalities
+gestational age,estimated_by,fundal height
+abdominopelvic trauma,evaluated_by,ultrasound
+abdominopelvic trauma,evaluated_by,DPL
+fetal heart rate,most_valuable_information,fetal viability
+fetal heart rate,monitored_by,cardiotocographic device
+fetal heart rate,monitored_by,bedside FAST ultrasound
+strong contractions,associated_with,true labor
+pregnancy-induced hypertension,associated_with,preterm labor
+pregnancy-induced hypertension,associated_with,gestational diabetes
+pregnancy-induced hypertension,associated_with,congenital heart disease
+pregnancy-induced hypertension,associated_with,placental abnormalities
+gestational age,estimated_by,fundal height
+abdominopelvic trauma,evaluated_by,ultrasound
+abdominopelvic trauma,evaluated_by,DPL
+fetal heart rate,most_valuable_information,fetal viability
+fetal heart rate,monitored_by,cardiotocographic device
+fetal heart rate,monitored_by,bedside FAST ultrasound
+strong contractions,associated_with,true labor
+pregnancy-induced hypertension,associated_with,preterm labor
+pregnancy-induced hypertension,associated_with,gestational diabetes
+pregnancy-induced hypertension,associated_with,congenital heart disease
+pregnancy-induced hypertension,associated_with,placental abnormalities
+gestational age,estimated_by,fundal height
+abdominopelvic trauma,evaluated_by,ultrasound
+abdominopelvic trauma,evaluated_by,DPL
+fetal heart rate,most_valuable_information,fetal viability
+fetal heart rate,monitored_by,cardiotocographic device
+fetal heart rate,monitored_by,bedside FAST ultrasound
+strong contractions,associated_with,true labor
+pregnancy-induced hypertension,associated_with,preterm labor
+pregnancy-induced hypertension,associated_with,gestational diabetes
+pregnancy-induced hypertension,associated_with,congenital heart disease
+pregnancy-induced hypertension,associated_with,placental abnormalities
+gestational age,estimated_by,fundal height
+abdominopelvic trauma,evaluated_by,ultrasound
+abdominopelvic trauma,evaluated_by,DPL
+fetal heart rate,most_valuable_information,fetal viability
+fetal heart rate,monitored_by,cardiotocographic device
+fetal heart rate,monitored_by,bedside FAST ultrasound
+strong contractions,associated_with,true labor
+pregnancy-induced hypertension,associated_with,preterm labor
+pregnancy-induced hypertension,associated_with,gestational diabetes
+pregnancy-induced hypertension,associated_with,congenital heart disease
+pregnancy-induced hypertension,associated_with,placental abnormalities
+gestational age,estimated_by,fundal height
+abdominopelvic trauma,evaluated_by,ultrasound
+abdominopelvic trauma,evaluated_by,DPL
+fetal heart rate,most_valuable_information,fetal viability
+fetal heart rate,monitored_by,cardiotocographic device
+fetal heart rate,monitored_by,bedside FAST ultrasound
+strong contractions,associated_with,true labor
+pregnancy-induced hypertension,associated_with,preterm labor
+pregnancy-induced hypertension,associated_with,gestational diabetes
+pregnancy-induced hypertension,associated_with,congenital heart disease
+pregnancy-induced hypertension,associated_with,placental abnormalities
+gestational age,estimated_by,fundal height
+abdominopelvic trauma,evaluated_by,ultrasound
+abdominopelvic trauma,evaluated_by,DPL
+fetal heart rate,most_valuable_information,fetal viability
+fetal heart rate,monitored_by,cardiotocographic device
+fetal heart rate,monitored_by,bedside FAST ultrasound
+strong contractions,associated_with,true labor
+pregnancy-induced hypertension,associated_with,preterm labor
+pregnancy-induced hypertension,associated_with,gestational diabetes
+pregnancy-induced hypertension,associated_with,congenital heart disease
+pregnancy-induced hypertension,associated_with,placental abnormalities
+gestational age,estimated_by,fundal height
+abdominopelvic trauma,evaluated_by,ultrasound
+abdominopelvic trauma,evaluated_by,DPL
+fetal heart rate,most_valuable_information,fetal viability
+fetal heart rate,monitored_by,cardiotocographic device
+fetal heart rate,monitored_by,bedside FAST ultrasound
+strong contractions,associated_with,true labor
+pregnancy-induced hypertension,associated_with,preterm labor
+pregnancy-induced hypertension,associated_with,gestational diabetes
+pregnancy-induced hypertension,associated_with,congenital heart disease
+pregnancy-induced hypertension,associated_with,placental abnormalities
+gestational age,estimated_by,fundal height
+64,Author,37
+37,Author,1052
+1052,Author,t2015
+t2015,Author,Lillibridge M
+Lillibridge M,Author,Higgs S
+Higgs S,Author,t2015
+t2015,Author,Guerra B
+Guerra B,Author,Lazzarotto T
+Lazzarotto T,Author,Quarta S
+Quarta S,Author,t2015
+t2015,Author,Hamilton SM
+Hamilton SM,Author,Stevens DL
+Stevens DL,Author,Bryant AE
+Harjulehto T,Author,Aro T
+Aro T,Author,Hovi T
+Plasmodium falciparum,Pathogen,Malaria
+Malaria,Disease,Plasmodium falciparum
+Nigeria,Location,USA
+USA,Location,Nigeria
+West Nile virus,Pathogen,Staphylococcus aureus
+Staphylococcus aureus,Pathogen,Enterococcus
+Enterococcus,Pathogen,E coli
+E coli,Pathogen,Klebsiella pneumoniae
+Klebsiella pneumoniae,Pathogen,Pseudomonas aeruginosa
+Child,Location,Nigeria
+Nigeria,Location,USA
+USA,Location,Nigeria
+Child,Disease,Malaria
+Malaria,Disease,Plasmodium falciparum
+Plasmodium falciparum,Pathogen,Malaria
+Child,Symptoms,Fever
+Fever,Symptom,Child
+Child,Symptoms,Sweats
+Sweats,Symptom,Child
+Child,Examination,Splenomegaly
+Splenomegaly,Examination,Child
+Child,Laboratory,Hematocrit
+Hematocrit,Laboratory,Child
+Child,Laboratory,Platelets
+Platelets,Laboratory,Child
+Child,Laboratory,Creatinine
+Creatinine,Laboratory,Child
+Child,Laboratory,Bilirubin
+Bilirubin,Laboratory,Child
+Child,Treatment,Malaria
+Malaria,Disease,Plasmodium falciparum
+Plasmodium falciparum,Pathogen,Child
+Child,Risk,UTI
+UTI,Disease,Child
+Child,Risk,S pneumoniae
+S pneumoniae,Pathogen,Child
+Child,Risk,H influenzae
+H influenzae,Pathogen,Child
+Child,Risk,N meningitidis
+N meningitidis,Pathogen,Child
+Child,Risk,Salmonella
+Salmonella,Pathogen,Child
+Child,Risk,IgG
+IgG,Immunity,Child
+Child,Vaccination,S pneumoniae vaccines
+S pneumoniae vaccines,Vaccine,Child
+Figure 96-1,Figure,Child
+Child,Examination,Fever
+Fever,Examination,Child
+Child,Laboratory,Urinalysis
+Urinalysis,Laboratory,Child
+Child,Nutrition,Formula
+Formula,Nutrition,Child
+Child,Disease,Hydrocephalus
+Hydrocephalus,Disease,Child
+Child,Disease,Hypoglycemia
+Hypoglycemia,Disease,Child
+proteinuria,is caused by,exercise
+proteinuria,is caused by,fever
+proteinuria,is caused by,obesity
+proteinuria,is caused by,congestive heart failure
+proteinuria,is characterized by,albuminuria
+albuminuria,is a type of,proteinuria
+albuminuria,is characterized by,albumin
+minimal change disease,is characterized by,albumin
+poststreptococcal glomerulonephritis,is a cause of,proteinuria
+poststreptococcal glomerulonephritis,is a cause of,pyuria
+pyuria,is characterized by,leukocytes
+pyuria,is a symptom of,urinary tract infection
+urinary tract infection,is characterized by,bacteria
+albumin,is a component of,urine
+albumin,is a component of,blood
+albumin,is a component of,plasma proteins
+albumin,is lost in,urine
+albumin,is lost in,nephrotic syndrome
+nephrotic syndrome,is characterized by,hypoalbuminemia
+nephrotic syndrome,is characterized by,hyperlipidemia
+nephrotic syndrome,is characterized by,edema
+nephrotic syndrome,is caused by,renal disease
+renal disease,is a cause of,proteinuria
+renal disease,is a cause of,nephrotic syndrome
+renal disease,is characterized by,proteinuria
+renal disease,is characterized by,albuminuria
+kidney disease,is a cause of,proteinuria
+kidney disease,is a cause of,nephrotic syndrome
+kidney disease,is characterized by,proteinuria
+kidney disease,is characterized by,albuminuria
+diabetes,is a cause of,proteinuria
+diabetes,is a cause of,nephrotic syndrome
+amyloidosis,is a cause of,proteinuria
+amyloidosis,is a cause of,nephrotic syndrome
+minimal change disease,is a cause of,proteinuria
+minimal change disease,is a cause of,nephrotic syndrome
+FSGS,is a cause of,proteinuria
+FSGS,is a cause of,nephrotic syndrome
+membranous glomerulopathy,is a cause of,proteinuria
+membranous glomerulopathy,is a cause of,nephrotic syndrome
+IgA nephropathy,is a cause of,proteinuria
+IgA nephropathy,is a cause of,nephrotic syndrome
+albumin,is lost in,glomerulus
+albumin,is lost in,proximal tubule
+proteinuria,is diagnosed by,urinalysis
+proteinuria,is diagnosed by,urine dipstick
+urine dipstick,is used to diagnose,proteinuria
+urine dipstick,is used to diagnose,albuminuria
+urine dipstick,is used to diagnose,pyuria
+urine dipstick,is used to diagnose,leukocytes
+urine dipstick,is used to diagnose,bacteria
+urine dipstick,is used to diagnose,RBCs
+urine dipstick,is used to diagnose,RBC casts
+urine dipstick,is used to diagnose,proteinuria
+24-h urinary excretion,is used to diagnose,proteinuria
+24-h urinary excretion,is used to diagnose,albuminuria
+24-h urinary excretion,is used to diagnose,pyuria
+24-h urinary excretion,is used to diagnose,leukocytes
+24-h urinary excretion,is used to diagnose,bacteria
+24-h urinary excretion,is used to diagnose,RBCs
+24-h urinary excretion,is used to diagnose,RBC casts
+protein/creatinine ratio,is used to diagnose,proteinuria
+protein/creatinine ratio,is used to diagnose,albuminuria
+protein/creatinine ratio,is used to diagnose,pyuria
+protein/creatinine ratio,is used to diagnose,leukocytes
+protein/creatinine ratio,is used to diagnose,bacteria
+protein/creatinine ratio,is used to diagnose,RBCs
+protein/creatinine ratio,is used to diagnose,RBC casts
+proteinuria,is treated with,ACE inhibitors
+ACE inhibitors,are used to treat,hypertension
+ACE inhibitors,are used to treat,proteinuria
+ACE inhibitors,are used to treat,nephrotic syndrome
+diuretics,are used to treat,hypertension
+diuretics,are used to treat,proteinuria
+beta-blockers,are used to treat,hypertension
+beta-blockers,are used to treat,proteinuria
+macroalbuminuria,is a type of,proteinuria
+macroalbuminuria,is characterized by,albumin
+microalbuminuria,is a type of,proteinuria
+microalbuminuria,is characterized by,albumin
+nephrotic range,is a type of,proteinuria
+nephrotic range,is characterized by,albumin
+hypoproteinemia,is a symptom of,nephrotic syndrome
+hypoproteinemia,is a symptom of,proteinuria
+hyperlipidemia,is a symptom of,nephrotic syndrome
+hyperlipidemia,is a symptom of,proteinuria
+edema,is a symptom of,nephrotic syndrome
+edema,is a symptom of,proteinuria
+plasma cell dyscrasias,are a cause of,proteinuria
+plasma cell dyscrasias,are a cause of,nephrotic syndrome
+multiple myeloma,is a cause of,proteinuria
+multiple myeloma,is a cause of,nephrotic syndrome
+light chains,are lost in,urine
+light chains,are lost in,nephrotic syndrome
+light chains,are lost in,glomerulus
+light chains,are lost in,proximal tubule
+kidney disease,is a cause of,nephrotic syndrome
+kidney disease,is characterized by,nephrotic syndrome
+renal failure,is a complication of,plasma cell dyscrasias
+renal failure,is a complication of,multiple myeloma
+renal failure,is a complication of,nephrotic syndrome
+urinary casts,are formed by,uromodulin
+urinary casts,are formed by,Tamm-Horsfall protein
+urinary casts,are found in,urine
+urinary casts,are found in,nephrotic syndrome
+urinary casts,are found in,kidney disease
+urinary casts,are found in,glomerulonephritis
+urinary casts,are found in,pyuria
+urinary casts,are found in,leukocytes
+urinary casts,are found in,bacteria
+urinary casts,are found in,RBCs
+urinary casts,are found in,RBC casts
+uromodulin,is a component of,urinary casts
+Tamm-Horsfall protein,is a component of,urinary casts
+urine dipstick,is used to diagnose,urinary casts
+24-h urinary excretion,is used to diagnose,urinary casts
+protein/creatinine ratio,is used to diagnose,urinary casts
+proteinuria,is associated with,kidney disease
+proteinuria,is associated with,renal disease
+proteinuria,is associated with,nephrotic syndrome
+proteinuria,is associated with,hypertension
+proteinuria,is associated with,diabetes
+proteinuria,is associated with,amyloidosis
+proteinuria,is associated with,minimal change disease
+proteinuria,is associated with,FSGS
+proteinuria,is associated with,membranous glomerulopathy
+proteinuria,is associated with,IgA nephropathy
+proteinuria,is associated with,kidney disease
+proteinuria,is associated with,renal disease
+proteinuria,is associated with,nephrotic syndrome
+proteinuria,is associated with,hypertension
+proteinuria,is associated with,diabetes
+proteinuria,is associated with,amyloidosis
+proteinuria,is associated with,minimal change disease
+proteinuria,is associated with,FSGS
+proteinuria,is associated with,membranous glomerulopathy
+proteinuria,is associated with,IgA nephropathy
+proteinuria,is associated with,kidney disease
+proteinuria,is associated with,renal disease
+proteinuria,is associated with,nephrotic syndrome
+proteinuria,is associated with,hypertension
+proteinuria,is associated with,diabetes
+proteinuria,is associated with,amyloidosis
+proteinuria,is associated with,minimal change disease
+proteinuria,is associated with,FSGS
+proteinuria,is associated with,membranous glomerulopathy
+proteinuria,is associated with,IgA nephropathy
+proteinuria,is associated with,kidney disease
+proteinuria,is associated with,renal disease
+proteinuria,is associated with,nephrotic syndrome
+proteinuria,is associated with,hypertension
+proteinuria,is associated with,diabetes
+proteinuria,is associated with,amyloidosis
+proteinuria,is associated with,minimal change disease
+proteinuria,is associated with,FSGS
+proteinuria,is associated with,membranous glomerulopathy
+proteinuria,is associated with,IgA nephropathy
+proteinuria,is associated with,kidney disease
+proteinuria,is associated with,renal disease
+proteinuria,is associated with,nephrotic syndrome
+proteinuria,is associated with,hypertension
+proteinuria,is associated with,diabetes
+proteinuria,is associated with,amyloidosis
+proteinuria,is associated with,minimal change disease
+proteinuria,is associated with,FSGS
+proteinuria,is associated with,membranous glomerulopathy
+proteinuria,is associated with,IgA nephropathy
+proteinuria,is associated with,kidney disease
+proteinuria,is associated with,renal disease
+proteinuria,is associated with,nephrotic syndrome
+proteinuria,is associated with,hypertension
+proteinuria,is associated with,diabetes
+proteinuria,is associated with,amyloidosis
+proteinuria,is associated with,minimal change disease
+proteinuria,is associated with,FSGS
+proteinuria,is associated with,membranous glomerulopathy
+proteinuria,is associated with,IgA nephropathy
+proteinuria,is associated with,kidney disease
+proteinuria,is associated with,renal disease
+proteinuria,is associated with,nephrotic syndrome
+proteinuria,is associated with,hypertension
+proteinuria,is associated with,diabetes
+proteinuria,is associated with,amyloidosis
+proteinuria,is associated with,minimal change disease
+proteinuria,is associated with,FSGS
+proteinuria,is associated with,membranous glomerulopathy
+proteinuria,is associated with,IgA nephropathy
+proteinuria,is associated with,kidney disease
+proteinuria,is associated with,renal disease
+trimethoprim-sulfamethoxazole,TREATS,urinary tract infection
+trimethoprim-sulfamethoxazole,TREATS,osteoporosis
+osteoporosis,TREATED_BY,calcium supplement
+sulfonamides,STRUCTURALLY_SIMILAR_TO,p-aminobenzoic acid (PABA
+hyperthyroidism,TREATED_BY,medication
+hypothyroidism,TREATED_BY,medication
+methotrexate,TREATED,SLE
+leflunomide,TREATED,SLE
+mycophenolate mofetil,TREATED,SLE
+cyclophosphamide,TREATED,SLE
+bipolar disorder,TREATED_BY,medication
+Tourette syndrome,TREATED_BY,medication
+chlorpromazine,TREATED,emesis
+emesis,PREVENTED_BY,metoclopramide
+metoclopramide,TREATED,pruritus
+fluoxetine,TREATED,major depressive episode
+fluoxetine,INTERACTS_WITH,CYP450
+amoxicillin,TREATED,bronchitis
+pneumonia,TREATED_BY,penicillins
+meningitis,TREATED_BY,penicillins
+penicillins,STRUCTURALLY_SIMILAR_TO,cephalosporins
+penicillins,STRUCTURALLY_SIMILAR_TO,monobactams
+penicillins,STRUCTURALLY_SIMILAR_TO,carbapenems
+penicillins,STRUCTURALLY_SIMILAR_TO,β-lactamase inhibitors
+hypertension,TREATED_BY,hydrochlorothiazide
+hypertension,TREATED_BY,lisinopril
+Alzheimer's disease,TREATED_BY,donepezil
+Alzheimer's disease,TREATED_BY,rivastigmine
+Alzheimer's disease,TREATED_BY,galantamine
+Alzheimer's disease,TREATED_BY,memantine
+age-related macular degeneration,TREATED_BY,bevacizumab
+age-related macular degeneration,TREATED_BY,ranibizumab
+age-related macular degeneration,TREATED_BY,pegaptanib
+rosacea,TREATED_BY,metronidazole
+P. vivax,CAUSES,malaria
+P. ovale,CAUSES,malaria
+P. malariae,CAUSES,malaria
+trimethoprim-sulfamethoxazole,INTERACTS_WITH,sulfonamides
+sulfonamides,INTERACTS_WITH,p-aminobenzoic acid (PABA
+methotrexate,INTERACTS_WITH,leflunomide
+methotrexate,INTERACTS_WITH,mycophenolate mofetil
+methotrexate,INTERACTS_WITH,cyclophosphamide
+leflunomide,INTERACTS_WITH,mycophenolate mofetil
+leflunomide,INTERACTS_WITH,cyclophosphamide
+mycophenolate mofetil,INTERACTS_WITH,cyclophosphamide
+fluoxetine,INTERACTS_WITH,CYP450
+amoxicillin,INTERACTS_WITH,CYP450
+penicillins,INTERACTS_WITH,CYP450
+metoclopramide,INTERACTS_WITH,CYP450
+domperidone,INTERACTS_WITH,CYP450
+haloperidol,INTERACTS_WITH,CYP450
+risperidone,INTERACTS_WITH,CYP450
+chlorpromazine,INTERACTS_WITH,CYP450
+donepezil,INTERACTS_WITH,CYP450
+rivastigmine,INTERACTS_WITH,CYP450
+galantamine,INTERACTS_WITH,CYP450
+memantine,INTERACTS_WITH,CYP450
+bevacizumab,INTERACTS_WITH,CYP450
+ranibizumab,INTERACTS_WITH,CYP450
+pegaptanib,INTERACTS_WITH,CYP450
+metronidazole,INTERACTS_WITH,CYP450
+trimethoprim-sulfamethoxazole,INTERACTS_WITH,sulfonamides
+sulfonamides,INTERACTS_WITH,p-aminobenzoic acid (PABA
+methotrexate,INTERACTS_WITH,leflunomide
+methotrexate,INTERACTS_WITH,mycophenolate mofetil
+methotrexate,INTERACTS_WITH,cyclophosphamide
+leflunomide,INTERACTS_WITH,mycophenolate mofetil
+leflunomide,INTERACTS_WITH,cyclophosphamide
+mycophenolate mofetil,INTERACTS_WITH,cyclophosphamide
+fluoxetine,INTERACTS_WITH,CYP450
+amoxicillin,INTERACTS_WITH,CYP450
+penicillins,INTERACTS_WITH,CYP450
+metoclopramide,INTERACTS_WITH,CYP450
+domperidone,INTERACTS_WITH,CYP450
+haloperidol,INTERACTS_WITH,CYP450
+risperidone,INTERACTS_WITH,CYP450
+chlorpromazine,INTERACTS_WITH,CYP450
+donepezil,INTERACTS_WITH,CYP450
+rivastigmine,INTERACTS_WITH,CYP450
+galantamine,INTERACTS_WITH,CYP450
+memantine,INTERACTS_WITH,CYP450
+bevacizumab,INTERACTS_WITH,CYP450
+ranibizumab,INTERACTS_WITH,CYP450
+pegaptanib,INTERACTS_WITH,CYP450
+metronidazole,INTERACTS_WITH,CYP450
+trimethoprim-sulfamethoxazole,TREATED,urinary tract infection
+osteoporosis,TREATED_BY,calcium supplement
+sulfonamides,STRUCTURALLY_SIMILAR_TO,p-aminobenzoic acid (PABA
+hyperthyroidism,TREATED_BY,medication
+hypothyroidism,TREATED_BY,medication
+methotrexate,TREATED,SLE
+leflunomide,TREATED,SLE
+mycophenolate mofetil,TREATED,SLE
+cyclophosphamide,TREATED,SLE
+bipolar disorder,TREATED_BY,medication
+Tourette syndrome,TREATED_BY,medication
+chlorpromazine,TREATED,emesis
+metoclopramide,TREATED,pruritus
+fluoxetine,TREATED,major depressive episode
+amoxicillin,TREATED,bronchitis
+pneumonia,TREATED_BY,penicillins
+meningitis,TREATED_BY,penicillins
+penicillins,STRUCTURALLY_SIMILAR_TO,cephalosporins
+penicillins,STRUCTURALLY_SIMILAR_TO,monobactams
+penicillins,STRUCTURALLY_SIMILAR_TO,carbapenems
+penicillins,STRUCTURALLY_SIMILAR_TO,β-lactamase inhibitors
+hypertension,TREATED_BY,hydrochlorothiazide
+hypertension,TREATED_BY,lisinopril
+Alzheimer's disease,TREATED_BY,donepezil
+Alzheimer's disease,TREATED_BY,rivastigmine
+Alzheimer's disease,TREATED_BY,galantamine
+Alzheimer's disease,TREATED_BY,memantine
+age-related macular degeneration,TREATED_BY,bevacizumab
+age-related macular degeneration,TREATED_BY,ranibizumab
+age-related macular degeneration,TREATED_BY,pegaptanib
+rosacea,TREATED_BY,metronidazole
+P. vivax,CAUSES,malaria
+P. ovale,CAUSES,malaria
+P. malariae,CAUSES,malaria
+Warren,performed,brain biopsies
+MoCA,avoids,learning effect
+oligohydramnios,causes,uteroplacental insufficiency
+oligohydramnios,causes,maternal hypertension
+oligohydramnios,causes,severe toxemia
+oligohydramnios,causes,renal agenesis
+mesoderm,forms,pelvic bones
+ectodermal layer,forms,skin
+arterial disease,results in,foot ulceration
+arterial disease,results in,ischemic ulcers
+arterial disease,results in,neuropathic ulcers
+lower extremity occlusive disease,results in,gangrene
+popliteal occlusion,results in,calf claudication
+atherosclerosis,results in,rest pain
+atherosclerosis,results in,muscle atrophy
+atherosclerosis,results in,pallor
+atherosclerosis,results in,cyanosis
+atherosclerosis,results in,hair loss
+atherosclerosis,results in,gangrene
+poorly controlled hypertension,results in,shortness of breath
+poorly controlled hypertension,results in,swelling of the feet and ankles
+Jerry,has a history of,pulmonary disease
+Jerry,is at risk of,respiratory depression
+levodopa,is absorbed,small intestine
+levodopa,is metabolized,3-methoxy-4-hydroxyphenyl acetic acid
+levodopa,is metabolized,dihydroxyphenylacetic acid
+dopamine,is produced by,decarboxylation
+Rytary,is available in,USA
+3-methoxy-4-hydroxyphenyl acetic acid,is a metabolite of,levodopa
+dihydroxyphenylacetic acid,is a metabolite of,levodopa
+dopamine,does not penetrate,blood-brain barrier
+haloperidol,causes,uncontrollable tongue movements
+diphenhydramine,can cause,seizures
+dopamine,associated with,norepinephrine
+PCWP,measured in,pulmonary capillary wedge pressure
+PVR,measured in,peripheral vascular resistance
+frostbite,thawing method,circulating water
+frostbite,thawing method,antiseptic soap
+frostbite,thawing method,thermometer
+frostbite,treated with,ketorolac
+frostbite,treated with,ibuprofen
+frostbite,treated with,hydrotherapy
+hypovolemia,treated with,fluid resuscitation
+newborn,prone to,hypovolemia
+ambient temperatures,can cause,heat stress
+ambient temperatures,can cause,heatstroke
+ambient temperatures,can cause,hemorrhagic shock encephalopathy syndrome
+hypocalcemia,common in,newborns
+hypocalcemia,common in,premature infants
+hypocalcemia,diagnosed with,serum calcium levels
+hypocalcemia,diagnosed with,ionized calcium levels
+hypocalcemia,associated with,premature infants
+hypocalcemia,associated with,diabetic mothers
+angiography,used to diagnose,hypocalcemia
+tetanus,can be prevented with,streptococcal prophylaxis
+tetanus,treated with,antiseptic soap
+tetanus,treated with,hydrotherapy
+tetanus,treated with,narcotics
+subarachnoid space,can be affected by,hydrocephalus
+hydrocephalus,treated with,surgical resection
+hydrocephalus,treated with,radiation
+hydrocephalus,treated with,chemotherapy
+medulloblastoma,can cause,obstructive hydrocephalus
+medulloblastoma,treated with,surgical resection
+medulloblastoma,treated with,radiation
+medulloblastoma,treated with,chemotherapy
+ependymoma,can cause,obstructive hydrocephalus
+ependymoma,treated with,surgical resection
+ependymoma,treated with,radiation
+ependymoma,common in,children
+ependymoma,can cause,focal weakness
+ependymoma,can cause,sensory changes
+ependymoma,can cause,pituitary involvement
+ependymoma,can cause,galactorrhea
+ependymoma,can cause,impotence
+ependymoma,can cause,menstrual dysfunction
+ependymoma,can cause,ataxia
+ependymoma,can cause,diminished coordination
+ependymoma,evaluated with,MRI
+ependymoma,evaluated with,CT-guided biopsy
+ependymoma,treated with,corticosteroids
+NF1,associated with,neurofibromas
+NF1,associated with,optic glioma
+NF1,associated with,freckling
+NF1,associated with,axillary freckling
+NF1,associated with,irritability
+NF1,associated with,anorexia
+NF1,associated with,poor school performance
+NF1,associated with,loss of developmental milestones
+NF1,associated with,visual field defects
+NF1,associated with,sixth cranial nerve palsy
+NF1,associated with,cranial nerve deficits
+NF1,associated with,seizures
+NF1,associated with,focal weakness
+NF1,associated with,sensory changes
+NF1,associated with,pituitary involvement
+NF1,associated with,galactorrhea
+NF1,associated with,impotence
+NF1,associated with,menstrual dysfunction
+NF1,associated with,ataxia
+NF1,associated with,diminished coordination
+NF1,evaluated with,MRI
+NF1,treated with,corticosteroids
+NF2,associated with,neurofibromas
+NF2,associated with,optic glioma
+NF2,associated with,freckling
+NF2,associated with,axillary freckling
+NF2,associated with,irritability
+NF2,associated with,anorexia
+NF2,associated with,poor school performance
+NF2,associated with,loss of developmental milestones
+NF2,associated with,visual field defects
+NF2,associated with,sixth cranial nerve palsy
+NF2,associated with,cranial nerve deficits
+NF2,associated with,seizures
+NF2,associated with,focal weakness
+NF2,associated with,sensory changes
+NF2,associated with,pituitary involvement
+NF2,associated with,galactorrhea
+NF2,associated with,impotence
+NF2,associated with,menstrual dysfunction
+NF2,associated with,ataxia
+NF2,associated with,diminished coordination
+NF2,evaluated with,MRI
+NF2,treated with,corticosteroids
+optic glioma,associated with,NF1
+optic glioma,associated with,NF2
+optic glioma,associated with,visual field defects
+optic glioma,associated with,sixth cranial nerve palsy
+optic glioma,associated with,cranial nerve deficits
+optic glioma,associated with,seizures
+optic glioma,associated with,focal weakness
+optic glioma,associated with,sensory changes
+optic glioma,associated with,pituitary involvement
+optic glioma,associated with,galactorrhea
+optic glioma,associated with,impotence
+optic glioma,associated with,menstrual dysfunction
+optic glioma,associated with,ataxia
+optic glioma,associated with,diminished coordination
+optic glioma,evaluated with,MRI
+optic glioma,treated with,corticosteroids
+glioma,associated with,seizures
+glioma,associated with,focal weakness
+glioma,associated with,sensory changes
+glioma,associated with,pituitary involvement
+glioma,associated with,galactorrhea
+glioma,associated with,impotence
+glioma,associated with,menstrual dysfunction
+glioma,associated with,ataxia
+glioma,associated with,diminished coordination
+glioma,evaluated with,MRI
+glioma,treated with,corticosteroids
+glioma,associated with,optic nerves
+glioma,associated with,chiasm
+glioma,associated with,proptosis
+glioma,associated with,orbital mass
+glioma,associated with,hypothalamic signs
+glioma,associated with,adiposity
+glioma,associated with,polyuria
+glioma,associated with,somnolence
+glioma,associated with,genital atrophy
+glioma,associated with,proximal tumor
+primitive neuroectodermal tumors,associated with,metastatic disease
+primitive neuroectodermal tumors,treated with,chemotherapy
+germ cell tumors,associated with,metastatic disease
+germ cell tumors,treated with,chemotherapy
+pineal region tumors,associated with,metastatic disease
+pineal region tumors,treated with,chemotherapy
+brainstem,involved in,NF1
+brainstem,involved in,NF2
+brainstem,involved in,glioma
+brainstem,involved in,optic glioma
+brainstem,involved in,primitive neuroectodermal tumors
+brainstem,involved in,germ cell tumors
+brainstem,involved in,pineal region tumors
+brainstem,evaluated with,MRI
+seizures,associated with,NF1
+seizures,associated with,NF2
+seizures,associated with,glioma
+seizures,associated with,optic glioma
+seizures,associated with,primitive neuroectodermal tumors
+seizures,associated with,germ cell tumors
+seizures,associated with,pineal region tumors
+focal weakness,associated with,NF1
+focal weakness,associated with,NF2
+focal weakness,associated with,glioma
+focal weakness,associated with,optic glioma
+focal weakness,associated with,primitive neuroectodermal tumors
+focal weakness,associated with,germ cell tumors
+focal weakness,associated with,pineal region tumors
+focal weakness,treated with,physical therapy
+sensory changes,associated with,NF1
+sensory changes,associated with,NF2
+sensory changes,associated with,glioma
+sensory changes,associated with,optic glioma
+sensory changes,associated with,primitive neuroectodermal tumors
+sensory changes,associated with,germ cell tumors
+sensory changes,associated with,pineal region tumors
+sensory changes,treated with,physical therapy
+pituitary involvement,associated with,NF1
+pituitary involvement,associated with,NF2
+pituitary involvement,associated with,glioma
+pituitary involvement,associated with,optic glioma
+pituitary involvement,associated with,primitive neuroectodermal tumors
+pituitary involvement,associated with,germ cell tumors
+pituitary involvement,associated with,pineal region tumors
+pituitary involvement,treated with,hormone replacement therapy
+galactorrhea,associated with,NF1
+galactorrhea,associated with,NF2
+galactorrhea,associated with,glioma
+galactorrhea,associated with,optic glioma
+galactorrhea,associated with,primitive neuroectodermal tumors
+galactorrhea,associated with,germ cell tumors
+galactorrhea,associated with,pineal region tumors
+galactorrhea,treated with,dopamine agonists
+impotence,associated with,NF1
+impotence,associated with,NF2
+impotence,associated with,glioma
+impotence,associated with,optic glioma
+impotence,associated with,primitive neuroectodermal tumors
+impotence,associated with,germ cell tumors
+impotence,associated with,pineal region tumors
+impotence,treated with,sildenafil
+menstrual dysfunction,associated with,NF1
+menstrual dysfunction,associated with,NF2
+menstrual dysfunction,associated with,glioma
+menstrual dysfunction,associated with,optic glioma
+menstrual dysfunction,associated with,primitive neuroectodermal tumors
+menstrual dysfunction,associated with,germ cell tumors
+menstrual dysfunction,associated with,pineal region tumors
+menstrual dysfunction,treated with,hormone replacement therapy
+ataxia,associated with,NF1
+ataxia,associated with,NF2
+ataxia,associated with,glioma
+ataxia,associated with,optic glioma
+ataxia,associated with,primitive neuroectodermal tumors
+ataxia,associated with,germ cell tumors
+ataxia,associated with,pineal region tumors
+ataxia,treated with,physical therapy
+diminished coordination,associated with,NF1
+diminished coordination,associated with,NF2
+diminished coordination,associated with,glioma
+diminished coordination,associated with,optic glioma
+diminished coordination,associated with,primitive neuroectodermal tumors
+diminished coordination,associated with,germ cell tumors
+diminished coordination,associated with,pineal region tumors
+diminished coordination,treated with,physical therapy
+MRI,used to evaluate,NF1
+MRI,used to evaluate,NF2
+MRI,used to evaluate,glioma
+MRI,used to evaluate,optic glioma
+Pituitary,has,tumors
+physical examination,is targeted at,central nervous system
+physical examination,is targeted at,cardiovascular system
+physical examination,is targeted at,lungs
+physical examination,is targeted at,airway
+ASA physical status,is denoted by,emergency surgery
+ASA physical status,is associated with,mortality
+spirometry,is useful for,longitudinal patient management
+pulmonary function testing,can detect,airway obstruction
+bronchodilator,can improve,airway obstruction
+warfarin,affects,coagulation
+abdominal obesity,is associated with,hypertension
+high triglycerides,are associated with,hypertension
+low HDL,is associated with,hypertension
+insulin resistance,is associated with,hypertension
+malaria,is diagnosed by,blood smear
+babesiosis,is diagnosed by,blood smear
+Kwashiorkor,is diagnosed by,protein malnutrition
+Lesch-Nyhan syndrome,is diagnosed by,purine salvage problem
+patent ductus arteriosus,is diagnosed by,echocardiogram
+antidepressants,are associated with,hypertensive crisis
+COPD,is diagnosed by,pulmonary function testing
+IJCOD,is diagnosed by,pulmonary function testing
+disease,causes,nephrosclerosis
+nephrosclerosis,associated with,hypertension
+hypertension,causes,renal failure
+renal failure,treated by,enzyme therapy
+enzyme therapy,clears,lipids
+lipids,stored in,cells
+renal,has,vascular endothelium
+vascular endothelium,affected by,hypertension
+hypertension,leads to,ischemia
+ischemia,causes,interstitial fibrosis
+interstitial fibrosis,causes,tubular atrophy
+tubular atrophy,causes,focal global glomerulosclerosis
+hypertension,increases,nephrosclerosis
+nephrosclerosis,causes,hyaline arteriolosclerosis
+hyaline arteriolosclerosis,causes,fibrous intimal and medial thickening
+fibrous intimal and medial thickening,causes,luminal narrowing
+luminal narrowing,causes,ischemia
+ischemia,causes,proteinuria
+proteinuria,associated with,GFR
+GFR,decreased in,renal failure
+renal failure,associated with,uremia
+uremia,causes,death
+hypertension,treated by,hydrochlorothiazide
+hydrochlorothiazide,used to treat,hypertension
+hypertension,treated by,lisinopril
+lisinopril,used to treat,hypertension
+hypertension,causes,thrombotic microangiopathy
+thrombotic microangiopathy,associated with,renal failure
+renal failure,treated by,hemodialysis
+hemodialysis,used to treat,renal failure
+renal failure,treated by,kidney transplantation
+kidney transplantation,used to treat,renal failure
+H. influenzae,causes,epiglottitis
+H. influenzae,treated by,cefuroxime
+cefuroxime,used to treat,H. influenzae
+H. influenzae,treated by,cefotaxime
+cefotaxime,used to treat,H. influenzae
+H. influenzae,treated by,ceftriaxone
+ceftriaxone,used to treat,H. influenzae
+H. influenzae,treated by,clindamycin
+clindamycin,used to treat,H. influenzae
+H. influenzae,treated by,TMP-SMX
+TMP-SMX,used to treat,H. influenzae
+H. influenzae,treated by,rifampin
+H. influenzae,causes,meningitis
+meningitis,treated by,ceftriaxone
+ceftriaxone,used to treat,meningitis
+meningitis,treated by,clindamycin
+clindamycin,used to treat,meningitis
+meningitis,treated by,TMP-SMX
+TMP-SMX,used to treat,meningitis
+meningitis,treated by,rifampin
+rifampin,used to prevent,meningitis
+H. influenzae,causes,pneumonia
+pneumonia,treated by,ceftriaxone
+ceftriaxone,used to treat,pneumonia
+pneumonia,treated by,clindamycin
+clindamycin,used to treat,pneumonia
+pneumonia,treated by,TMP-SMX
+TMP-SMX,used to treat,pneumonia
+pneumonia,treated by,rifampin
+rifampin,used to prevent,pneumonia
+β-lactamase inhibitors,used to treat,H. influenzae
+β-lactamase inhibitors,used to treat,meningitis
+β-lactamase inhibitors,used to treat,pneumonia
+β-lactam compounds,used to treat,H. influenzae
+β-lactam compounds,used to treat,meningitis
+β-lactam compounds,used to treat,pneumonia
+latex agglutination,used to diagnose,H. influenzae
+latex agglutination,used to diagnose,meningitis
+latex agglutination,used to diagnose,pneumonia
+enzyme immunoassay,used to diagnose,H. influenzae
+enzyme immunoassay,used to diagnose,meningitis
+enzyme immunoassay,used to diagnose,pneumonia
+rapid diagnostic kits,used to diagnose,H. influenzae
+rapid diagnostic kits,used to diagnose,meningitis
+rapid diagnostic kits,used to diagnose,pneumonia
+throat culture,used to diagnose,H. influenzae
+throat culture,used to diagnose,meningitis
+throat culture,used to diagnose,pneumonia
+throat specimen,used to diagnose,H. influenzae
+throat specimen,used to diagnose,meningitis
+throat specimen,used to diagnose,pneumonia
+swab,used to diagnose,H. influenzae
+swab,used to diagnose,meningitis
+swab,used to diagnose,pneumonia
+epiglottitis,associated with,throat culture
+epiglottitis,associated with,throat specimen
+epiglottitis,associated with,swab
+meningitis,associated with,throat culture
+meningitis,associated with,throat specimen
+meningitis,associated with,swab
+pneumonia,associated with,throat culture
+pneumonia,associated with,throat specimen
+pneumonia,associated with,swab
+H. influenzae,associated with,epiglottitis
+H. influenzae,associated with,meningitis
+H. influenzae,associated with,pneumonia
+renal failure,associated with,nephrosclerosis
+renal failure,associated with,hypertension
+renal failure,associated with,uremia
+nephrosclerosis,associated with,hypertension
+nephrosclerosis,associated with,hyaline arteriolosclerosis
+nephrosclerosis,associated with,fibrous intimal and medial thickening
+nephrosclerosis,associated with,luminal narrowing
+nephrosclerosis,associated with,ischemia
+nephrosclerosis,associated with,proteinuria
+nephrosclerosis,associated with,GFR
+nephrosclerosis,associated with,uremia
+nephrosclerosis,associated with,death
+hypertension,associated with,renal failure
+hypertension,associated with,uremia
+hypertension,associated with,nephrosclerosis
+hypertension,associated with,hyaline arteriolosclerosis
+hypertension,associated with,fibrous intimal and medial thickening
+hypertension,associated with,luminal narrowing
+hypertension,associated with,ischemia
+hypertension,associated with,proteinuria
+hypertension,associated with,GFR
+hypertension,associated with,nephrosclerosis
+hypertension,associated with,death
+renal failure,causes,hyaline arteriolosclerosis
+renal failure,causes,fibrous intimal and medial thickening
+renal failure,causes,luminal narrowing
+renal failure,causes,ischemia
+renal failure,causes,proteinuria
+renal failure,causes,GFR
+renal failure,causes,uremia
+renal failure,causes,death
+hypertension,causes,hyaline arteriolosclerosis
+hypertension,causes,fibrous intimal and medial thickening
+hypertension,causes,luminal narrowing
+hypertension,causes,ischemia
+hypertension,causes,proteinuria
+hypertension,causes,GFR
+hypertension,causes,nephrosclerosis
+hypertension,causes,death
+nephrosclerosis,causes,hyaline arteriolosclerosis
+nephrosclerosis,causes,fibrous intimal and medial thickening
+nephrosclerosis,causes,luminal narrowing
+nephrosclerosis,causes,ischemia
+nephrosclerosis,causes,proteinuria
+nephrosclerosis,causes,GFR
+nephrosclerosis,causes,uremia
+nephrosclerosis,causes,death
+hyaline arteriolosclerosis,causes,fibrous intimal and medial thickening
+hyaline arteriolosclerosis,causes,luminal narrowing
+hyaline arteriolosclerosis,causes,ischemia
+hyaline arteriolosclerosis,causes,proteinuria
+hyaline arteriolosclerosis,causes,GFR
+hyaline arteriolosclerosis,causes,uremia
+hyaline arteriolosclerosis,causes,death
+fibrous intimal and medial thickening,causes,luminal narrowing
+fibrous intimal and medial thickening,causes,ischemia
+fibrous intimal and medial thickening,causes,proteinuria
+fibrous intimal and medial thickening,causes,GFR
+fibrous intimal and medial thickening,causes,uremia
+fibrous intimal and medial thickening,causes,death
+luminal narrowing,causes,ischemia
+luminal narrowing,causes,proteinuria
+luminal narrowing,causes,GFR
+luminal narrowing,causes,uremia
+luminal narrowing,causes,death
+ischemia,causes,proteinuria
+ischemia,causes,GFR
+ischemia,causes,uremia
+ischemia,causes,death
+proteinuria,associated with,GFR
+proteinuria,associated with,uremia
+proteinuria,associated with,death
+GFR,associated with,uremia
+GFR,associated with,death
+uremia,causes,death
+renal failure,associated with,death
+nephrosclerosis,associated with,death
+hypertension,associated with,death
+hyaline arteriolosclerosis,associated with,death
+fibrous intimal and medial thickening,associated with,death
+luminal narrowing,associated with,death
+ischemia,associated with,death
+proteinuria,associated with,death
+GFR,associated with,death
+uremia,associated with,death
+renal failure,associated with,uremia
+renal failure,associated with,proteinuria
+renal failure,associated with,GFR
+renal failure,associated with,death
+nephrosclerosis,associated with,uremia
+nephrosclerosis,associated with,proteinuria
+nephrosclerosis,associated with,GFR
+nephrosclerosis,associated with,death
+hypertension,associated with,uremia
+hypertension,associated with,proteinuria
+hypertension,associated with,GFR
+hypertension,associated with,death
+hyaline arteriolosclerosis,associated with,uremia
+hyaline arteriolosclerosis,associated with,proteinuria
+hyaline arteriolosclerosis,associated with,GFR
+hyaline arteriolosclerosis,associated with,death
+fibrous intimal and medial thickening,associated with,uremia
+fibrous intimal and medial thickening,associated with,proteinuria
+fibrous intimal and medial thickening,associated with,GFR
+fibrous intimal and medial thickening,associated with,death
+luminal narrowing,associated with,uremia
+luminal narrowing,associated with,proteinuria
+luminal narrowing,associated with,GFR
+luminal narrowing,associated with,death
+ischemia,associated with,uremia
+ischemia,associated with,proteinuria
+ischemia,associated with,GFR
+ischemia,associated with,death
+proteinuria,associated with,uremia
+proteinuria,associated with,GFR
+proteinuria,associated with,death
+GFR,associated with,uremia
+GFR,associated with,death
+uremia,associated with,death
+renal failure,causes,hyaline arteriolosclerosis
+renal failure,causes,fibrous intimal and medial thickening
+renal failure,causes,luminal narrowing
+renal failure,causes,ischemia
+renal failure,causes,proteinuria
+renal failure,causes,GFR
+renal failure,causes,uremia
+renal failure,causes,death
+hypertension,causes,hyaline arteriolosclerosis
+hypertension,causes,fibrous intimal and medial thickening
+hypertension,causes,luminal narrowing
+hypertension,causes,ischemia
+hypertension,causes,proteinuria
+hypertension,causes,GFR
+hypertension,causes,nephrosclerosis
+hypertension,causes,death
+nephrosclerosis,causes,hyaline arteriolosclerosis
+nephrosclerosis,causes,fibrous intimal and medial thickening
+nephrosclerosis,causes,luminal narrowing
+nephrosclerosis,causes,ischemia
+nephrosclerosis,causes,proteinuria
+nephrosclerosis,causes,GFR
+nephrosclerosis,causes,uremia
+nephrosclerosis,causes,death
+hyaline arteriolosclerosis,causes,fibrous intimal and medial thickening
+hyaline arteriolosclerosis,causes,luminal narrowing
+hyaline arteriolosclerosis,causes,ischemia
+hyaline arteriolosclerosis,causes,proteinuria
+hyaline arteriolosclerosis,causes,GFR
+hyaline arteriolosclerosis,causes,uremia
+hyaline arteriolosclerosis,causes,death
+fibrous intimal and medial thickening,causes,luminal narrowing
+fibrous intimal and medial thickening,causes,ischemia
+fibrous intimal and medial thickening,causes,proteinuria
+fibrous intimal and medial thickening,causes,GFR
+fibrous intimal and medial thickening,causes,uremia
+fibrous intimal and medial thickening,causes,death
+luminal narrowing,causes,ischemia
+luminal narrowing,causes,proteinuria
+luminal narrowing,causes,GFR
+luminal narrowing,causes,uremia
+luminal narrowing,causes,death
+ischemia,causes,proteinuria
+ischemia,causes,GFR
+ischemia,causes,uremia
+ischemia,causes,death
+proteinuria,associated with,GFR
+proteinuria,associated with,uremia
+proteinuria,associated with,death
+GFR,associated with,uremia
+GFR,associated with,death
+uremia,causes,death
+renal failure,associated with,death
+nephrosclerosis,associated with,death
+hypertension,associated with,death
+hyaline arteriolosclerosis,associated with,death
+fibrous intimal and medial thickening,associated with,death
+luminal narrowing,associated with,death
+ischemia,associated with,death
+proteinuria,associated with,death
+GFR,associated with,death
+uremia,associated with,death
+renal failure,associated with,uremia
+renal failure,associated with,proteinuria
+renal failure,associated with,GFR
+renal failure,associated with,death
+nephrosclerosis,associated with,uremia
+nephrosclerosis,associated with,proteinuria
+nephrosclerosis,associated with,GFR
+nephrosclerosis,associated with,death
+hypertension,associated with,uremia
+hypertension,associated with,proteinuria
+hypertension,associated with,GFR
+hypertension,associated with,death
+hyaline arteriolosclerosis,associated with,uremia
+hyaline arteriolosclerosis,associated with,proteinuria
+hyaline arteriolosclerosis,associated with,GFR
+hyaline arteriolosclerosis,associated with,death
+fibrous intimal and medial thickening,associated with,uremia
+fibrous intimal and medial thickening,associated with,proteinuria
+Alkaline phosphatase,Elevated in,Cirrhosis
+Bilirubin,Elevated in,Cirrhosis
+Amyloidosis,Associated with,Abdominal mass
+Cirrhosis,Associated with,Ascites
+Cancer,Associated with,Ascites
+Cirrhosis,Associated with,Jaundice
+Cancer,Associated with,Jaundice
+Penicillins,Similar to,Cephalosporins
+Penicillins,Similar to,Monobactams
+Penicillins,Similar to,Carbapenems
+Penicillins,Similar to,β-lactamase inhibitors
+Penicillins,Similar to,β-lactam compounds
+Cephalosporins,Similar to,Monobactams
+Cephalosporins,Similar to,Carbapenems
+Cephalosporins,Similar to,β-lactamase inhibitors
+Cephalosporins,Similar to,β-lactam compounds
+Monobactams,Similar to,Carbapenems
+Monobactams,Similar to,β-lactamase inhibitors
+Monobactams,Similar to,β-lactam compounds
+Carbapenems,Similar to,β-lactamase inhibitors
+Carbapenems,Similar to,β-lactam compounds
+β-lactamase inhibitors,Similar to,β-lactam compounds
+β-lactamase inhibitors,Similar to,Penicillins
+β-lactam compounds,Similar to,Penicillins
+β-lactam compounds,Similar to,Cephalosporins
+β-lactam compounds,Similar to,Monobactams
+β-lactam compounds,Similar to,Carbapenems
+Penicillins,Similar to,Thiazolidine ring
+Penicillins,Similar to,β-lactam ring
+Penicillins,Similar to,Amino group
+Penicillins,Similar to,Substituents
+Cephalosporins,Similar to,Thiazolidine ring
+Cephalosporins,Similar to,β-lactam ring
+Cephalosporins,Similar to,Amino group
+Cephalosporins,Similar to,Substituents
+Monobactams,Similar to,Thiazolidine ring
+Monobactams,Similar to,β-lactam ring
+Monobactams,Similar to,Amino group
+Monobactams,Similar to,Substituents
+Carbapenems,Similar to,Thiazolidine ring
+Carbapenems,Similar to,β-lactam ring
+Carbapenems,Similar to,Amino group
+Carbapenems,Similar to,Substituents
+β-lactamase inhibitors,Similar to,Thiazolidine ring
+β-lactamase inhibitors,Similar to,β-lactam ring
+β-lactamase inhibitors,Similar to,Amino group
+β-lactamase inhibitors,Similar to,Substituents
+β-lactam compounds,Similar to,Thiazolidine ring
+β-lactam compounds,Similar to,β-lactam ring
+β-lactam compounds,Similar to,Amino group
+β-lactam compounds,Similar to,Substituents
+Hypertension,Associated with,Heart failure
+Hypertension,Associated with,Shortness of breath
+Hypertension,Associated with,Fatigue
+Heart failure,Associated with,Shortness of breath
+Heart failure,Associated with,Fatigue
+Atrial fibrillation,Associated with,Palpitations
+Atrial fibrillation,Associated with,Shortness of breath
+Atrial fibrillation,Associated with,Fatigue
+ACE inhibitor,Used to treat,Hypertension
+ACE inhibitor,Used to treat,Heart failure
+Enalapril,Used to treat,Hypertension
+Enalapril,Used to treat,Heart failure
+Digoxin,Used to treat,Heart failure
+Metoprolol,Used to treat,Hypertension
+Metoprolol,Used to treat,Heart failure
+Warfarin,Used to treat,Atrial fibrillation
+Warfarin,Used to treat,Heart failure
+Xenobiotics,absorbed by,lungs
+Xenobiotics,absorbed by,skin
+Xenobiotics,ingested as,food
+Xenobiotics,ingested as,drink
+Xenobiotics,ingested as,drugs
+Xenobiotics,converted to,metabolite
+Xenobiotics,eliminated by,renal excretion
+Drugs,eliminated by,renal excretion
+Drugs,have,functional groups
+Renal insufficiency,is a cause of,death
+Renal failure,occurs in,patients
+Bence Jones proteinuria,is associated with,renal failure
+Bence Jones proteinuria,is a marker for,renal disease
+Multiple myeloma,is a cause of,renal disease
+Bone marrow,is involved in,multiple myeloma
+Bone marrow,contains,plasmacells
+Renal dysfunction,can cause,dehydration
+mRNA,is translated into,protein
+squamous cell type,associated with,cancer
+squamous cell type,causes,anemia
+squamous cell type,causes,bleeding
+squamous cell type,causes,gastrointestinal system
+squamous cell type,causes,esophageal tumor
+squamous cell type,causes,intraluminal obstruction
+squamous cell type,causes,esophageal adenocarcinoma
+squamous cell type,causes,metastatic deposits
+squamous cell type,causes,extrinsic compression
+squamous cell type,causes,lymphoma
+squamous cell type,causes,lung cancer
+squamous cell type,causes,paraneoplastic syndromes
+squamous cell type,associated with,lymph nodes
+squamous cell type,associated with,celiac trunk
+squamous cell type,associated with,liver
+squamous cell type,associated with,esophagus
+squamous cell type,associated with,scleroderma
+squamous cell type,associated with,pemphigoid
+squamous cell type,associated with,lichen planus
+squamous cell type,associated with,epidermolysis bullosa
+squamous cell type,associated with,cancer
+squamous cell type,associated with,malignancy
+squamous cell type,associated with,intraluminal obstruction
+squamous cell type,associated with,extrinsic compression
+squamous cell type,associated with,lymphoma
+squamous cell type,associated with,lung cancer
+squamous cell type,associated with,paraneoplastic syndromes
+squamous cell type,associated with,barium radiography
+squamous cell type,associated with,mucosal biopsies
+squamous cell type,associated with,upper endoscopy
+squamous cell type,associated with,esophageal manometry
+squamous cell type,associated with,fluoroscopic swallow study
+squamous cell type,associated with,swallow therapist
+squamous cell type,associated with,otolaryngoscopic evaluation
+squamous cell type,associated with,neurologic evaluation
+squamous cell type,associated with,structural dysphagia
+squamous cell type,associated with,peptic stricture
+squamous cell type,associated with,esophageal adenocarcinoma
+squamous cell type,associated with,nasogastric intubation
+squamous cell type,associated with,esophageal surgery
+squamous cell type,associated with,caustic ingestion
+squamous cell type,associated with,nasal regurgitation
+squamous cell type,associated with,aspiration
+squamous cell type,associated with,neck
+squamous cell type,associated with,food impaction
+squamous cell type,associated with,odynophagia
+squamous cell type,associated with,ulceration
+squamous cell type,associated with,infectious esophagitis
+squamous cell type,associated with,pill-induced esophagitis
+squamous cell type,associated with,Candida
+squamous cell type,associated with,herpes simplex virus
+squamous cell type,associated with,cytomegalovirus
+squamous cell type,associated with,Kaposi’s sarcoma
+squamous cell type,associated with,lymphoma
+squamous cell type,associated with,atopy
+squamous cell type,associated with,eosinophilic esophagitis
+squamous cell type,associated with,bulbar palsy
+squamous cell type,associated with,pseudobulbar palsy
+squamous cell type,associated with,dysarthria
+squamous cell type,associated with,dysphonia
+squamous cell type,associated with,ptosis
+squamous cell type,associated with,tongue atrophy
+squamous cell type,associated with,hyperactive jaw jerk
+squamous cell type,associated with,thyromegaly
+squamous cell type,associated with,Barrett’s metaplasia
+squamous cell type,associated with,gastroesophageal reflux disease (GERD
+squamous cell type,associated with,peptic ulcer disease
+squamous cell type,associated with,cervical disk disease
+squamous cell type,associated with,esophageal spasm
+squamous cell type,associated with,arthritis
+squamous cell type,associated with,costochondritis
+squamous cell type,associated with,gallbladder disease
+squamous cell type,associated with,musculoskeletal disorders
+squamous cell type,associated with,gastrointestinal conditions
+squamous cell type,associated with,anxiety
+squamous cell type,associated with,recurrent acid regurgitation
+squamous cell type,associated with,epigastric tenderness
+squamous cell type,associated with,distention
+squamous cell type,associated with,jaundice
+squamous cell type,associated with,palpable mass
+squamous cell type,associated with,adenopathy
+squamous cell type,associated with,family history of gastrointestinal neoplasm
+squamous cell type,associated with,unexplained weight loss
+squamous cell type,associated with,recurrent vomiting
+squamous cell type,associated with,occult bleeding
+squamous cell type,associated with,gross bleeding
+squamous cell type,associated with,ambulatory endoscopy
+squamous cell type,associated with,high-resolution esophageal manometry
+squamous cell type,associated with,vaccines
+squamous cell type,associated with,immune response
+squamous cell type,associated with,disease prevention
+squamous cell type,associated with,toxicity
+squamous cell type,associated with,chest discomfort
+squamous cell type,associated with,acute conditions
+squamous cell type,associated with,chronic conditions
+squamous cell type,associated with,serious complications
+squamous cell type,associated with,peptic stricture
+squamous cell type,associated with,esophageal adenocarcinoma
+squamous cell type,associated with,GERD
+squamous cell type,associated with,functional dyspepsia
+squamous cell type,associated with,alarm features
+squamous cell type,associated with,mucosal injury
+squamous cell type,associated with,acid suppression
+squamous cell type,associated with,Barrett’s metaplasia
+squamous cell type,associated with,heartburn
+squamous cell type,associated with,esophageal manometry
+squamous cell type,associated with,surgical treatment
+squamous cell type,associated with,postoperative dysphagia
+squamous cell type,associated with,surgical technique
+squamous cell type,associated with,protective immune response
+squamous cell type,associated with,disease prevention
+squamous cell type,associated with,toxicity
+squamous cell type,associated with,vaccination
+squamous cell type,associated with,immune response
+squamous cell type,associated with,disease prevention
+squamous cell type,associated with,toxicity
+squamous cell type,causes,esophageal tumor
+esophageal tumor,is a type of,cancer
+esophageal tumor,is a type of,malignancy
+esophageal tumor,causes,anemia
+esophageal tumor,causes,bleeding
+esophageal tumor,causes,gastrointestinal system
+esophageal tumor,causes,intraluminal obstruction
+esophageal tumor,causes,metastatic deposits
+esophageal tumor,causes,extrinsic compression
+esophageal tumor,causes,lymphoma
+esophageal tumor,causes,lung cancer
+esophageal tumor,causes,paraneoplastic syndromes
+esophageal tumor,associated with,lymph nodes
+esophageal tumor,associated with,celiac trunk
+esophageal tumor,associated with,liver
+esophageal tumor,associated with,esophagus
+esophageal tumor,associated with,scleroderma
+esophageal tumor,associated with,pemphigoid
+esophageal tumor,associated with,lichen planus
+esophageal tumor,associated with,epidermolysis bullosa
+esophageal tumor,associated with,cancer
+esophageal tumor,associated with,malignancy
+esophageal tumor,associated with,intraluminal obstruction
+esophageal tumor,associated with,extrinsic compression
+esophageal tumor,associated with,lymphoma
+esophageal tumor,associated with,lung cancer
+esophageal tumor,associated with,paraneoplastic syndromes
+esophageal tumor,associated with,barium radiography
+esophageal tumor,associated with,mucosal biopsies
+esophageal tumor,associated with,upper endoscopy
+esophageal tumor,associated with,esophageal manometry
+esophageal tumor,associated with,fluoroscopic swallow study
+esophageal tumor,associated with,swallow therapist
+esophageal tumor,associated with,otolaryngoscopic evaluation
+esophageal tumor,associated with,neurologic evaluation
+esophageal tumor,associated with,structural dysphagia
+esophageal tumor,associated with,peptic stricture
+esophageal tumor,associated with,esophageal adenocarcinoma
+esophageal tumor,associated with,nasogastric intubation
+esophageal tumor,associated with,esophageal surgery
+esophageal tumor,associated with,caustic ingestion
+esophageal tumor,associated with,nasal regurgitation
+esophageal tumor,associated with,aspiration
+esophageal tumor,associated with,neck
+esophageal tumor,associated with,food impaction
+esophageal tumor,associated with,odynophagia
+esophageal tumor,associated with,ulceration
+esophageal tumor,associated with,infectious esophagitis
+esophageal tumor,associated with,pill-induced esophagitis
+esophageal tumor,associated with,Candida
+esophageal tumor,associated with,herpes simplex virus
+esophageal tumor,associated with,cytomegalovirus
+esophageal tumor,associated with,Kaposi’s sarcoma
+esophageal tumor,associated with,lymphoma
+esophageal tumor,associated with,atopy
+esophageal tumor,associated with,eosinophilic esophagitis
+esophageal tumor,associated with,bulbar palsy
+esophageal tumor,associated with,pseudobulbar palsy
+esophageal tumor,associated with,dysarthria
+esophageal tumor,associated with,dysphonia
+esophageal tumor,associated with,ptosis
+esophageal tumor,associated with,tongue atrophy
+esophageal tumor,associated with,hyperactive jaw jerk
+esophageal tumor,associated with,thyromegaly
+esophageal tumor,associated with,Barrett’s metaplasia
+esophageal tumor,associated with,gastroesophageal reflux disease (GERD
+esophageal tumor,associated with,peptic ulcer disease
+esophageal tumor,associated with,cervical disk disease
+esophageal tumor,associated with,esophageal spasm
+esophageal tumor,associated with,arthritis
+esophageal tumor,associated with,costochondritis
+esophageal tumor,associated with,gallbladder disease
+esophageal tumor,associated with,musculoskeletal disorders
+esophageal tumor,associated with,gastrointestinal conditions
+esophageal tumor,associated with,anxiety
+esophageal tumor,associated with,recurrent acid regurgitation
+esophageal tumor,associated with,epigastric tenderness
+esophageal tumor,associated with,distention
+esophageal tumor,associated with,jaundice
+esophageal tumor,associated with,palpable mass
+esophageal tumor,associated with,adenopathy
+esophageal tumor,associated with,family history of gastrointestinal neoplasm
+esophageal tumor,associated with,unexplained weight loss
+esophageal tumor,associated with,recurrent vomiting
+esophageal tumor,associated with,occult bleeding
+esophageal tumor,associated with,gross bleeding
+esophageal tumor,associated with,ambulatory endoscopy
+esophageal tumor,associated with,high-resolution esophageal manometry
+esophageal tumor,associated with,vaccines
+esophageal tumor,associated with,immune response
+esophageal tumor,associated with,disease prevention
+esophageal tumor,associated with,toxicity
+esophageal tumor,associated with,chest discomfort
+esophageal tumor,associated with,acute conditions
+esophageal tumor,associated with,chronic conditions
+esophageal tumor,associated with,serious complications
+esophageal tumor,associated with,peptic stricture
+esophageal tumor,associated with,esophageal adenocarcinoma
+esophageal tumor,associated with,GERD
+esophageal tumor,associated with,functional dyspepsia
+esophageal tumor,associated with,alarm features
+esophageal tumor,associated with,mucosal injury
+esophageal tumor,associated with,acid suppression
+esophageal tumor,associated with,Barrett’s metaplasia
+esophageal tumor,associated with,heartburn
+esophageal tumor,associated with,esophageal manometry
+esophageal tumor,associated with,surgical treatment
+esophageal tumor,associated with,postoperative dysphagia
+esophageal tumor,associated with,surgical technique
+esophageal tumor,associated with,protective immune response
+esophageal tumor,associated with,disease prevention
+esophageal tumor,associated with,toxicity
+esophageal tumor,associated with,vaccination
+esophageal tumor,associated with,immune response
+esophageal tumor,associated with,disease prevention
+esophageal tumor,associated with,toxicity
+lymph nodes,associated with,squamous cell type
+lymph nodes,associated with,esophageal tumor
+lymph nodes,associated with,anemia
+lymph nodes,associated with,bleeding
+lymph nodes,associated with,gastrointestinal system
+lymph nodes,associated with,intraluminal obstruction
+lymph nodes,associated with,metastatic deposits
+lymph nodes,associated with,extrinsic compression
+lymph nodes,associated with,lymphoma
+lymph nodes,associated with,lung cancer
+lymph nodes,associated with,paraneoplastic syndromes
+lymph nodes,associated with,barium radiography
+lymph nodes,associated with,mucosal biopsies
+lymph nodes,associated with,upper endoscopy
+lymph nodes,associated with,esophageal manometry
+lymph nodes,associated with,fluoroscopic swallow study
+lymph nodes,associated with,swallow therapist
+lymph nodes,associated with,otolaryngoscopic evaluation
+lymph nodes,associated with,neurologic evaluation
+lymph nodes,associated with,structural dysphagia
+lymph nodes,associated with,peptic stricture
+lymph nodes,associated with,esophageal adenocarcinoma
+Neisseria gonorrhoeae,causes,gonorrhea
+Chlamydia trachomatis,causes,chlamydial cervicitis
+Neisseria gonorrhoeae,causes,gonococcal infection
+Chlamydia trachomatis,causes,gonococcal infection
+HSV-1,causes,genital herpes
+HSV-2,causes,genital herpes
+Haemophilus ducreyi,causes,chancroid
+Klebsiella granulomatis,causes,granuloma inguinale
+Trichomonas vaginalis,causes,trichomoniasis
+Gardnerella vaginalis,causes,bacterial vaginosis
+N. gonorrhoeae,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,urethritis
+C. trachomatis,causes,urethritis
+Neisseria gonorrhoeae,causes,urethritis
+Chlamydia trachomatis,causes,urethritis
+Chlamydia trachomatis,causes,pelvic inflammatory disease
+Neisseria gonorrhoeae,causes,pelvic inflammatory disease
+N. gonorrhoeae,causes,pelvic inflammatory disease
+C. trachomatis,causes,pelvic inflammatory disease
+Neisseria gonorrhoeae,causes,gonorrhea
+Chlamydia trachomatis,causes,gonorrhea
+C. trachomatis,causes,gonorrhea
+N. gonorrhoeae,causes,gonorrhea
+Neisseria gonorrhoeae,causes,sexually transmitted infections
+Chlamydia trachomatis,causes,sexually transmitted infections
+Chlamydia trachomatis,causes,genital ulcers
+HSV-1,causes,genital ulcers
+HSV-2,causes,genital ulcers
+Haemophilus ducreyi,causes,genital ulcers
+Klebsiella granulomatis,causes,genital ulcers
+Treponema pallidum,causes,syphilis
+Human papillomavirus,causes,genital warts
+Human papillomavirus,causes,cervical cancer
+Human papillomavirus,causes,vulvar cancer
+Human papillomavirus,causes,vaginal cancer
+Neisseria gonorrhoeae,causes,gonococcal infection
+Chlamydia trachomatis,causes,gonococcal infection
+C. trachomatis,causes,gonococcal infection
+N. gonorrhoeae,causes,gonococcal infection
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+C. trachomatis,causes,gonococcal vaginitis
+N. gonorrhoeae,causes,gonococcal vaginitis
+Neisseria gonorrhoeae,causes,gonococcal vaginitis
+Chlamydia trachomatis,causes,gonococcal vaginitis
+Umesh Masharani,MBBS,MRCP (UK
+catheter ablation,was used to treat,atrial fibrillation
+insulin,was used to treat,diabetes
+dofetilide,was used to treat,atrial fibrillation
+amiodarone,was used to treat,atrial fibrillation
+furosemide,was used to treat,fluid overload
+hydrochlorothiazide,was used to treat,hypertension
+metformin,was used to treat,type 2 diabetes
+insulin glargine,was used to treat,diabetes
+insulin aspartate,was used to treat,diabetes
+atorvastatin,was used to treat,high cholesterol
+estradiol,was used to treat,osteoporosis
+natural progesterone,was used to treat,osteoporosis
+exercise,was used to treat,osteoporosis
+calcium,was used to treat,osteoporosis
+vitamin D,was used to treat,osteoporosis
+diabetes educator,was involved in the care of,MW
+dietitian,was involved in the care of,MW
+glucose levels,were measured in,MW
+serum creatinine,was measured in,MW
+HbA1c,was measured in,MW
+urine albumin,was measured in,MW
+serum creatinine,was measured in,MW
+total cholesterol,was measured in,MW
+triglycerides,were measured in,MW
+HDL cholesterol,was measured in,MW
+LDL cholesterol,was measured in,MW
+blood pressure,was measured in,MW
+BMI,was measured in,MW
+fasting blood glucose,was measured in,MW
+blood glucose,was measured in,MW
+ketone bodies,were measured in,MW
+electrolytes,were measured in,MW
+urine,was measured in,MW
+blood tests,were performed on,MW
+calcium,was related to,bone density
+phosphate,was related to,bone density
+insulin,was related to,glucose levels
+glucose,was related to,ketone bodies
+ketones,were measured in,MW
+Pyelonephritis,is associated with,Pancreatitis
+Hip,has a dysfunction,Sacroiliac joint dysfunction
+Sacroiliac joint dysfunction,is a type of,Enthesitis
+Vertebral stress fractures,are associated with,Spondylolysis
+Spondylolysis,is associated with,Spondylolisthesis
+Upper cervical spine instability,is a type of,Atlantoaxial instability
+Patellofemoral joint,is the extensor mechanism of,Knee
+Knee,has an effusion or swelling,Arthritis
+Popliteal cyst,is a type of,Baker cyst
+Arginase,is an enzyme of,Urea cycle
+Argininosuccinate lyase,is an enzyme of,Urea cycle
+Argininosuccinate synthetase,is an enzyme of,Urea cycle
+Carbamoyl phosphate synthetase I,is an enzyme of,Urea cycle
+Ornithine transcarbamoylase,is an enzyme of,Urea cycle
+Arg,is related to,Urea cycle
+Deep venous thrombosis,is a complication of,Immobilization
+Splenectomy,is a complication of,Bicycle accident
+Tibial eminence,is a site of,Fracture
+Immobilization,is a cause of,Deep venous thrombosis
+Oral contraceptives,are a risk factor for,Deep venous thrombosis
+Erythematous,is a symptom of,Deep venous thrombosis
+Warm,is a symptom of,Deep venous thrombosis
+Swollen,is a symptom of,Deep venous thrombosis
+Ultrasound,is a diagnostic tool for,Deep venous thrombosis
+Enthesitis,is a type of,Inflammation
+Serositis,is a type of,Inflammation
+Pleuritis,is a type of,Serositis
+Pericarditis,is a type of,Serositis
+Peritonitis,is a type of,Serositis
+Myositis,is a type of,Inflammation
+Vasculitis,is a type of,Inflammation
+Petechiae,is a symptom of,Vasculitis
+Purpura,is a symptom of,Vasculitis
+Edema,is a symptom of,Vasculitis
+Mucosal ulceration,is a symptom of,Systemic lupus erythematosus
+Uveitis,is a symptom of,Systemic lupus erythematosus
+Conjunctivitis,is a symptom of,Kawasaki disease
+Pleurisy,is a symptom of,Kawasaki disease
+Systemic-onset JIA,is a type of,SLE
+Joint,has a lining,Synovium
+Smoking,is a risk factor for,Lung cancer
+ACOG,is an organization that provides,Guidelines for Women’s Health Care
+Guidelines for Women’s Health Care,are provided by,ACOG
+Clinical Practice Guidelines,are provided by,U.S. Department of Health and Human Services
+U.S. Department of Health and Human Services,is an organization that provides,Clinical Practice Guidelines

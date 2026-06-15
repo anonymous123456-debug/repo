@@ -1,0 +1,859 @@
+idx,Entity
+1,2methylpropane
+2,AM radio
+3,Abiotic factors
+4,Alaska
+5,Allergen
+6,Alveolar fluid
+7,Amalgams
+8,Amino acids
+9,Animal
+10,Aquatic ecosystems
+11,Atom
+12,Atoms
+13,Autotrophs
+14,B horizon
+15,B(OH)3
+16,B2O3
+17,BF3
+18,Bacteria
+19,Biological systems
+20,Blood
+21,Blood vessels
+22,Bogs
+23,Bohr's model
+24,Bond energy
+25,Bond stability
+26,Bone cells
+27,Borax
+28,Boron
+29,CC BY-NC 3.0
+30,CK-12 Foundation
+31,CNS
+32,CO2
+33,Cable transmission
+34,California
+35,Carbohydrate
+36,Carbon
+37,Cell membrane
+38,Cell wall
+39,Cells
+40,Cellular respiration
+41,Cellulose
+42,Celsius
+43,Chemical fertilizers
+44,Chest
+45,Chloroplasts
+46,Circulatory systems
+47,Climate
+48,Collisions
+49,Compounds
+50,Converging mirrors
+51,Core
+52,Coriolis Effect
+53,Covalent bond
+54,Cracks
+55,Crystals
+56,DNA
+57,Debris
+58,Diploid
+59,Dorsal interossei
+60,ED
+61,ER
+62,Earth
+63,Earth's atmosphere
+64,Earth's surface
+65,Earthquakes
+66,Ecosystem
+67,Ecosystems
+68,Egg
+69,Electromagnetic radiation
+70,Electromagnetic waves
+71,Electron transport chains
+72,Energy
+73,Enzymes
+74,Epicenter
+75,Equation
+76,Eukarya
+77,Exercise
+78,Experiments
+79,FDA
+80,FM radio
+81,Fahrenheit
+82,Faraday's constant
+83,Fibroblasts
+84,Figure 10.24
+85,Figures
+86,Fingers
+87,Fish
+88,Florida
+89,Fluid
+90,Fluorine
+91,Frequencies
+92,Gametes
+93,Gametophytes
+94,Gene
+95,Gene therapy
+96,Generations
+97,Genes
+98,Glaciers
+99,Glucose
+100,Grasses
+101,Gregor Mendel
+102,Ground substance
+103,HD format
+104,Haploid
+105,Hawaii
+106,Height
+107,Helium
+108,Hemicelluloses
+109,Here are the entities extracted from the text
+110,Here are the extracted entities from the given text
+111,Here's a list of extracted entities in the given text
+112,High-definition
+113,Human beings
+114,Humans
+115,Hyaluronic acid
+116,Hydrochloric acid
+117,Hydrogen
+118,Hypothesis
+119,Ice
+120,Immune system
+121,Innate behaviors
+122,Ions
+123,Kilauea
+124,LadyofHats
+125,Lakes
+126,Life on Earth
+127,Light
+128,Lipids
+129,Liquid water
+130,Literature
+131,Little finger
+132,Lumbrical
+133,Lungs
+134,Lymphatic system
+135,MA
+136,Magnesium
+137,Mariana Ruiz Villarreal
+138,Marshes
+139,Matter
+140,Mercury
+141,Mesothelial cells
+142,Methylpropane
+143,Mexico
+144,Milky Way Galaxy
+145,Mirrors
+146,Mitochondria
+147,Molecules
+148,Mosses
+149,Muscle
+150,N2
+151,NO
+152,Na2B4O7⋅10H2O
+153,Neighboring molecules
+154,Newfoundland
+155,Nitrogen
+156,Nitrogen cycle
+157,Noble gases
+158,North America
+159,Nuclear fusion
+160,Nutrients
+161,Observations
+162,Ocean levels
+163,Ordovician
+164,Oxygen
+165,PDE
+166,Pa
+167,Palmar interossei
+168,Parietal pleurae
+169,Pathogenic bacteria
+170,Pectic polysaccharides
+171,Phase changes
+172,Phosphorus
+173,Photosynthesis
+174,Pioneer species
+175,Plant
+176,Plasma
+177,Pleural cavity
+178,Pneumonia
+179,Polar Regions
+180,Polysaccharides
+181,Pores
+182,Pressure
+183,Protactinium
+184,Protein
+185,Proteins
+186,Proteoglycan
+187,Protists
+188,Purity
+189,Radio sources
+190,Rayleigh waves
+191,Receptors
+192,Reflex behaviors
+193,Satellite dishes
+194,Science
+195,Seismic waves
+196,Shrubs
+197,Silicon
+198,Skin cells
+199,Sodium
+200,Sodium chloride
+201,Soil
+202,Solar system
+203,Solid water
+204,Species
+205,Sperm
+206,Spores
+207,Sporophytes
+208,Sulfur
+209,Sun
+210,Surface waves
+211,Swamps
+212,Swim bladder
+213,Sympatric speciation
+214,Tanya
+215,Telephones
+216,Television
+217,Tellurium
+218,Temperature
+219,Thoracic wall
+220,Thorax
+221,Thorium
+222,Thumb
+223,Tornado
+224,Toxins
+225,Transpulmonary pressure
+226,Trees
+227,UHF
+228,URL
+229,United States
+230,VHF
+231,Van der Waals interactions
+232,Van der Waals surface
+233,Viagra
+234,Viruses
+235,Waste
+236,Wastes
+237,Water
+238,Wavelength
+239,Waves
+240,Wetlands
+241,Work
+242,World
+243,YouTube
+244,Zygote
+245,abdomen
+246,acceleration
+247,acetylene
+248,acetylides
+249,acids
+250,acorn
+251,adaptation
+252,adductor muscle
+253,adrenal glands
+254,air
+255,air pollution
+256,air resistance
+257,airflow
+258,alcohols
+259,aldehydes
+260,alkanes
+261,alkenes
+262,alleles
+263,allopatric speciation
+264,alpha decay
+265,altitude
+266,aluminum
+267,amalgam
+268,ammonia
+269,amniotic eggs
+270,amount of gas
+271,anal sex
+272,anaphylactic reaction
+273,anaphylaxis
+274,angina pectoris
+275,angle of refraction
+276,animal cells
+277,animals
+278,animation
+279,anions
+280,annelids
+281,anodes
+282,antimony
+283,aquatic ecosystems
+284,arcualia
+285,arsenic
+286,asteroids
+287,asthma
+288,atm
+289,atmosphere
+290,atmospheric pressure
+291,atom
+292,atoms
+293,attraction
+294,automobile axle
+295,autonomic ganglia
+296,axons
+297,bacteria
+298,barometer
+299,bases
+300,beer
+301,biochemical reactions
+302,biology
+303,bipedal
+304,bipolar molecule
+305,birds
+306,black bear
+307,blood
+308,body fluids
+309,body tissues
+310,boiling point
+311,bone fractures
+312,boron
+313,boron carbide
+314,bowling ball
+315,brain
+316,breast milk
+317,bryophytes
+318,bud
+319,but I have extracted them based on their individual presence in the text
+320,but I have listed each one separately as per your request
+321,but I have listed them as separate entities for the purpose of this exercise
+322,but I have listed them individually as they appear in the text
+323,cGMP
+324,calcium
+325,calcium carbide
+326,calcium carbonate
+327,calories
+328,cancer
+329,carbides
+330,carbon
+331,carbon anions
+332,carbon atoms
+333,carbon dioxide
+334,carboxylic acids
+335,cardiac fibers
+336,carrier proteins
+337,carrying capacity
+338,cathodes
+339,cathodic protection
+340,cations
+341,cecum
+342,cell
+343,cell bodies
+344,cell cycle
+345,cell membrane
+346,cell wall
+347,cells
+348,cellulose
+349,cementite
+350,cerebral cortex
+351,cerebrum
+352,cervix
+353,channel proteins
+354,charcoal
+355,cheese
+356,chemical bonds
+357,chemical entities
+358,chemistry
+359,chemosynthetic bacteria
+360,chemotrophs
+361,children
+362,cholesterol
+363,chromium
+364,chromoplasts
+365,chromosome
+366,chromosomes
+367,clay
+368,clays
+369,climate change
+370,clinical trials
+371,club mosses
+372,coal
+373,collagen
+374,collagen fibers
+375,colon
+376,coma
+377,combustion reaction
+378,compartments
+379,compound
+380,compounds
+381,concave lenses
+382,conception
+383,condensation
+384,conductor
+385,conifers
+386,consumers
+387,container
+388,containers
+389,convection
+390,cord
+391,crocodilians
+392,crystal lattice
+393,cup
+394,current
+395,cytoplasm
+396,dead organisms
+397,death
+398,decades
+399,deciduous teeth
+400,degrees
+401,deposition
+402,development
+403,diabetes
+404,diamond
+405,diatom
+406,diatoms
+407,diet
+408,diffusion
+409,digestive system
+410,diphyodonts
+411,dispersion forces
+412,divergent plate boundaries
+413,double-paned window
+414,earthquakes
+415,earthworm
+416,ectoderm
+417,elastic fibers
+418,elastin
+419,electric potential energy
+420,electrical energy
+421,electrolysis
+422,electrolytic cells
+423,electron volts
+424,electrons
+425,electropositive metals
+426,elements
+427,embryos
+428,emergency treatment
+429,endocrine system
+430,endoplasmic reticulum
+431,endosperm
+432,endothermic tetrapod vertebrates
+433,energy
+434,energy level
+435,energy levels
+436,enthalpy of fusion
+437,enthalpy of sublimation
+438,enthalpy of vaporization
+439,environment
+440,enzymes
+441,epidermis
+442,epididymis
+443,equilibrium
+444,erectile dysfunction
+445,erosion
+446,erythrocytes
+447,ethmoid bone
+448,eukaryotes
+449,eukaryotic cell
+450,eukaryotic cells
+451,evaporation
+452,evidence
+453,evolution
+454,experiences
+455,experimentation
+456,external respiration
+457,extinction
+458,facial nerve
+459,female
+460,ferns
+461,fertilization
+462,fiber
+463,fiberglass
+464,fibers
+465,fibroblasts
+466,field
+467,fission
+468,flower
+469,food
+470,food allergy
+471,food reserves
+472,force
+473,fossil record
+474,four-chambered heart
+475,freefall
+476,freezing
+477,freshwater
+478,frost
+479,fungi
+480,fungus-like protist saprobes
+481,fur
+482,fusion
+483,galaxy
+484,gallium
+485,galvanic cell
+486,gametes
+487,ganglia
+488,ganglion
+489,garden peas
+490,gas
+491,gastroliths
+492,gated channel proteins
+493,genes
+494,genetics
+495,genome
+496,geologic features
+497,geologic maps
+498,germanium
+499,glaciers
+500,glossopharyngeal nerve
+501,glucocorticoid hormones
+502,glycoproteins
+503,gold
+504,grain boundaries
+505,gravity
+506,greenhouse gas
+507,ground
+508,group 13
+509,growth factors
+510,gustatory receptor cells
+511,gymnosperms
+512,hard casing
+513,heart
+514,heating curves
+515,helium
+516,hemoglobin
+517,heredity
+518,heterodont teeth
+519,hormone
+520,hormones
+521,hornworts
+522,"hornworts"" are all types of nonvascular plants"
+523,horsetails
+524,house
+525,human
+526,humans
+527,hydrocarbons
+528,hydrogen
+529,hypersecretion
+530,hypertension
+531,hyposecretion
+532,hypothalamus
+533,hypothesis
+534,ice
+535,ice wedging
+536,if you are looking for entities that are more specific and categorized (e.g. biological entities
+537,igneous rocks
+538,immovable joints
+539,indium
+540,industry
+541,injection needles
+542,inorganic nutrients
+543,insulator
+544,interactive animation
+545,intermolecular attractions
+546,internal respiration
+547,interphase
+548,introduction
+549,ions
+550,iron
+551,isolation
+552,jaw
+553,kPa
+554,kidneys
+555,kinetic energy
+556,kinetic-molecular theory
+557,krypton-92
+558,label
+559,ladder
+560,lakes
+561,lampreys
+562,land
+563,land plant evolution
+564,leaf
+565,life
+566,ligament sprains
+567,ligaments
+568,light
+569,light energy
+570,lipids
+571,liquid
+572,liquids
+573,liver
+574,liverworts
+575,loop of Henle
+576,lung cancer
+577,lung diseases
+578,lungs
+579,lycophytes
+580,magnesium
+581,magnetic field
+582,male
+583,male facial hair
+584,male voice
+585,mammals
+586,marine plankton
+587,mass
+588,mass extinction
+589,masseter
+590,matter
+591,mechanical work
+592,medium
+593,meiosis
+594,melting
+595,melting point
+596,mercury
+597,metabolic pathways
+598,metabolism
+599,metal cations
+600,metalloids
+601,metals
+602,metastable liquid
+603,meteor
+604,meteorite
+605,meteoroids
+606,microscope
+607,microtubules
+608,midbrain
+609,midline
+610,migration
+611,million years
+612,minerals
+613,mitosis
+614,molecules
+615,moles
+616,mosses
+617,motion
+618,motors
+619,mucous membranes
+620,muscle
+621,mushrooms
+622,myopia
+623,nasal cavity
+624,nasal concha
+625,nasal septum
+626,natural gas
+627,natural selection
+628,nephron
+629,nerve
+630,neural plate
+631,neural tube
+632,neuron cell bodies
+633,neurons
+634,neutrons
+635,nitrates
+636,nitrogen
+637,nonvascular plants
+638,notochord
+639,nuclear chain reaction
+640,nuclear fusion
+641,nuclear power
+642,nuclear reactions
+643,nuclei
+644,nucleus
+645,nutrients
+646,nutrition
+647,observation
+648,ocean
+649,ocean basin
+650,offspring
+651,oil
+652,oomycetes
+653,optic lobes
+654,oral sex
+655,organelles
+656,organisms
+657,osteoporosis
+658,overpopulation
+659,overpotential
+660,ovipary
+661,ovovivipary
+662,oxidation
+663,oxygen
+664,oxytocin
+665,pacemaker
+666,paint
+667,papillae
+668,parenchyma
+669,partial pressure
+670,particles
+671,passivation
+672,pathogens
+673,pelvis
+674,penile arteries
+675,permanent teeth
+676,phase change
+677,phase changes
+678,phosphodiesterase
+679,phospholipids
+680,phosphorus
+681,photosynthetic protists
+682,physical entities
+683,physics
+684,pigments
+685,pituitary gland
+686,plant cells
+687,plants
+688,plasma membrane
+689,plate boundaries
+690,plate tectonic motions
+691,pollution
+692,polycrystalline material
+693,polyphyodonts
+694,population
+695,posterior nerve root
+696,potential difference
+697,power supply
+698,pressure
+699,prey
+700,process
+701,products
+702,projectile motion
+703,prokaryotes
+704,prokaryotic cells
+705,protein synthesis
+706,proteins
+707,protists
+708,protons
+709,pterophytes
+710,puberty
+711,pulley
+712,radiation
+713,radioactive decay
+714,raphe
+715,reactants
+716,rectum
+717,red blood cells
+718,renal portal system
+719,reproductive organs
+720,reticular fibers
+721,retina
+722,retroperitoneum
+723,ribosomal RNA
+724,ribosomal protein
+725,ribosomes
+726,ring species
+727,rivers
+728,rock
+729,rock units
+730,rocks
+731,runoff
+732,rust
+733,satellite cells
+734,satellites
+735,science
+736,science-animations.com
+737,scientific investigation
+738,sedimentary rocks
+739,seed
+740,seed plants
+741,seedless vascular plants
+742,seeds
+743,segments
+744,selective permeability
+745,semen
+746,semipermeability
+747,sensory ganglia
+748,sensory neurons
+749,sepals
+750,serving size
+751,sexual behaviors
+752,sexual reproduction
+753,shaft
+754,shell
+755,shoulders
+756,sildenafil
+757,silicon
+758,silicon carbide
+759,silicon dioxide
+760,sinoatrial node
+761,skeleton
+762,skin
+763,skull
+764,smooth muscles
+765,soccer ball
+766,society
+767,sodium chloride
+768,soil
+769,solar energy
+770,solar system
+771,solid
+772,solute
+773,solutes
+774,solutions
+775,solvent
+776,space
+777,species
+778,speed
+779,spermatids
+780,spinal cord
+781,spleen
+782,sporulation
+783,stainless steel
+784,stars
+785,steam
+786,stolons
+787,stomach
+788,strawberry plants
+789,sublimation
+790,subpopulations
+791,subsoil
+792,substances
+793,sugar
+794,supercooled liquid
+795,superheated liquid
+796,system
+797,taste buds
+798,tattoo needles
+799,tea
+800,telescope
+801,tellurium
+802,temperature
+803,temporalis
+804,tendons
+805,testes
+806,testosterone
+807,thallium
+808,the output format you requested is a bit unusual
+809,time
+810,tongue
+811,topsoil
+812,torque
+813,traits
+814,transform faults
+815,transition metals
+816,transpiration
+817,transport proteins
+818,tungsten carbide
+819,types of galaxies
+820,unit cells
+821,universal solvent
+822,universe
+823,urinary bladder
+824,uterine muscles
+825,uterus
+826,vaginal sex
+827,valence electrons
+828,vapor
+829,vapor pressure
+830,vascular plants
+831,vascular tissue
+832,vasodilation
+833,velocity
+834,vertebral column
+835,vertebrates
+836,video
+837,vitamin D
+838,vitamins
+839,vivipary
+840,volcano
+841,voltage
+842,volume
+843,vomer bone
+844,wall insulation
+845,walls
+846,wastes
+847,water
+848,water vapor
+849,wheel
+850,whisk ferns
+851,window
+852,winds
+853,wine
+854,years
+855,yogurt
+856,zinc
+857,zinc-plated iron
+858,zygote

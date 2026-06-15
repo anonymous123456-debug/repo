@@ -1,0 +1,1047 @@
+Entity1,Relation,Entity2
+city councilmen,authority,demonstrators
+city councilmen,position,authority
+demonstrators,request,permit
+city councilmen,decision,permit
+demonstrators,action,permit
+city councilmen,action,permit
+demonstrators,issue,permit
+city councilmen,responsibility,permit
+city councilmen,decision,regulations
+demonstrators,protest,issue
+city councilmen,responsibility,public event
+demonstrators,request,public event
+city councilmen,action,public event
+trophy,size,suitcase
+suitcase,comparison,trophy
+trophy,object,suitcase
+Joan,gratitude,Susan
+Joan,action,Susan
+Susan,help,Joan
+Paul,attempt,George
+Paul,action,George
+George,unavailability,Paul
+Paul,failure,George
+lawyer,question,witness
+witness,reluctance,question
+lawyer,action,question
+witness,response,question
+lawyer,responsibility,question
+witness,responsibility,question
+George,reluctance,question
+Paul,action,attempt
+Paul,outcome,George
+Paul,causal relationship,George
+George,unavailability,Paul
+Joan,action,thank
+Susan,object,Joan
+Susan,help,Joan
+lawyer,action,question
+witness,response,question
+witness,reluctance,question
+lawyer,responsibility,question
+witness,responsibility,question
+Frank,rival,Bill
+Frank,winner,Bill
+Frank,familiar with,Bill
+Frank,weak,The man
+Frank,lifted by,The man
+Frank,son,The man
+Frank,son,The man
+Frank,father of,The man's son
+Bill,rival of,Frank
+Bill,winner of,The competition
+The man,parent of,his son
+The man,weak,The man
+The man,lifted his son,his son
+The man,son of,Frank
+The large ball,crashed through,The table
+The large ball,made of,steel
+The large ball,crashed through,The table
+The delivery truck,overtook,The school bus
+The delivery truck,passed,The school bus
+The school bus,was passed by,The delivery truck
+The delivery truck,moved quickly,The school bus
+The man,son of,Frank
+Billy,obstructs,John
+John,is obstructed by,Billy
+Tom,threw,schoolbag
+Tom,threw to,Ray
+Tom,reached,top of the stairs
+Ray,received,schoolbag
+Sue,beat,Sally
+Sue,had,good start
+Sue,won,Sally
+Sue,was better than,Sally
+Sally,had,bad start
+The sculpture,rolled,off the shelf
+The sculpture,was not anchored,by The shelf
+The sculpture,rolled,because of The shelf
+The shelf,was not level,causing The sculpture to roll
+Sam,created,an arrangement
+Sam's drawing,was hung,above Tina's drawing
+Tina's drawing,was hung,below Sam's drawing
+Sam,created,Sam's drawing
+Tina,created,Tina's drawing
+Anna,studied,Anna's better performance
+Lucy,studied,Lucy's better performance
+Anna,is a friend,Lucy
+Tina,"is not explicitly related to any other entities in the text)
+- (Frank","sold, Tom, a toaster"
+Frank,is upset about,"Tom, a toaster"
+Jim,yelled at,Kevin
+Jim,comforted,Kevin
+The firemen,arrived after,The police
+The police,arrived first,The scene
+The firemen,are the primary responders,The scene
+The police,are not the primary responders,The scene
+Sam,"is not explicitly related to any other entities in the text)
+- (Tina",is not explicitly related to any other entities in the text
+Kevin,"is not explicitly related to any other entities in the text)
+- (Frank",is not explicitly related to any other entities in the text
+Jim,"is not explicitly related to any other entities in the text)
+- (Lucy",is not explicitly related to any other entities in the text
+Kevin,is being comforted by,Jim
+Pete,envies,Martin
+The sack of potatoes,is heavier than,The bag of flour
+The sack of potatoes,obstructs,The bag of flour
+The sack of potatoes,needs to be moved first,The bag of flour
+The older students,bully,The younger students
+The older students,are punished for bullying,The younger students
+The bottle,is emptied,The cup
+The bottle,is the source of water,The cup
+Susan,knows about,Ann's personal problems
+Susan,is nosy about,Ann
+The bottle,is poured from,The cup
+The cup,is filled with,water from the bottle
+Ann,knows,Susan
+Susan,knows,Ann's personal problems
+Ann,is prone to sharing personal problems with,Susan
+Susan,shares information about,Ann
+Sid,explains his theory to,Mark
+Sid,tries to convince,Mark
+Mark,is being convinced by,Sid
+Susan,tells,Ann about Ann's son's car accident
+Susan,has knowledge about,Ann's son's car accident
+Joe,is beaten at tennis by,his uncle
+Joe,is younger than,his uncle
+Joe's uncle,is 30 years older than,Joe
+painting,positioned on,wall
+painting,to the right of,bookcase
+oak tree,part of,painting
+oak tree,depicted in,painting
+oak tree,in,living room
+wall,has,gap
+wall,in front of,garden
+gap,allows,view of garden
+wall,breached,gap
+wall,behind,garden
+drain,cleaned,hair
+hair,causes,clog in drain
+meeting,started at,4:00
+meeting,ended at,4:30
+meeting,allowed,speaker to catch train
+train,delayed,fortunate for speaker
+pillar,between,speaker and stage
+pillar,blocks,view of stage
+pillar,cannot be seen around,by speaker
+house,has,oak tree
+garden,visible,through gap in wall
+garden,on the other side of,wall
+speaker,has,meeting
+speaker,attends,meeting
+speaker,catches,train
+speaker,observes,garden through gap in wall
+speaker,sees,pillar
+speaker,cannot see,stage due to pillar
+train,has,schedule
+speaker,follows,train schedule
+living room,contains,bookcase
+living room,contains,painting
+bookcase,contains,books and decorative items
+pillar,obstructs,speaker
+speaker,is positioned between,"pillar, stage"
+stage,is a raised platform for,performances
+pillar,is a common architectural feature,public space
+announcement,is made to,passengers
+announcement,is made through,speakers
+announcement,is intended to be heard by,people in the station
+subway,produces,rumbling
+subway,produces,screeching
+subway,produces,hissing
+subway,overpowers,announcement
+subway,disrupts,audio system
+rain,affects,concert
+rain,is a common occurrence,outdoor events
+rain,is the main focus of the sentence,concert
+rain,continues,until 10
+rain,started falling,"immediately precedes the pronoun ""it"""
+knife,is cleaned by,rag
+knife,is put in,drawer
+rag,is used to clean,knife
+Ann,asks,Mary
+Ann,is the one who has forgotten,information
+Ann,is the one initiating the conversation,Mary
+Mary,has the information,Ann
+library,is the place where information is sought,Ann
+passengers,hear,announcement
+speaker,is trying to listen to,announcement
+subway,interferes with,announcement
+subway,"makes announcement inaudible)
+30. (concert","is an event, public space"
+concert,continues,despite rain
+rain,is the primary reason,concert continues
+knife,is put in,trash
+knife,is the object being used,rag
+rag,is the object being stored,drawer
+Ann,is the one asking,Mary
+Mary,is the one providing,information
+information,is about,library
+Ann,is seeking,information
+Mary,has,information
+Ann,forgets,information
+Mary,provides,"information to, Ann"
+library,is the place,information is sought
+Ann,is the one who needs,information
+Mary,is the one who has,information
+Ann,asks,"Mary for, information"
+Ann,is the one who is confused,Mary
+Mary,is the one who is clear,information
+Ann,is the one who is seeking,clarification
+Mary,provides,"clarification to, Ann"
+Ann,is,the questioner
+Ann,asks,Mary
+Mary,is,the person being asked
+Ann,had forgotten,the time the library closes
+Ann,is,"the one referred to by the pronoun ""she"""
+Ann,is,likely to be the one who had forgotten the information
+The speaker,is,retrieving an object from the backpack
+The speaker,is,taking an action to make the object more accessible
+The water bottle,is,the object being retrieved from the backpack
+The speaker,is,taking the water bottle out of the backpack
+The water bottle,is,being made handy
+The speaker,is,taking an action to make the water bottle more accessible
+The backpack,is,being made lighter
+The speaker,is,taking the water bottle out of the backpack to make the backpack lighter
+The water bottle,is,the heaviest item in the backpack
+Removing the water bottle,"would make the backpack lighter)
+17. (The backpack","is, the container holding the water bottle"
+The water bottle,is,an item in the backpack
+The speaker,is,putting the pot on the shelf
+The pot,is,the object being put on the shelf
+The shelf,is,too high for the pot
+The pot,is,being placed on the shelf
+The speaker,is,unable to put the pot on the shelf
+The speaker,owns,the map
+The speaker,"has confidence in the map's ability to locate the building)
+26. (The map","is, being used to locate the building"
+The map,is,the tool being used to identify the building
+The building,is,the target being identified by the map
+The speaker,is,confident that the map will be able to locate the building
+Bob,paid for,Charlie's college education
+Bob,is,the agent performing the action of paying for Charlie's education
+Charlie,is,the patient receiving the action of being paid for his education
+Bob,is,"the one referred to by the pronoun ""He"""
+Bob,Paid for,Charlie
+Bob,Benefactor,Charlie
+Charlie,Recipient,Bob
+Charlie,Hurt,Himself
+Charlie,Ungrateful,Himself
+Adam,Had a run of good luck,Himself
+Adam,Lost,Himself
+Adam,Was behind,Bob
+Adam,Replaced by,Bob
+Bob,Replaced,Adam
+The con artist,Fooled,Sam
+The con artist,Succeeded,Sam
+the fish,ate,the worm
+the fish,was hungry,the worm
+the fish,was tasty,it
+the key,was blocked by,the chewing gum
+the key,could not be inserted into,the keyhole
+the chewing gum,was blocking,the key
+the cat,climbed,the tree
+the dog,was waiting,the cat
+Bob,is-assisted-by,Carl
+Carl,is-assisting,Bob
+Mark,told-lies-about,Pete
+Pete,wrote-about,Mark
+Pete,should-have-been-more-skeptical,Mark
+Mark,deceived,Pete
+Joe,sold,old house
+Joe,bought,new house
+Joe,will-move-into,new house
+Joe,will-move-out-of,old house
+Amy's parents,are-unhappy,Sam and Amy
+Amy's parents,are-concerned-about,Sam and Amy's age
+Paul,wrote,popular books
+Paul's books,are-liked-by,many people
+Paul,wrote,Paul's books
+Mary,played,flute
+Mary,played,piece
+Mary,played,composition
+Mary,played,song
+Mary,played,music
+Mary,has,piece
+Sam,sat,chair
+Sam,used,piano
+Sam,pulled,chair
+Sam,stood,piano
+Sam,had,piano
+I,carried,newspaper
+I,kept,newspaper
+I,carried,backpack
+Sara,borrowed,book
+Sara,read,book
+Sara,wrote,article
+Sara,read,article
+Jane,knocked,Susan
+Jane,was disappointed,She
+Susan,was absent,She
+Susan,answered,door
+Jane,invited,her
+Sam,took classes,Adam
+Sam,was eager,he
+Adam,was known,he
+the path,was blocked,it
+the path,led to,the lake
+the wind,knocked down,the sand castle
+the flag,was placed in,the highest tower of the sand castle
+the sand castle,was destroyed by,the tide
+Jane,was the one,knocking on the door
+Susan,was the owner,of the house
+Susan,invited,Jane to come out
+Susan,was already at,her home
+Jane,initiated contact,with Susan
+Adam,was the teacher,of French classes
+Sam,was the student,of Adam
+lake,blocked,path
+lake,destination,speaker
+lake,destination,others
+sun,covered,cloud
+sun,visible,speaker
+cloud,obstructed,sun
+cloud,gone,speaker
+lake,safer,ocean beach
+ocean beach,dangerous,shark
+ocean beach,location,shark
+ocean beach,location,speaker
+shepherds,transformed,golfers
+shepherds,subjects,painting
+shepherds,human,shepherds
+shepherds,subjects,Sam
+shepherds,subjects,painting
+Mary,parent,Anne
+Mary,action,tucking
+Mary,subject,action
+Mary,action,bed
+Mary,action,sleep
+Mary,relationship,daughter
+Mary,action,daughter
+Mary,CAREGIVER,Anne
+Fred,FRIEND,Alice
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Cooper,DECEASED,1760
+Arnold,INFLUENCED,Jackson
+Arnold,LIVED,TWO CENTURIES EARLIER
+Arnold,INFLUENCED,Jackson
+Arnold,INFLUENCE,Jackson
+Arnold,PRECEDED,Jackson
+Jackson,FOLLOWED,Arnold
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Arnold,INFLUENCED,Jackson
+Arnold,INFLUENCED,Jackson
+Cooper,DECEASED,1760
+Thomson,VISITED,Cooper
+Thomson,VISITED,Cooper's grave
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Arnold,INFLUENCED,Jackson
+Arnold,INFLUENCED,Jackson
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper
+Thomson,VISITED,Cooper's grave
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Arnold,INFLUENCED,Jackson
+Arnold,INFLUENCED,Jackson
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Arnold,LIVED,TWO CENTURIES EARLIER
+Arnold,LIVED,TWO CENTURIES EARLIER
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Arnold,INFLUENCED,Jackson
+Arnold,INFLUENCED,Jackson
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Arnold,LIVED,TWO CENTURIES EARLIER
+Arnold,LIVED,TWO CENTURIES EARLIER
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+Thomson,ALIVE,1765
+Thomson,ALIVE,1765
+Thomson,VISITED,Cooper's grave
+Thomson,VISITED,Cooper
+police,arrested,gang members
+police,trying to stop,drug trade
+gang members,trying to run,drug trade
+police,against,gang members
+cake,stored in,refrigerator
+cake,has a lot of butter in,refrigerator
+crutches,used by,ankles
+crutches,aid,ankles
+crutches,will become unnecessary,ankles
+sponsors,outnumbered by,opponents
+sponsors,surprised to find,opponents
+sponsors,in the minority,opponents
+sponsors,expected to be the majority,town hall
+people,discussed,cookies
+cookies,preferred,people
+oatmeal cookies,preferred,people
+chocolate chip cookies,less preferred,people
+oatmeal cookies,implied,production
+production,increased,oatmeal cookies
+baker,makes,cookies
+baker,compares,chocolate chip cookies
+baker,decides,production
+baker,decides,oatmeal cookies
+baker,uses,pen
+pen,used,coffee
+pen,gets full,coffee
+pen,used,ink
+coffee,affected,pen
+pin,stuck,carrot
+pin,left a hole,carrot
+carrot,has,hole
+pin,pulled,out
+pin,has,hole
+chairs,compared,copies of the newsletter
+chairs,more,copies of the newsletter
+copies of the newsletter,insufficient,people
+chairs,insufficient,copies of the newsletter
+chairs,have,copies of the newsletter
+newsletter,placed,chairs
+people,sit,chairs
+chairs,in,auditorium
+auditorium,has,chairs
+pin,stuck,through carrot
+carrot,pierced,pin
+carrot,has,pin
+pin,removed,from carrot
+carrot,has,pin
+pen,used,coffee
+coffee,mixed,pen
+pen,used,ink
+ink,affected,pen
+pen,gets full,coffee
+pen,affected,coffee
+chairs,compared,copies of the newsletter
+chairs,more,copies of the newsletter
+copies of the newsletter,insufficient,people
+chairs,insufficient,copies of the newsletter
+chairs,have,copies of the newsletter
+newsletter,placed,chairs
+people,sit,chairs
+chairs,in,auditorium
+auditorium,has,chairs
+pin,stuck,carrot
+carrot,pierced,pin
+carrot,has,pin
+pen,used,coffee
+coffee,mixed,pen
+pen,used,ink
+ink,affected,pen
+pen,gets full,coffee
+pen,affected,coffee
+baker,decides,production
+baker,decides,oatmeal cookies
+baker,makes,oatmeal cookies
+baker,increases,production
+baker,increases,oatmeal cookies
+baker,uses,pen
+pen,used,coffee
+coffee,mixed,pen
+pen,used,ink
+ink,affected,pen
+pen,gets full,coffee
+pen,affected,coffee
+chairs,insufficient,copies of the newsletter
+copies of the newsletter,insufficient,people
+chairs,compared,copies of the newsletter
+chairs,more,copies of the newsletter
+copies of the newsletter,insufficient,people
+chairs,insufficient,copies of the newsletter
+chairs,have,copies of the newsletter
+newsletter,placed,chairs
+people,sit,chairs
+chairs,in,auditorium
+auditorium,has,chairs
+pin,stuck,carrot
+carrot,pierced,pin
+carrot,has,pin
+pen,used,coffee
+coffee,mixed,pen
+pen,used,ink
+ink,affected,pen
+pen,gets full,coffee
+pen,affected,coffee
+baker,decides,production
+baker,decides,oatmeal cookies
+baker,makes,oatmeal cookies
+baker,increases,production
+baker,increases,oatmeal cookies
+baker,uses,pen
+pen,used,coffee
+coffee,mixed,pen
+pen,used,ink
+ink,affected,pen
+pen,gets full,coffee
+pen,affected,coffee
+chairs,insufficient,copies of the newsletter
+copies of the newsletter,insufficient,people
+chairs,compared,copies of the newsletter
+chairs,more,copies of the newsletter
+copies of the newsletter,insufficient,people
+chairs,insufficient,copies of the newsletter
+chairs,have,copies of the newsletter
+newsletter,placed,chairs
+people,sit,chairs
+chairs,in,auditorium
+auditorium,has,chairs
+pin,stuck,carrot
+carrot,pierced,pin
+carrot,has,pin
+pen,used,coffee
+coffee,mixed,pen
+pen,used,ink
+ink,affected,pen
+pen,gets full,coffee
+pen,affected,coffee
+baker,decides,production
+baker,decides,oatmeal cookies
+baker,makes,oatmeal cookies
+baker,increases,production
+baker,increases,oatmeal cookies
+baker,uses,pen
+pen,used,coffee
+coffee,mixed,pen
+pen,used,ink
+ink,affected,pen
+pen,gets full,coffee
+pen,affected,coffee
+chairs,insufficient,copies of the newsletter
+copies of the newsletter,insufficient,people
+chairs,compared,copies of the newsletter
+chairs,more,copies of the newsletter
+copies of the newsletter,insufficient,people
+chairs,insufficient,copies of the newsletter
+chairs,have,copies of the newsletter
+newsletter,placed,chairs
+people,sit,chairs
+chairs,in,auditorium
+auditorium,has,chairs
+pin,stuck,carrot
+carrot,pierced,pin
+carrot,has,pin
+pen,used,coffee
+coffee,mixed,pen
+pen,used,ink
+ink,affected,pen
+pen,gets full,coffee
+pen,affected,coffee
+baker,decides,production
+baker,decides,oatmeal cookies
+baker,makes,oatmeal cookies
+baker,increases,production
+baker,increases,oatmeal cookies
+baker,uses,pen
+pen,used,coffee
+coffee,mixed,pen
+pen,used,ink
+ink,affected,pen
+pen,gets full,coffee
+pen,affected,coffee
+chairs,insufficient,copies of the newsletter
+copies of the newsletter,insufficient,people
+chairs,compared,copies of the newsletter
+chairs,more,copies of the newsletter
+copies of the newsletter,insufficient,people
+chairs,insufficient,copies of the newsletter
+chairs,have,copies of the newsletter
+newsletter,placed,chairs
+people,sit,chairs
+chairs,in,auditorium
+auditorium,has,chairs
+pin,stuck,carrot
+carrot,pierced,pin
+carrot,has,pin
+pen,used,coffee
+coffee,mixed,pen
+pen,used,ink
+ink,affected,pen
+pen,gets full,coffee
+pen,affected,coffee
+baker,decides,production
+baker,decides,oatmeal cookies
+baker,makes,oatmeal cookies
+baker,increases,production
+baker,increases,oatmeal cookies
+baker,uses,pen
+pen,used,coffee
+coffee,mixed,pen
+pen,used,ink
+ink,affected,pen
+pen,gets full,coffee
+pen,affected,coffee
+chairs,insufficient,copies of the newsletter
+copies of the newsletter,insufficient,people
+chairs,compared,copies of the newsletter
+chairs,more,copies of the newsletter
+copies of the newsletter,insufficient,people
+chairs,insufficient,copies of the newsletter
+chairs,have,copies of the newsletter
+newsletter,placed,chairs
+people,sit,chairs
+chairs,in,auditorium
+auditorium,has,chairs
+pin,stuck,carrot
+carrot,pierced,pin
+carrot,has,pin
+pen,used,coffee
+coffee,mixed,pen
+pen,used,ink
+ink,affected,pen
+pen,gets full,coffee
+pen,affected,coffee
+baker,decides,production
+baker,decides,oatmeal cookies
+baker,makes,oatmeal cookies
+baker,increases,production
+baker,increases,oatmeal cookies
+baker,uses,pen
+pen,used,coffee
+coffee,mixed,pen
+pen,used,ink
+ink,affected,pen
+pen,gets full,coffee
+pen,affected,coffee
+chairs,insufficient,copies of the newsletter
+copies of the newsletter,insufficient,people
+chairs,compared,copies of the newsletter
+chairs,more,copies of the newsletter
+copies of the newsletter,insufficient,people
+chairs,insufficient,copies of the newsletter
+chairs,have,copies of the newsletter
+newsletter,placed,chairs
+people,sit,chairs
+chairs,in,auditorium
+auditorium,has,chairs
+pin,stuck,carrot
+carrot,pierced,pin
+carrot,has,pin
+pen,used,coffee
+coffee,mixed,pen
+pen,used,ink
+ink,affected,pen
+pen,gets full,coffee
+pen,affected,coffee
+baker,decides,production
+baker,decides,oatmeal cookies
+baker,makes,oatmeal cookies
+baker,increases,production
+baker,increases,oatmeal cookies
+baker,uses,pen
+pen,used,coffee
+coffee,mixed,pen
+pen,used,ink
+ink,affected,pen
+pen,gets full,coffee
+pen,affected,coffee
+chairs,insufficient,copies of the newsletter
+copies of the newsletter,insufficient,people
+chairs,compared,copies of the newsletter
+chairs,more,copies of the newsletter
+copies of the newsletter,insufficient,people
+chairs,insufficient,copies of the newsletter
+chairs,have,copies of the newsletter
+newsletter,placed,chairs
+people,sit,chairs
+chairs,in,auditorium
+auditorium,has,chairs
+pin,stuck,carrot
+carrot,pierced,pin
+carrot,has,pin
+pen,used,coffee
+coffee,mixed,pen
+pen,used,ink
+ink,affected,pen
+pen,gets full,coffee
+pen,affected,coffee
+baker,decides,production
+baker,decides,oatmeal cookies
+baker,makes,oatmeal cookies
+baker,increases,production
+baker,increases,oatmeal cookies
+baker,uses,pen
+pen,used,coffee
+coffee,mixed,pen
+pen,used,ink
+ink,affected,pen
+pen,gets full,coffee
+pen,affected,coffee
+chairs,insufficient,copies of the newsletter
+copies of the newsletter,insufficient,people
+chairs,compared,copies of the newsletter
+chairs,more,copies of the newsletter
+copies of the newsletter,insufficient,people
+chairs,insufficient,copies of the newsletter
+chairs,have,copies of the newsletter
+newsletter,placed,chairs
+people,sit,chairs
+chairs,in,auditorium
+auditorium,has,chairs
+pin,stuck,carrot
+carrot,pierced,pin
+carrot,has,pin
+pen,used,coffee
+coffee,mixed,pen
+pen,used,ink
+ink,affected,pen
+pen,gets full,coffee
+pen,affected,coffee
+baker,decides,production
+baker,decides,oatmeal cookies
+baker,makes,oatmeal cookies
+baker,increases,production
+baker,increases,oatmeal cookies
+baker,uses,pen
+pen,used,coffee
+coffee,mixed,pen
+pen,used,ink
+ink,affected,pen
+pen,gets full,coffee
+pen,affected,coffee
+chairs,insufficient,copies of the newsletter
+copies of the newsletter,insufficient,people
+chairs,compared,copies of the newsletter
+chairs,more,copies of the newsletter
+copies of the newsletter,insufficient,people
+chairs,insufficient,copies of the newsletter
+chairs,have,copies of the newsletter
+newsletter,placed,chairs
+people,sit,chairs
+chairs,in,auditorium
+auditorium,has,chairs
+pin,stuck,carrot
+carrot,pierced,pin
+carrot,has,pin
+pen,used,coffee
+coffee,mixed,pen
+pen,used,ink
+ink,affected,pen
+pen,gets full,coffee
+pen,affected,coffee
+baker,decides,production
+baker,decides,oatmeal cookies
+baker,makes,oatmeal cookies
+baker,increases,production
+baker,increases,oatmeal cookies
+baker,uses,pen
+pen,used,coffee
+coffee,mixed,pen
+pen,used,ink
+ink,affected,pen
+pen,gets full,coffee
+pen,affected,coffee
+chairs,insufficient,copies of the newsletter
+copies of the newsletter,insufficient,people
+chairs,compared,copies of the newsletter
+chairs,more,copies of the newsletter
+copies of the newsletter,insufficient,people
+chairs,insufficient,copies of the newsletter
+chairs,have,copies of the newsletter
+newsletter,placed,chairs
+people,sit,chairs
+chairs,in,auditorium
+auditorium,has,chairs
+pin,stuck,carrot
+carrot,pierced,pin
+carrot,has,pin
+pen,used,coffee
+coffee,mixed,pen
+pen,used,ink
+ink,affected,pen
+pen,gets full,coffee
+pen,affected,coffee
+baker,decides,production
+baker,decides,oatmeal cookies
+baker,makes,oatmeal cookies
+baker,increases,production
+Steve,follows,Fred's example
+Steve,emulates,Fred's behavior
+Steve,admires,Fred
+Fred,influences,Steve
+Steve,follows,Fred
+Fred,influences,Steve
+The table,won't fit,the doorway
+The table,is restricted by,the doorway
+The table,is obstructed,the doorway
+The table,is a piece of,furniture
+The table,is made of,materials
+The doorway,is an opening,the wall
+The doorway,is framed by,the doorframe
+The table,passes through,the doorway
+"The pronoun ""it""",refers to,The table
+"The pronoun ""He""",refers to,Fred
+"The pronoun ""He""",refers to,Steve
+"The pronoun ""it""",refers to,The pen

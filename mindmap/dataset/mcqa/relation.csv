@@ -1,0 +1,90 @@
+Entity1,Relation,Entity2
+John,stores food,fridge
+John,food,fridge
+John,organic food,energy
+John,processed food,energy
+John,organic food,energy
+John,processed food,energy
+John,organic food,energy
+John,processed food,energy
+John,organic food,energy
+John,processed food,energy
+John,organic food,energy
+John,processed food,energy
+John,organic food,energy
+John,processed food,energy
+John,organic food,energy
+John,processed food,energy
+John,organic food,energy
+John,processed food,energy
+John,organic food,energy
+John,processed food,energy
+John,organic food,energy
+John,processed food,energy
+John,stores food,fridge
+sun,tan,outdoors
+tired,late,studying
+John,will watch,movie
+John,will go,shopping center
+Jenny,will feed,birds
+Jenny,will read,book
+Alice,will spend time with,friends
+James,will complete,race
+James,will improve,stamina
+Jill,will investigate,crime
+Alice,visits,library
+Alice,takes a break,library
+Jill,visits a park,park
+Jill,is unable to visit a museum,museum
+Jill,is able to go to a park,park
+John,is able to go shopping,shopping
+rock,is unable to go shopping,shopping
+Jill,is not playing football,football
+Jill,inability to play football,football
+Sara,owns,car
+James,speaks,Spanish
+John,is proficient in,violin
+Alexa,was honored with,Nobel Prize
+Raju,is proficient in,carpentry
+John,is experienced in,swimming
+Sheila,is skilled in,chess
+parents,recognition,individual
+individual,reward,parents
+individual,relationship,parents
+individual,life,parents
+individual,meal,ingredients
+individual,impression,friends
+dog,health,stroll
+stroll,happiness,dog
+tasks,deadline,reward
+effort,academic performance,grades
+grades,scholarship,individual
+effort,scholarship,individual
+helmet,injuries,person
+injuries,trauma,person
+degree,employability,individual
+degree,job,individual
+courses,degree,individual
+fatigue,is characterized by,exhaustion
+John,has,excitement
+John,has,anticipation
+John,has,infection
+John,will gain,weight
+John,is experiencing,anger
+John,has,injury
+injury,requires,rest
+John,will,rest
+John,does not visit,park
+John,has,car
+Karen,has,promotion
+Judy,does not have,car
+Lisa,has a pet dog,pet dog
+Samantha,is not required to pack,sunscreen
+elephants,have,brain
+Jenny,plays,basketball
+Anna,does not play,basketball
+David,does,cycling
+tigers,inhabit,jungle
+birds,have,wings
+cats,have,fur
+dogs,have,fur

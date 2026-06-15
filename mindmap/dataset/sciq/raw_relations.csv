@@ -1,0 +1,280 @@
+Entity1,Relation,Entity2
+Boron,Constitutes,Earth's crust
+Boron,Occurs in,Compounds with oxygen
+Boron,Distributed in,Volcanic regions
+Boron,Distributed in,Dry lake regions
+Boron,Reacts with,Fluorine
+Boron,Reacts with,Oxygen
+Boron,Forms,Boron trifluoride
+Boron,Forms,Boric oxide
+Boron,Reacts with,Magnesium
+Boron,Forms,Boron (95–98.5% pure
+Boron,Reacts with,Hydrochloric acid
+Boron,Forms,Boric acid
+Boric acid,Forms,B(OH
+Boric oxide,Reacts with,Magnesium powder
+Boric oxide,Forms,Boron
+Boron trichloride,Reacts with,Hydrogen
+Boron trichloride,Forms,Boron
+Boric acid,Forms,B(OH
+Boron,Is a component of,Borax
+Boron,Is a component of,Na2B4O7⋅10H2O
+Boron,Is a component of,BF3
+Boron,Is a component of,B2O3
+Boron,Reacts with,Tellurium
+Boron,Does not react with,Noble gases
+Boron,Reacts with,Nitric acid
+Boron,Reacts with,Sulfuric acid
+Boron,Does not react with,Nonoxidizing acids
+Boron compounds,React with,Water
+Boron compounds,Form,B(OH
+Boron,Is a component of,Chemical fertilizers
+Wetlands,Slow down,Runoff
+Wetlands,Filter,Runoff
+Wetlands,Provide,Breeding grounds
+Intrinsic muscles,Allow,Precise movements
+Intrinsic muscles,Originate,Hand
+Intrinsic muscles,Insert,Hand
+Thenar muscles,Act on,Thumb
+Hypothenar muscles,Act on,Little finger
+Intermediate muscles,Act on,Fingers
+Lumbrical,Act on,Fingers
+Palmar interossei,Act on,Fingers
+Dorsal interossei,Act on,Fingers
+Testing a hypothesis,Requires,Observations
+Testing a hypothesis,Requires,Experiments
+Covalent bond,Produces,Molecule's electron system
+Covalent bond,Is stronger than,Van der Waals interactions
+Covalent bond,Takes more energy to break,Van der Waals interactions
+Covalent bond,Is more stable,Unbounded form
+Covalent bond,May not withstand,Energy delivered through collisions
+Bond energy,Refers to,Energy needed to break a bond
+Molecule,Is stable if,Bond energies are high enough
+Molecule,Has a van der Waals surface,Covalent bond
+Van der Waals surface,Merges,Atoms in a covalent bond
+Atoms,Form a covalent bond,Van der Waals surface
+2methylpropane,Has a van der Waals surface,Covalent bond
+Molecules,Have distinct properties,Atoms from which they are composed
+Molecule,Has properties based on,Shape
+Hydrogen,Can form,One covalent bond
+Oxygen,Can form,Two covalent bonds
+Sulfur,Can form,Two covalent bonds
+Nitrogen,Can form,Three covalent bonds
+Carbon,Can form,Four covalent bonds
+Phosphorus,Can form,Five covalent bonds
+Biological systems,Contain,Distinct types of molecules
+Biological systems,Contain,Thousands of atoms
+Generations,Alternate,Haploid and diploid
+Generations,Allow,Asexual and sexual reproduction
+Asexual reproduction,Produces,Haploid individuals
+Asexual reproduction,Produces,Gametophytes
+Sexual reproduction,Produces,Diploid individuals
+Sexual reproduction,Produces,Sporophytes
+Zygote,Forms,Result of fertilization
+Sperm,Fertilizes,Egg
+Egg,Fertilizes,Sperm
+Immune system,Attacks,Allergen
+Immune system,Causes,Symptoms of allergy
+Allergen,Causes,Symptoms of allergy
+Circulatory systems,Link,Exchange surfaces with cells
+Circulatory systems,Exchange,Substances with cells
+Enzymes,Are critical to,Body's healthy functioning
+Enzymes,Assist,Breakdown of food
+Enzymes,Assist,Conversion of food to energy
+Chemical reactions,Are facilitated by,Enzymes
+Chemical fertilizers,Prevent,Dead zones in bodies of water
+Chemical fertilizers,Are used in,Agriculture
+Wetlands,Preserve,Biodiversity
+Wetlands,Provide,Habitat for organisms
+Wetlands,Filter,Runoff
+Wetlands,Slow down,Runoff
+Earth,Contains,Thorium
+Thorium,Decays to,Protactinium
+Protactinium,Is a product of,Thorium decay
+DNA,Is controlled by,Regulatory proteins
+Regulatory proteins,Bind to,Regulatory elements
+Regulatory proteins,Activate or repress,Transcription
+Transcription,Is controlled by,Regulatory proteins
+Energy,Is produced from,Food
+Energy,Is produced from,Chemical reactions
+Biological systems,Contain,Molecules
+Biological systems,Contain,Atoms
+Molecules,Have distinct properties,Atoms from which they are composed
+Atoms,Form a covalent bond,Van der Waals surface
+Van der Waals surface,Merges,Atoms in a covalent bond
+Hydrogen,Is a component of,Molecules
+Oxygen,Is a component of,Molecules
+Sulfur,Is a component of,Molecules
+Nitrogen,Is a component of,Molecules
+Carbon,Is a component of,Molecules
+Phosphorus,Is a component of,Molecules
+Biological systems,Contain,Distinct types of molecules
+Generations,Alternate,Haploid and diploid
+Generations,Allow,Asexual and sexual reproduction
+Asexual reproduction,Produces,Haploid individuals
+Asexual reproduction,Produces,Gametophytes
+Sexual reproduction,Produces,Diploid individuals
+Sexual reproduction,Produces,Sporophytes
+Zygote,Forms,Result of fertilization
+Sperm,Fertilizes,Egg
+Egg,Fertilizes,Sperm
+Immune system,Attacks,Allergen
+Immune system,Causes,Symptoms of allergy
+Allergen,Causes,Symptoms of allergy
+Circulatory systems,Link,Exchange surfaces with cells
+Circulatory systems,Exchange,Substances with cells
+Enzymes,Are critical to,Body's healthy functioning
+Enzymes,Assist,Breakdown of food
+Enzymes,Assist,Conversion of food to energy
+Chemical reactions,Are facilitated by,Enzymes
+Chemical fertilizers,Prevent,Dead zones in bodies of water
+Chemical fertilizers,Are used in,Agriculture
+Wetlands,Preserve,Biodiversity
+Wetlands,Provide,Habitat for organisms
+Wetlands,Filter,Runoff
+Wetlands,Slow down,Runoff
+Earth,Contains,Protactinium
+Protactinium,Is a product of,Thorium decay
+DNA,Is controlled by,Regulatory proteins
+Regulatory proteins,Bind to,Regulatory elements
+Regulatory proteins,Activate or repress,Transcription
+Transcription,Is controlled by,Regulatory proteins
+Energy,Is produced from,Food
+Energy,Is produced from,Chemical reactions
+Biological systems,Contain,Molecules
+Biological systems,Contain,Atoms
+Molecules,Have distinct properties,Atoms from which they are composed
+Atoms,Form a covalent bond,Van der Waals surface
+Van der Waals surface,Merges,Atoms in a covalent bond
+Hydrogen,Is a component of,Molecules
+Oxygen,Is a component of,Molecules
+Sulfur,Is a component of,Molecules
+Nitrogen,Is a component of,Molecules
+Carbon,Is a component of,Molecules
+Phosphorus,Is a component of,Molecules
+Biological systems,Contain,Distinct types of molecules
+Generations,Alternate,Haploid and diploid
+Generations,Allow,Asexual and sexual reproduction
+Asexual reproduction,Produces,Haploid individuals
+Asexual reproduction,Produces,Gametophytes
+Sexual reproduction,Produces,Diploid individuals
+Sexual reproduction,Produces,Sporophytes
+Zygote,Forms,Result of fertilization
+Sperm,Fertilizes,Egg
+Egg,Fertilizes,Sperm
+Immune system,Attacks,Allergen
+Immune system,Causes,Symptoms of allergy
+Allergen,Causes,Symptoms of allergy
+Circulatory systems,Link,Exchange surfaces with cells
+Circulatory systems,Exchange,Substances with cells
+Enzymes,Are critical to,Body's healthy functioning
+Enzymes,Assist,Breakdown of food
+Enzymes,Assist,Conversion of food to energy
+Chemical reactions,Are facilitated by,Enzymes
+Chemical fertilizers,Prevent,Dead zones in bodies of water
+Chemical fertilizers,Are used in,Agriculture
+Wetlands,Preserve,Biodiversity
+Wetlands,Provide,Habitat for organisms
+Wetlands,Filter,Runoff
+Wetlands,Slow down,Runoff
+Earth,Contains,Silicon
+Silicon,Constitutes,Earth's crust
+Silicon,Is a component of,Compounds with oxygen
+Silicon,Is a component of,Compounds with boron
+Silicon,Is a component of,Compounds with oxygen
+Silicon,Is a component of,Compounds with boron
+Silicon,Reacts with,Oxygen
+Silicon,Reacts with,Boron
+Silicon,Forms,Silicon dioxide
+Silicon dioxide,Is a component of,Compounds with oxygen
+Silicon dioxide,Is a component of,Compounds with boron
+Silicon dioxide,Reacts with,Water
+Silicon dioxide,Forms,Silicic acid
+Silicic acid,Is a component of,Compounds with oxygen
+Silicic acid,Is a component of,Compounds with boron
+Silicic acid,Reacts with,Bases
+Silicic acid,Forms,Silicates
+Silicates,Are components of,Compounds with oxygen
+Silicates,Are components of,Compounds with boron
+Silicates,React with,Bases
+Silicates,Form,Insoluble compounds
+Silicates,Are used in,Ceramics
+Silicates,Are used in,Glass
+Silicates,Are used in,Paints
+Silicates,Are used in,Adhesives
+Silicates,Are used in,Pharmaceuticals
+Silicates,Are used in,Food additives
+Silicates,Are used in,Cosmetics
+Silicates,Are used in,Textiles
+Silicates,Are used in,Paper
+Silicates,Are used in,Plastics
+Silicates,Are used in,Rubber
+Silicates,Are used in,Elastomers
+Silicates,Are used in,Sealants
+Silicates,Are used in,Coatings
+Silicates,Are used in,Adhesives
+Silicates,Are used in,Composites
+Silicates,Are used in,Reinforced plastics
+Silicates,Are used in,Fibers
+Silicates,Are used in,Fillers
+Silicates,Are used in,Pigments
+Silicates,Are used in,Catalysts
+Silicates,Are used in,Adsorbents
+Silicates,Are used in,Ion exchange resins
+Silicates,Are used in,Desiccants
+Silicates,Are used in,Catalysts
+Silicates,Are used in,Adsorbents
+Silicates,Are used in,Ion exchange resins
+Silicates,Are used in,Desiccants
+Silicates,Are used in,Catalysts
+Silicates,Are used in,Adsorbents
+Silicates,Are used in,Ion exchange resins
+Silicates,Are used in,Desiccants
+Silicates,Are used in,Catalysts
+Silicates,Are used in,Adsorbents
+Silicates,Are used in,Ion exchange resins
+Silicates,Are used in,Desiccants
+Silicates,Are used in,Catalysts
+Silicates,Are used in,Adsorbents
+Silicates,Are used in,Ion exchange resins
+Silicates,Are used in,Desiccants
+Silicates,Are used in,Catalysts
+Silicates,Are used in,Adsorbents
+Silicates,Are used in,Ion exchange resins
+Silicates,Are used in,Desiccants
+Silicates,Are used in,Catalysts
+Silicates,Are used in,Adsorbents
+Silicates,Are used in,Ion exchange resins
+Silicates,Are used in,Desiccants
+Silicates,Are used in,Catalysts
+Silicates,Are used in,Adsorbents
+Silicates,Are used in,Ion exchange resins
+Silicates,Are used in,Desiccants
+Silicates,Are used in,Catalysts
+Silicates,Are used in,Adsorbents
+Silicates,Are used in,Ion exchange resins
+Silicates,Are used in,Desiccants
+Silicates,Are used in,Catalysts
+Silicates,Are used in,Adsorbents
+Silicates,Are used in,Ion exchange resins
+Silicates,Are used in,Desiccants
+Silicates,Are used in,Catalysts
+Silicates,Are used in,Adsorbents
+Silicates,Are used in,Ion exchange resins
+Silicates,Are used in,Desiccants
+Silicates,Are used in,Catalysts
+Silicates,Are used in,Adsorbents
+Silicates,Are used in,Ion exchange resins
+Silicates,Are used in,Desiccants
+Silicates,Are used in,Catalysts
+Silicates,Are used in,Adsorbents
+Silicates,Are used in,Ion exchange resins
+Silicates,Are used in,Desiccants
+Silicates,Are used in,Catalysts
+Silicates,Are used in,Adsorbents
+Silicates,Are used in,Ion exchange resins
+Silicates,Are used in,Desiccants
+Silicates,Are used in,Catalysts
+Silicates,Are used in,Adsorbents
+Silicates,Are used in,Ion exchange resins
+Silicates,Are used in,Desiccants

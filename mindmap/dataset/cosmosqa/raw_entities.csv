@@ -1,0 +1,1894 @@
+idx,Entity
+1,author
+2, notice
+3, couple
+4, internet service
+5, connecting
+6, job
+7, your
+8, narrator
+9, subject
+10, wildlife
+11, around
+12, feel
+13, passage
+14, narrator
+15, missing
+16, store
+17, Target
+18, I
+19, them
+20, Matt
+21, author
+22, Andy
+23, message
+24, reason
+25, narrator
+26, mobility problems
+27, air conditioner
+28, reason
+29," not needing 
+
+Note: There are repeated entities in the text"
+30, but they are listed here as they appear in the text.
+31,"Here are the extracted entities concatenated with commas:
+
+Adobe Flash"
+32, Miami Beach
+33, South Beach
+34, children
+35, parents
+36, Matt
+37, narrator
+38, Stormwatch
+39, future
+40, Flash
+41, extreme
+42, intensity
+43, process
+44, happening
+45, what
+46, narrator
+47, feel comfortable
+48, buy a new car
+49, post
+50, message
+51, reason
+52, narrator
+53, not
+54, at
+55, work
+56, today
+57, good time
+58, half-day
+59, work
+60, Sanzo
+61, Hakkai
+62, health
+63," Saiyuki 
+
+However"
+64," the following entities appear multiple times in the text: 
+- narrator 
+- work 
+- narrator 
+
+If you want to remove duplicates and keep only unique entities"
+65," the output would be:
+
+Adobe Flash"
+66, Miami Beach
+67, South Beach
+68, children
+69, parents
+70, Matt
+71, narrator
+72, Stormwatch
+73, future
+74, extreme
+75, intensity
+76, process
+77, happening
+78, what
+79, feel comfortable
+80, buy a new car
+81, post
+82, message
+83, reason
+84, at
+85, good time
+86, half-day
+87, Sanzo
+88, Hakkai
+89, health
+90, Saiyuki
+91,"Here are the extracted entities concatenated with commas:
+
+Journey to the West"
+92, Hakkai
+93, Sanzo
+94, fact
+95, person
+96, situation
+97, I
+98, will
+99, do
+100, next
+101, narrator
+102, free time
+103, doing
+104, girl
+105, marbles
+106, boy
+107, interested
+108, may
+109, have
+110, been
+111, left
+112, room
+113, why
+114, catch up on sleep
+115, pet
+116, trying to escape
+117, Baxter
+118, wander
+119, bar
+120, lunch time
+121, whole
+122, health
+123, China
+124, series
+125, reason
+126, evidence
+127, observation
+128, context
+129, possibilities
+130, relationships
+131, employment
+132, circumstances
+133, environment
+134, experiences
+135, modal verb
+136, future
+137, intention
+138, possibility
+139, action
+140, task
+141, adverb
+142, temporal sequence
+143, protagonist
+144, main character
+145, periods
+146, leisure activities
+147, relaxation
+148, entertainment
+149, creative pursuits
+150, female
+151, child
+152, young woman
+153, male
+154, young man
+155, balls
+156, glass
+157, stone
+158, plastic
+159, attraction
+160, liking
+161, desire
+162, activities
+163, past
+164, speaker
+165, experiences
+166, uncertainty
+167, linking verb
+168, state
+169, being
+170, completed action
+171, departure
+172, location
+173, justification
+174, explanation
+175, sleep deprivation
+176, sleep deficit
+177, sleep schedule
+178, sleep disorders
+179, lifestyle habits
+180, sleep quality
+181, compensation
+182, body
+183, natural sleep-wake cycle
+184, working hours
+185, travel
+186, stress
+187, anxiety
+188, domesticated animal
+189, companionship
+190, entertainment
+191, boredom
+192, health issues
+193, freedom
+194, robot
+195, robot or pet
+196, establishment
+197, socializing
+198, beverages
+199, alcoholic beverages
+200, period
+201, time of day
+202, meal
+203, break
+204, period of time.
+205,1. 1 pm
+206, 2 pm
+207, culture
+208, location
+209, whole
+210, activity
+211, task
+212, lunch time
+213, occurred
+214, event
+215, action
+216, consequence
+217, before
+218, call
+219, phone call
+220, summons
+221, invitation
+222, communication
+223, request
+224, reason
+225, trip
+226, group
+227, individual
+228, family
+229, friends
+230, colleagues
+231, man
+232, girl
+233, relationship
+234, move
+235, Mrs. Jung
+236, Junsu
+237, Jaejoong
+238, K-pop
+239, JYJ
+240, text
+241, code
+242, security
+243, authentication
+244, people
+245, like
+246, fruit
+247, preferences
+248, opinions
+249, taste
+250, battery
+251, die
+252, device
+253, energy
+254, voltage
+255, current
+256, narrator
+257, happy
+258, quiet
+259, Labor Day
+260, honor
+261, holiday
+262, workforce
+263, friends
+264, working
+265, hard
+266, narrator
+267, effort
+268, task
+269, activity
+270, he
+271, goodbye
+272, needs
+273, place
+274, relationship
+275," activity 
+
+Note: The list of extracted entities is quite long and seems to be a collection of multiple questions. If you would like to extract entities from a specific question"
+276, please let me know which one you would like to focus on.
+277,"Here are the extracted entities concatenated with commas:
+
+person"
+278, narrator
+279, farewell
+280, break-up
+281, job
+282, location
+283, circumstances
+284, conflict
+285, obligation
+286, mentorship
+287, teaching
+288, guidance
+289, relationship
+290, human being
+291, abstract concept
+292, object
+293, story
+294, protagonist
+295, main character
+296, authority
+297, expertise
+298, knowledge
+299, skills
+300, wager
+301, gamble
+302, game
+303, chance
+304, money
+305, risk
+306, reward
+307, stakes
+308, consequences
+309, event
+310, occurrence
+311, happening
+312, passage
+313, writing
+314, text
+315, narrative
+316, description
+317, context
+318, passage
+319, narrator
+320, attitude
+321, disposition
+322, outlook
+323, tone
+324, perspective
+325, standard
+326, excellence
+327, superiority
+328, hobby
+329, activity
+330, profession
+331, work
+332, enjoyment
+333, interest
+334, character
+335, Harry
+336, windfall
+337, inheritance
+338, money
+339, cash
+340, expenses
+341, income
+342, financial difficulties
+343, road
+344, closures
+345, excitement
+346, thrill
+347, rollercoaster
+348, skateboard
+349, onomatopoeic
+350, expression
+351, mother
+352, yell
+353, children
+354, behavior
+355, discipline
+356, misbehavior
+357, incident
+358, credit cards
+359, payment card
+360, financial institutions
+361, services
+362, bye-bye
+363, time
+364, sequence
+365, events
+366, digital payment technologies
+367, consumer behavior
+368, financial regulations
+369, Olympics
+370, sporting event
+371, athletes
+372, sports
+373, history
+374, culture
+375, perplexed
+376, confused
+377, individual
+378, perspective
+379," reaction.
+
+However"
+380," here are the entities grouped by category and concatenated with commas:
+
+**People:**
+person"
+381, narrator
+382, Harry
+383, mother
+384, children
+385," athletes
+
+**Concepts:**
+farewell"
+386, break-up
+387, job
+388, location
+389, circumstances
+390, conflict
+391, obligation
+392, mentorship
+393, teaching
+394, guidance
+395, relationship
+396, human being
+397, abstract concept
+398, object
+399, story
+400, protagonist
+401, main character
+402, authority
+403, expertise
+404, knowledge
+405, skills
+406, wager
+407, gamble
+408, game
+409, chance
+410, money
+411, risk
+412, reward
+413, stakes
+414, consequences
+415, event
+416, occurrence
+417, happening
+418, passage
+419, writing
+420, text
+421, narrative
+422, description
+423, context
+424, passage
+425, attitude
+426, disposition
+427, outlook
+428, tone
+429, perspective
+430, standard
+431, excellence
+432, superiority
+433, hobby
+434, activity
+435, profession
+436, work
+437, enjoyment
+438, interest
+439, windfall
+440, inheritance
+441, cash
+442, expenses
+443, income
+444, financial difficulties
+445, financial institutions
+446, services
+447, digital payment technologies
+448, consumer behavior
+449," financial regulations
+
+**Places:**
+road"
+450," Olympics
+
+**Things:**
+credit cards"
+451, payment card
+452, skateboard
+453, rollercoaster
+454, credit card issuer
+455, cash
+456," money
+
+**Expressions:**
+Wheeeeeee"
+457, go bye-bye
+458," be gone
+
+**Events:**
+departure"
+459, break-up
+460, job
+461, Olympics
+462," road closures
+
+**Feelings:**
+excitement"
+463, thrill
+464, perplexed
+465, confused
+466, exasperated
+467, angry
+468, enjoyment
+469,"Here are the extracted entities concatenated with commas:
+
+children"
+470, individual
+471, knowledge
+472, values
+473, life experiences
+474, death
+475, relationships
+476, personal struggles
+477, female person
+478, entity
+479, animal
+480, pet
+481, species
+482, personality
+483, interests
+484, values
+485, narrator
+486, story
+487, character
+488, author
+489, fact
+490, attribute
+491, quality
+492, options
+493, speaker
+494, man
+495, conversation
+496, pause
+497, interruption
+498, type
+499, animal
+500, classification
+501, biology
+502, living organisms
+503, characteristics
+504, physical appearance
+505, behavior
+506, habitat
+507, evolutionary relationships
+508, mammal
+509, bird
+510, reptile
+511, amphibian
+512, fish
+513, person
+514, fact
+515, evidence
+516, observation
+517, public figure
+518, historical figure
+519, achievements
+520, actions
+521, leather pants
+522, fishnets
+523, clothing
+524, fashion
+525, outfit
+526, style
+527, decision
+528, choice
+529, speaker's kids
+530, door
+531, Kirby saleswoman
+532, family
+533, domestic setting
+534, interaction
+535, entry
+536, sales representative
+537, vacuum cleaner manufacturer
+538, snatch
+539, bottle
+540, drink
+541, liquid
+542, person
+543, Lauren
+544, narrator
+545, story
+546, account
+547, passage
+548, transition
+549, event
+550, outcome
+551, consequence
+552, result
+553, sequence
+554, development
+555, prediction
+556, journey
+557, sequence of events
+558, Frodo
+559, Middle-earth
+560, J.R.R. Tolkien
+561, The Lord of the Rings
+562, hobbit
+563, One Ring
+564, Sauron
+565, cultural icon
+566, courage
+567, determination
+568, fest
+569, celebration
+570, festival
+571, music
+572, food
+573, entertainment
+574, suffix
+575, character
+576, protagonist
+577, homeland
+578, dark lord
+579,"Here are the extracted entities concatenated with commas:
+
+Frodo"
+580, Hillary Clinton
+581, experience
+582, win
+583, feel
+584, decision
+585, this
+586, How
+587, may
+588, I
+589, be
+590, feeling
+591, now
+592, speaker
+593, play
+594, large audience
+595, religion
+596, narrator
+597, sluggish
+598, appear
+599, Arwen
+600, show
+601, what
+602, you
+603, did
+604, you
+605, got
+606, home
+607, speaker
+608, fact
+609, man
+610, grabbed
+611, arm
+612, Lord of the Rings
+613, J.R.R. Tolkien
+614, The Lord of the Rings series
+615, United States
+616, Hillary
+617, Senate
+618, State
+619, President
+620, election
+621, competition
+622, music
+623, cosplay
+624, activities
+625, skills
+626, knowledge
+627, wisdom
+628, qualifications
+629, position
+630, First Lady
+631, Senator
+632, Secretary of State
+633, presidency
+634, campaign
+635, public perception
+636, emotions
+637, intuition
+638, empathy
+639, introspection
+640, self-awareness
+641, presentation
+642, lecture
+643, performance
+644, group
+645, people
+646, drama
+647, actors
+648, stage
+649, performance
+650, event
+651, theatrical
+652, well-attended
+653, well-received
+654, beliefs
+655, practices
+656, rituals
+657, worship
+658, higher power
+659, powers
+660, story
+661, character
+662, perspective
+663, written
+664, oral
+665, thoughts
+666, character
+667, context
+668, J.R.R. Tolkien's
+669, series
+670, fantasy
+671, theme
+672, TV
+673, film
+674, adaptation
+675, fiction
+676, residence
+677, dwelling
+678, person
+679, communication
+680, thoughts
+681, opinions
+682, information
+683, statement
+684, assertion
+685, evidence
+686, observation
+687, character
+688, trait
+689, attribute
+690, human being
+691, adult male
+692, forceful
+693, body part
+694, shoulder
+695, hand
+696, situation.
+697,narrator
+698, fond
+699, coach
+700, bored
+701, traveling
+702, Japan
+703, comfort zone
+704, type
+705, news
+706, he
+707, feel
+708, comments
+709, contacts
+710, stuck
+711, eyeballs
+712, narrator
+713, work
+714, trash TV
+715, John
+716, train
+717, gets on
+718, how
+719, may
+720, I
+721, feeling
+722, cute t-shirt
+723, classmate
+724, wild fern scented candle
+725, woman
+726, person
+727, story
+728, anecdote
+729, character
+730, activity
+731, team
+732, sport
+733, endeavor
+734, guidance
+735, support
+736, expertise
+737, emotions
+738, sensations
+739, statements
+740, remarks
+741, lenses
+742, eyes
+743, vision
+744, problem
+745, context
+746, situation
+747, occupation
+748, profession
+749, role
+750, responsibilities
+751, activities
+752, commentary
+753, voiceover
+754, media
+755, programming
+756, taste
+757, substance
+758, transportation
+759, location
+760, behavior
+761, decision-making
+762, journey
+763, emotions
+764, state
+765, permission
+766, possibility
+767, experience
+768, feelings
+769, emotions
+770, physical
+771, psychological
+772, gift
+773, recipient
+774, academic
+775, social
+776, context
+777, interest
+778, family
+779, member
+780, nature
+781, setting.
+782,"Here are the extracted entities concatenated with commas:
+
+speaker"
+783, story
+784, next
+785, Joey
+786, Justin
+787, excited
+788, plausible fact
+789, me
+790, may be
+791, narrator
+792, driving
+793, others
+794, myself
+795, driver
+796, commute
+797, slow
+798, perform
+799, school
+800, woman
+801, tram stop
+802, what
+803, happened
+804, last night
+805, Jack
+806, stay
+807, day or two
+808, tired
+809, anemia
+810, diabetes
+811, hypothyroidism
+812," depression 
+
+However"
+813, some of the entities extracted are types (e.g.
+814, excited
+815, tired)
+816, which may not be what you are looking for. If you are looking for entities that are people
+817, places
+818, organizations
+819, or things
+820," here is the revised list:
+
+speaker"
+821, Joey
+822, Justin
+823, narrator
+824, driver
+825, woman
+826," Jack 
+
+If you are looking for a more comprehensive list of entities that includes abstract concepts"
+827," here is the revised list:
+
+speaker"
+828, story
+829, next
+830, Joey
+831, Justin
+832, excited
+833, plausible fact
+834, me
+835, may be
+836, narrator
+837, driving
+838, others
+839, myself
+840, driver
+841, commute
+842, slow
+843, perform
+844, school
+845, woman
+846, tram stop
+847, what
+848, happened
+849, last night
+850, Jack
+851, stay
+852, day or two
+853, tired
+854, anemia
+855, diabetes
+856, hypothyroidism
+857," depression 
+
+Note that the list may still contain some abstract concepts that are not what you are looking for. If you can provide more context or clarify what you are looking for"
+858, I can try to provide a more accurate list of entities.
+859,Here are the entities extracted from the text
+860," concatenated with commas:
+
+Africa"
+861, Asia
+862, mammal
+863, light
+864, photography
+865, narrator
+866, career
+867, verb
+868, decision
+869, intention
+870, move
+871, rooms
+872, space
+873, renovations
+874, discomfort
+875, sleep
+876, seeing
+877, over and over
+878, nightmares
+879, thoughts
+880, insomnia
+881, keys
+882, bowl
+883, counter
+884, quietly
+885, terrorists
+886, attack
+887, violence
+888, civilians
+889, communities
+890, peace
+891, stability
+892, something
+893, done
+894, action
+895, behavior
+896, animal
+897, home
+898, writer
+899, help
+900, offer
+901, assistance
+902, man
+903," man moves in.
+
+However"
+904, the output format you requested seems to be looking for a list of entities without duplicates
+905," so here is the list of unique entities:
+
+Africa"
+906, Asia
+907, mammal
+908, light
+909, photography
+910, narrator
+911, career
+912, verb
+913, decision
+914, intention
+915, move
+916, rooms
+917, space
+918, renovations
+919, discomfort
+920, sleep
+921, seeing
+922, over and over
+923, nightmares
+924, thoughts
+925, insomnia
+926, keys
+927, bowl
+928, counter
+929, quietly
+930, terrorists
+931, attack
+932, violence
+933, civilians
+934, communities
+935, peace
+936, stability
+937, something
+938, done
+939, action
+940, behavior
+941, animal
+942, home
+943, writer
+944, help
+945, offer
+946, man.
+947,Here are the entities extracted from the text
+948," concatenated with commas:
+
+narrator"
+949, diet
+950, type
+951, veganism
+952, keto
+953, clubs
+954, dinner date
+955, how
+956, may
+957, I
+958, be
+959, feeling
+960, now
+961, writing
+962, letter
+963, aunt
+964, good day
+965, traveler
+966, explanation
+967, suspicious
+968, surprise
+969, friend
+970, pleased
+971," tired
+
+However"
+972, if you want to group the entities into categories (e.g.
+973, person
+974, place
+975, organization
+976, concept)
+977," here is the list:
+
+**Person:**
+narrator"
+978, aunt
+979, friend
+980," traveler
+
+**Concept:**
+diet"
+981, type
+982, veganism
+983, keto
+984, dinner date
+985, explanation
+986, surprise
+987, pleased
+988," tired
+
+**Activity:**
+writing"
+989, letter
+990," clubs
+
+**Emotion:**
+feeling"
+991," good day
+
+**Relationship:**
+aunt"
+992," friend
+
+**Other:**
+how"
+993, may
+994, I
+995, be
+996, now
+997,"Here are the extracted entities concatenated with commas:
+
+stranger"
+998, compliment
+999, you
+1000, situation
+1001, fact
+1002, may be
+1003, which
+1004, of
+1005, the
+1006, narrator
+1007, writer
+1008, trail
+1009, break-up
+1010, happy
+1011, they
+1012, still
+1013, girls
+1014, end of the night
+1015, stain
+1016, shirt
+1017, moisturizer
+1018, apply
+1019, legs
+1020, awkward
+1021, feel
+1022, she
+1023, her army
+1024, ran away
+1025, starting to realize
+1026, woman
+1027, hand
+1028, grabbed
+1029, squeezed
+1030, impress
+1031, should
+1032,tornado
+1033, she
+1034, impress
+1035, be
+1036, self-perception
+1037, social expectations
+1038, tornadoes
+1039, wind shear
+1040, moisture
+1041, instability
+1042, narrator
+1043, technical expertise
+1044, Korean classes
+1045, friendships
+1046, equated
+1047, silver
+1048, gold
+1049, narrator
+1050, store policy
+1051, interested
+1052, drill
+1053, he
+1054, want
+1055, type of friend
+1056, situation
+1057, happen
+1058, may
+1059, speaker
+1060, restaurant
+1061, reviews
+1062, thunderstorm
+1063, context
+1064, behavior
+1065, actions
+1066, doubt
+1067, uncertainty
+1068, column of air
+1069, damage
+1070, destruction
+1071, rotation
+1072, atmosphere
+1073, wind speed
+1074, direction
+1075, height
+1076, narrative
+1077, story
+1078, character
+1079, events
+1080, emotions
+1081, protagonist
+1082, omniscient observer
+1083, unreliable narrator
+1084, voice
+1085, tone
+1086, perspective
+1087, trust
+1088, themes
+1089, symbolism
+1090, meaning
+1091, metals
+1092, value
+1093, worth
+1094, durability
+1095, wealth
+1096, status
+1097, achievement
+1098, cultures
+1099, rarity
+1100, beauty
+1101, rules
+1102, guidelines
+1103, retail establishment
+1104, customers
+1105, operations
+1106, interactions
+1107, goals
+1108, motivations
+1109, desire
+1110, compliance
+1111, loopholes
+1112, activities
+1113, exercise
+1114, routine
+1115, training
+1116, military
+1117, person
+1118, motivations
+1119, purpose
+1120, classification
+1121, categorization
+1122, characteristics
+1123, behavior
+1124, relationship
+1125, personality
+1126, values
+1127, interactions
+1128, circumstances
+1129, events
+1130, outcome
+1131, uncertainty
+1132, possibility
+1133, risks
+1134, consequences
+1135, effects
+1136, analysis
+1137, likelihood
+1138, feedback
+1139, feedback
+1140," 
+Please note that some of the extracted entities are not in the format of a noun or a proper noun"
+1141, but rather a concept or an idea.
+1142,Here are the extracted entities in the output format you requested
+1143," concatenated with commas:
+
+customer"
+1144, satisfaction
+1145, business
+1146, reviews
+1147, quality
+1148, food
+1149, service
+1150, ambiance
+1151, speaker
+1152, team
+1153, areas
+1154, improvement
+1155, adjustments
+1156, engagement
+1157, online presence
+1158, restaurant
+1159, revenue
+1160, market
+1161, brewmaster
+1162, fermentation
+1163, yeast
+1164, hops
+1165, ingredients
+1166, mold
+1167, bacteria
+1168, contaminants
+1169, chemicals
+1170, microorganisms
+1171, health effects
+1172, question
+1173, narrator
+1174, list
+1175, options
+1176, statement
+1177, truth
+1178, hair salon
+1179, preference
+1180, opinion
+1181, people
+1182, sentiment
+1183, scenario
+1184, social interaction
+1185, relaxation
+1186, aesthetic
+1187, benefits
+1188, kitchen
+1189, lights
+1190, illumination
+1191, ambiance
+1192, problem
+1193, malfunction
+1194, socioeconomic status
+1195, education
+1196, occupation
+1197, income
+1198, wealth
+1199, resources
+1200, opportunities
+1201, well-being
+1202, water
+1203, day
+1204, sprinklers
+1205, celebration
+1206, event
+1207, irrigation
+1208, gardens
+1209, lawns
+1210, exploiting
+1211, young women
+1212, power
+1213, position
+1214, harm
+1215, manipulation
+1216, machine
+1217, rebuild
+1218, restoration
+1219, reconstruction
+1220, device
+1221, system
+1222, mechanism
+1223, plot
+1224, story
+1225, reasons
+1226, action
+1227, they
+1228, shopping
+1229, retail
+1230, consequence
+1231, outcome
+1232, reason
+1233, cause
+1234, explanation
+1235, justification
+1236, distance
+1237, position
+1238, timing
+1239, menu item
+1240, OP
+1241, location
+1242, customer
+1243, satisfaction
+1244, business
+1245, restaurant
+1246, revenue
+1247, market
+1248, brewmaster
+1249, fermentation
+1250, yeast
+1251, hops
+1252, ingredients
+1253, mold
+1254, bacteria
+1255, contaminants
+1256, chemicals
+1257, microorganisms
+1258, health effects
+1259, question
+1260, narrator
+1261, list
+1262, options
+1263, statement
+1264, truth
+1265, hair salon
+1266, preference
+1267, opinion
+1268, people
+1269, sentiment
+1270, scenario
+1271, social interaction
+1272, relaxation
+1273, aesthetic
+1274, benefits
+1275, kitchen
+1276, lights
+1277, illumination
+1278, ambiance
+1279, problem
+1280, malfunction
+1281, socioeconomic status
+1282, education
+1283, occupation
+1284, income
+1285, wealth
+1286, resources
+1287, opportunities
+1288, well-being
+1289, water
+1290, day
+1291, sprinklers
+1292, celebration
+1293, event
+1294, irrigation
+1295, gardens
+1296, lawns
+1297, exploiting
+1298, young women
+1299, power
+1300, position
+1301, harm
+1302, manipulation
+1303, machine
+1304, rebuild
+1305, restoration
+1306, reconstruction
+1307, device
+1308, system
+1309, mechanism
+1310, plot
+1311, story
+1312, reasons
+1313, action
+1314, they
+1315, shopping
+1316, retail
+1317, consequence
+1318, outcome
+1319, reason
+1320, cause
+1321, explanation
+1322, justification
+1323, distance
+1324, position
+1325, timing
+1326, menu item
+1327, OP
+1328," location 
+
+However"
+1329, here are the entities without duplicates
+1330," concatenated with commas:
+
+customer"
+1331, satisfaction
+1332, business
+1333, reviews
+1334, quality
+1335, food
+1336, service
+1337, ambiance
+1338, speaker
+1339, team
+1340, areas
+1341, improvement
+1342, adjustments
+1343, engagement
+1344, online presence
+1345, restaurant
+1346, revenue
+1347, market
+1348, brewmaster
+1349, fermentation
+1350, yeast
+1351, hops
+1352, ingredients
+1353, mold
+1354, bacteria
+1355, contaminants
+1356, chemicals
+1357, microorganisms
+1358, health effects
+1359, question
+1360, narrator
+1361, list
+1362, options
+1363, statement
+1364, truth
+1365, hair salon
+1366, preference
+1367, opinion
+1368, people
+1369, sentiment
+1370, scenario
+1371, social interaction
+1372, relaxation
+1373, aesthetic
+1374, benefits
+1375, kitchen
+1376, lights
+1377, illumination
+1378, ambiance
+1379, problem
+1380, malfunction
+1381, socioeconomic status
+1382, education
+1383, occupation
+1384, income
+1385, wealth
+1386, resources
+1387, opportunities
+1388, well-being
+1389, water
+1390, day
+1391, sprinklers
+1392, celebration
+1393, event
+1394, irrigation
+1395, gardens
+1396, lawns
+1397, exploiting
+1398, young women
+1399, power
+1400, position
+1401, harm
+1402, manipulation
+1403, machine
+1404, rebuild
+1405, restoration
+1406, reconstruction
+1407, device
+1408, system
+1409, mechanism
+1410, plot
+1411, story
+1412, reasons
+1413, action
+1414, retail
+1415, consequence
+1416, outcome
+1417, reason
+1418, cause
+1419, explanation
+1420, justification
+1421, distance
+1422, position
+1423, timing
+1424, menu item
+1425, OP
+1426, location
+1427,"Here are the entities extracted from the text and concatenated with commas:
+
+OP"
+1428, menu item
+1429, location
+1430, new insights
+1431, graffiti
+1432, reason
+1433, instrument
+1434, played
+1435, IMAX
+1436, viewing experience
+1437, happy
+1438, Weight Watchers
+1439, stayed
+1440, person
+1441, notices
+1442, who
+1443, genre
+1444, literature
+1445, narrator
+1446, taken
+1447, location
+1448, stranger
+1449, Dan
+1450, break up
+1451, why
+1452, doze off
+1453," could not.
+
+However"
+1454," the entities can be categorized into the following types: 
+
+- People/Individuals: OP"
+1455, Dan
+1456, person
+1457, narrator
+1458, stranger
+1459," who
+- Concepts: new insights"
+1460, happy
+1461, reason
+1462, IMAX
+1463, viewing experience
+1464, Weight Watchers
+1465, genre
+1466," literature
+- Objects/Things: menu item"
+1467, instrument
+1468," graffiti
+- Places/Settings: location"
+1469, restaurant
+1470, café
+1471, building
+1472," theater
+- Actions: played"
+1473, stayed
+1474, taken
+1475, break up
+1476, doze off
+1477," could not
+- Organizations: Weight Watchers"
+1478,"Here are the extracted entities concatenated with commas:
+
+Severus"
+1479, Snape
+1480, J.K. Rowling
+1481, Harry Potter
+1482, book series
+1483, character
+1484, demeanor
+1485, glare
+1486, feeling
+1487, writing
+1488, post
+1489, blog
+1490, social media
+1491, journal
+1492, emotion
+1493, moment
+1494, child
+1495, going on
+1496, human
+1497, life
+1498, adolescence
+1499, development
+1500, narrator
+1501, ideology
+1502, political
+1503, ideology
+1504, government
+1505, power
+1506, governance
+1507, speaker
+1508, fact
+1509, statement
+1510, information
+1511, fact
+1512, United States
+1513, state
+1514, region
+1515, culture
+1516, laws
+1517, institutions
+1518, type
+1519, food
+1520, cuisine
+1521, dish
+1522, meal
+1523, ingredient
+1524, boss
+1525, meeting
+1526, rescheduled
+1527, decision
+1528, priorities
+1529, events
+1530, circumstances
+1531, Mark Salter
+1532, politician
+1533, strategist
+1534, John McCain
+1535, Joe Lieberman
+1536, truck
+1537, vehicle
+1538, load
+1539, goods
+1540, construction
+1541, transportation
+1542, logistics
+1543, Vanessa
+1544, supernatural
+1545, scenario
+1546, narrative
+1547, transformation
+1548, possession
+1549," manipulation.
+
+However"
+1550, to provide a more accurate output
+1551," the entities can be categorized into the following types:
+
+**People:**
+
+J.K. Rowling"
+1552, Severus Snape
+1553, Harry Potter
+1554, John McCain
+1555, Joe Lieberman
+1556," Mark Salter
+
+**Places:**
+
+United States
+
+**Organizations:**
+
+Harry Potter book series
+
+**Concepts:**
+
+government"
+1557, power
+1558, governance
+1559, ideology
+1560, culture
+1561, laws
+1562, institutions
+1563, fact
+1564, information
+1565, statement
+1566, decision
+1567, priorities
+1568, events
+1569," circumstances
+
+**Objects:**
+
+truck"
+1570, vehicle
+1571, load
+1572, goods
+1573, food
+1574, cuisine
+1575, dish
+1576, meal
+1577," ingredient
+
+**Professions:**
+
+politician"
+1578, strategist
+1579," boss
+
+**Fictional entities:**
+
+Vanessa"
+1580, Harry Potter (character)
+1581," Severus Snape (character)
+
+**Miscellaneous:**
+
+demeanor"
+1582, emotion
+1583, moment
+1584, child
+1585, life
+1586, adolescence
+1587, development
+1588, post
+1589, blog
+1590, social media
+1591, journal
+1592, meeting
+1593, rescheduled
+1594, supernatural
+1595, scenario
+1596, narrative
+1597, transformation
+1598, possession
+1599, manipulation
+1600, glare
+1601,Here are the extracted entities from the text
+1602," concatenated with commas:
+
+American multinational computer technology company"
+1603, Apple Inc
+1604, Apple
+1605, Bob
+1606, Patrick
+1607, Dell
+1608, iPod
+1609, Christmas
+1610, narrator
+1611, narrator
+1612, Cynthia
+1613, Commercial
+1614, person
+1615, fact
+1616, someone
+1617, wig
+1618, after Christmas
+1619, pee test
+1620, Oliver
+1621," December 25.
+
+However"
+1622," the entities can be categorized into more specific types as follows:
+
+**People/Characters:**
+Bob"
+1623, Patrick
+1624, Cynthia
+1625," Oliver
+
+**Companies:**
+American multinational computer technology company"
+1626, Apple Inc
+1627," Dell
+
+**Products:**
+iPod"
+1628," wig
+
+**Holidays:**
+Christmas
+
+**Locations:**
+Commercial
+
+**Dates:**
+December 25
+
+**Concepts:**
+confidence"
+1629, fact
+1630, narrator
+1631, pee test
+1632, someone
+1633,Oliver
+1634, lecturer
+1635, class
+1636, hour
+1637, labor camp
+1638, Masanjia
+1639, China
+1640, going to class
+1641, event
+1642, mornings
+1643, narrator
+1644, blocking
+1645, Simon
+1646, fond
+1647, narrator's treatment
+1648, him
+1649, presently located
+1650, Miranda
+1651, homecoming
+1652, fact
+1653, type
+1654, race
+1655, draw
+1656, detailed
+1657, map
+1658, office.
+1659,"Here are the extracted entities concatenated with commas:
+
+Ray"
+1660, likely
+1661, weekend
+1662, narrator
+1663, skeptical
+1664, show
+1665, woman
+1666, telling
+1667, story
+1668, Joanna
+1669, variety
+1670, one minute
+1671, after
+1672, this
+1673, their mom
+1674, same thing
+1675, grandmother
+1676, Kayla
+1677, hair
+1678, done
+1679, windows
+1680, furniture
+1681, equipment
+1682, objects
+1683, Saturday
+1684, Sunday
+1685, person
+1686, performance
+1687, presentation
+1688, television
+1689, film
+1690, program
+1691, days
+1692, leisure
+1693, activities
+1694, audience
+1695, message
+1696, empathy
+1697, event
+1698, structure
+1699, purpose
+1700, educate
+1701, persuade
+1702, options
+1703, circumstances
+1704, preferences
+1705, motivations
+1706, time
+1707, consequence
+1708, sequence
+1709, subject
+1710, event
+1711, trigger
+1712, stimulus
+1713, trait
+1714, condition
+1715, generation
+1716, characteristic
+1717, medical condition
+1718, physical characteristic
+1719, behavioral trait
+1720, Kayla
+1721," Kayla's hair 
+
+Note: I've kept all the entities as they appear in the text"
+1722, even if they appear multiple times.

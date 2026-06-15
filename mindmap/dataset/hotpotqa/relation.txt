@@ -1,0 +1,412 @@
+1,A.B. degree
+2,Actor
+3,Aired_in
+4,American aristocracy
+5,American novelist
+6,American writer
+7,Antagonist
+8,Arrested by
+9,Art direction
+10,Author
+11,Award
+12,Based on
+13,Based_on
+14,Belonged to
+15,Born in
+16,CEO
+17,Centered_around
+18,Champions promoted to
+19,Closed
+20,Closed by
+21,Closed due to
+22,Closed in
+23,Co-Prime Minister
+24,Co-founder
+25,Co-owner
+26,Co-president
+27,Co-wrote screenplay
+28,Commentator
+29,Commissioned by
+30,Competes in
+31,Created
+32,Defeated
+33,Described by
+34,Designed as successor to
+35,Designed by
+36,Developed by
+37,Developed in
+38,Developed into
+39,Died in
+40,Directed
+41,Directed by
+42,Director
+43,Editor
+44,Empties_into
+45,Endemic to
+46,Executed in
+47,Father
+48,Film
+49,Finished 1st in
+50,Flows_through
+51,Foreseeed
+52,Found in
+53,Founder
+54,Gave a State of the Union address to
+55,Genus in
+56,Governed by
+57,Head of
+58,Historian
+59,Home_of
+60,Identified_by
+61,Initiated by
+62,Inspiration
+63,Leader
+64,Listed_by
+65,Located in
+66,Located_in
+67,Location
+68,Location of
+69,Lost to
+70,M.A. degree
+71,Member
+72,Mirrors the work of
+73,Named after
+74,Nationality
+75,Native to
+76,No promotion playoff with
+77,No promotion to
+78,Organizer of
+79,Overthrown in
+80,Owner
+81,Part of series
+82,Performed in
+83,Producer
+84,Professor
+85,Promoted from
+86,Promotion playoff with
+87,Promotion to
+88,Protagonist
+89,Protected
+90,Published
+91,Raced at
+92,Released_in
+93,Relegated from
+94,Renamed
+95,Reserve team of
+96,Runners up playoff with
+97,Screened in
+98,Served as
+99,Serves
+100,Shares common characteristics with
+101,Similar to
+102,Species
+103,Species of
+104,Starred in
+105,Starring
+106,Succeeded
+107,Successor of
+108,Team
+109,Tortured by
+110,Transferred by
+111,Transferred to
+112,Type genus
+113,Type of
+114,Uses
+115,Was a member of
+116,Was appointed by
+117,Was appointed under
+118,Was attending
+119,Was preceded by
+120,Was running mate of
+121,Was shot by
+122,Was succeeded by
+123,Was the 26th President of
+124,Was the 32nd President of
+125,Was the 40th Vice President of
+126,Won
+127,Worked for
+128,Writer
+129,Written_by
+130,Wrote
+131,Year
+132,active
+133,actor
+134,adapted
+135,adopted Greek
+136,adopted by
+137,advisor
+138,affiliated with
+139,album
+140,announced
+141,appeared in
+142,attended
+143,author
+144,awarded
+145,awarded to
+146,based in
+147,based on
+148,beat
+149,became Augustus
+150,became imperator
+151,biggest television network
+152,born
+153,born in
+154,born_in
+155,born_on
+156,bounded by
+157,bred by
+158,built
+159,built by
+160,catalogued
+161,charted
+162,cinematographer
+163,coach of
+164,coached
+165,coached by
+166,coached in
+167,college administrator
+168,combined
+169,compared_to
+170,competitor of
+171,confirmed
+172,consists of
+173,constructed
+174,contributed to
+175,created
+176,created by
+177,crossed by
+178,dated
+179,dedicated to
+180,defeated
+181,defeated at
+182,defeated by
+183,defeats
+184,denied
+185,designer
+186,developed
+187,developed by
+188,developed in
+189,died
+190,directed
+191,directed by
+192,director
+193,economist
+194,educator
+195,employed
+196,ended
+197,endorsed by
+198,enhanced by
+199,established
+200,established in
+201,existed since
+202,faculty member
+203,father
+204,favorite
+205,featured
+206,features
+207,fellow Hawaiian of
+208,filmed in
+209,filmmaker
+210,first name
+211,football player
+212,formed_in
+213,formerly known as
+214,fought against
+215,found at
+216,found near
+217,founded
+218,founded by
+219,founder
+220,friend
+221,funded by
+222,funds
+223,gave nickname
+224,graduated
+225,graduated from
+226,guest appearances
+227,had_player
+228,has oldest lyrics
+229,has_album
+230,has_debut_album
+231,has_member
+232,hat toss
+233,held title of
+234,hosted
+235,illustrated
+236,includes
+237,influenced
+238,influenced by
+239,inspired
+240,invited
+241,is
+242,is a
+243,is a graduate of
+244,is a member of
+245,is a part of
+246,is a soldier in
+247,is an
+248,is an evolution of
+249,is based on
+250,is built by
+251,is known as
+252,is located in
+253,is manufactured by
+254,is nominated for
+255,is part of
+256,is popularized by
+257,is ported to
+258,is produced by
+259,is related to
+260,is released for
+261,is succeeded by
+262,is supported by
+263,is used by
+264,is used with
+265,is_a_family_of
+266,landlady
+267,last won the men's Wimbledon championship
+268,lived in
+269,located
+270,located in
+271,located near
+272,located_in
+273,located_on
+274,lost
+275,lost to
+276,lost_to
+277,made Christianity official
+278,marked the beginning of decline
+279,mayor
+280,mayor of
+281,member
+282,member of
+283,named
+284,national anthem of
+285,native to
+286,near
+287,nearby
+288,observed
+289,occurred in
+290,one of the fastest growing
+291,one of the fastest growing TV stations
+292,operates
+293,organized in
+294,originally aired in
+295,originally aired on
+296,overthrown
+297,owned
+298,owned by
+299,owner of
+300,owns
+301,part of
+302,participated by
+303,partitioned
+304,partner of
+305,performed by
+306,performs in
+307,played Bianca
+308,played Charlotte Hale
+309,played Diane Nash
+310,played Jackie Cook
+311,played Nyla Adrose
+312,played Sara Freeman
+313,played against
+314,played by
+315,played for
+316,played in
+317,played_at
+318,played_with
+319,plays in
+320,portrayed
+321,posthumous collection
+322,praised
+323,predecessor of
+324,president
+325,produced by
+326,production company
+327,professor
+328,province
+329,published
+330,published bi-monthly
+331,published by
+332,published every fortnight
+333,published in
+334,published monthly
+335,published weekly
+336,published work
+337,ranked by
+338,re-established
+339,reached
+340,reached_ranking
+341,recalled to
+342,received
+343,receives
+344,recorded
+345,released
+346,released as a single
+347,released on
+348,released_album
+349,released_in
+350,renovated
+351,replaced
+352,replaced by
+353,represented
+354,represents
+355,researched
+356,restructured military
+357,ruled
+358,run by
+359,runs on
+360,serves in
+361,shelters
+362,short story writer
+363,signed_to
+364,similar to
+365,song
+366,soundtrack
+367,speaker
+368,speaker series
+369,spin-off
+370,sponsor of
+371,spray-painted images of
+372,spray-painted images with the word "dope" all over
+373,starred in
+374,started
+375,studied
+376,successor
+377,successor of
+378,sung by
+379,supported
+380,supported by
+381,third biggest television network
+382,transferred capital
+383,tribute to
+384,trustee
+385,used
+386,used by
+387,used_in
+388,uses
+389,victim of
+390,visual effects supervisor
+391,was
+392,was a member of
+393,was an
+394,was an emperor
+395,was defeated by
+396,was divided
+397,was punished by
+398,was spray-painted by
+399,was spray-painted with the word "dope" all over
+400,was_player_for
+401,won
+402,won Best Actor
+403,won Best Supporting Actor
+404,won medal in
+405,won_title
+406,writer
+407,written and performed by
+408,written by
+409,written in
+410,wrote
+411,wrote about
+412,wrote for

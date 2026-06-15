@@ -1,0 +1,150 @@
+1,AFFECTED_BY
+2,Associated with
+3,Author
+4,CAUSED
+5,CAUSED_BY
+6,CAUSES
+7,COMPLICATED_BY
+8,Disease
+9,Elevated in
+10,Examination
+11,Figure
+12,INTERACTS_WITH
+13,Immunity
+14,Laboratory
+15,Location
+16,MBBS
+17,Nutrition
+18,PREVENTED_BY
+19,Pathogen
+20,REDUCED_BY
+21,Risk
+22,STRUCTURALLY_SIMILAR_TO
+23,Similar to
+24,Symptom
+25,Symptoms
+26,TREATED
+27,TREATED_BY
+28,TREATS
+29,Treatment
+30,Used to treat
+31,Vaccination
+32,Vaccine
+33,absorbed by
+34,activates
+35,affected by
+36,affects
+37,are a cause of
+38,are a risk factor for
+39,are associated with
+40,are formed by
+41,are found in
+42,are lost in
+43,are provided by
+44,are used to treat
+45,are_part_of
+46,are_used_for
+47,associated with
+48,associated_with
+49,avoids
+50,can be affected by
+51,can be prevented with
+52,can cause
+53,can detect
+54,can improve
+55,causes
+56,characterized_by
+57,clears
+58,common in
+59,considered_in_differential_diagnosis
+60,contains
+61,converted to
+62,decreased in
+63,detected_by
+64,diagnosed with
+65,does not penetrate
+66,eliminated by
+67,estimated_by
+68,evaluated with
+69,evaluated_by
+70,forms
+71,generates
+72,has
+73,has a dysfunction
+74,has a history of
+75,has a lining
+76,has an effusion or swelling
+77,has_structure
+78,have
+79,have_structure
+80,increases
+81,ingested as
+82,involved in
+83,is a cause of
+84,is a complication of
+85,is a component of
+86,is a diagnostic tool for
+87,is a marker for
+88,is a metabolite of
+89,is a risk factor for
+90,is a site of
+91,is a symptom of
+92,is a type of
+93,is absorbed
+94,is an enzyme of
+95,is an organization that provides
+96,is associated with
+97,is at risk of
+98,is available in
+99,is caused by
+100,is characterized by
+101,is denoted by
+102,is diagnosed by
+103,is involved in
+104,is lost in
+105,is metabolized
+106,is produced by
+107,is related to
+108,is targeted at
+109,is the extensor mechanism of
+110,is translated into
+111,is treated with
+112,is used to diagnose
+113,is useful for
+114,is_allergic
+115,is_associated_with
+116,is_involved_in
+117,is_located_in
+118,is_mediated_by
+119,is_normal
+120,is_similar_to
+121,is_used_for
+122,leads to
+123,may_result_in
+124,measured in
+125,monitored_by
+126,most_valuable_information
+127,occurs in
+128,offers_prognostic_value
+129,performed
+130,prone to
+131,receives
+132,results in
+133,reveals
+134,share_features
+135,stored in
+136,thawing method
+137,treated by
+138,treated with
+139,treated_by
+140,used to diagnose
+141,used to evaluate
+142,used to prevent
+143,used to treat
+144,varies
+145,was involved in the care of
+146,was measured in
+147,was related to
+148,was used to treat
+149,were measured in
+150,were performed on

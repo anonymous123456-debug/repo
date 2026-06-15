@@ -1,0 +1,1072 @@
+Entity1,Relation,Entity2
+Jane,cause-and-effect,hydration
+Jane,cause-and-effect,sugar crash
+Jack,engages in,cardiovascular exercise
+Jack,goes for a run,cardiovascular exercise
+cardiovascular exercise,improves,energy levels
+cardiovascular exercise,has a positive impact on,energy levels
+cardiovascular exercise,is beneficial for,energy levels
+cardiovascular exercise,is beneficial for,energy levels
+cardiovascular exercise,is beneficial for,energy levels
+cardiovascular exercise,is beneficial for,energy levels
+cardiovascular exercise,is beneficial for,energy levels
+cardiovascular exercise,is beneficial for,energy levels
+cardiovascular exercise,is beneficial for,energy levels
+cardiovascular exercise,is beneficial for,energy levels
+cardiovascular exercise,is beneficial for,energy levels
+cardiovascular exercise,is beneficial for,energy levels
+Mike,takes a break,tasks
+Olivia,takes,bus
+Olivia,takes,cab
+unhealthy food,leads to,weight gain
+unhealthy food,is high in,sugar
+gym routine,has a protective effect against,weight gain
+sugar,is high in,unhealthy food
+gym routine,has a positive effect on,physical strength
+gym routine,has a negative effect on,weight gain
+unhealthy food,has a negative effect on,physical strength
+unhealthy food,has a positive effect on,weight gain
+gym routine,contributes to,physical strength
+unhealthy food,leads to,weight gain
+John,has,phone
+John,turned off,phone
+John,keeps on,phone
+phone,distractions,increase
+distractions,impact,productivity
+phone,notifications,distractions
+distractions,reduce,productivity
+John,turned off,phone
+writer,turned off,phone
+productivity,relationship,distractions
+distractions,relationship,productivity
+environment,is affected by,global warming
+Vicky,plays,video games
+video games,causes,stress
+meditation,reduces,stress
+meditation,leads to,relaxation
+Vicky,plays,video games
+video games,counteracts,relaxation
+meditation,counteracts,stress
+work,leads to,exhaustion
+breaks,prevent,exhaustion
+Vicky,takes,breaks
+Vicky,does not take,breaks
+John,works,hours
+John,takes,breaks
+breaks,can,energy
+John,does not take,breaks
+John,takes,breaks
+breaks,can,help
+John,does not take,breaks
+John,takes,breaks
+breaks,can,help
+Ava,takes,elevator
+Ava,chooses,elevator
+elevator,eliminates,breathlessness
+individual,experiences,breathlessness
+Mark,takes care of,health
+diseases,can be caused by,accidents
+health issues,can be caused by,accidents
+accidents,can cause,health issues
+diseases,can be caused by,accidents
+health issues,can be caused by,accidents
+health issues,can be caused by,diseases
+accidents,can cause,health issues
+diseases,can be caused by,accidents
+health issues,can be caused by,accidents
+health issues,can be caused by,diseases
+accidents,can cause,health issues
+diseases,can be caused by,accidents
+health issues,can be caused by,accidents
+health issues,can be caused by,diseases
+health,is related to,diseases
+knowledge,impacts,health
+habits,impacts,health
+choice,impacts,health
+neglects,leads to,health issues
+activities,impact,health status
+Mark,neglects,health
+John,consumes,processed food
+John,does not eat,organic food
+John,consumes,processed food
+John,consumes,organic food
+Amber,does not stay up,late
+John,stores,food
+Alice,drives,recklessly
+Alice,receives,ticket
+Alice,drives,safely
+vehicle,is affected by,reckless driving
+ticket,is related to,reckless driving
+journey,is affected by,reckless driving
+Alice,drives recklessly,ticket
+John,is engaged in,painting
+John,is engaged in,writing
+John,will frame,picture
+John,will publish,story
+painting,is mutually exclusive with,writing
+John,has a relationship with,picture
+John,has a relationship with,story
+John,has a relationship with,writing
+John,has a relationship with,painting
+John,has a relationship with,scenario
+John,has a relationship with,activity
+John,has a relationship with,scenario
+John,has a relationship with,activity
+John,has a relationship with,scenario
+John,has a relationship with,activity
+John,has a relationship with,scenario
+John,has a relationship with,activity
+John,has a relationship with,scenario
+John,has a relationship with,activity
+John,has a relationship with,scenario
+John,has a relationship with,activity
+John,has a relationship with,scenario
+John,has a relationship with,activity
+John,has a relationship with,scenario
+John,has a relationship with,activity
+John,has a relationship with,scenario
+John,has a relationship with,activity
+John,has a relationship with,scenario
+John,has a relationship with,activity
+John,has a relationship with,scenario
+John,has a relationship with,activity
+John,has a relationship with,scenario
+John,has a relationship with,activity
+John,has a relationship with,scenario
+John,has a relationship with,activity
+John,has a relationship with,scenario
+John,has a relationship with,activity
+John,has a relationship with,scenario
+John,has a relationship with,activity
+John,has a relationship with,scenario
+John,has a relationship with,activity
+John,has a relationship with,scenario
+John,has a relationship with,activity
+John,has a relationship with,scenario
+John,has a relationship with,activity
+John,has a relationship with,scenario
+John,has a relationship with,activity
+John,has a relationship with,scenario
+John,has a relationship with,activity
+John,has a relationship with,scenario
+John,has a relationship with,activity
+John,has a relationship with,scenario
+John,has a relationship with,activity
+John,has a relationship with,scenario
+John,has a relationship with,activity
+John,has a relationship with,scenario
+John,has a relationship with,activity
+John,has a relationship with,scenario
+John,has a relationship with,activity
+John,has a relationship with,scenario
+John,has a relationship with,activity
+John,has a relationship with,scenario
+John,has a relationship with,activity
+John,has a relationship with,scenario
+John,has a relationship with,activity
+John,has a relationship with,scenario
+John,has a relationship with,activity
+John,has a relationship with,scenario
+John,has a relationship with,activity
+John,has a relationship with,scenario
+John,has a relationship with,activity
+John,has a relationship with,scenario
+John,has a relationship with,activity
+John,has a relationship with,scenario
+John,has a relationship with,activity
+John,has a relationship with,scenario
+John,has a relationship with,activity
+John,has a relationship with,scenario
+John,has a relationship with,activity
+John,has a relationship with,scenario
+John,has a relationship with,activity
+John,has a relationship with,scenario
+John,has a relationship with,activity
+John,has a relationship with,scenario
+John,plays,basketball
+John,plays,video games
+John,has,friends
+Sophia,plays,video games
+John,washes,car
+John,takes,break
+John,tidies,house
+John,has,lunch
+John,performs,break
+John,performs,car
+John,performs,house
+John,performs,lunch
+John,has,break
+John,has,lunch
+Mary,performs,family
+John,performs,run
+John,performs,friends
+Emily,associated with,bus
+bus,associated with,workplace
+Emily,associated with,train
+train,associated with,college
+Emily,uses,bus
+Emily,uses,train
+workplace,is destination of,bus
+college,is destination of,train
+Emily,has classes at,college
+Emily,has lectures at,college
+Emily,works at,workplace
+Emily,is a student at,college
+Emily,is an employee at,workplace
+Emily,associated with,bus
+Emily,associated with,train
+Emily,uses,bus
+Emily,uses,train
+Emily,is a student at,college
+Emily,is an employee at,workplace
+bus,associated with,workplace
+workplace,is destination of,bus
+train,associated with,college
+college,is destination of,train
+Emily,has classes at,college
+Emily,has lectures at,college
+Emily,works at,workplace
+Sue,at,beach
+Sue,at,park
+beach,has,sand
+park,has,trees
+park,has,birds
+Sue,feel,sand
+Sue,engage in,activities
+Sue,experience,environment
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sue,has,options
+Sophia,planted,tree
+John,planted,bush
+Sophia,will water,tree
+John,will prune,bush
+Jill,visits,seaside
+Jill,visits,park
+Jill,chooses,seaside
+Jill,chooses,park
+Jill,will appreciate,sunset
+Jill,will have,picnic
+seaside,is associated with,sunset
+park,is associated with,picnic
+Sophia,has planted,tree
+John,has planted,bush
+Sophia,will water,tree
+John,will prune,bush
+Jill,will enjoy,sunset
+Jill,will not have,picnic
+beach,is located at,sunset
+park,is located at,picnic
+John,attending,lecture
+John,going for,picnic
+Mary,attending,lecture
+Mary,going for,picnic
+John,completing,assignments
+Mary,completing,assignments
+John,having,fun
+Mary,having,fun
+sandwich,leads_to,salad
+burger,leads_to,smoothie
+sandwich,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+burger,leads_to,smoothie
+burger,leads_to,salad
+John,went to,gym
+John,watched,movie
+John,went to,shopping center
+John,engaged in,retail therapy
+shopping,leads to,retail therapy
+shopping center,leads to,retail therapy
+gym,is a place for,physical exercise
+mall,is a place for,shopping
+retail therapy,is a consequence of,shopping
+Jenny,visits,library
+Jenny,reads,book
+Jenny,feeds,birds
+Jenny,takes a stroll,park
+Jenny,chooses,activity
+library,is associated with,reading
+park,is associated with,picnic
+library,is associated with,studying
+Alice,is,individual
+exams,result,grades
+effort,influences,results
+results,are,grades
+friends,are,company
+performance,is,result
+scenarios,present,possibilities
+baking,provides,pleasure
+meal,is,creation
+appreciation,is,response
+endeavors,involve,creation
+cake,is,creation
+meal,is,creation
+planting,cause,growth
+planting,require,water
+water,necessary for,growth
+John,performed,planting
+Cathy,performed,planting
+tree,undergo,growth
+tree,produce,fruits
+John,planted,tree
+Cathy,planted,flower
+tree,planted by,John
+flower,planted by,Cathy
+John,gardener,tree
+Cathy,gardener,flower
+scenario,involve,planting
+scenario,involve,growth
+James,jogging,stamina
+jogging,enhances,stamina
+stamina,improves,James
+James,participating in a marathon,stamina
+James,jogging,stamina
+James,participating in a marathon,stamina
+James,jogging,stamina
+jogging,enhances,stamina
+James,participating in a marathon,stamina
+Samantha,watches TV,television
+Samantha,plays video games,games
+Samantha,has parents,parents
+Samantha,has friends,friends
+Samantha,joins,TV
+Samantha,joins,games
+Samantha,is joined by,parents
+Samantha,is joined by,friends
+TV,is watched by,Samantha
+games,is played by,Samantha
+parents,join,Samantha
+friends,join,Samantha
+TV,is joined by,parents
+games,is joined by,friends
+video games,are played with,friends
+Jenny,has health,health
+Jenny,has fitness,fitness
+health,is related to,fitness
+fitness,is related to,health
+Jenny,is prone to,diseases
+Jenny,is fit and healthy,fitness
+Jenny,takes care of,health
+Jenny,precondition,health
+Jenny,takes care of,health
+Jenny,takes a stroll,fresh air
+stroll,is associated with,relaxation
+television,provides,relaxation
+Jill,does not take a walk,fresh air
+Jill,watches TV,relaxation
+Jill,takes a walk,fresh air
+Jill,takes a walk,relaxation
+Jill,watches TV,fresh air
+Jill,watches TV,relaxation
+Jill,takes a walk and watches TV,fresh air
+Jill,takes a walk and watches TV,relaxation
+stroll,is a prerequisite for,relaxation
+television,is a prerequisite for,relaxation
+fresh air,is a prerequisite for,relaxation
+Jill,does not take a walk,relaxation
+Jill,watches TV,fresh air
+stroll,is a prerequisite for,fresh air
+television,is a prerequisite for,relaxation
+Jill,takes a walk,fresh air
+Jill,experiences relaxation,fresh air
+Jill,takes a walk,relaxation
+Linda,uses,generator
+Linda,saves,electricity
+Linda,uses,generator
+Linda,saves,electricity
+John,studied,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,option,test
+John,has,test
+John,takes,test
+John,operates,vehicle
+vehicle,is related to,accident
+scenario,is related to,fine
+fine,is related to,speed
+scenario,is related to,fine
+fine,is related to,speed
+scenario,is related to,fine
+fine,is related to,speed
+scenario,is related to,fine
+fine,is related to,speed
+scenario,is related to,fine
+fine,is related to,speed
+scenario,is related to,fine
+fine,is related to,speed
+scenario,is related to,fine
+fine,is related to,speed
+scenario,is related to,fine
+fine,is related to,speed
+scenario,is related to,fine
+fine,is related to,speed
+scenario,is related to,fine
+fine,is related to,speed
+scenario,is related to,fine
+fine,is related to,speed
+scenario,is related to,fine
+fine,is related to,speed
+scenario,is related to,fine
+fine,is related to,speed
+scenario,is related to,fine
+fine,is related to,speed
+scenario,is related to,fine
+fine,is related to,speed
+scenario,is related to,fine
+fine,is related to,speed
+scenario,is related to,fine
+fine,is related to,speed
+scenario,is related to,fine
+fine,is related to,speed
+scenario,is related to,fine
+fine,is related to,speed
+scenario,is related to,fine
+fine,is related to,speed
+scenario,is related to,fine
+fine,is related to,speed
+scenario,is related to,fine
+fine,is related to,speed
+scenario,is related to,fine
+fine,is related to,speed
+scenario,is related to,fine
+fine,is related to,speed
+scenario,is related to,fine
+fine,is related to,speed
+scenario,is related to,fine
+fine,is related to,speed
+scenario,is related to,fine
+fine,is related to,speed
+scenario,is related to,fine
+fine,is related to,speed
+scenario,is related to,fine
+fine,is related to,speed
+scenario,is related to,fine
+fine,is related to,speed
+scenario,is related to,fine
+fine,is related to,speed
+scenario,is related to,fine
+fine,is related to,speed
+scenario,is related to,fine
+fine,is related to,speed
+scenario,is related to,fine
+fine,is related to,speed
+scenario,is related to,fine
+fine,is related to,speed
+scenario,is related to,fine
+fine,is related to,speed
+scenario,is related to,fine
+fine,is related to,speed
+Jane,sends,letter
+letter,implies,response
+Jane,sends,letter
+Jane,receives,response
+Jane,doesn't send,letter
+Jane,doesn't receive,response
+letter,guarantees,response
+vehicle,leads to,financial savings
+Sara,buys,car
+Sara,experiences,financial savings
+Sara,owns,vehicle
+vehicle,is related to,transportation
+transportation,has,expenses
+vehicle,can lead to,financial savings
+Sara,sells,car
+caution,ensures,safety
+Sara,does not take,risk
+Sara,has,option
+option,involves,choice
+Sara,has,situation
+Sara,has,chance
+Sara,has,risk
+Sara,has,safety
+Sara,has,option
+option,involves,choice
+Sara,has,situation
+Sara,has,chance
+Sara,has,risk
+Sara,has,safety

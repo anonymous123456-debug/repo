@@ -1,0 +1,306 @@
+Entity1,Relation,Entity2
+demonstrators,Request,permit
+Joan,Thank,Susan
+Joan,Receive,help
+lawyer,Ask,question
+lawyer,Take_action,question
+witness,Answer,question
+lawyer,Initiate_action,question
+witness,Respond,question
+trophy,Be_placed_in,suitcase
+suitcase,Contain,trophy
+Joan,Express_gratitude,Susan
+Susan,Provide,help
+demonstrators,Be_refused,permit
+question,Be_answered,witness
+George,Be_unavailable,Paul
+Susan,Be_thanked,Joan
+trophy,Be_compared,suitcase
+witness,Respond,question
+trophy,Be_placed_in,suitcase
+suitcase,Contain,trophy
+Joan,Express_gratitude,Susan
+Susan,Provide,help
+demonstrators,Be_refused,permit
+question,Be_answered,witness
+George,Be_unavailable,Paul
+Susan,Be_thanked,Joan
+witness,Respond,question
+Joan,Express_gratitude,Susan
+Susan,Provide,help
+demonstrators,Be_refused,permit
+question,Be_answered,witness
+George,Be_unavailable,Paul
+Susan,Be_thanked,Joan
+witness,Respond,question
+Joan,Express_gratitude,Susan
+Susan,Provide,help
+demonstrators,Be_refused,permit
+question,Be_answered,witness
+George,Be_unavailable,Paul
+Susan,Be_thanked,Joan
+witness,Respond,question
+Joan,Express_gratitude,Susan
+Susan,Provide,help
+demonstrators,Be_refused,permit
+question,Be_answered,witness
+George,Be_unavailable,Paul
+Susan,Be_thanked,Joan
+witness,Respond,question
+Joan,Express_gratitude,Susan
+Susan,Provide,help
+demonstrators,Be_refused,permit
+question,Be_answered,witness
+George,Be_unavailable,Paul
+Susan,Be_thanked,Joan
+witness,Respond,question
+Joan,Express_gratitude,Susan
+Susan,Provide,help
+demonstrators,Be_refused,permit
+question,Be_answered,witness
+George,Be_unavailable,Paul
+Susan,Be_thanked,Joan
+witness,Respond,question
+Joan,Express_gratitude,Susan
+Susan,Provide,help
+demonstrators,Be_refused,permit
+question,Be_answered,witness
+George,Be_unavailable,Paul
+Susan,Be_thanked,Joan
+witness,Respond,question
+Joan,Express_gratitude,Susan
+Susan,Provide,help
+demonstrators,Be_refused,permit
+question,Be_answered,witness
+George,Be_unavailable,Paul
+Susan,Be_thanked,Joan
+witness,Respond,question
+Joan,Express_gratitude,Susan
+Susan,Provide,help
+demonstrators,Be_refused,permit
+question,Be_answered,witness
+George,Be_unavailable,Paul
+Susan,Be_thanked,Joan
+witness,Respond,question
+Joan,Express_gratitude,Susan
+Susan,Provide,help
+demonstrators,Be_refused,permit
+question,Be_answered,witness
+George,Be_unavailable,Paul
+Susan,Be_thanked,Joan
+witness,Respond,question
+Joan,Express_gratitude,Susan
+Susan,Provide,help
+demonstrators,Be_refused,permit
+question,Be_answered,witness
+George,Be_unavailable,Paul
+Susan,Be_thanked,Joan
+witness,Respond,question
+Joan,Express_gratitude,Susan
+Susan,Provide,help
+demonstrators,Be_refused,permit
+question,Be_answered,witness
+George,Be_unavailable,Paul
+Susan,Be_thanked,Joan
+witness,Respond,question
+Joan,Express_gratitude,Susan
+Susan,Provide,help
+demonstrators,Be_refused,permit
+Billy,in front of,John
+Tom,threw his schoolbag down to,Ray
+Sue,beat,Sally
+Sue,ran at the same speed as,Sally
+Anna,performed better than,Lucy
+Anna,friend,Lucy
+Anna,did worse than usual,Lucy
+Jim,yelled at,Kevin
+Jim,comforted,Kevin
+Kevin,is being comforted by,Jim
+Pete,envies,Martin
+Susan,is nosy about,Ann
+Ann,has personal problems,Susan
+Ann,is indiscreet,Susan
+Sid,explains his theory to,Mark
+Sid,is convincing,Mark
+Mark,is being convinced by,Sid
+Joe,is a person who receives information from,Susan
+Susan,shares information with,Joe
+Ann,is a person who is known by,Susan
+Ann,is a person who shares information with,Susan
+Ann,is a person who is indiscreet,Susan
+Sid,is the one who is being understood,Mark
+Joe,is a person who receives information from,Susan
+Susan,is a person who shares information with,Joe
+Ann,is a person who is known by,Susan
+Ann,is a person who shares information with,Susan
+Ann,is a person who is indiscreet,Susan
+Sid,is a person who explains his theory to,Mark
+Mark,is a person who receives information from,Sid
+Mark,is a person who is being convinced by,Sid
+Susan,is a person who shares information with,Joe
+Joe,is a person who receives information from,Susan
+Ann,is a person who is known by,Susan
+Ann,is a person who shares information with,Susan
+Ann,is a person who is indiscreet,Susan
+Sid,is a person who explains his theory to,Mark
+Mark,is a person who receives information from,Sid
+Mark,is a person who is being convinced by,Sid
+Susan,is a person who shares information with,Joe
+Joe,is a person who receives information from,Susan
+Ann,is a person who is known by,Susan
+Ann,is a person who shares information with,Susan
+Ann,is a person who is indiscreet,Susan
+Sid,is a person who explains his theory to,Mark
+Mark,is a person who receives information from,Sid
+Mark,is a person who is being convinced by,Sid
+Susan,is a person who shares information with,Joe
+Joe,is a person who receives information from,Susan
+Ann,is a person who is known by,Susan
+Ann,is a person who shares information with,Susan
+Ann,is a person who is indiscreet,Susan
+Sid,is a person who explains his theory to,Mark
+Mark,is a person who receives information from,Sid
+Mark,is a person who is being convinced by,Sid
+Susan,is a person who shares information with,Joe
+Joe,is a person who receives information from,Susan
+Ann,is a person who is known by,Susan
+Ann,is a person who shares information with,Susan
+Ann,is a person who is indiscreet,Susan
+Sid,is a person who explains his theory to,Mark
+Mark,is a person who receives information from,Sid
+Mark,is a person who is being convinced by,Sid
+Susan,is a person who shares information with,Joe
+Joe,is a person who receives information from,Susan
+Ann,is a person who is known by,Susan
+Ann,is a person who shares information with,Susan
+Ann,is a person who is indiscreet,Susan
+Sid,is a person who explains his theory to,Mark
+Mark,is a person who receives information from,Sid
+Mark,is a person who is being convinced by,Sid
+Susan,is a person who shares information with,Joe
+Joe,is a person who receives information from,Susan
+Ann,is a person who is known by,Susan
+Ann,is a person who shares information with,Susan
+Ann,is a person who is indiscreet,Susan
+Sid,is a person who explains his theory to,Mark
+Mark,is a person who receives information from,Sid
+Mark,is a person who is being convinced by,Sid
+Susan,is a person who shares information with,Joe
+Joe,is a person who receives information from,Susan
+Ann,is a person who is known by,Susan
+Ann,is a person who shares information with,Susan
+Ann,is a person who is indiscreet,Susan
+Sid,is a person who explains his theory to,Mark
+Mark,is a person who receives information from,Sid
+Mark,is a person who is being convinced by,Sid
+Susan,is a person who shares information with,Joe
+Joe,is a person who receives information from,Susan
+Ann,is a person who is known by,Susan
+Ann,is a person who shares information with,Susan
+Ann,is a person who is indiscreet,Susan
+Sid,is a person who explains his theory to,Mark
+Mark,is a person who receives information from,Sid
+Mark,is a person who is being convinced by,Sid
+Susan,is a person who shares information with,Joe
+Joe,is a person who receives information from,Susan
+Ann,is a person who is known by,Susan
+Ann,is a person who shares information with,Susan
+Ann,is a person who is indiscreet,Susan
+Sid,is a person who explains his theory to,Mark
+Mark,is a person who receives information from,Sid
+Mark,is a person who is being convinced by,Sid
+announcement,intended for,subway
+subway,interfering with,announcement
+rain,affecting,concert
+knife,cleaned by,rag
+knife,put in,drawer
+Ann,asked,Mary
+rain,affecting,concert
+knife,cleaned by,rag
+knife,put in,drawer
+Ann,asked,Mary
+Ann,asks,Mary
+Bob,paid for,Charlie
+Charlie,was grateful,Bob
+Charlie,acted ungratefully,Bob
+Adam,was behind,Bob
+Adam,was at work,Bob
+Adam,was waiting for,Bob
+Bob,arrived to replace,Adam
+tree,fell,house
+tree,crashed,roof
+roof,damaged,house
+customer,stabbed,teller
+man,humming,library
+man,whistling,library
+John,annoyed,man
+John,jogging,park
+man,juggling,watermelons
+John,saw,man
+John,impressed,man
+John,jogging,park
+man,collapsed,sidewalk
+Bob,collapsed,sidewalk
+Bob,was helped by,Carl
+Carl,is helping,Bob
+Carl,is assisting,Bob
+Pete,was deceived by,Mark
+Mary,plays,flute
+Mary,plays,piano
+Sam,plans to use,chair
+Sam,decides not to use,chair
+Sam,plans to use,piano
+Sam,decides to stand,piano
+Sam,uses,piano
+newspaper,is susceptible to,water
+backpack,is resistant to,water
+Sara,borrows,book
+book,is borrowed by,Sara
+Sara,reads,book
+book,is read by,Sara
+article,is the purpose of,book
+Sara,writes,article
+Mary,plays,flute
+Sam,decides not to use,chair
+Sam,decides to use,piano
+Sara,borrows,book
+book,is borrowed by,Sara
+Sara,reads,book
+Sara,writes,article
+article,is written by,Sara
+Mary,CAREGIVER,Anne
+Mary,PARENT,Anne
+Fred,FRIEND,Alice
+Fred,CLASSMATE,Alice
+Thomson,VISITED,Cooper
+Thomson,VISITED_GRAVE,Cooper
+Thomson,PRECEDED,Cooper
+Fred,COAT_OWNER,Alice
+Fred,COAT_OWNER,Fred
+Alice,COAT_OWNER,Fred
+Mary,CAREGIVER,Anne
+Fred,FRIEND,Alice
+Thomson,VISITED,Cooper
+Thomson,PRECEDED,Cooper
+Fred,COAT_OWNER,Alice
+Fred,watches,TV
+cake,stored in,refrigerator
+refrigerator,contains,cake
+crutches,used by,Sam
+crutches,aiding,ankles
+crutches,become unnecessary,ankles
+sponsors,outnumbered by,opponents
+sponsors,got to,town hall
+opponents,outnumber,sponsors
+people,preference,oatmeal cookies
+people,preference,chocolate chip cookies
+oatmeal cookies,comparison,chocolate chip cookies
+oatmeal cookies,preference,people
+chocolate chip cookies,preference,people
+chairs,object,newsletter
+newsletter,object,auditorium
+chairs,object,auditorium
+chairs,comparison,newsletter
+Steve,follows,Fred
+Steve,influences,Fred
+Fred,admires,Steve

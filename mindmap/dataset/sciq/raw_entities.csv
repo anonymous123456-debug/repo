@@ -1,0 +1,3236 @@
+idx,Entity
+1,"Here are the entities extracted from the text and concatenated with commas:
+
+Mesophiles"
+2, temperature
+3, humans
+4, animals
+5, Coriolis Effect
+6, winds
+7, cheese
+8, yogurt
+9, beer
+10, wine
+11, phase changes
+12, energy
+13, system
+14, fusion
+15, enthalpy of fusion
+16, enthalpy of vaporization
+17, enthalpy of sublimation
+18, heating curves
+19, superheated liquid
+20, supercooled liquid
+21, metastable liquid
+22, radioactive decay
+23, alpha decay
+24, Kilauea
+25, volcano
+26, Hawaii
+27, rock
+28, projectile motion
+29, altitude
+30, velocity
+31, meteoroids
+32, asteroids
+33, Earth's atmosphere
+34, oxygen
+35, charcoal
+36, combustion reaction
+37, carbon dioxide
+38, water vapor
+39, meteor
+40, meteorite
+41, ring species
+42, allopatric speciation
+43, subpopulations
+44, species
+45, environment
+46, adaptation
+47, isolation
+48, migration
+49, black bear
+50, North America
+51, Florida
+52, Mexico
+53, Alaska
+54, Newfoundland
+55, iron
+56, paint
+57, rust
+58, endosperm
+59, seed
+60, chromium
+61, stainless steel
+62, zinc
+63, galvanic cell
+64, cathodic protection
+65, galvanic cell
+66, zinc-plated iron
+67, magnesium
+68, anodes
+69, cathodes
+70, genes
+71, experiences
+72, environment
+73, label
+74, serving size
+75, food
+76, nutrients
+77, calories
+78, cup
+79, label
+80, North America
+81, Mexico
+82, Alaska
+83, Newfoundland
+84," Florida.
+
+Note: Some of these entities may be subcategories or types of other entities"
+85, but I have listed them as separate entities for the purpose of this exercise.
+86,Here's a list of extracted entities in the given text
+87," concatenated with commas:
+
+Thesis"
+88, Thorium
+89, Protactinium
+90, DNA
+91, Boron
+92, Silicon
+93, Earth
+94, Oxygen
+95, B(OH)3
+96, Borax
+97, Na2B4O7⋅10H2O
+98, BF3
+99, B2O3
+100, Fluorine
+101, Tellurium
+102, Noble gases
+103, Magnesium
+104, Hydrochloric acid
+105, Hydrogen
+106, Circulatory systems
+107, Allergen
+108, Immune system
+109, Sperm
+110, Egg
+111, Zygote
+112, Generations
+113, Haploid
+114, Diploid
+115, Spores
+116, Gametes
+117, Gametophytes
+118, Sporophytes
+119, Enzymes
+120, Chemical fertilizers
+121, Wetlands
+122, Swamps
+123, Marshes
+124, Bogs
+125, California
+126, Fingers
+127, Thumb
+128, Little finger
+129, Lumbrical
+130, Palmar interossei
+131, Dorsal interossei
+132, Hypothesis
+133, Observations
+134, Experiments
+135, Literature
+136, Atoms
+137, Molecules
+138, Covalent bond
+139, Van der Waals interactions
+140, Van der Waals surface
+141, Collisions
+142, Energy
+143, Neighboring molecules
+144, Bond energy
+145, Bond stability
+146, Methylpropane
+147, 2methylpropane
+148, Hydrogen
+149, Oxygen
+150, Sulfur
+151, Nitrogen
+152, Carbon
+153, Phosphorus
+154," Biological systems
+
+However"
+155, the output format you requested is a bit unusual
+156," so I'll provide it in the requested format:
+
+Thesis"
+157, Thorium
+158, Protactinium
+159, DNA
+160, Boron
+161, Silicon
+162, Earth
+163, Oxygen
+164, B(OH)3
+165, Borax
+166, Na2B4O7⋅10H2O
+167, BF3
+168, B2O3
+169, Fluorine
+170, Tellurium
+171, Noble gases
+172, Magnesium
+173, Hydrochloric acid
+174, Hydrogen
+175, Circulatory systems
+176, Allergen
+177, Immune system
+178, Sperm
+179, Egg
+180, Zygote
+181, Generations
+182, Haploid
+183, Diploid
+184, Spores
+185, Gametes
+186, Gametophytes
+187, Sporophytes
+188, Enzymes
+189, Chemical fertilizers
+190, Wetlands
+191, Swamps
+192, Marshes
+193, Bogs
+194, California
+195, Fingers
+196, Thumb
+197, Little finger
+198, Lumbrical
+199, Palmar interossei
+200, Dorsal interossei
+201, Hypothesis
+202, Observations
+203, Experiments
+204, Literature
+205, Atoms
+206, Molecules
+207, Covalent bond
+208, Van der Waals interactions
+209, Van der Waals surface
+210, Collisions
+211, Energy
+212, Neighboring molecules
+213, Bond energy
+214, Bond stability
+215, Methylpropane
+216, 2methylpropane
+217, Hydrogen
+218, Oxygen
+219, Sulfur
+220, Nitrogen
+221, Carbon
+222, Phosphorus
+223, Biological systems
+224,"Here are the extracted entities concatenated with commas:
+
+macromolecules"
+225, sodium chloride
+226, water
+227, crystal lattice
+228, ions
+229, oxygen
+230, hydrogen
+231, geologic maps
+232, rock units
+233, geologic features
+234, evolution
+235, organisms
+236, traits
+237, hypothalamus
+238, pituitary gland
+239, hormones
+240, testes
+241, testosterone
+242, puberty
+243, male facial hair
+244, shoulders
+245, male voice
+246, animation
+247, birds
+248, photosynthetic protists
+249, light energy
+250, aquatic ecosystems
+251, endothermic tetrapod vertebrates
+252, bipedal
+253, amniotic eggs
+254, calcium carbonate
+255, vertebrates
+256, Earth
+257, Eukarya
+258, cell wall
+259, nucleus
+260, organelles
+261, divergent plate boundaries
+262, ocean basin
+263, electropositive metals
+264, aluminum
+265, carbides
+266, metal cations
+267, carbon anions
+268, protons
+269, acetylene
+270, acetylides
+271, hydrocarbons
+272, calcium carbide
+273, transition metals
+274, tungsten carbide
+275, cementite
+276, silicon carbide
+277, boron carbide
+278, silicon
+279, carbon
+280, fungus-like protist saprobes
+281, oomycetes
+282, dead organisms
+283, wastes
+284, inorganic nutrients
+285, soil
+286, water
+287, ribosomes
+288, protein synthesis
+289, eukaryotic cells
+290, prokaryotic cells
+291, ribosomal protein
+292, ribosomal RNA
+293, endoplasmic reticulum
+294, ER
+295, cytoplasm
+296, meiosis
+297, DNA
+298, cell cycle
+299, interphase
+300, mitosis
+301, chromosomes
+302, Earthquakes
+303, plate tectonic motions
+304, ganglia
+305, neuron cell bodies
+306, CNS
+307, sensory ganglia
+308, autonomic ganglia
+309, axons
+310, skin
+311, CNS
+312,Here are the extracted entities from the given text
+313," concatenated with commas:
+
+Nerve root"
+314, ganglion
+315, neurons
+316, fibers
+317, posterior nerve root
+318, cell bodies
+319, satellite cells
+320, nuclei
+321, particles
+322, gas
+323, pressure
+324, volume
+325, temperature
+326, liquid
+327, nitrogen
+328, rocks
+329, igneous rocks
+330, sedimentary rocks
+331, calcium
+332, vitamin D
+333, osteoporosis
+334, bone fractures
+335, ligament sprains
+336, air pollution
+337, asthma
+338, lung cancer
+339, lung diseases
+340, children
+341, environment
+342, enzymes
+343, biochemical reactions
+344, metals
+345, group 13
+346, aluminum
+347, gallium
+348, indium
+349, thallium
+350, passivation
+351, mercury
+352, amalgam
+353, automobile axle
+354, wheel
+355, pulley
+356, force
+357, cord
+358, MA
+359, tongue
+360, papillae
+361, taste buds
+362, gustatory receptor cells
+363, sensory neurons
+364, facial nerve
+365, glossopharyngeal nerve
+366, bowling ball
+367, soccer ball
+368, gravity
+369, acceleration
+370, leaf
+371, acorn
+372, air resistance
+373, plasma membrane
+374, cytoplasm
+375, cell
+376, URL
+377, animation
+378, science-animations.com
+379, freefall
+380, interactive animation
+381, URL
+382, plasma membrane
+383, selective permeability
+384, semipermeability
+385, oxygen
+386, hydrogen
+387, water
+388, gold
+389, solar system
+390, galaxy
+391, stars
+392, Milky Way Galaxy
+393, United States
+394, types of galaxies
+395, universe
+396, light
+397, medium
+398, speed
+399, angle of refraction
+400, diamond
+401," water.
+
+However"
+402," the following entities are not specific or are not found in the text:
+
+- MA (Machine Assistance)
+- LM (Low Magnification)
+- Regents of University of Michigan Medical School
+- URL (Uniform Resource Locator)"
+403,"Here are the entities extracted from the text and concatenated with commas:
+
+Bacterium"
+404, Plant
+405, Animal
+406, Carbohydrate
+407, CO2
+408, Energy
+409, Waste
+410, Atom
+411, Matter
+412, Oxygen
+413, Light
+414, Chloroplasts
+415, Mitochondria
+416, Electron transport chains
+417, Photosynthesis
+418, Cellular respiration
+419, N2
+420, FM radio
+421, AM radio
+422, Waves
+423, Radio sources
+424, Television
+425, Electromagnetic waves
+426, Frequencies
+427, VHF
+428, UHF
+429, Satellite dishes
+430, Cable transmission
+431, High-definition
+432, HD format
+433, Sun
+434, Electromagnetic radiation
+435, Wavelength
+436, Core
+437, Plasma
+438, Temperature
+439, Nuclear fusion
+440, Hydrogen
+441, Helium
+442, Solar system
+443, Cells
+444, Bone cells
+445, Skin cells
+446, Blood vessels
+447, Pioneer species
+448, Abiotic factors
+449, Soil
+450, Water
+451, Climate
+452, Mosses
+453, Grasses
+454, Shrubs
+455, Trees
+456, Nitrogen cycle
+457, Ecosystem
+458, Tornado
+459, United States
+460, Debris
+461, Human beings
+462, Innate behaviors
+463, Reflex behaviors
+464, Earth's atmosphere
+465, Pressure
+466, Fluid
+467, Height
+468, Equation
+469, Pa
+470, kPa
+471, Fish
+472, Swim bladder
+473, Blood
+474, Lakes
+475, Phase changes
+476, Solid water
+477, Liquid water
+478, Ice
+479, Aquatic ecosystems
+480, Ocean levels
+481, Polar Regions
+482, World
+483, Cracks
+484, Glaciers
+485, Glaciers
+486, Ecosystems
+487, Life on Earth
+488, CK-12 Foundation
+489, Mariana Ruiz Villarreal
+490, LadyofHats
+491, CC BY-NC 3.0
+492,"Here are the extracted entities concatenated with commas:
+
+rocks"
+493, water
+494, transpiration
+495, evaporation
+496, phase change
+497, sublimation
+498, frost
+499, universal solvent
+500, bipolar molecule
+501, substances
+502, solid
+503, liquid
+504, gas
+505, life
+506, human
+507, overpopulation
+508, species
+509, extinction
+510, internal respiration
+511, body tissues
+512, external respiration
+513, diffusion
+514, oxygen
+515, partial pressure
+516, hemoglobin
+517, carbon dioxide
+518, blood
+519, heart
+520, lungs
+521, mass extinction
+522, fossil record
+523, topsoil
+524, subsoil
+525, B horizon
+526, minerals
+527, clays
+528, iron
+529, clay
+530, electric potential energy
+531, voltage
+532, potential difference
+533, electron volts
+534, crocodilians
+535, gastroliths
+536, stomach
+537, digestive system
+538, prey
+539, population
+540, carrying capacity
+541, space
+542, airflow
+543, convection
+544, insulator
+545, conductor
+546, house
+547, wall insulation
+548, window
+549, double-paned window
+550, fur
+551, fiber
+552, fiberglass
+553, microscope
+554, telescope
+555, climate change
+556, Earth's surface
+557, satellites
+558, carboxylic acids
+559, acids
+560, bases
+561, oxidation
+562, aldehydes
+563, alcohols
+564, endocrine system
+565, hormone
+566, hypersecretion
+567, hyposecretion
+568, heredity
+569, genetics
+570, DNA
+571, chromosome
+572, meiosis
+573, garden peas
+574, Gregor Mendel
+575, metabolism
+576, calories
+577, diet
+578, nutrition
+579," exercise.
+
+Note: Some of these entities might be related or part of a larger category"
+580, but I have extracted them based on their individual presence in the text.
+581,"Here are the entities extracted from the text and concatenated with commas:
+
+cardiovascular disease"
+582, cancer
+583, diabetes
+584, vitamins
+585, minerals
+586, metabolic pathways
+587, diet
+588, alkenes
+589, hydrocarbons
+590, carbon atoms
+591, freezing
+592, melting
+593, evaporation
+594, condensation
+595, deposition
+596, sublimation
+597, jaw
+598, adductor muscle
+599, temporalis
+600, masseter
+601, mammals
+602, heterodont teeth
+603, polyphyodonts
+604, vertebrates
+605, diphyodonts
+606, deciduous teeth
+607, permanent teeth
+608, four-chambered heart
+609, cardiac fibers
+610, sinoatrial node
+611, pacemaker
+612, erythrocytes
+613, red blood cells
+614, kidneys
+615, nephron
+616, loop of Henle
+617, renal portal system
+618, urinary bladder
+619, cerebral cortex
+620, cerebrum
+621, optic lobes
+622, midbrain
+623, pathogens
+624, mucous membranes
+625, reproductive organs
+626, sexual behaviors
+627, vaginal sex
+628, anal sex
+629, oral sex
+630, body fluids
+631, blood
+632, semen
+633, breast milk
+634, injection needles
+635, tattoo needles
+636, sexual reproduction
+637, gametes
+638, zygote
+639, fertilization
+640, alkanes
+641, carbon
+642, hydrogen
+643, intermolecular attractions
+644, dispersion forces
+645, melting point
+646, boiling point
+647, erectile dysfunction
+648, ED
+649, testes
+650, testosterone
+651, vasodilation
+652, NO
+653, smooth muscles
+654, penile arteries
+655, phosphodiesterase
+656, PDE
+657, cGMP
+658, sildenafil
+659, Viagra
+660, hypertension
+661, angina pectoris
+662, clinical trials
+663, FDA
+664, nitrates
+665, immovable joints
+666, collagen
+667, transform faults
+668, earthquakes
+669, ice wedging
+670, diatoms
+671, protists
+672, silicon dioxide
+673, freshwater
+674, marine plankton
+675, sporulation
+676," sexual reproduction.
+
+Note: Some of these entities may be related to each other (e.g. ""mammals"" and ""heterodont teeth"" are related)"
+677, but I have listed each one separately as per your request.
+678,"Here's the list of extracted entities concatenated with commas:
+
+silica"
+679, shell
+680, raphe
+681, diatom
+682, compound
+683, elements
+684, chemical bonds
+685, force
+686, attraction
+687, atoms
+688, ions
+689, valence electrons
+690, URL
+691, YouTube
+692, video
+693, introduction
+694, coal
+695, oil
+696, natural gas
+697, energy
+698, society
+699, plants
+700, Sun
+701, carbon
+702, years
+703, matter
+704, decades
+705, pollution
+706, greenhouse gas
+707, carbon dioxide
+708, evolution
+709, natural selection
+710, process
+711, traits
+712, offspring
+713, reactants
+714, products
+715, equilibrium
+716, sepals
+717, flower
+718, bud
+719, consumers
+720, gravity
+721, force
+722, mass
+723, conception
+724, conception
+725, conception
+726, conception
+727, conception
+728, conception
+729, conception
+730, conception
+731, conception
+732, conception
+733, conception
+734, conception
+735, conception
+736, conception
+737, conception
+738, conception
+739, conception
+740, conception
+741, conception
+742, conception
+743, conception
+744, conception
+745, conception
+746, conception
+747, conception
+748, conception
+749, conception
+750, conception
+751, conception
+752, conception
+753, conception
+754, conception
+755, conception
+756, conception
+757, conception
+758, conception
+759, conception
+760, conception
+761, conception
+762, conception
+763, conception
+764, conception
+765, conception
+766, conception
+767, conception
+768, conception
+769, conception
+770, conception
+771, conception
+772, conception
+773, conception
+774, conception
+775, conception
+776, conception
+777, conception
+778, conception
+779, conception
+780, conception
+781, conception
+782, conception
+783, conception
+784, conception
+785, conception
+786, conception
+787, conception
+788, conception
+789, conception
+790, conception
+791, conception
+792, conception
+793, conception
+794, conception
+795, conception
+796, conception
+797, conception
+798, conception
+799, conception
+800, conception
+801, conception
+802, conception
+803, conception
+804, conception
+805, conception
+806, conception
+807, conception
+808, conception
+809, conception
+810, conception
+811, conception
+812, conception
+813, conception
+814, conception
+815, conception
+816, conception
+817, conception
+818, conception
+819, conception
+820, conception
+821, conception
+822, conception
+823, conception
+824, conception
+825, conception
+826, conception
+827, conception
+828, conception
+829, conception
+830, conception
+831, conception
+832, conception
+833, conception
+834, conception
+835, conception
+836, conception
+837, conception
+838, conception
+839, conception
+840, conception
+841, conception
+842, conception
+843, conception
+844, conception
+845, conception
+846, conception
+847, conception
+848, conception
+849, conception
+850, conception
+851, conception
+852, conception
+853, conception
+854, conception
+855, conception
+856, conception
+857, conception
+858, conception
+859, conception
+860, conception
+861, conception
+862, conception
+863, conception
+864, conception
+865, conception
+866, conception
+867, conception
+868, conception
+869, conception
+870, conception
+871, conception
+872, conception
+873, conception
+874, conception
+875, conception
+876, conception
+877, conception
+878, conception
+879, conception
+880, conception
+881, conception
+882, conception
+883, conception
+884, conception
+885, conception
+886, conception
+887, conception
+888, conception
+889, conception
+890, conception
+891, conception
+892, conception
+893, conception
+894, conception
+895, conception
+896, conception
+897, conception
+898, conception
+899, conception
+900, conception
+901, conception
+902, conception
+903, conception
+904, conception
+905, conception
+906, conception
+907, conception
+908, conception
+909, conception
+910, conception
+911, conception
+912, conception
+913, conception
+914, conception
+915, conception
+916, conception
+917, conception
+918, conception
+919, conception
+920, conception
+921, conception
+922, conception
+923, conception
+924, conception
+925, conception
+926, conception
+927, conception
+928, conception
+929, conception
+930, conception
+931, conception
+932, conception
+933, conception
+934, conception
+935, conception
+936, conception
+937, conception
+938, conception
+939, conception
+940, conception
+941, conception
+942, conception
+943, conception
+944, conception
+945, conception
+946, conception
+947, conception
+948, conception
+949, conception
+950, conception
+951, conception
+952, conception
+953, conception
+954, conception
+955, conception
+956, conception
+957, conception
+958, conception
+959, conception
+960, conception
+961, conception
+962, conception
+963, conception
+964, conception
+965, conception
+966, conception
+967, conception
+968, conception
+969, conception
+970, conception
+971, conception
+972, conception
+973, conception
+974, conception
+975, conception
+976, conception
+977, conception
+978, conception
+979, conception
+980, conception
+981, conception
+982, conception
+983, conception
+984, conception
+985, conception
+986, conception
+987, conception
+988, conception
+989, conception
+990, conception
+991, conception
+992, conception
+993, conception
+994, conception
+995, conception
+996, conception
+997, conception
+998, conception
+999, conception
+1000, conception
+1001, conception
+1002, conception
+1003, conception
+1004, conception
+1005, conception
+1006, conception
+1007, conception
+1008, conception
+1009, conception
+1010, conception
+1011, conception
+1012, conception
+1013, conception
+1014, conception
+1015, conception
+1016, conception
+1017, conception
+1018, conception
+1019, conception
+1020, conception
+1021, conception
+1022, conception
+1023, conception
+1024, conception
+1025, conception
+1026, conception
+1027, conception
+1028, conception
+1029, conception
+1030, conception
+1031, conception
+1032, conception
+1033, conception
+1034, conception
+1035, conception
+1036, conception
+1037, conception
+1038, conception
+1039, conception
+1040, conception
+1041, conception
+1042, conception
+1043, conception
+1044, conception
+1045, conception
+1046, conception
+1047, conception
+1048, conception
+1049, conception
+1050, conception
+1051, conception
+1052, conception
+1053, conception
+1054, conception
+1055, conception
+1056, conception
+1057, conception
+1058, conception
+1059, conception
+1060, conception
+1061, conception
+1062, conception
+1063, conception
+1064, conception
+1065, conception
+1066, conception
+1067, conception
+1068, conception
+1069, conception
+1070, conception
+1071, conception
+1072, conception
+1073, conception
+1074, conception
+1075, conception
+1076, conception
+1077, conception
+1078, conception
+1079, conception
+1080, conception
+1081, conception
+1082, conception
+1083, conception
+1084, conception
+1085, conception
+1086, conception
+1087, conception
+1088, conception
+1089, conception
+1090, conception
+1091, conception
+1092, conception
+1093, conception
+1094, conception
+1095, conception
+1096, conception
+1097, conception
+1098, conception
+1099, conception
+1100, conception
+1101, conception
+1102, conception
+1103, conception
+1104, conception
+1105, conception
+1106, conception
+1107, conception
+1108, conception
+1109, conception
+1110, conception
+1111, conception
+1112, conception
+1113, conception
+1114, conception
+1115, conception
+1116, conception
+1117, conception
+1118, conception
+1119, conception
+1120, conception
+1121, conception
+1122, conception
+1123, conception
+1124, conception
+1125, conception
+1126, conception
+1127, conception
+1128, conception
+1129, conception
+1130, conception
+1131, conception
+1132, conception
+1133, conception
+1134, conception
+1135, conception
+1136, conception
+1137, conception
+1138, conception
+1139, conception
+1140, conception
+1141, conception
+1142, conception
+1143, conception
+1144, conception
+1145, conception
+1146, conception
+1147, conception
+1148, conception
+1149, conception
+1150, conception
+1151, conception
+1152, conception
+1153, conception
+1154, conception
+1155, conception
+1156, conception
+1157, conception
+1158, conception
+1159, conception
+1160, conception
+1161, conception
+1162, conception
+1163, conception
+1164, conception
+1165, conception
+1166, conception
+1167, conception
+1168, conception
+1169, conception
+1170, conception
+1171, conception
+1172, conception
+1173, conception
+1174, conception
+1175, conception
+1176, conception
+1177, conception
+1178, conception
+1179, conception
+1180, conception
+1181, conception
+1182, conception
+1183, conception
+1184, conception
+1185, conception
+1186, conception
+1187, conception
+1188, conception
+1189, conception
+1190, conception
+1191, conception
+1192, conception
+1193, conception
+1194, conception
+1195, conception
+1196, conception
+1197, conception
+1198, conception
+1199, conception
+1200, conception
+1201, conception
+1202, conception
+1203, conception
+1204, conception
+1205, conception
+1206, conception
+1207, conception
+1208, conception
+1209, conception
+1210, conception
+1211, conception
+1212, conception
+1213, conception
+1214, conception
+1215, conception
+1216, conception
+1217, conception
+1218, conception
+1219, conception
+1220, conception
+1221, conception
+1222, conception
+1223, conception
+1224, conception
+1225, conception
+1226, conception
+1227, conception
+1228, conception
+1229, conception
+1230, conception
+1231, conception
+1232, conception
+1233, conception
+1234, conception
+1235, conception
+1236, conception
+1237, conception
+1238, conception
+1239, conception
+1240, conception
+1241, conception
+1242, conception
+1243, conception
+1244, conception
+1245, conception
+1246, conception
+1247, conception
+1248, conception
+1249, conception
+1250, conception
+1251, conception
+1252, conception
+1253, conception
+1254, conception
+1255, conception
+1256, conception
+1257, conception
+1258, conception
+1259, conception
+1260, conception
+1261, conception
+1262, conception
+1263, conception
+1264, conception
+1265, conception
+1266, conception
+1267, conception
+1268, conception
+1269, conception
+1270, conception
+1271, conception
+1272, conception
+1273, conception
+1274, conception
+1275, conception
+1276, conception
+1277, conception
+1278, conception
+1279, conception
+1280, conception
+1281, conception
+1282, conception
+1283, conception
+1284, conception
+1285, conception
+1286, conception
+1287, conception
+1288, conception
+1289, conception
+1290, conception
+1291, conception
+1292, conception
+1293, conception
+1294, conception
+1295, conception
+1296, conception
+1297, conception
+1298, conception
+1299, conception
+1300, conception
+1301, conception
+1302, conception
+1303, conception
+1304, conception
+1305, conception
+1306, conception
+1307, conception
+1308, conception
+1309, conception
+1310, conception
+1311, conception
+1312, conception
+1313, conception
+1314, conception
+1315, conception
+1316, conception
+1317, conception
+1318, conception
+1319, conception
+1320, conception
+1321, conception
+1322, conception
+1323, conception
+1324, conception
+1325, conception
+1326, conception
+1327, conception
+1328, conception
+1329, conception
+1330, conception
+1331, conception
+1332, conception
+1333, conception
+1334, conception
+1335, conception
+1336, conception
+1337, conception
+1338, conception
+1339, conception
+1340, conception
+1341, conception
+1342, conception
+1343, conception
+1344, conception
+1345, conception
+1346, conception
+1347, conception
+1348, conception
+1349, conception
+1350, conception
+1351, conception
+1352, conception
+1353, conception
+1354, conception
+1355, conception
+1356, conception
+1357, conception
+1358, conception
+1359, conception
+1360, conception
+1361, conception
+1362, conception
+1363, conception
+1364, conception
+1365, conception
+1366, conception
+1367, conception
+1368, conception
+1369, conception
+1370, conception
+1371, conception
+1372, conception
+1373, conception
+1374, conception
+1375, conception
+1376, conception
+1377, conception
+1378, conception
+1379, conception
+1380, conception
+1381, conception
+1382, conception
+1383, conception
+1384, conception
+1385, conception
+1386, conception
+1387, conception
+1388, conception
+1389, conception
+1390, conception
+1391, conception
+1392, conception
+1393, conception
+1394, conception
+1395, conception
+1396, conception
+1397, conception
+1398, conception
+1399, conception
+1400, conception
+1401, conception
+1402, conception
+1403, conception
+1404, conception
+1405, conception
+1406, conception
+1407, conception
+1408, conception
+1409, conception
+1410, conception
+1411, conception
+1412, conception
+1413, conception
+1414, conception
+1415, conception
+1416, conception
+1417, conception
+1418, conception
+1419, conception
+1420, conception
+1421, conception
+1422, conception
+1423, conception
+1424, conception
+1425, conception
+1426, conception
+1427, conception
+1428, conception
+1429, conception
+1430, conception
+1431, conception
+1432, conception
+1433, conception
+1434, conception
+1435, conception
+1436, conception
+1437, conception
+1438, conception
+1439, conception
+1440, conception
+1441, conception
+1442, conception
+1443, conception
+1444, conception
+1445, conception
+1446, conception
+1447, conception
+1448, conception
+1449, conception
+1450, conception
+1451, conception
+1452, conception
+1453, conception
+1454, conception
+1455, conception
+1456, conception
+1457, conception
+1458, conception
+1459, conception
+1460, conception
+1461, conception
+1462, conception
+1463, conception
+1464, conception
+1465, conception
+1466, conception
+1467, conception
+1468, conception
+1469, conception
+1470, conception
+1471, conception
+1472, conception
+1473, conception
+1474, conception
+1475, conception
+1476, conception
+1477, conception
+1478, conception
+1479, conception
+1480, conception
+1481, conception
+1482, conception
+1483, conception
+1484, conception
+1485, conception
+1486, conception
+1487, conception
+1488, conception
+1489, conception
+1490, conception
+1491, conception
+1492, conception
+1493, conception
+1494, conception
+1495, conception
+1496, conception
+1497, conception
+1498, conception
+1499, conception
+1500, conception
+1501, conception
+1502, conception
+1503, conception
+1504, conception
+1505, conception
+1506, conception
+1507, conception
+1508, conception
+1509, conception
+1510, conception
+1511, conception
+1512, conception
+1513, conception
+1514, conception
+1515, conception
+1516, conception
+1517, conception
+1518, conception
+1519, conception
+1520, conception
+1521, conception
+1522, conception
+1523, conception
+1524, conception
+1525, conception
+1526, conception
+1527, conception
+1528, conception
+1529, conception
+1530, conception
+1531, conception
+1532, conception
+1533, conception
+1534, conception
+1535, conception
+1536, conception
+1537, conception
+1538, conception
+1539, conception
+1540, conception
+1541, conception
+1542, conception
+1543, conception
+1544, conception
+1545, conception
+1546, conception
+1547, conception
+1548, conception
+1549, conception
+1550, conception
+1551, conception
+1552, conception
+1553, conception
+1554, conception
+1555, conception
+1556, conception
+1557, conception
+1558, conception
+1559, conception
+1560, conception
+1561, conception
+1562, conception
+1563, conception
+1564, conception
+1565, conception
+1566, conception
+1567, conception
+1568, conception
+1569, conception
+1570, conception
+1571, conception
+1572, conception
+1573, conception
+1574, conception
+1575, conception
+1576, conception
+1577, conception
+1578, conception
+1579, conception
+1580, conception
+1581, conception
+1582, conception
+1583, conception
+1584, conception
+1585, conception
+1586, conception
+1587, conception
+1588, conception
+1589, conception
+1590, conception
+1591, conception
+1592, conception
+1593, conception
+1594, conception
+1595, conception
+1596, conception
+1597, conception
+1598, conception
+1599, conception
+1600, conception
+1601, conception
+1602, conception
+1603, conception
+1604, conception
+1605, conception
+1606, conception
+1607, conception
+1608, conception
+1609, conception
+1610, conception
+1611, conception
+1612, conception
+1613, conception
+1614, conception
+1615, conception
+1616, conception
+1617, conception
+1618, conception
+1619, conception
+1620, conception
+1621, conception
+1622, conception
+1623, conception
+1624, conception
+1625, conception
+1626, conception
+1627, conception
+1628, conception
+1629, conception
+1630, conception
+1631, conception
+1632, conception
+1633, conception
+1634, conception
+1635, conception
+1636, conception
+1637, conception
+1638, conception
+1639, conception
+1640, conception
+1641, conception
+1642, conception
+1643, conception
+1644, conception
+1645, conception
+1646, conception
+1647, conception
+1648, conception
+1649, conception
+1650, conception
+1651, conception
+1652, conception
+1653, conception
+1654, conception
+1655, conception
+1656, conception
+1657, conception
+1658, conception
+1659, conception
+1660, conception
+1661, conception
+1662, conception
+1663, conception
+1664, conception
+1665, conception
+1666, conception
+1667, conception
+1668, conception
+1669, conception
+1670, conception
+1671, conception
+1672, conception
+1673, conception
+1674, conception
+1675, conception
+1676, conception
+1677, conception
+1678, conception
+1679, conception
+1680, conception
+1681, conception
+1682, conception
+1683, conception
+1684, conception
+1685, conception
+1686, conception
+1687, conception
+1688, conception
+1689, conception
+1690, conception
+1691, conception
+1692, conception
+1693, conception
+1694, conception
+1695, conception
+1696, conception
+1697, conception
+1698, conception
+1699, conception
+1700, conception
+1701, conception
+1702, conception
+1703, conception
+1704, conception
+1705, conception
+1706, conception
+1707, conception
+1708, conception
+1709, conception
+1710, conception
+1711, conception
+1712, conception
+1713, conception
+1714, conception
+1715, conception
+1716, conception
+1717, conception
+1718, conception
+1719, conception
+1720, conception
+1721, conception
+1722, conception
+1723, conception
+1724, conception
+1725, conception
+1726, conception
+1727, conception
+1728, conception
+1729, conception
+1730, conception
+1731, conception
+1732, conception
+1733, conception
+1734, conception
+1735, conception
+1736, conception
+1737, conception
+1738, conception
+1739, conception
+1740, conception
+1741, conception
+1742, conception
+1743, conception
+1744, conception
+1745, conception
+1746, conception
+1747, conception
+1748, conception
+1749, conception
+1750, conception
+1751, conception
+1752, conception
+1753, conception
+1754, conception
+1755, conception
+1756, conception
+1757, conception
+1758, conception
+1759, conception
+1760, conception
+1761, conception
+1762, conception
+1763, conception
+1764, conception
+1765, conception
+1766, conception
+1767, conception
+1768, conception
+1769, conception
+1770, conception
+1771, conception
+1772, conception
+1773, conception
+1774, conception
+1775, conception
+1776, conception
+1777, conception
+1778, conception
+1779, conception
+1780, conception
+1781, conception
+1782, conception
+1783, conception
+1784, conception
+1785, conception
+1786, conception
+1787, conception
+1788, conception
+1789, conception
+1790, conception
+1791, conception
+1792, conception
+1793, conception
+1794, conception
+1795, conception
+1796, conception
+1797, conception
+1798, conception
+1799, conception
+1800, conception
+1801, conception
+1802, conception
+1803, conception
+1804, conception
+1805, conception
+1806, conception
+1807, conception
+1808, conception
+1809, conception
+1810, conception
+1811, conception
+1812, conception
+1813, conception
+1814, conception
+1815, conception
+1816, conception
+1817, conception
+1818, conception
+1819, conception
+1820, conception
+1821, conception
+1822, conception
+1823, conception
+1824, conception
+1825, conception
+1826, conception
+1827, conception
+1828, conception
+1829, conception
+1830, conception
+1831, conception
+1832, conception
+1833, conception
+1834, conception
+1835, conception
+1836, conception
+1837, conception
+1838, conception
+1839, conception
+1840, conception
+1841, conception
+1842, conception
+1843, conception
+1844, conception
+1845, conception
+1846, conception
+1847, conception
+1848, conception
+1849, conception
+1850, conception
+1851, conception
+1852, conception
+1853, conception
+1854, conception
+1855, conception
+1856, conception
+1857, conception
+1858, conception
+1859, conception
+1860, conception
+1861, conception
+1862, conception
+1863, conception
+1864, conception
+1865, conception
+1866, conception
+1867, conception
+1868, conception
+1869, conception
+1870, conception
+1871, conception
+1872, conception
+1873, conception
+1874, conception
+1875, conception
+1876, conception
+1877, conception
+1878, conception
+1879, conception
+1880, conception
+1881, conception
+1882, conception
+1883, conception
+1884, conception
+1885, conception
+1886, conception
+1887, conception
+1888, conception
+1889, conception
+1890, conception
+1891, conception
+1892, conception
+1893, conception
+1894, conception
+1895, conception
+1896, conception
+1897, conception
+1898, conception
+1899, conception
+1900, conception
+1901, conception
+1902, conception
+1903, conception
+1904, conception
+1905, conception
+1906, conception
+1907, conception
+1908, conception
+1909, conception
+1910, conception
+1911, conception
+1912, conception
+1913, conception
+1914, conception
+1915, conception
+1916, conception
+1917, conception
+1918, conception
+1919, conception
+1920, conception
+1921, conception
+1922, conception
+1923, conception
+1924, conception
+1925, conception
+1926, conception
+1927, conception
+1928, conception
+1929, conception
+1930, conception
+1931, conception
+1932, conception
+1933, conception
+1934, conception
+1935, conception
+1936, conception
+1937, conception
+1938, conception
+1939, conception
+1940, conception
+1941, conception
+1942, conception
+1943, conception
+1944, conception
+1945, conception
+1946, conception
+1947, conception
+1948, conception
+1949, conception
+1950, conception
+1951, conception
+1952, conception
+1953, conception
+1954, conception
+1955, conception
+1956, conception
+1957, conception
+1958, conception
+1959, conception
+1960, conception
+1961, conception
+1962, conception
+1963, conception
+1964, conception
+1965, conception
+1966, conception
+1967, conception
+1968, conception
+1969, conception
+1970, conception
+1971, conception
+1972, conception
+1973, conception
+1974, conception
+1975, conception
+1976, conception
+1977, conception
+1978, conception
+1979, conception
+1980, conception
+1981, conception
+1982, conception
+1983, conception
+1984, conception
+1985, conception
+1986, conception
+1987, conception
+1988, conception
+1989, conception
+1990, conception
+1991, conception
+1992, conception
+1993, conception
+1994, conception
+1995, conception
+1996, conception
+1997, conception
+1998, conception
+1999, conception
+2000, conception
+2001, conception
+2002, conception
+2003, conception
+2004, conception
+2005, conception
+2006, conception
+2007, conception
+2008, conception
+2009, conception
+2010, conception
+2011, conception
+2012, conception
+2013, conception
+2014, conception
+2015, conception
+2016, conception
+2017, conception
+2018, conception
+2019, conception
+2020, conception
+2021, conception
+2022, conception
+2023, conception
+2024, conception
+2025, conception
+2026, conception
+2027, conception
+2028, conception
+2029, conception
+2030, conception
+2031, conception
+2032, conception
+2033, conception
+2034, conception
+2035, conception
+2036, conception
+2037, conception
+2038, conception
+2039, conception
+2040, conception
+2041, conception
+2042, conception
+2043, conception
+2044, conception
+2045, conception
+2046, conception
+2047, conception
+2048, conception
+2049, conception
+2050, conception
+2051, conception
+2052, conception
+2053, conception
+2054, conception
+2055, conception
+2056, conception
+2057, conception
+2058, conception
+2059, conception
+2060, conception
+2061, conception
+2062, conception
+2063, conception
+2064, conception
+2065, conception
+2066, conception
+2067, conception
+2068, conception
+2069, conception
+2070, conception
+2071, conception
+2072, conception
+2073, conception
+2074, conception
+2075, conception
+2076, conception
+2077, conception
+2078, conception
+2079, conception
+2080, conception
+2081, conception
+2082, conception
+2083, conception
+2084, conception
+2085, conception
+2086, conception
+2087, conception
+2088, conception
+2089, conception
+2090, conception
+2091, conception
+2092, conception
+2093, conception
+2094, conception
+2095, conception
+2096, conception
+2097, conception
+2098, conception
+2099, conception
+2100, conception
+2101, conception
+2102, conception
+2103, conception
+2104, conception
+2105, conception
+2106, conception
+2107, conception
+2108, conception
+2109, conception
+2110, conception
+2111, conception
+2112, conception
+2113, conception
+2114, conception
+2115, conception
+2116, conception
+2117, conception
+2118, conception
+2119, conception
+2120, conception
+2121, conception
+2122, conception
+2123, conception
+2124, conception
+2125, conception
+2126, conception
+2127, conception
+2128, conception
+2129, conception
+2130, conception
+2131, conception
+2132, conception
+2133, conception
+2134, conception
+2135, conception
+2136, conception
+2137, conception
+2138, conception
+2139, conception
+2140, conception
+2141, conception
+2142, conception
+2143, conception
+2144, conception
+2145, conception
+2146, conception
+2147, conception
+2148, conception
+2149, conception
+2150, conception
+2151, conception
+2152, conception
+2153, conception
+2154, conception
+2155, conception
+2156, conception
+2157, conception
+2158, conception
+2159, conception
+2160, conception
+2161, conception
+2162, conception
+2163, conception
+2164, conception
+2165, conception
+2166, conception
+2167, conception
+2168, conception
+2169, conception
+2170, conception
+2171, conception
+2172, conception
+2173, conception
+2174, conception
+2175, conception
+2176, conception
+2177, conception
+2178, conception
+2179, conception
+2180, conception
+2181, conception
+2182, conception
+2183, conception
+2184, conception
+2185, conception
+2186, conception
+2187, conception
+2188, conception
+2189, conception
+2190, conception
+2191, conception
+2192, conception
+2193, conception
+2194, conception
+2195, conception
+2196, conception
+2197, conception
+2198, conception
+2199, conception
+2200, conception
+2201, conception
+2202, conception
+2203, conception
+2204, conception
+2205, conception
+2206, conception
+2207, conception
+2208, conception
+2209, conception
+2210, conception
+2211, conception
+2212, conception
+2213, conception
+2214, conception
+2215, conception
+2216, conception
+2217, conception
+2218, conception
+2219, conception
+2220, conception
+2221, conception
+2222, conception
+2223, conception
+2224, conception
+2225, conception
+2226, conception
+2227, conception
+2228, conception
+2229, conception
+2230, conception
+2231, conception
+2232, conception
+2233, conception
+2234, conception
+2235, conception
+2236, conception
+2237, conception
+2238, conception
+2239, conception
+2240, conception
+2241, conception
+2242, conception
+2243, conception
+2244, conception
+2245, conception
+2246, conception
+2247, conception
+2248, conception
+2249, conception
+2250, conception
+2251, conception
+2252, conception
+2253, conception
+2254, conception
+2255, conception
+2256, conception
+2257, conception
+2258, conception
+2259, conception
+2260, conception
+2261, conception
+2262, conception
+2263, conception
+2264, conception
+2265, conception
+2266, conception
+2267, conception
+2268, conception
+2269, conception
+2270, conception
+2271, conception
+2272, conception
+2273, conception
+2274, conception
+2275, conception
+2276, conception
+2277, conception
+2278, conception
+2279, conception
+2280, conception
+2281, conception
+2282, conception
+2283, conception
+2284, conception
+2285, conception
+2286, conception
+2287, conception
+2288, conception
+2289, conception
+2290, conception
+2291, conception
+2292, conception
+2293, conception
+2294, conception
+2295, conception
+2296, conception
+2297, conception
+2298, conception
+2299, conception
+2300, conception
+2301, conception
+2302, conception
+2303, conception
+2304, conception
+2305, conception
+2306, conception
+2307, conception
+2308, conception
+2309, conception
+2310, conception
+2311, conception
+2312, conception
+2313, conception
+2314, conception
+2315, conception
+2316, conception
+2317, conception
+2318, conception
+2319, conception
+2320, conception
+2321, conception
+2322, conception
+2323, conception
+2324, conception
+2325, conception
+2326, conception
+2327, conception
+2328, conception
+2329, conception
+2330, conception
+2331, conception
+2332, conception
+2333, conception
+2334, conception
+2335, conception
+2336, conception
+2337, conception
+2338, conception
+2339, conception
+2340, conception
+2341, conception
+2342, conception
+2343, conception
+2344, conception
+2345, conception
+2346, conception
+2347, conception
+2348, conception
+2349, conception
+2350, conception
+2351, conception
+2352, conception
+2353, conception
+2354, conception
+2355, conception
+2356, conception
+2357, conception
+2358, conception
+2359, conception
+2360, conception
+2361, conception
+2362, conception
+2363, conception
+2364, conception
+2365, conception
+2366, conception
+2367, conception
+2368, conception
+2369, conception
+2370, conception
+2371, conception
+2372, conception
+2373, conception
+2374, conception
+2375, conception
+2376, conception
+2377, conception
+2378, conception
+2379, conception
+2380, conception
+2381, conception
+2382, conception
+2383, conception
+2384, conception
+2385, conception
+2386, conception
+2387, conception
+2388, conception
+2389, conception
+2390, conception
+2391, conception
+2392, conception
+2393, conception
+2394, conception
+2395, conception
+2396, conception
+2397, conception
+2398, conception
+2399, conception
+2400, conception
+2401, conception
+2402, conception
+2403, conception
+2404, conception
+2405, conception
+2406, conception
+2407, conception
+2408, conception
+2409, conception
+2410, conception
+2411, conception
+2412, conception
+2413, conception
+2414, conception
+2415, conception
+2416, conception
+2417, conception
+2418, conception
+2419, conception
+2420, conception
+2421, conception
+2422, conception
+2423, conception
+2424, conception
+2425, conception
+2426, conception
+2427, conception
+2428, conception
+2429, conception
+2430, conception
+2431, conception
+2432, conception
+2433, conception
+2434, conception
+2435, conception
+2436, conception
+2437, conception
+2438, conception
+2439, conception
+2440, conception
+2441, conception
+2442, conception
+2443, conception
+2444, conception
+2445, conception
+2446, conception
+2447, conception
+2448, conception
+2449, conception
+2450, conception
+2451, conception
+2452, conception
+2453, conception
+2454, conception
+2455, conception
+2456, conception
+2457, conception
+2458, conception
+2459, conception
+2460, conception
+2461, conception
+2462, conception
+2463, conception
+2464, conception
+2465, conception
+2466, conception
+2467, conception
+2468, conception
+2469, conception
+2470, conception
+2471, conception
+2472, conception
+2473, conception
+2474, conception
+2475, conception
+2476, conception
+2477, conception
+2478, conception
+2479, conception
+2480, conception
+2481, conception
+2482, conception
+2483, conception
+2484, conception
+2485, conception
+2486, conception
+2487, conception
+2488, conception
+2489, conception
+2490, conception
+2491, conception
+2492, conception
+2493, conception
+2494, conception
+2495, conception
+2496, conception
+2497, conception
+2498, conception
+2499, conception
+2500, conception
+2501, conception
+2502, conception
+2503, conception
+2504, conception
+2505, conception
+2506, conception
+2507, conception
+2508, conception
+2509, conception
+2510, conception
+2511, conception
+2512, conception
+2513, conception
+2514, conception
+2515, conception
+2516, conception
+2517, conception
+2518, conception
+2519, conception
+2520, conception
+2521, conception
+2522, conception
+2523, conception
+2524, conception
+2525, conception
+2526, conception
+2527, conception
+2528, conception
+2529, conception
+2530, conception
+2531, conception
+2532, conception
+2533, conception
+2534, conception
+2535, conception
+2536, conception
+2537, conception
+2538, conception
+2539, conception
+2540, conception
+2541, conception
+2542, conception
+2543, conception
+2544, conception
+2545, conception
+2546, conception
+2547, conception
+2548, conception
+2549, conception
+2550, conception
+2551, conception
+2552, conception
+2553, conception
+2554, conception
+2555, conception
+2556, conception
+2557, conception
+2558, conception
+2559, conception
+2560, conception
+2561, conception
+2562, conception
+2563, conception
+2564, conception
+2565, conception
+2566, conception
+2567, conception
+2568, conception
+2569, conception
+2570, conception
+2571, conception
+2572, conception
+2573, conception
+2574, conception
+2575, conception
+2576, conception
+2577, conception
+2578, conception
+2579, conception
+2580, conception
+2581, conception
+2582, conception
+2583, conception
+2584, conception
+2585, conception
+2586, conception
+2587, conception
+2588, conception
+2589, conception
+2590, conception
+2591, conception
+2592, conception
+2593, conception
+2594, conception
+2595, conception
+2596, conception
+2597, conception
+2598, conception
+2599, conception
+2600, conception
+2601, conception
+2602, conception
+2603, conception
+2604, conception
+2605, conception
+2606, conception
+2607, conception
+2608, conception
+2609, conception
+2610, conception
+2611, conception
+2612, conception
+2613, conception
+2614, conception
+2615, conception
+2616, conception
+2617, conception
+2618, conception
+2619, conception
+2620, conception
+2621, conception
+2622, conception
+2623, conception
+2624, conception
+2625, conception
+2626, conception
+2627, conception
+2628, conception
+2629, conception
+2630, conception
+2631, conception
+2632, conception
+2633, conception
+2634, conception
+2635, conception
+2636, conception
+2637, conception
+2638, conception
+2639, conception
+2640, conception
+2641, conception
+2642, conception
+2643, conception
+2644, conception
+2645, conception
+2646, conception
+2647, conception
+2648, conception
+2649, conception
+2650, conception
+2651, conception
+2652, conception
+2653, conception
+2654, conception
+2655, conception
+2656, conception
+2657, conception
+2658, conception
+2659, conception
+2660, conception
+2661, conception
+2662, conception
+2663, conception
+2664, conception
+2665, conception
+2666, conception
+2667,"Here are the extracted entities concatenated with commas:
+
+Phosphates"
+2668, rivers
+2669, lakes
+2670, ocean
+2671, Earth
+2672, phosphorus
+2673, DNA
+2674, Tanya
+2675, sugar
+2676, tea
+2677, water
+2678, solute
+2679, solvent
+2680, particles
+2681, plate boundaries
+2682, earthquakes
+2683, electrolytic cells
+2684, power supply
+2685, electrons
+2686, solutions
+2687, ions
+2688, sodium chloride
+2689, electrolysis
+2690, overpotential
+2691, voltage
+2692, current
+2693, time
+2694, Faraday's constant
+2695, moles
+2696, uterus
+2697, growth factors
+2698, epidermis
+2699, ectoderm
+2700, neural plate
+2701, neural tube
+2702, brain
+2703, spinal cord
+2704, cell membrane
+2705, lipids
+2706, transport proteins
+2707, channel proteins
+2708, gated channel proteins
+2709, carrier proteins
+2710, vertebrates
+2711, male
+2712, female
+2713, ovipary
+2714, ovovivipary
+2715, vivipary
+2716, phospholipids
+2717, bacteria
+2718, cell
+2719, animal cells
+2720, plant cells
+2721, compartments
+2722, hormone
+2723, oxytocin
+2724, pituitary gland
+2725, uterine muscles
+2726, cervix
+2727, glucocorticoid hormones
+2728, hypothalamus
+2729, adrenal glands
+2730, collagen fibers
+2731, fibroblasts
+2732, elastic fibers
+2733, reticular fibers
+2734, elastin
+2735, glycoproteins
+2736, ligaments
+2737, tendons
+2738, skin
+2739, vertebral column
+2740, liver
+2741, spleen
+2742, parenchyma.
+2743,"Here are the extracted entities with the output format you requested:
+
+Alveoli"
+2744, Alveolar fluid
+2745, Amalgams
+2746, Amino acids
+2747, Autotrophs
+2748, Bacteria
+2749, Carbon
+2750, Cell membrane
+2751, Cell wall
+2752, Cellulose
+2753, Chest
+2754, Compounds
+2755, Converging mirrors
+2756, Crystals
+2757, Earth
+2758, Energy
+2759, Epicenter
+2760, Exercise
+2761, Fibroblasts
+2762, Figures
+2763, Fluid
+2764, Gene
+2765, Gene therapy
+2766, Genes
+2767, Glucose
+2768, Ground substance
+2769, Hemicelluloses
+2770, Hyaluronic acid
+2771, Humans
+2772, Hydrogen
+2773, Ions
+2774, Lipids
+2775, Lungs
+2776, Lymphatic system
+2777, Mesothelial cells
+2778, Mercury
+2779, Mirrors
+2780, Molecules
+2781, Muscle
+2782, Nutrients
+2783, Parietal pleurae
+2784, Pathogenic bacteria
+2785, Pectic polysaccharides
+2786, Photosynthesis
+2787, Pleural cavity
+2788, Polysaccharides
+2789, Pneumonia
+2790, Pores
+2791, Pressure
+2792, Protein
+2793, Proteins
+2794, Protists
+2795, Proteoglycan
+2796, Purity
+2797, Rayleigh waves
+2798, Receptors
+2799, Science
+2800, Seismic waves
+2801, Sodium
+2802, Sodium chloride
+2803, Species
+2804, Surface waves
+2805, Sympatric speciation
+2806, Telephones
+2807, Thoracic wall
+2808, Thorax
+2809, Toxins
+2810, Transpulmonary pressure
+2811, Viruses
+2812, Work
+2813, Wastes.
+2814,"Here are the entities extracted from the text and concatenated with commas:
+
+Lungs"
+2815, skeleton
+2816, brain
+2817, heart
+2818, Sun
+2819, Earth
+2820, energy
+2821, hydrogen
+2822, helium
+2823, radiation
+2824, solar energy
+2825, strawberry plants
+2826, stolons
+2827, ground
+2828, glaciers
+2829, erosion
+2830, atmosphere
+2831, barometer
+2832, mercury
+2833, air
+2834, molecules
+2835, plasma membrane
+2836, lipids
+2837, proteins
+2838, cholesterol
+2839, cell
+2840, cell cycle
+2841, prokaryotes
+2842, eukaryotes
+2843, electrons
+2844, metalloids
+2845, boron
+2846, arsenic
+2847, antimony
+2848, tellurium
+2849, silicon
+2850, germanium
+2851, annelids
+2852, earthworm
+2853, segments
+2854, nerve
+2855, muscle
+2856, epididymis
+2857, spermatids
+2858, testes
+2859, grain boundaries
+2860, polycrystalline material
+2861, unit cells
+2862, motors
+2863, magnetic field
+2864, torque
+2865, current
+2866, shaft
+2867, electrical energy
+2868, mechanical work
+2869, chromoplasts
+2870, pigments
+2871, boiling point
+2872, vapor pressure
+2873, atmospheric pressure
+2874, liquids
+2875, containers
+2876, atm
+2877, kPa
+2878, vapor
+2879, temperature
+2880, Figure 10.24
+2881, electrons
+2882, light
+2883, energy level
+2884, nucleus
+2885, atom
+2886, retina
+2887, myopia
+2888, concave lenses
+2889, Bohr's model
+2890, energy levels
+2891, ladder
+2892, liquids
+2893, particles
+2894, runoff
+2895, erosion
+2896, land
+2897, plants
+2898, soil
+2899, field
+2900, cations
+2901, anions
+2902, colon
+2903, cecum
+2904, liver
+2905, abdomen
+2906, spleen
+2907, rectum
+2908, retroperitoneum
+2909, pelvis
+2910, midline
+2911," Figure 23.21.
+
+However"
+2912," here is the list of entities without duplicates and in a more organized format:
+
+1. Lungs
+2. Skeleton
+3. Brain
+4. Heart
+5. Sun
+6. Earth
+7. Energy
+8. Hydrogen
+9. Helium
+10. Radiation
+11. Solar energy
+12. Strawberry plants
+13. Stolons
+14. Glaciers
+15. Erosion
+16. Atmosphere
+17. Barometer
+18. Mercury
+19. Molecules
+20. Plasma membrane
+21. Lipids
+22. Proteins
+23. Cholesterol
+24. Cell
+25. Cell cycle
+26. Prokaryotes
+27. Eukaryotes
+28. Electrons
+29. Metalloids
+30. Boron
+31. Arsenic
+32. Antimony
+33. Tellurium
+34. Silicon
+35. Germanium
+36. Annelids
+37. Earthworm
+38. Segments
+39. Nerve
+40. Muscle
+41. Epididymis
+42. Spermatids
+43. Testes
+44. Grain boundaries
+45. Polycrystalline material
+46. Unit cells
+47. Motors
+48. Magnetic field
+49. Torque
+50. Current
+51. Shaft
+52. Electrical energy
+53. Mechanical work
+54. Chromoplasts
+55. Pigments
+56. Boiling point
+57. Vapor pressure
+58. Atmospheric pressure
+59. Liquids
+60. Containers
+61. Atm
+62. Kpa
+63. Vapor
+64. Temperature
+65. Nucleus
+66. Atom
+67. Retina
+68. Myopia
+69. Concave lenses
+70. Bohr's model
+71. Energy levels
+72. Ladder
+73. Runoff
+74. Land
+75. Plants
+76. Soil
+77. Field
+78. Cations
+79. Anions
+80. Colon
+81. Cecum
+82. Liver
+83. Abdomen
+84. Spleen
+85. Rectum
+86. Retroperitoneum
+87. Pelvis
+88. Midline"
+2913,Here are the entities extracted from the text
+2914," concatenated with commas:
+
+Agaricus bisporus"
+2915, DNA
+2916, chromosomes
+2917, genes
+2918, alleles
+2919, fungi
+2920, mushrooms
+2921, species
+2922, genome
+2923, evolution
+2924, development
+2925, temperature
+2926, energy
+2927, motion
+2928, kinetic energy
+2929, Fahrenheit
+2930, Celsius
+2931, degrees
+2932, water
+2933, ice
+2934, steam
+2935, nuclear reactions
+2936, krypton-92
+2937, fission
+2938, neutrons
+2939, nucleus
+2940, nuclear chain reaction
+2941, nuclear power
+2942, industry
+2943, nuclear fusion
+2944, hydrocarbons
+2945, microtubules
+2946, cell wall
+2947, cellulose
+2948, enzymes
+2949, plant cells
+2950, cell cycle
+2951, eukaryotic cell
+2952, nasal cavity
+2953, nasal septum
+2954, ethmoid bone
+2955, vomer bone
+2956, nasal concha
+2957, bacteria
+2958, chemotrophs
+2959, ammonia
+2960, nitrogen
+2961, DNA
+2962, lampreys
+2963, notochord
+2964, arcualia
+2965, vertebral column
+2966, kinetic-molecular theory
+2967, gas
+2968, pressure
+2969, volume
+2970, moles
+2971, container
+2972, walls
+2973, science
+2974, chemistry
+2975, physics
+2976, biology
+2977, organisms
+2978, environment
+2979, compounds
+2980," theory.
+
+However"
+2981, if you are looking for entities that are more specific and categorized (e.g. biological entities
+2982, chemical entities
+2983, physical entities)
+2984," here is a more refined list:
+
+**Biological entities:**
+DNA"
+2985, chromosomes
+2986, genes
+2987, alleles
+2988, fungi
+2989, mushrooms
+2990, species
+2991, genome
+2992, evolution
+2993, development
+2994, eukaryotic cell
+2995, plant cells
+2996, bacteria
+2997, chemotrophs
+2998, lampreys
+2999, notochord
+3000, arcualia
+3001," vertebral column
+
+**Chemical entities:**
+DNA"
+3002, ammonia
+3003, nitrogen
+3004, hydrocarbons
+3005, cellulose
+3006, enzymes
+3007," krypton-92
+
+**Physical entities:**
+temperature"
+3008, energy
+3009, motion
+3010, kinetic energy
+3011, Fahrenheit
+3012, Celsius
+3013, degrees
+3014, water
+3015, ice
+3016, steam
+3017, gas
+3018, pressure
+3019, volume
+3020, moles
+3021, container
+3022," walls
+
+**Scientific concepts:**
+kinetic-molecular theory"
+3023, nuclear reactions
+3024, nuclear chain reaction
+3025, nuclear power
+3026, nuclear fusion
+3027, cell cycle
+3028, chemosynthetic bacteria
+3029, chemotrophs
+3030," chemosynthesis
+
+**Locations:**
+nasal cavity"
+3031, nasal septum
+3032, ethmoid bone
+3033, vomer bone
+3034, skull
+3035, environment
+3036,"Here are the extracted entities concatenated with commas:
+
+temperature"
+3037, amount of gas
+3038, pressure
+3039, hypothesis
+3040, evidence
+3041, observation
+3042, experimentation
+3043, scientific investigation
+3044, vascular tissue
+3045, nonvascular plants
+3046, bryophytes
+3047, liverworts
+3048, mosses
+3049, hornworts
+3050, land plant evolution
+3051, vascular plants
+3052, cells
+3053, water
+3054, solutes
+3055, Ordovician
+3056, million years
+3057, lycophytes
+3058, club mosses
+3059, pterophytes
+3060, ferns
+3061, horsetails
+3062, whisk ferns
+3063, seedless vascular plants
+3064, seeds
+3065, embryos
+3066, food reserves
+3067, hard casing
+3068, seed plants
+3069, gymnosperms
+3070, conifers
+3071, anaphylaxis
+3072, food allergy
+3073, emergency treatment
+3074, coma
+3075, death
+3076, anaphylactic reaction
+3077," life-threatening symptoms.
+
+Note: Some of these entities can be grouped into categories (e.g."
+3078," ""bryophytes"
+3079, liverworts
+3080, mosses
+3081," hornworts"" are all types of nonvascular plants)"
+3082, but I have listed them individually as they appear in the text.

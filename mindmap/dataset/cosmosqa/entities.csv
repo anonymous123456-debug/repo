@@ -1,0 +1,888 @@
+idx,Entity
+1,1. 1 pm
+2,2 pm
+3,Andy
+4,Apple
+5,Apple Inc
+6,Arwen
+7,Asia
+8,Baxter
+9,Bob
+10,China
+11,Christmas
+12,Commercial
+13,Cynthia
+14,Dan
+15,Dell
+16,First Lady
+17,Flash
+18,Frodo
+19,Hakkai
+20,Harry
+21,Harry Potter
+22,Harry Potter (character
+23,Here are the entities extracted from the text
+24,Here are the extracted entities from the text
+25,Here are the extracted entities in the output format you requested
+26,Hillary
+27,Hillary Clinton
+28,How
+29,I
+30,I can try to provide a more accurate list of entities
+31,IMAX
+32,J.K. Rowling
+33,J.R.R. Tolkien
+34,J.R.R. Tolkien's
+35,JYJ
+36,Jack
+37,Jaejoong
+38,Japan
+39,Joanna
+40,Joe Lieberman
+41,Joey
+42,John
+43,John McCain
+44,Junsu
+45,Justin
+46,K-pop
+47,Kayla
+48,Kirby saleswoman
+49,Korean classes
+50,Labor Day
+51,Lauren
+52,Lord of the Rings
+53,Mark Salter
+54,Masanjia
+55,Matt
+56,Miami Beach
+57,Middle-earth
+58,Miranda
+59,Mrs. Jung
+60,OP
+61,Oliver
+62,Olympics
+63,One Ring
+64,Patrick
+65,President
+66,Saiyuki
+67,Sanzo
+68,Saturday
+69,Sauron
+70,Secretary of State
+71,Senate
+72,Senator
+73,Severus Snape
+74,Simon
+75,Snape
+76,South Beach
+77,State
+78,Stormwatch
+79,Sunday
+80,TV
+81,Target
+82,The Lord of the Rings
+83,The Lord of the Rings series
+84,United States
+85,Vanessa
+86,Weight Watchers
+87,abstract concept
+88,academic
+89,account
+90,achievement
+91,achievements
+92,action
+93,actions
+94,activities
+95,activity
+96,actors
+97,adaptation
+98,adjustments
+99,adolescence
+100,adult male
+101,adverb
+102,aesthetic
+103,after
+104,after Christmas
+105,air conditioner
+106,alcoholic beverages
+107,ambiance
+108,amphibian
+109,analysis
+110,anecdote
+111,anemia
+112,angry
+113,animal
+114,anxiety
+115,appear
+116,apply
+117,areas
+118,arm
+119,around
+120,assertion
+121,assistance
+122,at
+123,athletes
+124,atmosphere
+125,attack
+126,attitude
+127,attraction
+128,attribute
+129,audience
+130,aunt
+131,authentication
+132,author
+133,authority
+134,awkward
+135,bacteria
+136,balls
+137,bar
+138,battery
+139,be
+140,beauty
+141,been
+142,before
+143,behavior
+144,behavioral trait
+145,being
+146,beliefs
+147,benefits
+148,beverages
+149,biology
+150,bird
+151,blocking
+152,blog
+153,body
+154,body part
+155,book series
+156,bored
+157,boredom
+158,boss
+159,bottle
+160,bowl
+161,boy
+162,break
+163,break up
+164,break-up
+165,brewmaster
+166,building
+167,business
+168,but rather a concept or an idea
+169,but they are listed here as they appear in the text
+170,buy a new car
+171,bye-bye
+172,café
+173,call
+174,campaign
+175,career
+176,cash
+177,catch up on sleep
+178,categorization
+179,cause
+180,celebration
+181,chance
+182,character
+183,characteristic
+184,characteristics
+185,chemicals
+186,child
+187,children
+188,choice
+189,circumstances
+190,civilians
+191,class
+192,classification
+193,classmate
+194,closures
+195,clothing
+196,clubs
+197,coach
+198,code
+199,colleagues
+200,column of air
+201,comfort zone
+202,commentary
+203,comments
+204,communication
+205,communities
+206,commute
+207,companionship
+208,compensation
+209,competition
+210,completed action
+211,compliance
+212,compliment
+213,concept
+214,condition
+215,conflict
+216,confused
+217,connecting
+218,consequence
+219,consequences
+220,construction
+221,consumer behavior
+222,contacts
+223,contaminants
+224,context
+225,conversation
+226,cosplay
+227,counter
+228,couple
+229,courage
+230,creative pursuits
+231,credit card issuer
+232,credit cards
+233,cuisine
+234,cultural icon
+235,culture
+236,cultures
+237,current
+238,customer
+239,customers
+240,cute t-shirt
+241,damage
+242,dark lord
+243,day
+244,day or two
+245,days
+246,death
+247,decision
+248,decision-making
+249,demeanor
+250,departure
+251,description
+252,desire
+253,destruction
+254,detailed
+255,determination
+256,development
+257,device
+258,diabetes
+259,did
+260,die
+261,diet
+262,digital payment technologies
+263,dinner date
+264,direction
+265,discipline
+266,discomfort
+267,dish
+268,disposition
+269,distance
+270,do
+271,doing
+272,domestic setting
+273,domesticated animal
+274,done
+275,door
+276,doubt
+277,doze off
+278,drama
+279,draw
+280,drill
+281,drink
+282,driver
+283,driving
+284,durability
+285,dwelling
+286,educate
+287,education
+288,effects
+289,effort
+290,election
+291,emotion
+292,emotions
+293,empathy
+294,employment
+295,end of the night
+296,endeavor
+297,energy
+298,engagement
+299,enjoyment
+300,entertainment
+301,entity
+302,entry
+303,environment
+304,equated
+305,equipment
+306,establishment
+307,even if they appear multiple times
+308,event
+309,events
+310,evidence
+311,evolutionary relationships
+312,exasperated
+313,excellence
+314,excited
+315,excitement
+316,exercise
+317,expenses
+318,experience
+319,experiences
+320,expertise
+321,explanation
+322,exploiting
+323,expression
+324,extreme
+325,eyeballs
+326,eyes
+327,fact
+328,family
+329,fantasy
+330,farewell
+331,fashion
+332,feedback
+333,feel
+334,feel comfortable
+335,feeling
+336,feelings
+337,female
+338,female person
+339,fermentation
+340,fest
+341,festival
+342,fiction
+343,film
+344,financial difficulties
+345,financial institutions
+346,financial regulations
+347,fish
+348,fishnets
+349,fond
+350,food
+351,forceful
+352,free time
+353,freedom
+354,friend
+355,friends
+356,friendships
+357,fruit
+358,furniture
+359,future
+360,gamble
+361,game
+362,gardens
+363,generation
+364,genre
+365,gets on
+366,gift
+367,girl
+368,girls
+369,glare
+370,glass
+371,go bye-bye
+372,goals
+373,going on
+374,going to class
+375,gold
+376,good day
+377,good time
+378,goodbye
+379,goods
+380,got
+381,governance
+382,government
+383,grabbed
+384,graffiti
+385,grandmother
+386,group
+387,guidance
+388,guidelines
+389,habitat
+390,hair
+391,hair salon
+392,half-day
+393,hand
+394,happen
+395,happened
+396,happening
+397,happy
+398,hard
+399,harm
+400,have
+401,he
+402,health
+403,health effects
+404,health issues
+405,height
+406,help
+407,her army
+408,here are the entities without duplicates
+409,higher power
+410,him
+411,historical figure
+412,history
+413,hobbit
+414,hobby
+415,holiday
+416,home
+417,homecoming
+418,homeland
+419,honor
+420,hops
+421,hour
+422,how
+423,human
+424,human being
+425,hypothyroidism
+426,iPod
+427,ideology
+428,if you want to group the entities into categories (e.g
+429,illumination
+430,impress
+431,improvement
+432,incident
+433,income
+434,individual
+435,information
+436,ingredient
+437,ingredients
+438,inheritance
+439,insomnia
+440,instability
+441,institutions
+442,instrument
+443,intensity
+444,intention
+445,interaction
+446,interactions
+447,interest
+448,interested
+449,interests
+450,internet service
+451,interruption
+452,introspection
+453,intuition
+454,invitation
+455,irrigation
+456,job
+457,journal
+458,journey
+459,justification
+460,keto
+461,keys
+462,kitchen
+463,knowledge
+464,labor camp
+465,large audience
+466,last night
+467,lawns
+468,laws
+469,leather pants
+470,lecture
+471,lecturer
+472,left
+473,legs
+474,leisure
+475,leisure activities
+476,lenses
+477,letter
+478,life
+479,life experiences
+480,lifestyle habits
+481,light
+482,lights
+483,like
+484,likelihood
+485,likely
+486,liking
+487,linking verb
+488,liquid
+489,list
+490,literature
+491,living organisms
+492,load
+493,location
+494,logistics
+495,loopholes
+496,lunch time
+497,machine
+498,main character
+499,male
+500,malfunction
+501,mammal
+502,man
+503,manipulation
+504,map
+505,marbles
+506,market
+507,may
+508,may be
+509,me
+510,meal
+511,meaning
+512,mechanism
+513,media
+514,medical condition
+515,meeting
+516,member
+517,mentorship
+518,menu item
+519,message
+520,metals
+521,microorganisms
+522,military
+523,misbehavior
+524,missing
+525,mobility problems
+526,modal verb
+527,moisture
+528,moisturizer
+529,mold
+530,moment
+531,money
+532,mornings
+533,mother
+534,motivations
+535,move
+536,music
+537,myself
+538,narrative
+539,narrator
+540,narrator's treatment
+541,natural sleep-wake cycle
+542,nature
+543,needs
+544,new insights
+545,news
+546,next
+547,nightmares
+548,not
+549,notice
+550,notices
+551,now
+552,object
+553,objects
+554,obligation
+555,observation
+556,occupation
+557,occurred
+558,occurrence
+559,of
+560,offer
+561,office
+562,omniscient observer
+563,one minute
+564,online presence
+565,onomatopoeic
+566,operations
+567,opinion
+568,opinions
+569,opportunities
+570,options
+571,or things
+572,oral
+573,organization
+574,organizations
+575,others
+576,outcome
+577,outfit
+578,outlook
+579,over and over
+580,parents
+581,passage
+582,past
+583,pause
+584,payment card
+585,peace
+586,pee test
+587,people
+588,perform
+589,performance
+590,period
+591,period of time
+592,periods
+593,permission
+594,perplexed
+595,person
+596,personal struggles
+597,personality
+598,perspective
+599,persuade
+600,pet
+601,phone call
+602,photography
+603,physical
+604,physical appearance
+605,physical characteristic
+606,place
+607,places
+608,plastic
+609,plausible fact
+610,play
+611,played
+612,please let me know which one you would like to focus on
+613,pleased
+614,plot
+615,political
+616,politician
+617,position
+618,possession
+619,possibilities
+620,possibility
+621,post
+622,power
+623,powers
+624,practices
+625,prediction
+626,preference
+627,preferences
+628,presentation
+629,presently located
+630,presidency
+631,priorities
+632,problem
+633,process
+634,profession
+635,program
+636,programming
+637,protagonist
+638,psychological
+639,public figure
+640,public perception
+641,purpose
+642,qualifications
+643,quality
+644,question
+645,quiet
+646,quietly
+647,race
+648,ran away
+649,rarity
+650,reason
+651,reasons
+652,rebuild
+653,recipient
+654,reconstruction
+655,region
+656,relationship
+657,relationships
+658,relaxation
+659,religion
+660,remarks
+661,renovations
+662,reptile
+663,request
+664,rescheduled
+665,residence
+666,resources
+667,responsibilities
+668,restaurant
+669,restoration
+670,result
+671,retail
+672,retail establishment
+673,revenue
+674,reviews
+675,reward
+676,risk
+677,risks
+678,rituals
+679,road
+680,robot
+681,robot or pet
+682,role
+683,rollercoaster
+684,room
+685,rooms
+686,rotation
+687,routine
+688,rules
+689,sales representative
+690,same thing
+691,satisfaction
+692,scenario
+693,school
+694,security
+695,seeing
+696,self-awareness
+697,self-perception
+698,sensations
+699,sentiment
+700,sequence
+701,sequence of events
+702,series
+703,service
+704,services
+705,setting
+706,she
+707,shirt
+708,shopping
+709,should
+710,shoulder
+711,show
+712,silver
+713,situation
+714,skateboard
+715,skeptical
+716,skills
+717,sleep
+718,sleep deficit
+719,sleep deprivation
+720,sleep disorders
+721,sleep quality
+722,sleep schedule
+723,slow
+724,sluggish
+725,snatch
+726,social
+727,social expectations
+728,social interaction
+729,social media
+730,socializing
+731,socioeconomic status
+732,some of the entities extracted are types (e.g
+733,someone
+734,something
+735,space
+736,speaker
+737,speaker's kids
+738,species
+739,sport
+740,sporting event
+741,sports
+742,sprinklers
+743,squeezed
+744,stability
+745,stage
+746,stain
+747,stakes
+748,standard
+749,starting to realize
+750,state
+751,statement
+752,statements
+753,status
+754,stay
+755,stayed
+756,still
+757,stimulus
+758,stone
+759,store
+760,store policy
+761,story
+762,stranger
+763,strategist
+764,stress
+765,structure
+766,stuck
+767,style
+768,subject
+769,substance
+770,suffix
+771,summons
+772,superiority
+773,supernatural
+774,support
+775,surprise
+776,suspicious
+777,symbolism
+778,system
+779,taken
+780,task
+781,taste
+782,teaching
+783,team
+784,technical expertise
+785,television
+786,telling
+787,temporal sequence
+788,terrorists
+789,text
+790,the
+791,the output format you requested seems to be looking for a list of entities without duplicates
+792,theatrical
+793,their mom
+794,them
+795,theme
+796,themes
+797,they
+798,this
+799,thoughts
+800,thrill
+801,thunderstorm
+802,time
+803,time of day
+804,timing
+805,tired
+806,to provide a more accurate output
+807,today
+808,tone
+809,tornado
+810,tornadoes
+811,trail
+812,train
+813,training
+814,trait
+815,tram stop
+816,transformation
+817,transition
+818,transportation
+819,trash TV
+820,travel
+821,traveler
+822,traveling
+823,trigger
+824,trip
+825,truck
+826,trust
+827,truth
+828,trying to escape
+829,type
+830,type of friend
+831,uncertainty
+832,unreliable narrator
+833,vacuum cleaner manufacturer
+834,value
+835,values
+836,variety
+837,veganism
+838,vehicle
+839,verb
+840,viewing experience
+841,violence
+842,vision
+843,voice
+844,voiceover
+845,voltage
+846,wager
+847,wander
+848,want
+849,water
+850,wealth
+851,weekend
+852,well-attended
+853,well-being
+854,well-received
+855,what
+856,which
+857,which may not be what you are looking for. If you are looking for entities that are people
+858,who
+859,whole
+860,why
+861,wig
+862,wild fern scented candle
+863,wildlife
+864,will
+865,win
+866,wind shear
+867,wind speed
+868,windfall
+869,windows
+870,wisdom
+871,woman
+872,work
+873,workforce
+874,working
+875,working hours
+876,worship
+877,worth
+878,writer
+879,writing
+880,written
+881,yeast
+882,yell
+883,you
+884,young man
+885,young woman
+886,young women
+887,your

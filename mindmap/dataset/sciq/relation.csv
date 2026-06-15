@@ -1,0 +1,52 @@
+Entity1,Relation,Entity2
+Boron,Reacts with,Fluorine
+Boron,Reacts with,Oxygen
+Boron,Reacts with,Magnesium
+Boron,Reacts with,Hydrochloric acid
+Boron,Is a component of,Borax
+Boron,Is a component of,Na2B4O7⋅10H2O
+Boron,Is a component of,BF3
+Boron,Is a component of,B2O3
+Boron,Reacts with,Tellurium
+Boron,Does not react with,Noble gases
+Boron,Is a component of,Chemical fertilizers
+Lumbrical,Act on,Fingers
+Palmar interossei,Act on,Fingers
+Dorsal interossei,Act on,Fingers
+Covalent bond,Is stronger than,Van der Waals interactions
+Covalent bond,Takes more energy to break,Van der Waals interactions
+Atoms,Form a covalent bond,Van der Waals surface
+2methylpropane,Has a van der Waals surface,Covalent bond
+Sperm,Fertilizes,Egg
+Egg,Fertilizes,Sperm
+Immune system,Attacks,Allergen
+Earth,Contains,Thorium
+Thorium,Decays to,Protactinium
+Biological systems,Contain,Molecules
+Biological systems,Contain,Atoms
+Atoms,Form a covalent bond,Van der Waals surface
+Hydrogen,Is a component of,Molecules
+Oxygen,Is a component of,Molecules
+Sulfur,Is a component of,Molecules
+Nitrogen,Is a component of,Molecules
+Carbon,Is a component of,Molecules
+Phosphorus,Is a component of,Molecules
+Sperm,Fertilizes,Egg
+Egg,Fertilizes,Sperm
+Immune system,Attacks,Allergen
+Earth,Contains,Protactinium
+Biological systems,Contain,Molecules
+Biological systems,Contain,Atoms
+Atoms,Form a covalent bond,Van der Waals surface
+Hydrogen,Is a component of,Molecules
+Oxygen,Is a component of,Molecules
+Sulfur,Is a component of,Molecules
+Nitrogen,Is a component of,Molecules
+Carbon,Is a component of,Molecules
+Phosphorus,Is a component of,Molecules
+Sperm,Fertilizes,Egg
+Egg,Fertilizes,Sperm
+Immune system,Attacks,Allergen
+Earth,Contains,Silicon
+Silicon,Reacts with,Oxygen
+Silicon,Reacts with,Boron

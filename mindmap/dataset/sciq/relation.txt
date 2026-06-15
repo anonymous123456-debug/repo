@@ -1,0 +1,13 @@
+1,Act on
+2,Attacks
+3,Contain
+4,Contains
+5,Decays to
+6,Does not react with
+7,Fertilizes
+8,Form a covalent bond
+9,Has a van der Waals surface
+10,Is a component of
+11,Is stronger than
+12,Reacts with
+13,Takes more energy to break

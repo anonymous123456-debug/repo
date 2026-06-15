@@ -1,0 +1,110 @@
+1,Action
+2,Change
+3,Character
+4,Completion
+5,Container
+6,Context
+7,Decision
+8,Development
+9,Disruption
+10,Goal
+11,Group
+12,Habitat
+13,Home
+14,Intention
+15,Move
+16,Object
+17,Person
+18,Placement
+19,Profession
+20,Reason
+21,Reference
+22,Repetition
+23,Role
+24,Seeking
+25,Space
+26,Species
+27,Support
+28,Target
+29,Transition
+30,Violence
+31,am
+32,are
+33,are a concern for
+34,are influenced by
+35,belongs_to
+36,carries
+37,causes
+38,commute
+39,created
+40,creates
+41,driving
+42,engages in
+43,excited
+44,experiences
+45,expresses
+46,feels
+47,felt
+48,friend
+49,goes_on
+50,governs
+51,guides
+52,happened
+53,has
+54,has_aunt
+55,has_diet
+56,has_good_day
+57,have
+58,implies
+59,influences
+60,instructs
+61,involves
+62,is
+63,is a classification of
+64,is a factor in
+65,is a feature of
+66,is a goal of
+67,is a key figure in
+68,is a part of
+69,is a query about
+70,is affected by
+71,is fond of
+72,is getting on
+73,is guided by
+74,is in a relationship with
+75,is perplexed by
+76,is recounting
+77,is related to
+78,is responsible for
+79,is taught by
+80,is telling
+81,is the person telling
+82,is watching
+83,is_friend
+84,is_interest_of
+85,is_now
+86,is_suspicious
+87,is_traveler
+88,is_type_of
+89,is_writing
+90,leads to
+91,makes
+92,may_feel
+93,myself
+94,narrator
+95,of
+96,perform
+97,provides
+98,reacts to
+99,receives guidance from
+100,reschedules
+101,seeks
+102,shares
+103,stay
+104,tells
+105,tired
+106,trains
+107,tram stop
+108,undergoes
+109,values
+110,was
